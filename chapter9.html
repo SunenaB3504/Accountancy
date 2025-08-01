@@ -418,7 +418,7 @@
     // --- Fetch chapter1.json and render all sections with latest data ---
     let chapterData = null;
     document.addEventListener('DOMContentLoaded', function() {
-      fetch('numerical.json')
+      fetch('chapter9.json')
         .then(function(res) { return res.json(); })
         .then(function(data) {
           chapterData = data.chapters && data.chapters[0];

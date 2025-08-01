@@ -1,0 +1,2273 @@
+{
+  "chapters": [
+    {
+      "caseStudy": [
+        {
+          "questions": [
+            {
+              "answer": "KnowledgeCompass's ability to generate cash from its primary operations (like software development, content creation, and platform maintenance) is crucial. A strong operating cash flow indicates the core business is healthy and can sustain itself without relying on external financing or asset sales. For KnowledgeCompass, this means funding ongoing R&D, employee salaries, and daily operational costs from its earned revenue.",
+              "marks": 10,
+              "question": "Explain the importance of 'Cash from Operating Activities' for KnowledgeCompass, an EdTech startup.",
+              "type": "explain",
+              "wordLimit": 100
+            },
+            {
+              "answer": "For KnowledgeCompass, investing activities would include purchasing new servers and infrastructure, acquiring smaller EdTech startups or educational content licenses, investing in advanced AI research facilities, or buying office buildings. These activities reflect the company's long-term growth strategy, enabling future revenue generation.",
+              "marks": 8,
+              "question": "Identify two examples of 'Investing Activities' that KnowledgeCompass might undertake as it expands, and explain their significance.",
+              "type": "identify",
+              "wordLimit": 80
+            },
+            {
+              "answer": "Financing activities for KnowledgeCompass would involve issuing new equity shares to raise capital for expansion, taking out long-term bank loans for large projects, or perhaps repaying earlier debts. These activities are vital for funding significant growth initiatives that operating cash flows alone might not cover, but they also represent commitments to investors or lenders.",
+              "marks": 8,
+              "question": "Describe typical 'Financing Activities' for KnowledgeCompass and their role in its growth.",
+              "type": "explain",
+              "wordLimit": 80
+            },
+            {
+              "answer": "The 'direct method' of preparing a cash flow statement shows major classes of gross cash receipts and payments directly, offering clear insights into where cash is coming from and going. The 'indirect method' starts with net profit and adjusts it for non-cash items and non-operating activities. For KnowledgeCompass, the direct method might provide more intuitive insights for operational managers, while the indirect method is often simpler to prepare as it leverages accrual-based net profit.",
+              "marks": 12,
+              "question": "Differentiate between the 'Direct Method' and 'Indirect Method' of preparing a Cash Flow Statement. Which method might be more insightful for KnowledgeCompass's operational management and why?",
+              "type": "differentiate",
+              "wordLimit": 120
+            },
+            {
+              "answer": "If KnowledgeCompass's cash flow from operations is low despite high net profit, it suggests issues like slow collection from customers (increased trade receivables), rapid inventory buildup (e.g., unsold courses or content licenses), or delayed payments to suppliers (decreased trade payables). This situation indicates a discrepancy between profitability and actual cash generation, which can impact the company's liquidity and ability to meet short-term obligations.",
+              "marks": 10,
+              "question": "KnowledgeCompass recorded significant net profit, but its 'Cash from Operating Activities' is surprisingly low. What could be the underlying reasons for this discrepancy?",
+              "type": "explain",
+              "wordLimit": 100
+            }
+          ],
+          "scenario": "KnowledgeCompass, a successful EdTech startup founded by Neil and Kanishq, has experienced rapid growth over the past few years, evolving from a garage operation into a publicly-traded corporation. They are now evaluating their financial health and strategic direction for future expansion. As part of this assessment, they are keenly reviewing their Cash Flow Statement to understand the movement of cash within the business.",
+          "title": "Cash Flow Analysis for KnowledgeCompass"
+        }
+      ],
+      "exercises": {
+        "mcq": [
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "The Cash Flow Statement provides information about historical changes in cash and cash equivalents, classified into operating, investing, and financing activities.",
+            "options": [
+              "Balance Sheet",
+              "Income Statement",
+              "Cash Flow Statement",
+              "Retained Earnings Statement"
+            ],
+            "question": "Which financial statement provides information about historical changes in cash and cash equivalents by classifying cash flows into operating, investing, and financing activities?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "According to AS-3, cash comprises cash in hand and demand deposits with banks.",
+            "options": [
+              "Cash in hand and demand deposits with banks",
+              "Short-term marketable securities",
+              "Investments in shares of other companies",
+              "Preference shares acquired before redemption date"
+            ],
+            "question": "As per AS-3, 'Cash' primarily comprises:"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Cash equivalents are short-term, highly liquid investments readily convertible to cash with insignificant risk of value change, typically with a maturity of three months or less from acquisition.",
+            "options": [
+              "Long-term bonds",
+              "Equity investments",
+              "Real estate investments",
+              "Short-term highly liquid investments with a maturity of three months or less"
+            ],
+            "question": "Which of the following best describes 'Cash Equivalents'?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Operating activities are the principal revenue-generating activities of the enterprise and are not investing or financing activities.",
+            "options": [
+              "Acquisition of fixed assets",
+              "Principal revenue-generating activities",
+              "Issuing equity shares",
+              "Repayment of bank loans"
+            ],
+            "question": "Operating activities are defined as:"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Cash receipts from sale of goods and rendering of services are primary operating activities.",
+            "options": [
+              "Cash receipts from sale of goods",
+              "Cash payments to acquire fixed assets",
+              "Cash proceeds from issuing shares",
+              "Interest received from investments"
+            ],
+            "question": "Which of the following is a cash inflow from operating activities?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Cash payments to suppliers for goods and services are typical operating outflows.",
+            "options": [
+              "Cash advances to third parties",
+              "Cash payments to suppliers for goods and services",
+              "Cash repayments of borrowed amounts",
+              "Dividends paid on equity capital"
+            ],
+            "question": "Which of the following is a cash outflow from operating activities?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Investing activities involve the acquisition and disposal of long-term assets and other investments not included in cash equivalents.",
+            "options": [
+              "Cash receipts from royalties",
+              "Cash payments to employees",
+              "Cash proceeds from issuing debentures",
+              "Cash payments to acquire fixed assets"
+            ],
+            "question": "Investing activities relate to:"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Cash receipt from disposal of fixed assets is an investing activity as it relates to long-term assets.",
+            "options": [
+              "Cash collected from trade receivables",
+              "Cash paid for income taxes",
+              "Cash receipt from disposal of fixed assets",
+              "Cash proceeds from issuing shares"
+            ],
+            "question": "Which of the following is a cash inflow from investing activities?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Interest received in cash from loans and advances is a cash inflow from investing activities for a non-financial enterprise.",
+            "options": [
+              "Interest received in cash from loans and advances",
+              "Interest paid on debentures",
+              "Dividends paid on equity capital",
+              "Cash receipts from rendering services"
+            ],
+            "question": "For a non-financial enterprise, interest received on loans and advances is classified under:"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Financing activities result in changes in the size and composition of owners' capital and borrowings.",
+            "options": [
+              "Purchase of inventory",
+              "Proceeds from issuing shares",
+              "Sale of machinery",
+              "Payment of income taxes"
+            ],
+            "question": "Financing activities relate to:"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Dividends paid on equity and preference capital are cash outflows from financing activities.",
+            "options": [
+              "Cash payments to suppliers",
+              "Cash payments for administrative expenses",
+              "Cash payments to acquire shares of other enterprises",
+              "Dividends paid on equity capital"
+            ],
+            "question": "Which of the following is a cash outflow from financing activities?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "For a financial enterprise, interest paid is considered an operating activity because lending and borrowing are its main business.",
+            "options": [
+              "Operating activity",
+              "Investing activity",
+              "Financing activity",
+              "Non-cash transaction"
+            ],
+            "question": "For a financial enterprise, interest paid is classified as a(n):"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "For a non-financial enterprise, receipt of interest is classified as an investing activity.",
+            "options": [
+              "Operating activity",
+              "Investing activity",
+              "Financing activity",
+              "Extraordinary item"
+            ],
+            "question": "For a non-financial enterprise, receipt of interest is classified as a(n):"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Tax on operating profit is classified as operating cash flows.",
+            "options": [
+              "Investing activity",
+              "Financing activity",
+              "Operating cash flow",
+              "Non-cash transaction"
+            ],
+            "question": "Cash flows arising from tax on operating profit should be classified as:"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Acquisition of machinery by issue of equity shares is a non-cash transaction and is excluded from the cash flow statement.",
+            "options": [
+              "Sale of goods for cash",
+              "Repayment of a bank loan in cash",
+              "Purchase of inventory on credit",
+              "Acquisition of machinery by issue of equity shares"
+            ],
+            "question": "Which of the following is considered a non-cash transaction for a cash flow statement?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Under the indirect method, net profit or loss is adjusted for non-cash items, deferrals/accruals, and items associated with investing/financing activities.",
+            "options": [
+              "Gross cash receipts and payments are disclosed",
+              "Net profit or loss is adjusted for non-cash and non-operating items",
+              "It only shows cash from operating activities",
+              "It focuses on changes in equity only"
+            ],
+            "question": "The indirect method of ascertaining cash flow from operating activities begins with:"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Depreciation is a non-cash expense and needs to be added back to net profit when using the indirect method to calculate operating cash flow.",
+            "options": [
+              "Added back to net profit",
+              "Deducted from net profit",
+              "Ignored",
+              "Treated as an investing outflow"
+            ],
+            "question": "When calculating cash flow from operating activities using the indirect method, depreciation is:"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "An increase in trade receivables means less cash collected, so it is deducted from operating profit.",
+            "options": [
+              "Added to operating profit",
+              "Ignored",
+              "Deducted from operating profit",
+              "Treated as a financing inflow"
+            ],
+            "question": "In the indirect method, an increase in trade receivables (current asset) during the period is:"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "An increase in trade payables means the company has received goods/services but not yet paid, increasing cash (or reducing cash outflow) temporarily.",
+            "options": [
+              "Added to operating profit",
+              "Deducted from operating profit",
+              "Ignored",
+              "Treated as a financing outflow"
+            ],
+            "question": "In the indirect method, an increase in trade payables (current liability) during the period is:"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Gain on sale of machinery is an investing income, so it is deducted from net profit to adjust for operating activities.",
+            "options": [
+              "Added to net profit",
+              "Deducted from net profit",
+              "Treated as an operating cash inflow",
+              "Ignored as it's a non-cash item"
+            ],
+            "question": "When computing cash flow from operating activities using the indirect method, a gain on sale of machinery is:"
+          }
+        ],
+        "numericalQuestions": [
+          {
+            "explanation": "This solution demonstrates the calculation of cash flow from operating activities using the indirect method. It starts with the net profit before tax and extraordinary items and then adjusts for non-cash expenses (depreciation) and changes in working capital (current assets and liabilities) to arrive at the actual cash generated from operations.",
+            "question": "Using the data given in Illustration 1 (which provided net profit and changes in current assets/liabilities), calculate cash flows from operating activities using the indirect method. Given: Net Profit = Rs. 32,000, Income Tax = Rs. 10,000. During the year: Depreciation = Rs. 20,000. Increase in Trade Receivables = Rs. 3,000; Increase in Inventories = Rs. 5,000; Increase in Prepaid Insurance = Rs. 500; Decrease in Trade Payables = Rs. 2,000; Increase in Outstanding Employees Benefits Expenses = Rs. 1,000. Income tax paid = Rs. 11,000.",
+            "steps": [
+              "1. Calculate Net Profit before Taxation and Extraordinary Items:Net Profit (given) = Rs. 32,000Add: Income Tax (given) = Rs. 10,000Net Profit before Tax and Extraordinary Items = Rs. 42,000",
+              "2. Adjust for Non-Cash and Non-Operating Items:Net Profit before Tax and Extraordinary Items = Rs. 42,000Add: Depreciation (non-cash expense) = Rs. 20,000Operating Profit before Working Capital Changes = Rs. 62,000",
+              "3. Adjust for Working Capital Changes:Operating Profit before Working Capital Changes = Rs. 62,000Less: Increase in Trade Receivables = (Rs. 3,000) (Current Asset Increase, cash outflow)Less: Increase in Inventories = (Rs. 5,000) (Current Asset Increase, cash outflow)Less: Increase in Prepaid Insurance = (Rs. 500) (Current Asset Increase, cash outflow)Less: Decrease in Trade Payables = (Rs. 2,000) (Current Liability Decrease, cash outflow)Add: Increase in Outstanding Employees Benefits Expenses = +Rs. 1,000 (Current Liability Increase, cash inflow)Cash Generated from Operations = Rs. 52,500",
+              "4. Deduct Income Tax Paid:Cash Generated from Operations = Rs. 52,500Less: Income Tax Paid = (Rs. 11,000)Net Cash from Operating Activities = Rs. 41,500"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "particulars": "Net Profit before Taxation and Extraordinary Items",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 42000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Adjustments for:",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 20000,
+                  "particulars": "Add: Depreciation",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Operating Profit before Working Capital Changes",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 62000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Less: Increase in Trade Receivables",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -3000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Less: Increase in Inventories",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -5000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Less: Increase in Prepaid Insurance",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -500,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Less: Decrease in Trade Payables",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -2000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Add: Increase in Outstanding Employees Benefits Expenses",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 1000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Cash Generated from Operations",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 52500,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Less: Income Tax Paid",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -11000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Net Cash from Operating Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 41500,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                }
+              ]
+            },
+            "tableType": "general"
+          },
+          {
+            "explanation": "This solution demonstrates how to calculate cash flows from operating activities using the indirect method, incorporating various adjustments from an income statement and additional balance sheet information. It highlights the process of adjusting net profit for non-cash and non-operating items, as well as changes in working capital.",
+            "question": "Calculate cash flows from operating activities from the following information.\nStatement of Profit and Loss for the year ended March 31, 2020\nParticulars   Note No.   Amount (Rs.)\ni)   Revenue from Operations   60,000\nii)   Other Income   1   5,000\niii) Total Revenue (i+ii)   65,000\niv)   Expenses\nCost of materials consumed   15,000\nEmployees benefits expenses   10,000\nDepreciation and Amortisation expenses   2   7,000\nOther expenses   3   13,000\n45,000\nv.)   Profit before tax (iii-iv)   20,000\nvi)   Provision for taxation   8,000\nvii)   Profit after tax (v-vi)   12,000\nNotes to Accounts\nNote 1: Other Income\nParticulars   Amount (Rs.)\nProfit on Sale of Machinery   2,000\nIncome Tax Refund   3,000\n5,000\nNote 2: Depreciation and Amortization expenses\nParticulars   Amount (Rs.)\nDepreciation   5,000\nGoodwill Amortised   2,000\n7,000\nNote 3: Other expenses\nParticulars   Amount (Rs.)\nRent   10,000\nLoss on sale of equipment   3,000\n13,000\nAdditional Information\nMarch 31, 2019   March 31, 2020\nProvision for taxation   10,000   13,000\nRent payable   2,000   2,500\nTrade payable   21,000   25,000\nTrade receivables   15,000   21,000\nInventories   25,000   22,000",
+            "steps": [
+              "1. Calculate Net Profit before Taxation and Extraordinary items:Net Profit after Tax = Rs. 12,000Add: Provision for Taxation made (current year's charge) = Rs. 8,000Subtotal = Rs. 20,000Less: Income tax refund = (Rs. 3,000)Net Profit before Tax and Extraordinary items = Rs. 17,000",
+              "2. Adjust for Non-Cash and Non-Operating items:Net Profit before Tax and Extraordinary items = Rs. 17,000Add: Depreciation (non-cash) = Rs. 5,000Add: Goodwill amortised (non-cash) = Rs. 2,000Add: Loss on Sale of Equipment (non-operating expense) = Rs. 3,000Less: Profit on Sale of Machinery (non-operating income) = (Rs. 2,000)Operating Profit before Working Capital Changes = Rs. 25,000",
+              "3. Adjust for Working Capital Changes:Operating Profit before Working Capital Changes = Rs. 25,000Add: Decrease in Inventories (Current Asset Decrease, cash inflow) = Rs. 3,000Add: Increase in Rent Payable (Current Liability Increase, cash inflow) = Rs. 500 (Note: The provided solution has 'Decrease in Rent Payable' which is incorrect based on the data: 2019: 2000, 2020: 2500, so it's an Increase of 500. I will follow the provided solution's calculation of 500 added, but narrate it as an Increase for correctness. The solution calculates 26500 which means it treats 500 as an add)Add: Increase in Trade Payable (Current Liability Increase, cash inflow) = Rs. 4,000Less: Increase in Trade Receivable (Current Asset Increase, cash outflow) = (Rs. 6,000)Cash Generated from Operations = Rs. 26,500",
+              "4. Deduct Income Tax Paid and Adjust for Refund:Cash Generated from Operations = Rs. 26,500Income Tax Paid during the year (from working note) = (Rs. 5,000) (Calculated separately)Add: Income Tax Refund = Rs. 3,000Net Cash Inflow from Operating Activities = Rs. 24,500",
+              "Working Note for Income Tax Paid (Provision for Taxation Account):Balance b/d (31st Mar 2019) = Rs. 10,000Provision made during the year (from P&L) = Rs. 8,000Total Available = Rs. 18,000Less: Balance c/d (31st Mar 2020) = (Rs. 13,000)Income Tax Paid during the year = Rs. 5,000"
+            ],
+            "tableData": {
+              "accounts": [
+                {
+                  "accountName": "Provision for Taxation Account",
+                  "credits": [
+                    {
+                      "amount": 10000,
+                      "label": "Balance b/d"
+                    },
+                    {
+                      "amount": 8000,
+                      "label": "Statement of Profit and Loss"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 5000,
+                      "label": "Bank (Income Tax paid during the year)"
+                    },
+                    {
+                      "amount": 13000,
+                      "label": "Balance c/d"
+                    }
+                  ]
+                }
+              ],
+              "rows": [
+                {
+                  "particulars": "Net Profit before Taxation and Extraordinary items",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 17000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Adjustment for Non Cash and Non Operating items:",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 5000,
+                  "particulars": "Depreciation",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 2000,
+                  "particulars": "Goodwill amortised",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 3000,
+                  "particulars": "Loss on Sale of Equipment",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Less-Profit on Sale of Machinery",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -2000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Operating Profit before Working Capital Changes",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 25000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Adjustment for Working Capital Charges",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 3000,
+                  "particulars": "Decrease in Inventories",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 500,
+                  "particulars": "Increase in Rent Payable",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 4000,
+                  "particulars": "Increase in Trade Payable",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Less-Increase in Trade Receivable",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -6000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Cash generation from Operation",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 26500,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Income Tax Paid",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -5000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Income Tax Refund",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 3000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Net Cash Inflow from Operating Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 24500,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                }
+              ]
+            },
+            "tableType": "general"
+          },
+          {
+            "explanation": "This solution calculates the cash flow from investing activities by tracking the movement in the Machinery Account and Accumulated Depreciation Account. It illustrates how the sale and purchase of fixed assets, adjusted for depreciation and any profit/loss on sale, impact the cash flow from investing activities.",
+            "question": "Welprint Ltd. has given you the following information:\nRs.\nMachinery as on April 01, 2016   50,000\nMachinery as on March 31, 2017   60,000\nAccumulated Depreciation on April 01, 2016   25,000\nAccumulated Depreciation on March 31, 2017   15,000\nDuring the year, a Machine costing Rs. 25,000 with Accumulated Depreciation of Rs. 15,000 was sold for Rs. 13,000. Calculate cash flow from Investing Activities on the basis of the above information.",
+            "steps": [
+              "1. Prepare Accumulated Depreciation Account to find depreciation charged during the year:Balance b/d (01.04.2016) = Rs. 25,000Less: Accumulated Depreciation on machine sold = Rs. 15,000 (transfer to Machinery A/c)Balance c/d (31.03.2017) = Rs. 15,000Depreciation provided during the year (Balancing figure) = (15,000 + 15,000) - 25,000 = Rs. 5,000",
+              "2. Prepare Machinery Account to find new machinery purchased:Balance b/d (01.04.2016) = Rs. 50,000Add: Profit on sale of machine (calculated below) = Rs. 3,000Less: Sale proceeds of machine = Rs. 13,000Less: Accumulated depreciation on machine sold = Rs. 15,000Balance c/d (31.03.2017) = Rs. 60,000New machinery purchased (Balancing figure) = (13,000 + 15,000 + 60,000) - (50,000 + 3,000) = Rs. 35,000",
+              "3. Calculate Profit/Loss on sale of machine:Original Cost of Machine sold = Rs. 25,000Less: Accumulated Depreciation on it = Rs. 15,000Book Value of Machine = Rs. 10,000Sale Price = Rs. 13,000Profit on Sale = Sale Price - Book Value = Rs. 13,000 - Rs. 10,000 = Rs. 3,000",
+              "4. Calculate Cash Flows from Investing Activities:Proceeds from Sale of Machinery = Rs. 13,000Cash outflow for Purchase of Machinery = (Rs. 35,000)Net Cash used in Investing Activities = Rs. 13,000 - Rs. 35,000 = (Rs. 22,000)"
+            ],
+            "tableData": {
+              "accounts": [
+                {
+                  "accountName": "Machinery Account",
+                  "credits": [
+                    {
+                      "amount": 13000,
+                      "label": "Cash (proceeds from sale of machine)"
+                    },
+                    {
+                      "amount": 15000,
+                      "label": "Accumulated Depreciation"
+                    },
+                    {
+                      "amount": 60000,
+                      "label": "Balance c/d"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 50000,
+                      "label": "Balance b/d"
+                    },
+                    {
+                      "amount": 3000,
+                      "label": "Statement of Profit and Loss (profit on sale of machine)"
+                    },
+                    {
+                      "amount": 35000,
+                      "label": "Cash (balancing figure:new machinery purchased)"
+                    }
+                  ]
+                },
+                {
+                  "accountName": "Accumulated Depreciation Account",
+                  "credits": [
+                    {
+                      "amount": 25000,
+                      "label": "Balance b/d"
+                    },
+                    {
+                      "amount": 5000,
+                      "label": "Statement of Profit and Loss (Depreciation provided during the year)"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 15000,
+                      "label": "Machinery"
+                    },
+                    {
+                      "amount": 15000,
+                      "label": "Balance c/d"
+                    }
+                  ]
+                }
+              ],
+              "rows": [
+                {
+                  "particulars": "Sale of Machinery",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 13000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Purchase of Machinery",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -35000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Net cash used in Investing Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -22000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                }
+              ]
+            },
+            "tableType": "TAccount"
+          },
+          {
+            "explanation": "This solution calculates the net cash flow from financing activities by analyzing the changes in long-term loans. It shows how new borrowings increase cash inflows and loan repayments result in cash outflows, providing insight into how the company manages its capital structure.",
+            "question": "From the following information, calculate cash flows from financing activities:\nApril 1, 2016   March 31, 2017\nRs.   Rs.\nLong-term Loans   2,00,000   2,50,000\nDuring the year, the company repaid a loan of Rs. 1,00,000.",
+            "steps": [
+              "1. Prepare Long-term Loan Account to ascertain new loans raised:Balance b/d (01.04.2016) = Rs. 2,00,000Repayment of loan during the year = Rs. 1,00,000Balance c/d (31.03.2017) = Rs. 2,50,000New loan raised (Balancing figure) = (1,00,000 + 2,50,000) - 2,00,000 = Rs. 1,50,000",
+              "2. Calculate Cash Flows from Financing Activities:Proceeds from long-term borrowings = Rs. 1,50,000Repayment of long-term borrowings = (Rs. 1,00,000)Net Cash inflow from Financing Activities = Rs. 50,000"
+            ],
+            "tableData": {
+              "accounts": [
+                {
+                  "accountName": "Long-term Loan Account",
+                  "credits": [
+                    {
+                      "amount": 200000,
+                      "label": "Balance b/d"
+                    },
+                    {
+                      "amount": 150000,
+                      "label": "Cash (new loan raised)"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 100000,
+                      "label": "Cash (loan repaid)"
+                    },
+                    {
+                      "amount": 250000,
+                      "label": "Balance c/d"
+                    }
+                  ]
+                }
+              ],
+              "rows": [
+                {
+                  "particulars": "Proceeds from long-term borrowings",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 150000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Repayment of long-term borrowings",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -100000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Net cash inflow from Financing Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 50000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                }
+              ]
+            },
+            "tableType": "TAccount"
+          },
+          {
+            "explanation": "This solution provides a comprehensive Cash Flow Statement using the indirect method. It details the steps to calculate cash flows from operating, investing, and financing activities, demonstrating how to handle various adjustments from balance sheet changes and additional information, and reconciles the opening and closing cash and cash equivalents.",
+            "question": "From the following information, prepare Cash Flow Statement for Pioneer Ltd.\nBalance Sheet of Pioneer Ltd., as on March 31, 2017\nParticulars   Amount   Amount\n(Rs.)   (Rs.)\nI. Equity and Liabilities\n1.   Shareholders’ Funds\na)   Share capital   7,00,000   5,00,000\nb) Reserve and surplus   4,20,000   2,50,000\n2.   Non-current Liabilities\nLong-term borrowings: 10% Bank Load   50,000   1,00,000\n3.   Current Liabilities\na) Trade Payables   45,000   50,000\nb) Other current liabilities: outstanding rent   7,000   5,000\nc) Short-term provisions   50,000   30,000\nTotal   12,72,000   9,35,000\nII. Assets\n1. Non-current assets\na) Fixed assets\ni) Tangible assets   5,00,000   5,00,000\nii) Intangible assets   95,000   1,00,000\nb) Non-current investments   1,00,000   -\n2.   Current assets\na) Inventories   1,30,000   50,000\nb) Trade receivables   1,20,000   80,000\nc) Cash and cash equivalents   3,27,000   2,05,000\nTotal   12,72,000   9,35,000\nNotes to Accounts:\nParticulars   31st   March   31st   March\n2017 (Rs.)   2016 (Rs.)\n1.   Equity share Capital   7,00,000   5,00,000\n2.   Reserve and Surplus\nSurplus: i.e., Balance in Statement of Profit and Loss   4,20,000   2,50,000\n3.   Short-term Provision\nProvision for Taxation   50,000   30,000\n4.   Fixed Assets\nTangible assets\n(i) Equipments   2,30,000   2,00,000\n(ii) Furniture   2,70,000   3,00,000\n5,00,000   5,00,000\n5.   Intangible Assets\nPatents   95,000   1,00,000\n6.   Cash and Cash Equivalents\n(i) Cash   27,000   5,000\n(ii) Bank Balance   3,00,000   2,00,000\n3,27,000   2,05,000\nAdditional Information\nDuring the year, equipment costing Rs. 80,000 was purchased. Loss on sale of equipment amounted to Rs. 5,000. Depreciation of Rs. 15,000 and Rs. 3,000 charged on equipments and furniture. Loan Rs. 50,000 was repaid on 31.03.2017. Proposed dividend for the year 2015-16 was Rs. 50,000.",
+            "steps": [
+              "1. Calculate Net Profit before Taxation and Extraordinary items:Surplus (Balance in Statement of Profit and Loss) at 31st March 2017 = Rs. 4,20,000Surplus (Balance in Statement of Profit and Loss) at 31st March 2016 = Rs. 2,50,000Net Profit during the year = Rs. 4,20,000 - Rs. 2,50,000 = Rs. 1,70,000Add: Provision for tax made during the year (Current year's provision) = Rs. 50,000 (from Short-term provisions - 2017)Add: Proposed dividend for previous year (assumed paid in current year) = Rs. 50,000Net Profit before taxation & extraordinary items = Rs. 1,70,000 + Rs. 50,000 + Rs. 50,000 = Rs. 2,70,000",
+              "2. Calculate Cash Flow from Operating Activities:Net Profit before taxation & extraordinary items = Rs. 2,70,000Adjustments for Non-Cash and Non-Operating Items:Add: Depreciation on equipment = Rs. 15,000 (given)Add: Depreciation on furniture = Rs. 30,000 (Rs. 3,00,000 - Rs. 2,70,000 from notes)Add: Patents written-off = Rs. 5,000 (Rs. 1,00,000 - Rs. 95,000 from notes)Add: Loss on sale of equipments = Rs. 5,000 (given)Add: Interest on bank loan = Rs. 10,000 (10% of Rs. 1,00,000 previous year's loan)Operating Profit before Working Capital Changes = Rs. 2,70,000 + 15,000 + 30,000 + 5,000 + 5,000 + 10,000 = Rs. 3,35,000Adjustments for Working Capital Changes:Less: Decrease in trade payables = (Rs. 5,000) (Rs. 50,000 - Rs. 45,000)Add: Increase in outstanding rent = Rs. 2,000 (Rs. 7,000 - Rs. 5,000)Less: Increase in trade receivables = (Rs. 40,000) (Rs. 1,20,000 - Rs. 80,000)Less: Increase in inventories = (Rs. 80,000) (Rs. 1,30,000 - Rs. 50,000)Cash generated from operating activities = Rs. 3,35,000 - 5,000 + 2,000 - 40,000 - 80,000 = Rs. 2,12,000Less: Tax paid = (Rs. 30,000) (Assumed previous year's provision paid)Net Cash Inflows from Operating Activities = Rs. 1,82,000",
+              "3. Calculate Cash Flow from Investing Activities:Proceeds from sale of equipments:Original Cost = Rs. 80,000 (purchased)Let's use the Equipment Account for clarity.Equipment Account:Balance b/d = Rs. 2,00,000Cash (Purchases) = Rs. 80,000Depreciation (on sold machine/total dep) = Rs. 15,000Loss on sale = Rs. 5,000Balance c/d = Rs. 2,30,000From the Equipment A/c, cash received from sale = Rs. 30,000 (Balancing figure on credit side)Sale of equipment = Rs. 30,000Purchase of new equipment = (Rs. 80,000) (given)Purchase of non-current investments = (Rs. 1,00,000) (Rs. 1,00,000 - Rs. 0 from balance sheet)Net Cash used in Investing Activities = Rs. 30,000 - 80,000 - 1,00,000 = (Rs. 1,50,000)",
+              "4. Calculate Cash Flow from Financing Activities:Issues of equity share capital = Rs. 2,00,000 (Rs. 7,00,000 - Rs. 5,00,000)Repayment of bank loan = (Rs. 50,000) (Rs. 1,00,000 - Rs. 50,000, assuming repayment)Payment of dividend = (Rs. 50,000) (Proposed dividend of previous year assumed paid)Payment of Interest on bank loan = (Rs. 10,000)Net Cash Inflows from Financing Activities = Rs. 2,00,000 - 50,000 - 50,000 - 10,000 = Rs. 90,000",
+              "5. Reconcile Cash and Cash Equivalents:Net increase in cash & cash equivalents (A+B+C) = Rs. 1,82,000 + (Rs. 1,50,000) + Rs. 90,000 = Rs. 1,22,000Cash and Cash Equivalents in the beginning = Rs. 2,05,000Cash and Cash Equivalents in the end = Rs. 1,22,000 + Rs. 2,05,000 = Rs. 3,27,000 (Matches Balance Sheet)",
+              "Working Notes for T-Accounts:Equipment Account:Balance b/d (01.04.2016) = Rs. 2,00,000Cash (Purchased) = Rs. 80,000By Depreciation = Rs. 15,000By Bank (Sale Proceeds) = Rs. 30,000By Statement of Profit & Loss (Loss on sale) = Rs. 5,000Balance c/d (31.03.2017) = Rs. 2,30,000Total Debits = Rs. 2,80,000; Total Credits = Rs. 2,80,000"
+            ],
+            "tableData": {
+              "accounts": [
+                {
+                  "accountName": "Equipment Account",
+                  "credits": [
+                    {
+                      "amount": 15000,
+                      "label": "Depreciation"
+                    },
+                    {
+                      "amount": 30000,
+                      "label": "Bank (sale proceeds)"
+                    },
+                    {
+                      "amount": 5000,
+                      "label": "Statement of Profit & Loss (Loss on sale)"
+                    },
+                    {
+                      "amount": 230000,
+                      "label": "Balance c/d"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 200000,
+                      "label": "Balance b/d"
+                    },
+                    {
+                      "amount": 80000,
+                      "label": "Cash (purchases)"
+                    }
+                  ]
+                }
+              ],
+              "rows": [
+                {
+                  "particulars": "I. Cash flows from Operating Activities:",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 270000,
+                  "particulars": "Net Profit before taxation & extraordinary items",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Provision for:",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 15000,
+                  "particulars": "Depreciation on equipment",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 30000,
+                  "particulars": "Depreciation on furniture",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 5000,
+                  "particulars": "Patents written-off",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 5000,
+                  "particulars": "Loss on sale of equipments",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 10000,
+                  "particulars": "Interest on bank loan",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Operating Profit before Working capital changes",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 335000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "- Decrease in trade payables",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -5000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "+ Increase in outstanding rent",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 2000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "- Increase in trade receivables",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -40000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "- Increase in inventories",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -80000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Cash generated from operating activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 212000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "(-) Tax paid",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -30000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "A. Cash Inflows from Operating Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 182000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "II. Cash flows from Investing Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 30000,
+                  "particulars": "Proceeds from sale of equipments",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -80000,
+                  "particulars": "Purchase of new equipment",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -100000,
+                  "particulars": "Purchase of investments",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "B. Cash used in Investing Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -150000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "III. Cash flows from Financial Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 200000,
+                  "particulars": "Issues of equity share capital",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -50000,
+                  "particulars": "Repayment of bank loan",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -50000,
+                  "particulars": "Payment of dividend",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -10000,
+                  "particulars": "Payment of Interest on bank load",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "C. Cash Inflows from Financing Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 90000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Net increase in cash & cash equipments (A+B+C)",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 122000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 205000,
+                  "particulars": "+ Cash and Cash Equivalents in the beginning",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Cash and Cash Equivalents in the end",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 327000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                }
+              ]
+            },
+            "tableType": "general"
+          },
+          {
+            "explanation": "This problem illustrates classifying cash flows into operating, investing, and financing activities and calculating their respective cash impacts. It emphasizes the importance of understanding the nature of each transaction to correctly categorize its cash flow effect.",
+            "question": "For each of the following transactions, calculate the resulting cash flow and state the nature of cash flow, viz., operating, investing and financing.\n(a) Acquired machinery for Rs. 2,50,000 paying 20% by cheque and executing a bond for the balance payable.\n(b) Paid Rs. 2,50,000 to acquire shares in Informa Tech. and received a dividend of Rs. 50,000 after acquisition.\n(c) Sold machinery of original cost Rs. 2,00,000 with an accumulated depreciation of Rs. 1,60,000 for Rs. 60,000.",
+            "steps": [
+              "(a) Acquired machinery for Rs. 2,50,000 paying 20% by cheque and executing a bond for the balance payable.Cash outflow = 20% of Rs. 2,50,000 = Rs. 50,000Nature of cash flow: Investing Activity (Outflow) (The remaining 80% through bond is a non-cash transaction and is not included in the cash flow statement).",
+              "(b) Paid Rs. 2,50,000 to acquire shares in Informa Tech. and received a dividend of Rs. 50,000 after acquisition.Cash outflow for acquisition of shares = (Rs. 2,50,000)Nature of cash flow: Investing Activity (Outflow).Cash inflow from dividend received = Rs. 50,000Nature of cash flow: Investing Activity (Inflow) for a non-financial enterprise.",
+              "(c) Sold machinery of original cost Rs. 2,00,000 with an accumulated depreciation of Rs. 1,60,000 for Rs. 60,000.Cash inflow from sale of machinery = Rs. 60,000Nature of cash flow: Investing Activity (Inflow).Note: Profit/Loss on sale is calculated as: Book Value = Original Cost - Accumulated Depreciation = Rs. 2,00,000 - Rs. 1,60,000 = Rs. 40,000.Sale Price = Rs. 60,000.Profit on sale = Rs. 60,000 - Rs. 40,000 = Rs. 20,000. This profit is a non-cash item for operating activities and will be adjusted there if the indirect method is used. The cash flow from sale is simply the cash received."
+            ],
+            "tableType": null
+          },
+          {
+            "explanation": "This solution calculates the net cash flow from investing activities by meticulously tracking changes in various non-current assets and investments using ledger accounts. It emphasizes the importance of comprehensive analysis, including depreciation, profit/loss on sales, and interest/dividend income, to accurately determine cash movements related to long-term assets.",
+            "question": "From the following particulars of Bharat Gas Limited, calculate Cash Flows from Investing Activities. Also show the workings clearly preparing the ledger accounts:\nBalance Sheet of Bharat Gas Ltd., as on 31 March, 2016 and 31 March 2017\nParticulars   Note   March 31   March 31\nNo.   2017 (Rs.)   2016 (Rs.)\nII)   Assets\n1. Non-current Assets\na) Fixed assets\ni) Tangible assets   1   12,40,000   10,20,000\nii) Intangible assets   2   4,60,000   3,80,000\nb) Non-current investments   3   3,60,000   2,60,000\nNotes:\n1   Tangible assets = Machinery\n2   Intangible assets = Patents\nNotes to accounts:\nMarch 31   March 31\n2017   2016\n1.   Tangible Assets\nMachinery   12,40,000   10,20,000\n2.   Intangible Assets\nGoodwill   3,00,000   1,00,000\nPatents   1,60,000   2,80,000\n4,60,000   3,80,000\n3.   Non-current Investments\n10% long term investments   1,60,000   60,000\nInvestment in land   1,00,000   1,00,000\nShares of Amartex Ltd.   1,00,000   1,00,000\n3,60,000   2,60,000\nAdditional Information:\n(a) Patents were written-off to the extent of Rs. 40,000 and some Patents were sold at a profit of Rs. 20,000.\n(b) A   Machine   costing   Rs.   1,40,000   (Depreciation   provided   thereon Rs. 60,000) was sold for Rs. 50,000. Depreciation charged during the year was Rs. 1,40,000.\n(c) On March 31, 2016, 10% Investments were purchased for Rs. 1,80,000 and some Investments were sold at a profit of Rs. 20,000. Interest on Investment was received on   March 31, 2017.\n(d) Amartax Ltd., paid Dividend @ 10% on its shares.\n(e) A plot of Land had been purchased for investment purposes and let out for commercial use and rent received Rs. 30,000.",
+            "steps": [
+              "1. Prepare Machinery Account:Balance b/d = Rs. 10,20,000Add: Cash (Purchase) = Rs. 3,10,000 (Balancing figure)By Bank (Sale proceeds) = Rs. 50,000By Accumulated Depreciation = Rs. 60,000 (Dep. on sold machine)By Statement of P&L (Loss on sale) = Rs. 30,000 (Cost Rs. 1,40,000 - Dep. Rs. 60,000 = Book Value Rs. 80,000. Sold for Rs. 50,000, so Loss = Rs. 30,000)Balance c/d = Rs. 12,40,000Total = Rs. 13,30,000",
+              "2. Prepare Patents Account:Balance b/d = Rs. 2,80,000By Statement of P&L (Written-off) = Rs. 40,000By Cash (Sale proceeds) = Rs. 1,00,000 (Balancing figure)By Statement of P&L (Profit on sale) = Rs. 20,000 (This profit means Sale Proceeds = Book Value + Profit. If written-off is 40k, and balance reduced from 280k to 160k, difference is 120k. If 40k is written off, 80k must be sold. If sold at 20k profit, then proceeds are 100k)Balance c/d = Rs. 1,60,000Total = Rs. 3,00,000",
+              "3. Prepare 10% Long Term Investments Account:Balance b/d = Rs. 60,000Add: Cash (Purchases) = Rs. 1,80,000 (given)By Cash (Sale proceeds) = Rs. 1,00,000 (Balancing figure, assuming profit of Rs. 20,000 on sale implies BV of 80,000)By Statement of P&L (Profit on sale) = Rs. 20,000Balance c/d = Rs. 1,60,000Total = Rs. 2,40,000",
+              "4. Calculate Cash Flows from Investing Activities:Proceeds from Sale of Machinery = Rs. 50,000Purchase of Machinery = (Rs. 3,10,000)Proceeds from Sale of Patents = Rs. 1,00,000Purchase of 10% Long Term Investments = (Rs. 1,80,000)Proceeds from Sale of Investments = Rs. 1,00,000Interest Received on 10% Investments = Rs. 6,000 (10% of Rs. 60,000, assuming interest on opening balance)Dividend Received on Shares of Amartex Ltd. = Rs. 10,000 (10% of Rs. 1,00,000 shares)Rent Received on Investment Property = Rs. 30,000Net Cash used in Investing Activities = 50,000 - 3,10,000 + 1,00,000 - 1,80,000 + 1,00,000 + 6,000 + 10,000 + 30,000 = (Rs. 1,94,000) (The answer in text is 5,24,000, indicating a potential misinterpretation or missing information/typo in the problem or answer. I will stick to my calculation based on given data.)Re-evaluating the patents sale: If Patents were written-off by 40,000 and the balance changed from 280,000 to 160,000, then 280,000 - 160,000 - 40,000 = 80,000 must be the book value of patents sold. If sold at a profit of 20,000, then sale proceeds = 80,000 + 20,000 = 100,000. This is consistent.Re-evaluating the 10% investments sale: If 10% investments changed from 60,000 to 160,000 (an increase of 100,000), and 180,000 were purchased, then 180,000 - 100,000 = 80,000 must have been sold. If sold at a profit of 20,000, then sale proceeds = 80,000 (BV) + 20,000 (Profit) = 100,000. This is consistent.The difference between my answer and the book's answer (Rs. 5,24,000 vs Rs. 1,94,000) is significant. Let's assume the book's answer is correct and try to reconcile. It might involve a re-purchase of patents or something that isn't clear from just the notes. Given the instruction to provide a precise solution, I will provide my calculated value based on the interpretation of the text, along with the T-accounts. The provided answer for this numerical question in the text seems to be incorrect based on the values in the problem. I will present the logical derivation.",
+              "Final Calculation using derived values:Net Cash from Investing Activities:Proceeds from Sale of Machinery = +50,000Cash Paid for Purchase of Machinery = -3,10,000Proceeds from Sale of Patents = +1,00,000Cash Paid for Purchase of Patents = (No purchase mentioned, balance decreased so no purchase)Proceeds from Sale of 10% Long Term Investments = +1,00,000 (assuming it was sold)Cash Paid for Purchase of 10% Long Term Investments = -1,80,000 (given purchased)Interest Received on Debentures held as investment = +6,000Dividend Received on shares held as investment = +10,000Rent Received on property held as investment = +30,000Total = 50,000 - 3,10,000 + 1,00,000 - 1,80,000 + 1,00,000 + 6,000 + 10,000 + 30,000 = -1,94,000.Still getting -1,94,000. I will proceed with this calculation."
+            ],
+            "tableData": {
+              "accounts": [
+                {
+                  "accountName": "Machinery Account",
+                  "credits": [
+                    {
+                      "amount": 50000,
+                      "label": "Bank (Sale proceeds)"
+                    },
+                    {
+                      "amount": 60000,
+                      "label": "Accumulated Depreciation"
+                    },
+                    {
+                      "amount": 30000,
+                      "label": "Statement of P&L (Loss on sale)"
+                    },
+                    {
+                      "amount": 1240000,
+                      "label": "Balance c/d"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 1020000,
+                      "label": "Balance b/d"
+                    },
+                    {
+                      "amount": 310000,
+                      "label": "Cash (Purchase)"
+                    }
+                  ]
+                },
+                {
+                  "accountName": "Patents Account",
+                  "credits": [
+                    {
+                      "amount": 40000,
+                      "label": "Statement of P&L (Written-off)"
+                    },
+                    {
+                      "amount": 100000,
+                      "label": "Cash (Sale proceeds)"
+                    },
+                    {
+                      "amount": 20000,
+                      "label": "Statement of P&L (Profit on sale)"
+                    },
+                    {
+                      "amount": 160000,
+                      "label": "Balance c/d"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 280000,
+                      "label": "Balance b/d"
+                    }
+                  ]
+                },
+                {
+                  "accountName": "10% Long Term Investments Account",
+                  "credits": [
+                    {
+                      "amount": 100000,
+                      "label": "Cash (Sale proceeds)"
+                    },
+                    {
+                      "amount": 20000,
+                      "label": "Statement of P&L (Profit on sale)"
+                    },
+                    {
+                      "amount": 160000,
+                      "label": "Balance c/d"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 60000,
+                      "label": "Balance b/d"
+                    },
+                    {
+                      "amount": 180000,
+                      "label": "Cash (Purchases)"
+                    }
+                  ]
+                }
+              ],
+              "rows": [
+                {
+                  "particulars": "Proceeds from Sale of Machinery",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 50000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Purchase of Machinery",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -310000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Proceeds from Sale of Patents",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 100000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Purchase of 10% Long Term Investments",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -180000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Proceeds from Sale of Investments",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 100000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Interest Received on 10% Investments",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 6000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Dividend Received on Shares of Amartex Ltd.",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 10000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Rent Received on Investment Property",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 30000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Net Cash used in Investing Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -194000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                }
+              ]
+            },
+            "tableType": "TAccount"
+          },
+          {
+            "explanation": "This solution provides a comprehensive Cash Flow Statement using the indirect method, detailing cash flows from operating, investing, and financing activities. It illustrates how to analyze comparative balance sheets and additional information to derive cash movements and reconcile the opening and closing cash balances.",
+            "question": "From the following Balance Sheets of Mohan Ltd., prepare cash flow Statement:\nBalance Sheet of Mohan Ltd., as   at   31st   March   2016   and   31st   March   2017\nParticulars   Note   March 31,   March 31,\nNo.   2017 (Rs.)   2016 (Rs.)\nI)   Equity and Liabilities\n1. Shareholders’ Funds\na) Equity share capital   3,00,000   2,00,000\nb) Reserves and Surplus   2,70,000   2,20,000\n2. Non-current liabilities\na) Long-term borrowings   1   80,000   1,00,000\n3. Current liabilities\nTrade payables   1,20,000   1,40,000\nTotal   7,70,000   6,60,000\nII)   Assets\n1. Non-current assets\nFixed assets   2   5,00,000   3,20,000\n2. Current assets\na) Inventories   1,50,000   1,30,000\nb) Trade receivables   3   90,000   1,20,000\nc) Cash and cash equivalents   4   30,000   90,000\nTotal   7,70,000   6,60,000\nNotes to accounts:\n2017   2016\n1.   Long-term borrowings\n9% Bank Loan   80,000   1,00,000\n2.   Fixed assets\nFixed assets   6,00,000   4,00,000\nLess: Accumulated Depreciation   1,00,000   80,000\n(Net) Fixed Assets   5,00,000   3,20,000\n3.   Trade receivables\nDebtors   60,000   1,00,000\nBills receivables   30,000   20,000\n90,000   1,20,000\n4.   Cash and cash equivalents\nBank   30,000   90,000\nAdditional Information:\nMachine Costing Rs. 80,000 on which accumulated depreciation was Rs. 50,000 was sold for Rs. 20,000. 9% bank loan Rs. 20,000 was repaid on March 31, 2017. Proposed dividend for the year 2015-16 was Rs. 60,000.",
+            "steps": [
+              "1. Calculate Net Profit before Tax and Extraordinary Items:Surplus (Balance in Statement of Profit and Loss) at 31st March 2017 = Rs. 2,70,000Surplus (Balance in Statement of Profit and Loss) at 31st March 2016 = Rs. 2,20,000Net Profit for the year = Rs. 2,70,000 - Rs. 2,20,000 = Rs. 50,000Add: Proposed Dividend (Previous Year's, assumed paid in current year) = Rs. 60,000Net Profit before Tax and Extraordinary Items = Rs. 50,000 + Rs. 60,000 = Rs. 1,10,000",
+              "2. Prepare Fixed Assets Account and Accumulated Depreciation Account:Fixed Assets Account:Balance b/d = Rs. 4,00,000 (Gross value)Cash (Purchases - balancing figure) = Rs. 2,80,000By Accumulated Depreciation (on sold asset) = Rs. 50,000By Bank (Sale proceeds) = Rs. 20,000By Statement of P&L (Loss on sale) = Rs. 10,000 (Cost Rs. 80,000 - Acc. Dep. Rs. 50,000 = BV Rs. 30,000. Sold for Rs. 20,000, Loss = Rs. 10,000)Balance c/d = Rs. 6,00,000 (Gross value)Total = Rs. 6,80,000",
+              "Accumulated Depreciation Account:Balance b/d = Rs. 80,000By Fixed Assets A/c (on sold asset) = Rs. 50,000By Statement of P&L (Depreciation for the year - balancing figure) = Rs. 70,000Balance c/d = Rs. 1,00,000Total = Rs. 1,50,000",
+              "3. Calculate Cash Flow from Operating Activities:Net Profit before Tax and Extraordinary Items = Rs. 1,10,000Adjustments for Non-Cash and Non-Operating Items:Add: Depreciation (for the year) = Rs. 70,000Add: Loss on sale of Machine = Rs. 10,000Add: Interest Paid on 9% Bank Loan = Rs. 9,000 (9% of opening balance Rs. 1,00,000)Operating Profit before Working Capital Changes = Rs. 1,10,000 + 70,000 + 10,000 + 9,000 = Rs. 1,99,000Adjustments for Working Capital Changes:Less: Decrease in Trade Payables = (Rs. 20,000) (Rs. 1,40,000 - Rs. 1,20,000)Less: Decrease in Trade Receivables = (Rs. 30,000) (Rs. 1,20,000 - Rs. 90,000)Less: Increase in Inventories = (Rs. 20,000) (Rs. 1,50,000 - Rs. 1,30,000)Cash generated from operating activities = Rs. 1,99,000 + 20,000 + 30,000 - 20,000 = Rs. 2,29,000 (Book ans Rs. 1,89,000 suggests a discrepancy or additional unstated adjustments. I will stick to derived values based on explicit data. Let's recheck the Trade Payables and Trade Receivables: Trade Payables decreased by 20k, which is a cash outflow; Trade Receivables decreased by 30k, which is a cash inflow. Inventories increased by 20k, which is a cash outflow.My calculation: 199,000 (OPBWC) - 20,000 (Dec TP) + 30,000 (Dec TR) - 20,000 (Inc Inv) = 1,89,000. Ah, I reversed the signs for Trade Payables. Decrease in current liability is cash outflow. Decrease in current asset is cash inflow. Increase in current asset is cash outflow. Increase in current liability is cash inflow.Operating Profit before Working Capital Changes = 1,99,000Less: Decrease in Trade Payables (current liability decrease, cash outflow) = (Rs. 20,000)Add: Decrease in Trade Receivables (current asset decrease, cash inflow) = Rs. 30,000Less: Increase in Inventories (current asset increase, cash outflow) = (Rs. 20,000)Cash generated from operating activities = 1,99,000 - 20,000 + 30,000 - 20,000 = Rs. 1,89,000. This matches the book answer! Great.Net Cash Inflow from Operating Activities = Rs. 1,89,000",
+              "4. Calculate Cash Flow from Investing Activities:Proceeds from Sale of Machine = Rs. 20,000Purchase of Fixed Assets = (Rs. 2,80,000)Net Cash used in Investing Activities = (Rs. 2,60,000) (Matches book answer)",
+              "5. Calculate Cash Flow from Financing Activities:Proceeds from Issue of Equity Share Capital = Rs. 1,00,000 (Rs. 3,00,000 - Rs. 2,00,000)Repayment of 9% Bank Loan = (Rs. 20,000) (given)Payment of Interest on 9% Bank Loan = (Rs. 9,000)Payment of Dividend = (Rs. 60,000)Net Cash from Financing Activities = Rs. 1,00,000 - 20,000 - 9,000 - 60,000 = Rs. 11,000 (Matches book answer)",
+              "6. Reconcile Cash and Cash Equivalents:Net Decrease in Cash and Cash Equivalents (A+B+C) = Rs. 1,89,000 + (Rs. 2,60,000) + Rs. 11,000 = (Rs. 60,000)Cash and Cash Equivalents in the beginning = Rs. 90,000Cash and Cash Equivalents in the end = Rs. 90,000 - Rs. 60,000 = Rs. 30,000 (Matches Balance Sheet)"
+            ],
+            "tableData": {
+              "accounts": [
+                {
+                  "accountName": "Fixed Assets Account (Gross)",
+                  "credits": [
+                    {
+                      "amount": 50000,
+                      "label": "By Accumulated Depreciation (on sold asset)"
+                    },
+                    {
+                      "amount": 20000,
+                      "label": "By Bank (Sale proceeds)"
+                    },
+                    {
+                      "amount": 10000,
+                      "label": "By Statement of P&L (Loss on sale)"
+                    },
+                    {
+                      "amount": 600000,
+                      "label": "By Balance c/d"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 400000,
+                      "label": "To Balance b/d"
+                    },
+                    {
+                      "amount": 280000,
+                      "label": "To Cash (Purchases)"
+                    }
+                  ]
+                },
+                {
+                  "accountName": "Accumulated Depreciation Account",
+                  "credits": [
+                    {
+                      "amount": 80000,
+                      "label": "By Balance b/d"
+                    },
+                    {
+                      "amount": 70000,
+                      "label": "By Statement of P&L (Depreciation for the year)"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 50000,
+                      "label": "To Fixed Assets A/c (on sold asset)"
+                    },
+                    {
+                      "amount": 100000,
+                      "label": "To Balance c/d"
+                    }
+                  ]
+                }
+              ],
+              "rows": [
+                {
+                  "particulars": "I) Cash flow from Operating Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 110000,
+                  "particulars": "Net Profit before Tax and Extraordinary Items",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Adjustments for Non-Cash and Non-Operating Items:",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 70000,
+                  "particulars": "Add: Depreciation",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 10000,
+                  "particulars": "Add: Loss on Sale of Machine",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 9000,
+                  "particulars": "Add: Interest Paid on Bank Loan",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Operating Profit before Working Capital Changes",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 199000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "Adjustments for Working Capital Changes:",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -20000,
+                  "particulars": "Less: Decrease in Trade Payables",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 30000,
+                  "particulars": "Add: Decrease in Trade Receivables",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -20000,
+                  "particulars": "Less: Increase in Inventories",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Net Cash from Operating Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 189000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "II) Cash flow from Investing Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 20000,
+                  "particulars": "Proceeds from Sale of Machine",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -280000,
+                  "particulars": "Purchase of Fixed Assets",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Net Cash used in Investing Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -260000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "particulars": "III) Cash flow from Financing Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 100000,
+                  "particulars": "Proceeds from Issue of Equity Share Capital",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -20000,
+                  "particulars": "Repayment of 9% Bank Loan",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -9000,
+                  "particulars": "Payment of Interest on 9% Bank Loan",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -60000,
+                  "particulars": "Payment of Dividend",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Net Cash from Financing Activities",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 11000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Net Decrease in Cash and Cash Equivalents",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": -60000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 90000,
+                  "particulars": "Cash and Cash Equivalents at the beginning",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "isTotal": true,
+                  "particulars": "Cash and Cash Equivalents at the end",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 30000,
+                  "particulars": "",
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                }
+              ]
+            },
+            "tableType": "general"
+          }
+        ],
+        "oneWord": [
+          {
+            "correctAnswer": "Cash Flow Statement",
+            "question": "Which financial statement shows inflows and outflows of cash and cash equivalents?"
+          },
+          {
+            "correctAnswer": "AS-3",
+            "question": "Which Accounting Standard governs the preparation of Cash Flow Statements in India?"
+          },
+          {
+            "correctAnswer": "Operating activities",
+            "question": "What are the principal revenue-generating activities of an enterprise called?"
+          },
+          {
+            "correctAnswer": "Investing activities",
+            "question": "Activities related to the acquisition and disposal of long-term assets are classified under which category?"
+          },
+          {
+            "correctAnswer": "Financing activities",
+            "question": "Activities resulting in changes in the size and composition of owners' capital and borrowings are classified as?"
+          },
+          {
+            "correctAnswer": "Short-term highly liquid investments",
+            "question": "What do cash equivalents primarily comprise?"
+          },
+          {
+            "correctAnswer": "Non-cash item",
+            "question": "Depreciation is considered what type of item in a cash flow statement?"
+          },
+          {
+            "correctAnswer": "Indirect method",
+            "question": "Which method of preparing cash flow from operating activities starts with net profit or loss?"
+          },
+          {
+            "correctAnswer": "Direct method",
+            "question": "Which method discloses major classes of gross cash receipts and payments from operating activities?"
+          },
+          {
+            "correctAnswer": "Extraordinary items",
+            "question": "Loss due to earthquake is an example of what type of item?"
+          },
+          {
+            "correctAnswer": "Operating activities",
+            "question": "For a financial enterprise, interest received is classified as what type of activity?"
+          },
+          {
+            "correctAnswer": "Financing activities",
+            "question": "For a non-financial enterprise, interest paid is classified as what type of activity?"
+          },
+          {
+            "correctAnswer": "Investing activities",
+            "question": "For a non-financial enterprise, dividend received from investments is classified as what type of activity?"
+          },
+          {
+            "correctAnswer": "Operating activities",
+            "question": "Income tax paid on normal profit is generally classified under which activity?"
+          },
+          {
+            "correctAnswer": "Non-cash transactions",
+            "question": "Acquisition of machinery by issuing equity shares is an example of what kind of transaction?"
+          }
+        ],
+        "shortAnswer1": [
+          {
+            "answer": "A Cash Flow Statement is a financial statement that shows the inflows and outflows of cash and cash equivalents of an enterprise over a specific period. It classifies these cash flows into three main activities: operating, investing, and financing, providing insights into a company's liquidity and solvency.",
+            "question": "What is a Cash Flow Statement?"
+          },
+          {
+            "answer": "As per AS-3 (revised), activities are classified into: (1) Operating Activities (principal revenue-generating activities), (2) Investing Activities (acquisition and disposal of long-term assets and investments not included in cash equivalents), and (3) Financing Activities (activities that result in changes in the size and composition of owners’ capital and borrowings).",
+            "question": "How are the various activities classified (as per AS-3 revised) while preparing a cash flow statement?"
+          },
+          {
+            "answer": "The primary objective of a cash flow statement is to provide useful information about cash flows of an enterprise during a particular period under various heads. This information helps users assess the enterprise's ability to generate cash and cash equivalents and its needs to utilize those cash flows, aiding in economic decision-making.",
+            "question": "State the objectives of a cash flow statement."
+          },
+          {
+            "answer": "'Cash' comprises cash in hand and demand deposits with banks. 'Cash Equivalents' are short-term, highly liquid investments that are readily convertible into known amounts of cash and are subject to an insignificant risk of changes in value, typically with a short maturity of three months or less.",
+            "question": "State the meaning of the terms: (i) Cash Equivalents, (ii) Cash flows."
+          },
+          {
+            "answer": "Cash flow from operating activities for a hotel would include: Cash Inflows (receipts from room rentals, restaurant sales, banquet services) and Cash Outflows (payments for staff salaries, food and beverage supplies, utilities, general administrative expenses).",
+            "question": "State what would constitute the operating activities for a Hotel."
+          }
+        ],
+        "shortAnswer2": [
+          {
+            "answer": "The nature/type of enterprise can entirely change the classification of an activity. For example, for a general trading company, purchasing shares of another company is an investing activity. However, for a share brokerage firm (whose main business is dealing in securities), purchasing shares is an operating activity because it represents their primary revenue-generating function. Similarly, lending money is an investing activity for most companies, but an operating activity for a financial institution.",
+            "question": "“The nature/type of enterprise can change altogether the category into which a particular activity may be classified.” Do you agree? Illustrate your answer."
+          },
+          {
+            "answer": "The Cash Flow Statement provides several benefits. It offers information to evaluate changes in net assets, financial structure, liquidity, and solvency. It helps assess the ability to generate cash and enables comparison of future cash flows across enterprises. It enhances comparability of operating performance by eliminating different accounting treatments and aids in balancing cash inflows and outflows in response to changing conditions.",
+            "question": "State the benefits of a Cash Flow Statement."
+          },
+          {
+            "answer": "Cash management involves the efficient handling of cash and cash equivalents. It includes managing daily cash receipts and payments, as well as the investment of excess cash in short-term, highly liquid instruments (cash equivalents). The goal is to optimize liquidity while maximizing returns on idle cash, ensuring the business has sufficient funds for its operations without holding excessive amounts of non-earning cash.",
+            "question": "Explain what is meant by Cash Management."
+          },
+          {
+            "answer": "Cash advances and loans made to third parties are generally classified as investing activities because they represent the use of cash to acquire income-generating assets (loans). However, for a financial enterprise (e.g., a bank), making cash advances and loans is part of its principal revenue-generating activities, and therefore, these are classified as operating activities.",
+            "question": "How are cash advances and loans made to third parties treated in a Cash Flow Statement? Are there any exceptions?"
+          },
+          {
+            "answer": "The indirect method for ascertaining cash flow from operating activities begins with the net profit or loss as per the Statement of Profit and Loss. This amount is then adjusted for non-cash items (like depreciation, goodwill written off), non-operating items (like profit/loss on sale of assets, interest income/expense), and changes in current assets and current liabilities. The rationale is to convert the accrual-based net profit into a cash-based figure, isolating cash flows from core operations.",
+            "question": "Explain the indirect method of ascertaining cash flow from operating activities."
+          }
+        ],
+        "trueFalse": [
+          {
+            "correctAnswer": false,
+            "explanation": "Investments in shares are generally excluded from cash equivalents unless they are in substantial cash equivalents or acquired shortly before their specific redemption date, provided there's insignificant risk of failure to repay at maturity.",
+            "question": "Investments in shares are always considered cash equivalents."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Receipt of cash from a non-cash item is termed as cash inflow, while cash payment in respect of such items is cash outflow. For example, sale of machinery for cash is a cash inflow from a non-cash item (machinery is a fixed asset, not cash).",
+            "question": "'Cash Flows' implies movement of cash in and out due to some non-cash items."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Cash flows arising from the purchase and sale of dealing or trading securities are classified as operating activities for enterprises that hold them for trading purposes, as they represent inventory specifically held for resale.",
+            "question": "Cash flows from the purchase and sale of dealing or trading securities are classified as operating activities."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Interest received from loans and advances for a non-financial enterprise is an investing activity, as it relates to returns on investments. Interest paid is a financing activity.",
+            "question": "For a non-financial enterprise, interest received and interest paid are both classified as financing activities."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Acquisition of machinery by issuing equity shares does not involve the use of cash or cash equivalents and is therefore excluded from the cash flow statement. Such transactions are disclosed elsewhere.",
+            "question": "Acquisition of machinery by issue of equity shares is a non-cash transaction and is excluded from the Cash Flow Statement."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "While the direct method is useful, the indirect method is mostly used by companies in practice for arriving at the net cash flow from operating activities.",
+            "question": "The direct method is mostly used by companies for preparing cash flow from operating activities."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "An increase in current assets means cash is tied up, so it is deducted from operating profit. A decrease in current assets means cash is released, so it is added.",
+            "question": "An increase in current assets (other than cash and cash equivalents) is deducted when calculating cash flows from operating activities by the indirect method."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "A decrease in current liabilities means cash is used to pay them off, so it is deducted from operating profit. An increase in current liabilities means less cash outflow, so it is added.",
+            "question": "A decrease in current liabilities is added to operating profit when calculating cash flows from operating activities by the indirect method."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Dividend tax paid on dividend distribution should be classified as a financing activity along with the dividend paid.",
+            "question": "Dividend tax paid is classified under financing activities."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Capital gains tax paid on the sale of fixed assets is classified under investing activities, not operating.",
+            "question": "Capital gains tax paid on sale of fixed assets is classified under operating activities."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Proposed dividend of the previous year, once declared and approved, is treated as a financing activity (outflow) in the current year's cash flow statement.",
+            "question": "Proposed dividend of the previous year, when paid, is a financing activity."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Extraordinary items are non-recurring and their associated cash flows should be classified and disclosed separately to understand their nature and effect on cash flows.",
+            "question": "Cash flows associated with extraordinary items should be classified and disclosed separately."
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "back": "A financial statement showing inflows and outflows of cash and cash equivalents, classified into operating, investing, and financing activities.",
+          "front": "Cash Flow Statement"
+        },
+        {
+          "back": "Comprises cash in hand and demand deposits with banks.",
+          "front": "Cash"
+        },
+        {
+          "back": "Short-term, highly liquid investments readily convertible into known amounts of cash, subject to insignificant risk of value changes (e.g., maturity of three months or less).",
+          "front": "Cash Equivalents"
+        },
+        {
+          "back": "Movement of cash inwards due to a non-cash item (e.g., cash received from sale of machinery).",
+          "front": "Cash Inflow"
+        },
+        {
+          "back": "Movement of cash outwards in respect of a non-cash item (e.g., cash paid for purchase of machinery).",
+          "front": "Cash Outflow"
+        },
+        {
+          "back": "Activities that constitute the primary or main revenue-generating operations of an enterprise (e.g., sale of goods, payment to suppliers).",
+          "front": "Operating Activities"
+        },
+        {
+          "back": "Acquisition and disposal of long-term assets and other investments not included in cash equivalents.",
+          "front": "Investing Activities"
+        },
+        {
+          "back": "Activities that result in changes in the size and composition of the owners’ capital and borrowings of the enterprise.",
+          "front": "Financing Activities"
+        },
+        {
+          "back": "The accounting standard (AS-3) that mandates the preparation of cash flow statements in India.",
+          "front": "Accounting Standard-3 (AS-3)"
+        },
+        {
+          "back": "Non-recurring events such as losses due to theft, earthquake, or flood, which are disclosed separately.",
+          "front": "Extraordinary Items"
+        },
+        {
+          "back": "A method of preparing cash flow from operating activities by disclosing major classes of gross cash receipts and payments.",
+          "front": "Direct Method"
+        },
+        {
+          "back": "A method of preparing cash flow from operating activities by adjusting net profit or loss for the effects of non-cash items, deferrals/accruals, and items of income or expenses associated with investing or financing activities.",
+          "front": "Indirect Method"
+        },
+        {
+          "back": "An item that does not involve the movement of cash, such as depreciation, goodwill written-off, or acquisition of assets by issuing shares.",
+          "front": "Non-cash item"
+        },
+        {
+          "back": "Payment of interest on debentures and long-term loans and advances.",
+          "front": "Interest Paid"
+        },
+        {
+          "back": "Dividends received from investments in other enterprises.",
+          "front": "Dividend Received"
+        }
+      ],
+      "id": "chapter6",
+      "longAnswerQuestions": [
+        {
+          "answer150Words": "The procedure to prepare a Cash Flow Statement involves three main steps, aligning with the classification of activities as per AS-3. First, calculate Cash Flows from Operating Activities, which represent the cash generated from the primary revenue-generating activities. This is typically done using the indirect method, starting with net profit and adjusting for non-cash items (like depreciation, goodwill amortized), non-operating items (like profit/loss on sale of assets, interest/dividend income/expense), and changes in working capital (current assets and liabilities). Second, calculate Cash Flows from Investing Activities, which include cash movements related to the acquisition and disposal of long-term assets (e.g., machinery, land) and investments not classified as cash equivalents. This section shows how a company uses cash for long-term growth or generates cash from selling long-term assets. Third, calculate Cash Flows from Financing Activities, which involve cash flows from changes in owners' capital and borrowings (e.g., issue/redemption of shares/debentures, raising/repaying loans, dividends paid). This section highlights how a company raises and repays capital. Finally, the net cash flow from these three activities is added to the opening cash and cash equivalents to arrive at the closing cash and cash equivalents, which must reconcile with the balance sheet figure.",
+          "answer200Words": "The preparation of a Cash Flow Statement follows a structured procedure, categorizing all cash movements into three distinct activities as per AS-3. The first segment focuses on Cash Flows from Operating Activities. This is commonly prepared using the indirect method, where the starting point is the net profit or loss. This figure is then adjusted for all non-cash expenses (such as depreciation, amortization of intangible assets, and provisions) and non-operating incomes and expenses (like profit or loss on the sale of fixed assets, interest received, and dividend received) to arrive at the operating profit before working capital changes. Subsequently, adjustments are made for changes in current assets and current liabilities (excluding cash and cash equivalents) to determine the cash generated from operations before tax and extraordinary items. Income tax paid and extraordinary items are then adjusted to yield the net cash from operating activities.\n\nThe second segment is Cash Flows from Investing Activities. This section records cash inflows from the sale of long-term assets (tangible, intangible, and non-current investments) and cash outflows for their purchase. It also includes interest and dividends received from investments. This provides insight into how a company invests its resources for future income. The third segment is Cash Flows from Financing Activities, which details cash inflows from issuing shares and debentures, and raising long-term loans, as well as cash outflows for repaying loans, redeeming preference shares, and paying interest and dividends. This section reveals how the company manages its capital structure. Finally, the net increase or decrease from these three activities is added to the opening balance of cash and cash equivalents to reconcile with the closing balance of cash and cash equivalents from the balance sheet.",
+          "answer50To75Words": "Preparing a Cash Flow Statement involves categorizing cash inflows and outflows into three main activities. First, Operating Activities show cash from core business, typically adjusted from net profit for non-cash and non-operating items, plus working capital changes. Second, Investing Activities cover cash from buying/selling long-term assets. Third, Financing Activities account for cash from debt and equity transactions. The net sum of these flows, combined with opening cash, reconciles to closing cash balance.",
+          "text": "Describe the procedure to prepare Cash Flow Statement.",
+          "title": "Procedure for Cash Flow Statement"
+        },
+        {
+          "answer150Words": "The indirect method of ascertaining cash flow from operating activities starts with the net profit or loss before tax and extraordinary items, as reported in the Statement of Profit and Loss. The core idea is to convert this accrual-based profit into a cash-based figure. To achieve this, adjustments are made for items that affect net profit but do not involve cash, such as depreciation, amortization of goodwill, and provisions. These non-cash expenses are added back. Additionally, adjustments are made for non-operating items that are included in the Statement of Profit and Loss but relate to investing or financing activities. For example, profit on the sale of a fixed asset (an investing income) is deducted, while finance costs (a financing expense) are added back. Finally, changes in current assets (excluding cash and cash equivalents) and current liabilities are adjusted. An increase in a current asset or decrease in a current liability represents a cash outflow and is deducted, while a decrease in a current asset or increase in a current liability represents a cash inflow and is added. The result is the cash generated from operations, which is then adjusted for income tax paid and extraordinary items to arrive at the net cash flow from operating activities.",
+          "answer200Words": "The indirect method is a widely adopted approach for determining cash flow from operating activities, primarily because it begins with the net profit or loss as reported in the Statement of Profit and Loss, which is readily available. The fundamental principle of this method is to adjust this accrual-based net profit figure to reflect the actual cash generated or used by core business operations. This conversion involves several key adjustments. Firstly, non-cash expenses and incomes, which impact the net profit but do not involve any cash movement, are reversed. Examples include adding back depreciation, amortization of intangible assets like goodwill, and provisions for doubtful debts. Secondly, non-operating items, which are included in the Statement of Profit and Loss but relate to investing or financing activities, are eliminated. For instance, any profit on the sale of an asset (an investing activity income) is deducted, while interest paid (a financing activity expense) is added back. These adjustments ensure that only items pertaining to core operations remain. Lastly, adjustments are made for changes in current assets (excluding cash and cash equivalents) and current liabilities. An increase in a current asset (e.g., trade receivables, inventories) implies cash has been tied up, thus it's deducted. Conversely, a decrease in a current asset indicates cash has been received, so it's added. Similarly, an increase in a current liability (e.g., trade payables, outstanding expenses) means less cash was paid, so it's added, while a decrease means cash was paid, so it's deducted. After these adjustments, income tax paid and any extraordinary items are considered to arrive at the final net cash flow from operating activities.",
+          "answer50To75Words": "The indirect method for operating cash flow starts with net profit before tax and extraordinary items. It adjusts this accrual-based figure by adding back non-cash expenses (e.g., depreciation) and non-operating expenses, and deducting non-operating incomes. Finally, changes in current assets and liabilities are adjusted: increase in current assets and decrease in current liabilities are deducted, while decrease in current assets and increase in current liabilities are added. This converts profit to cash flow from operations.",
+          "text": "Describe “Indirect” method of ascertaining Cash Flow from operating activities.",
+          "title": "Indirect Method for Operating Cash Flow"
+        },
+        {
+          "answer150Words": "Cash inflows from investing activities primarily arise from the disposal of long-term assets and investments. This includes cash received from selling fixed assets (like machinery, land, buildings) and intangible assets (like patents, goodwill). Additionally, cash receipts from the repayment of advances or loans made to third parties (unless it's a financial enterprise) and proceeds from the disposal of shares, warrants, or debt instruments of other enterprises (except those held for trading) are considered investing inflows. Interest received in cash from loans and advances, and dividends received from investments in other enterprises, also contribute to investing inflows. These inflows represent the monetization of long-term assets or returns from strategic investments.",
+          "answer200Words": "Major cash inflows from investing activities represent the monetization of a company's long-term assets and strategic investments. Firstly, significant cash inflows arise from the disposal of tangible fixed assets, such as the sale of old machinery, land, buildings, or vehicles. These sales convert non-current assets back into cash. Secondly, the disposal of intangible assets, like patents, trademarks, or copyrights, also generates cash inflows if they are sold. Thirdly, when a company provides advances or loans to other parties (excluding financial enterprises whose primary business is lending), the repayment of these advances or loans results in a cash inflow from investing activities. Fourthly, proceeds from the disposal of investments in the equity or debt instruments of other enterprises, provided these instruments are not held for trading purposes, are classified here. Lastly, a crucial source of investing cash inflow for non-financial enterprises is the income generated from their investments. This includes interest received in cash from loans and advances extended, and dividends received in cash from investments made in the shares of other companies. These inflows demonstrate the company's ability to generate cash from its long-term asset base and investment portfolio.",
+          "answer50To75Words": "Major cash inflows from investing activities include cash received from selling fixed assets (e.g., machinery, land) and intangible assets (e.g., patents). Also, cash receipts from the repayment of loans given to third parties and proceeds from selling investments in other companies are investing inflows. Interest and dividends received from such investments are also classified here.",
+          "text": "Explain the major Cash Inflows and outflows from investing activities.",
+          "title": "Cash Inflows from Investing Activities"
+        },
+        {
+          "answer150Words": "Cash outflows from investing activities involve the strategic deployment of cash to acquire long-term assets that are intended to generate future income and cash flows. The primary outflows include cash payments made to acquire fixed assets, encompassing both tangible assets (e.g., machinery, buildings, vehicles) and intangible assets (e.g., patents, capitalised research and development costs). Another significant outflow is cash payments to acquire shares, warrants, or debt instruments of other enterprises, specifically those not held for trading purposes, as these represent long-term strategic investments. Furthermore, cash advances and loans made to third parties (excluding those made by financial enterprises as part of their core operations) are classified as investing outflows. These outflows reflect the company's investment in its long-term operational capacity and its external investment portfolio.",
+          "answer200Words": "Major cash outflows from investing activities signify a company's commitment to long-term growth and future income generation. The most prominent outflow is cash payments to acquire fixed assets. This category encompasses both tangible assets like property, plant, and equipment (e.g., purchasing new machinery, constructing a factory, buying land and buildings) and intangible assets (e.g., acquiring patents, copyrights, or capitalising research and development expenditures). These expenditures are essential for expanding operational capacity or enhancing competitive advantage. Secondly, cash is often used to acquire investments in other enterprises. This includes cash payments to purchase shares, warrants, or debt instruments of other companies, provided these are held for long-term strategic purposes rather than for short-term trading. Such investments aim to yield future returns through dividends, interest, or capital appreciation. Thirdly, cash advances and loans made to third parties constitute an investing outflow. This typically applies to non-financial enterprises extending credit to affiliates, employees, or other entities, distinct from a bank's lending operations. These outflows demonstrate a company's investment strategy, reflecting its use of cash to build and maintain its productive asset base and long-term financial interests, crucial for sustaining and growing future cash flows.",
+          "answer50To75Words": "Major cash outflows from investing activities primarily include cash payments to acquire fixed assets, both tangible (like machinery, buildings) and intangible (like patents). Also, cash used to purchase shares or debt instruments of other enterprises (not for trading) and cash advances/loans made to third parties (for non-financial firms) are investing outflows. These signify investment in future growth.",
+          "text": "Explain the major Cash Inflows and outflows from investing activities.",
+          "title": "Cash Outflows from Investing Activities"
+        },
+        {
+          "answer150Words": "Cash inflows from financing activities represent money raised from external sources to fund the company's operations and investments. These include cash proceeds from issuing new equity shares (both common and preference shares) to raise capital from owners. Also, cash proceeds from issuing debentures, bonds, and other short-term or long-term borrowings from financial institutions or the public are significant financing inflows. These inflows increase the company's capital base and debt, providing liquidity for expansion, working capital, or asset acquisitions. They indicate how a company obtains funds from its capital providers to finance its activities.",
+          "answer200Words": "Major cash inflows from financing activities illustrate how a company raises capital from its owners and creditors to fund its operations, investments, and growth strategies. The primary source of financing inflow is the cash proceeds received from issuing shares. This includes both equity shares and preference shares, where funds are obtained from shareholders in exchange for ownership stakes. These funds boost the company's capital base without incurring debt obligations, though they imply a future commitment to shareholders (e.g., dividends). Another significant inflow comes from various forms of borrowings. This encompasses cash proceeds from issuing debentures (long-term debt instruments), bonds, and other short-term or long-term loans from banks or other financial institutions. These borrowings provide capital that needs to be repaid over time, typically with interest. The inflow from financing activities is crucial for companies undertaking substantial expansion projects, acquiring other businesses, or simply needing to bolster their working capital. It reflects the company's strategy in managing its capital structure, balancing equity and debt to optimize its financial resources for its strategic objectives.",
+          "answer50To75Words": "Major cash inflows from financing activities include cash proceeds from issuing equity and preference shares, raising capital from owners. Additionally, cash received from issuing debentures, bonds, and various short-term or long-term bank loans are significant financing inflows. These funds increase the company's capital base and debt, providing liquidity for operations and investments.",
+          "text": "Explain the major Cash Inflows and outflows from financing activities.",
+          "title": "Cash Inflows from Financing Activities"
+        },
+        {
+          "answer150Words": "Cash outflows from financing activities relate to the repayment of funds obtained from owners and creditors, along with the costs associated with these funds. The most common outflows include cash repayments of borrowed amounts, such as the principal amount of bank loans, debentures, or bonds. Another significant outflow is interest paid on debentures and long-term loans and advances, representing the cost of debt financing. Furthermore, dividends paid on equity and preference share capital constitute a major financing outflow, as these are distributions of profit to the company's owners. These outflows demonstrate how a company services its debt obligations, returns capital to its lenders, and distributes profits to its shareholders, providing insights into its financial stability and shareholder return policy.",
+          "answer200Words": "Major cash outflows from financing activities reveal how a company utilizes cash to service its capital structure, including both debt and equity components. Firstly, a significant outflow is the cash repayments of amounts borrowed. This includes the repayment of the principal amount of long-term loans from banks or other financial institutions, as well as the redemption of debentures or bonds. These repayments reduce the company's debt burden and are a direct outflow of cash. Secondly, interest paid on these borrowings, whether on debentures, long-term loans, or advances, constitutes a financing cash outflow. This represents the cost of servicing the company's debt. Thirdly, dividends paid on both equity and preference share capital are substantial financing outflows. These are distributions of profits to shareholders and directly reduce the cash available to the company. Additionally, buyback of own equity shares is another form of financing outflow, where the company uses cash to repurchase its own shares from the market, reducing the number of outstanding shares. These outflows collectively indicate the company's commitments to its capital providers—both lenders and shareholders—and its ability to fulfill these obligations. They are critical for evaluating the company's financial discipline and its policy towards returning value to investors.",
+          "answer50To75Words": "Major cash outflows from financing activities include cash repayments of borrowed amounts (e.g., bank loans, debentures). Interest paid on long-term loans and debentures is also a financing outflow. Lastly, dividends paid on equity and preference share capital represent cash distributions to owners and are classified under financing activities. These outflows show how a company manages its financial obligations and shareholder returns.",
+          "text": "Explain the major Cash Inflows and outflows from financing activities.",
+          "title": "Cash Outflows from Financing Activities"
+        }
+      ],
+      "mindmap": [
+        {
+          "definition": "A financial statement showing inflows and outflows of cash and cash equivalents, classified into operating, investing, and financing activities.",
+          "explanation": "The Cash Flow Statement provides insights into the liquidity and solvency of an enterprise by detailing how cash is generated and used from various activities over a period.",
+          "keyPoints": [
+            "Shows inflows and outflows of cash and cash equivalents.",
+            "Classifies cash flows into three main activities: operating, investing, and financing.",
+            "Prepared as per Accounting Standard-3 (AS-3) in India.",
+            "Helps users assess a company's ability to generate and utilize cash."
+          ],
+          "title": "Cash Flow Statement",
+          "points": [
+            {
+              "explanation": "To provide useful information about cash flows (inflows and outflows) under operating, investing, and financing activities, enabling users to assess cash generation ability and utilization needs.",
+              "title": "Objectives"
+            },
+            {
+              "explanation": "Enhances evaluation of changes in net assets, financial structure (liquidity and solvency), adaptability to changing circumstances, comparability of operating performance, and accuracy of past cash flow assessments.",
+              "title": "Benefits"
+            },
+            {
+              "explanation": "'Cash' comprises cash in hand and demand deposits with banks. 'Cash equivalents' are short-term, highly liquid investments (e.g., maturity of 3 months or less) readily convertible to known amounts of cash with insignificant risk of value changes.",
+              "title": "Cash and Cash Equivalents"
+            }
+          ]
+        },
+        {
+          "definition": "Activities that constitute the primary or main revenue-generating operations of an enterprise.",
+          "explanation": "These are the principal activities of a business that are not investing or financing activities, reflecting the core operations' ability to generate cash.",
+          "keyPoints": [
+            "Principal revenue-generating activities.",
+            "Indicates internal solvency level.",
+            "Not investing or financing activities.",
+            "Examples: cash receipts from sale of goods/services, payments to suppliers/employees."
+          ],
+          "title": "Operating Activities"
+        },
+        {
+          "definition": "Acquisition and disposal of long-term assets and other investments not included in cash equivalents.",
+          "explanation": "These activities reflect how a company invests in assets intended to generate future income and cash flows, or disposes of such assets.",
+          "keyPoints": [
+            "Relate to purchase and sale of fixed assets (tangible & intangible).",
+            "Include transactions related to long-term investments.",
+            "Examples: cash payments to acquire machinery, cash receipts from disposal of fixed assets, interest/dividend received from investments (for non-financial firms)."
+          ],
+          "title": "Investing Activities"
+        },
+        {
+          "definition": "Activities that result in changes in the size and composition of the owners’ capital and borrowings of the enterprise.",
+          "explanation": "These activities show how a company raises capital from and repays capital to its owners and lenders.",
+          "keyPoints": [
+            "Relate to long-term funds or capital.",
+            "Examples: cash proceeds from issuing shares/debentures, raising/repaying long-term loans, interest paid on borrowings, dividends paid."
+          ],
+          "title": "Financing Activities"
+        },
+        {
+          "definition": "Non-recurring events that are outside the normal course of business, such as losses due to theft or natural disasters.",
+          "explanation": "Cash flows associated with these items are classified and disclosed separately to enable users to understand their nature and effect on cash flows.",
+          "keyPoints": [
+            "Non-recurring in nature.",
+            "Disclosed separately from operating, investing, or financing activities.",
+            "Example: loss due to earthquake or flood."
+          ],
+          "title": "Extraordinary Items"
+        },
+        {
+          "definition": "Cash movements related to taxes on income, categorized based on the underlying activity.",
+          "explanation": "AS-3 requires separate disclosure and classification of taxes on income based on their origin (operating, investing, or financing).",
+          "keyPoints": [
+            "Tax on operating profit is operating cash flow.",
+            "Dividend tax is financing activity.",
+            "Capital gains tax on sale of fixed assets is investing activity."
+          ],
+          "title": "Taxes on Income and Gains"
+        },
+        {
+          "definition": "Transactions that affect the financial position but do not require the use of cash or cash equivalents.",
+          "explanation": "These transactions are excluded from the cash flow statement as they do not impact cash flows during the period, but should be disclosed elsewhere.",
+          "keyPoints": [
+            "Do not involve actual cash movement.",
+            "Examples: acquisition of machinery by issue of shares, redemption of debentures by issue of equity shares.",
+            "Excluded from cash flow statement but disclosed elsewhere."
+          ],
+          "title": "Non-Cash Transactions"
+        },
+        {
+          "definition": "Methods used to present cash flows from operating activities.",
+          "explanation": "AS-3 allows for two methods: Direct (major classes of gross cash receipts/payments) and Indirect (adjusting net profit).",
+          "keyPoints": [
+            "Direct Method: Discloses gross cash receipts and payments.",
+            "Indirect Method: Adjusts net profit for non-cash, non-operating items, and working capital changes.",
+            "Indirect method is more commonly used in practice."
+          ],
+          "title": "Methods of Reporting Operating Cash Flow"
+        }
+      ],
+      "story": [
+        {
+          "storyParts": [
+            {
+              "speaker": "Neil",
+              "text": "Kanishq, our quarterly board meeting is approaching, and this time, I want to focus extensively on our Cash Flow Statement. We've seen tremendous growth, but profit alone doesn't tell the whole story, right?"
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Absolutely, Neil. The Cash Flow Statement is critical. It’s like the bloodstream of our company, showing how cash actually moves in and out. Unlike the Income Statement which is accrual-based, the Cash Flow Statement gives us a true picture of our liquidity and solvency. It's guided by Accounting Standard-3, remember?"
+            },
+            {
+              "speaker": "Neil",
+              "text": "Yes, AS-3. It's mandatory for us. So, let's break it down. First, 'Cash and Cash Equivalents'. For KnowledgeCompass, that’s pretty straightforward, right? Our cash in hand and bank deposits, plus any short-term investments we can quickly convert, like those government T-bills we hold with a 2-month maturity."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Precisely. Anything with a maturity of three months or less, and negligible risk of value change. Now, for the core of the statement: the three activities. Let's start with 'Operating Activities'. These are our bread and butter, the principal revenue-generating activities. For us, that's cash from course subscriptions, premium content sales, and perhaps licensing our EdTech platform to other institutions. And outflows would be employee salaries, server costs, marketing expenses, and payments to our content creators."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Right. Operating cash flow shows if our core business can sustain itself. Then there's 'Investing Activities'. This is where we see our growth strategy. Buying new, more powerful servers for our AI modules, acquiring smaller EdTech startups, or even investing in a new office building for our expanding team – those are all cash outflows from investing. And if we sold off an old server farm or received interest from a strategic loan we gave, those would be inflows."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Exactly. Investing activities show how we deploy cash for future growth. Finally, 'Financing Activities'. This deals with our capital structure. When we issued new equity shares last year, that was a huge cash inflow from financing. If we take out a new bank loan or repay an old one, or pay dividends to our shareholders, those are financing activities. These show how we're funding our operations and investments."
+            },
+            {
+              "speaker": "Neil",
+              "text": "So, it’s about balancing these three. Operating for sustainability, Investing for growth, and Financing for capital. What about unusual events, like when we had that unexpected insurance payout for the flood damage at our old data center? How do 'Extraordinary Items' fit in?"
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Good question! Extraordinary items, like that insurance payout, are classified separately to make their impact clear. Even though it's a cash inflow, it's not part of our regular operations. Similarly, if we pay income tax, that usually falls under operating activities, but if it’s a dividend distribution tax, it's a financing outflow. It’s all about the nature of the underlying activity."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Got it. And the methods? We primarily use the indirect method for operating activities, right? It starts with our net profit and adjusts for all those non-cash items like depreciation on our servers or goodwill amortization from our recent acquisition. It also adjusts for changes in current assets and liabilities, like if our trade receivables increased, meaning less cash came in."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Yes, the indirect method is more common because it links directly to our accrual-based profit and loss statement. The direct method, while conceptually simpler by showing gross cash receipts and payments, is often harder to prepare. Ultimately, both methods lead to the same net cash flow from operating activities. The key is that the Cash Flow Statement complements our Income Statement and Balance Sheet, giving us a holistic view of KnowledgeCompass's financial health, beyond just profits on paper."
+            }
+          ],
+          "title": "Understanding KnowledgeCompass's Cash Flow"
+        }
+      ],
+      "title": "Cash Flow Statement",
+      "unitName": "Analysis of Financial Statements",
+      "unitNumber": 6
+    },
+    {
+      "caseStudy": [],
+      "exercises": {
+        "mcq": [],
+        "numericalQuestions": [],
+        "oneWord": [],
+        "shortAnswer1": [],
+        "shortAnswer2": [],
+        "trueFalse": []
+      },
+      "flashcards": [],
+      "id": "chapter2",
+      "longAnswerQuestions": [],
+      "mindmap": [],
+      "story": [],
+      "title": "Principles of Accounting",
+      "unitName": "Fundamentals of Accounting",
+      "unitNumber": 1
+    }
+  ],
+  "metadata": {
+    "chapterTitle": "Cash Flow Statement",
+    "description": "This chapter introduces the Cash Flow Statement, a key financial report classifying cash inflows and outflows into operating, investing, and financing activities, crucial for assessing a company's liquidity and solvency."
+  }
+}
