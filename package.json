@@ -1,0 +1,28 @@
+{
+  "name": "accountancy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunenaB3504/Accountancy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SunenaB3504/Accountancy/issues"
+  },
+  "homepage": "https://github.com/SunenaB3504/Accountancy#readme",
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "express": "^5.1.0",
+    "livereload": "^0.9.3",
+    "livereload-js": "^4.0.2"
+  }
+}

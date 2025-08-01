@@ -1,0 +1,1149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numerical Questions - Accountancy</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ctext y='50%' x='50%' text-anchor='middle' dominant-baseline='central' font-size='48'%3E%F0%9F%94%8D%3C/text%3E%3C/svg%3E">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+    <style>
+      /* Enhanced style for pipe-to-table tables in numerical questions */
+      .numq-table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+        margin: 16px 0;
+        background: #f8fbff;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+      }
+      .numq-table th {
+        background: #e6f4ff;
+        color: #1e3a8a;
+        font-weight: bold;
+        text-align: left;
+        padding: 10px 8px;
+        border-bottom: 2px solid #b6e0fe;
+        font-size: 1.05em;
+        white-space: normal;
+        word-break: break-word;
+        vertical-align: middle;
+      }
+      .numq-table td {
+        background: #f8fbff;
+        color: #222;
+        padding: 10px 8px;
+        border-bottom: 1px solid #e0e7ef;
+        text-align: left;
+        font-size: 1em;
+        vertical-align: top;
+        word-break: break-word;
+      }
+      .numq-table tr:last-child td {
+        border-bottom: none;
+      }
+      .numq-table tr:nth-child(even) td {
+        background: #eaf6ff;
+      }
+      .numq-table th, .numq-table td {
+        border-right: 1px solid #e0e7ef;
+      }
+      .numq-table th:last-child, .numq-table td:last-child {
+        border-right: none;
+      }
+      .numq-table tr {
+        transition: background 0.2s;
+      }
+      .numq-table tr:hover td {
+        background: #dbeafe;
+      }
+      table { width: 100%; border-collapse: collapse; margin: 20px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.1); background-color: #fff; }
+      th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
+      th { background-color: #e6f7ff; font-weight: bold; color: #333; }
+      .amount, .debit, .credit { text-align: right; }
+      .journal-narration { font-style: italic; color: #555; }
+      .t-account-container { display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-top: 20px; }
+      .t-account { border: 2px solid #a0a0a0; border-radius: 8px; padding: 15px; width: 350px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); background-color: #fff; }
+      .t-account-header { text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 10px; border-bottom: 2px solid #a0a0a0; padding-bottom: 5px; color: #333; }
+      .t-account-body { display: flex; }
+      .t-account-column { flex: 1; padding: 5px; }
+      .t-account-column:first-child { border-right: 1px solid #ddd; }
+      .t-entry { display: flex; justify-content: space-between; padding: 3px 0; }
+      .t-label { font-style: italic; color: #666; }
+      .t-amount { font-weight: bold; }
+      .t-balance { border-top: 2px solid #000; margin-top: 15px; padding-top: 8px; font-weight: bold; text-align: right; color: #0056b3; }
+      .financial-statement table { width: 65%; margin-left: auto; margin-right: auto; }
+      .section-header { font-weight: bold; background-color: #f0f8ff; border-bottom: 2px solid #6699ff; color: #333; }
+      .account-name-indent { padding-left: 30px; }
+      .subtotal { font-weight: bold; text-align: right; border-top: 1px solid #000; border-bottom: 1px solid #000; padding-top: 8px; padding-bottom: 8px; background-color: #e6ffe6; color: #006400; }
+      .final-total { font-weight: bold; text-align: right; border-top: 3px double #000; padding-top: 15px; font-size: 1.1em; color: #b30000; }
+      .cashbook-header-section { background-color: #d1efff; font-weight: bold; text-align: center; border: 1px solid #a0a0a0; }
+      .cashbook-column-header { background-color: #e6f7ff; text-align: center; }
+      .cashbook-particulars { width: 20%; }
+      .cashbook-date { width: 10%; }
+      .cashbook-narrow { width: 7%; text-align: center; }
+      .cashbook-amount { text-align: right; }
+      .cashbook-total-row { font-weight: bold; background-color: #cceeff; font-size: 1.1em; }
+
+      /* Flashcard styles from chapter1.html */
+      .flashcard-container {
+        perspective: 1000px;
+        width: 480px;
+        margin: 0 auto 20px auto;
+      }
+      .flashcard-inner {
+        position: relative;
+        width: 100%;
+        height: 180px;
+        transition: transform 0.6s;
+        transform-style: preserve-3d;
+        cursor: pointer;
+      }
+      .flashcard-container.is-flipped .flashcard-inner {
+        transform: rotateY(180deg);
+      }
+      .flashcard-face {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        backface-visibility: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.3em;
+        border-radius: 12px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        background: #f9fafb;
+      }
+      .flashcard-front {
+        background: #e0f2fe;
+        color: #0369a1;
+      }
+      .flashcard-back {
+        background: #fef9c3;
+        color: #92400e;
+        transform: rotateY(180deg);
+      }
+
+      /* Accordion styles for Exercises section */
+      .accordion-item {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        margin-bottom: 10px;
+        overflow: hidden;
+      }
+      .accordion-header {
+        background-color: #f0f8ff;
+        color: #333;
+        cursor: pointer;
+        padding: 10px 15px;
+        font-weight: bold;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .accordion-content {
+        background-color: #fff;
+        padding: 10px 15px;
+        border-top: 1px solid #ddd;
+      }
+      .accordion-content.hidden {
+        display: none;
+      }
+
+      /* Section block and heading for better separation and uniformity */
+      .section-block {
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        margin-bottom: 32px;
+        padding: 32px 24px 24px 24px;
+        border: 1.5px solid #e0e7ef;
+      }
+      .section-heading {
+        font-size: 2rem;
+        font-weight: 700;
+        color: #1e3a8a;
+        margin-bottom: 18px;
+        letter-spacing: 0.01em;
+        text-align: left;
+        border-bottom: 2.5px solid #b6e0fe;
+        padding-bottom: 8px;
+        background: linear-gradient(90deg, #e6f4ff 60%, #f8fbff 100%);
+        border-radius: 6px 6px 0 0;
+        box-shadow: 0 1px 0 #e6f4ff;
+      }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <header class="bg-gradient-to-r from-blue-900 to-blue-600 text-white shadow-lg mb-8 rounded-b-xl">
+      <nav class="flex items-center justify-between px-6 py-4">
+        <div class="flex items-center gap-4">
+          <button onclick="window.location.href='index.html'" class="bg-white text-blue-900 font-semibold px-4 py-2 rounded hover:bg-blue-100 shadow transition">Home</button>
+        </div>
+        <div class="flex-1 text-center">
+          <h1 class="text-3xl font-bold tracking-wide">Accountancy</h1>
+          <div id="chapter-meta" class="text-lg font-medium text-blue-100 mt-1"></div>
+        </div>
+        <div>
+          <button id="searchBtn" class="bg-white text-blue-900 font-semibold px-4 py-2 rounded hover:bg-blue-100 shadow transition">Search</button>
+        </div>
+      </nav>
+    </header>
+    <div class="container mx-auto p-4">
+      <!-- Story Section (Collapsible + Audio) -->
+      <section class="section-block">
+        <h2 class="section-heading">Story</h2>
+        <button id="storyAccordionBtn" class="w-full text-left px-4 py-2 bg-blue-100 border border-blue-300 rounded-t focus:outline-none" aria-expanded="false">
+          <span class="font-bold text-blue-900">KnowledgeCompass - The Journey of a Partnership</span>
+          <span class="float-right">▼</span>
+        </button>
+        <div id="storyAccordionContent" class="hidden border border-blue-300 border-t-0 rounded-b bg-white p-4">
+          <div id="fullStoryContent"></div>
+          <div class="mt-4 flex gap-2 items-center">
+            <button id="playFullStoryAudio" class="px-3 py-1 bg-green-200 rounded">Play</button>
+            <button id="pauseFullStoryAudio" class="px-3 py-1 bg-yellow-200 rounded">Pause</button>
+            <button id="stopFullStoryAudio" class="px-3 py-1 bg-red-200 rounded">Stop</button>
+            <span id="storyAudioStatus" class="ml-2 text-sm text-gray-700"></span>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-block">
+        <h2 class="section-heading">Mindmap</h2>
+        <div id="mindmap-content" class="mb-4"></div>
+      </section>
+
+      <section class="section-block">
+        <h2 class="section-heading">Flashcards</h2>
+        <div id="flashcards" class="mb-2"></div>
+        <div id="flashcard-count" class="text-sm text-gray-600 mb-2"></div>
+        <button id="prevFlashcardBtn" class="px-3 py-1 bg-blue-500 text-white rounded mr-2">Previous</button>
+        <button id="nextFlashcardBtn" class="px-3 py-1 bg-blue-500 text-white rounded">Next</button>
+      </section>
+
+      <section class="section-block">
+        <h2 class="section-heading">Exercises</h2>
+        <div id="exercise-ddate" class="mb-2 text-sm text-gray-700"></div>
+        <div id="exercises"></div>
+      </section>
+
+      <section class="section-block">
+        <h2 class="section-heading">Long Answer Questions</h2>
+        <div id="long-answer-content"></div>
+      </section>
+
+      <section class="section-block">
+        <h2 class="section-heading">Numerical Questions</h2>
+        <div id="numerical-questions-content"></div>
+      </section>
+
+      <div id="global-debug-area" style="display:none;" class="bg-yellow-100 border border-yellow-300 rounded p-2 mt-4">
+        <strong>Debug:</strong>
+        <div id="debug-messages" class="text-sm"></div>
+      </div>
+    </div>
+    <script>
+    // --- Mindmap Render ---
+    function renderMindmap(chapterData) {
+        const mindmapDiv = document.getElementById('mindmap-content');
+        if (!chapterData || !chapterData.mindmap || !chapterData.mindmap.length) {
+            mindmapDiv.innerHTML = '<em>No mindmap available.</em>';
+            return;
+        }
+        mindmapDiv.innerHTML = '';
+        chapterData.mindmap.forEach((root, idx) => {
+            mindmapDiv.appendChild(createMindmapNode(root, 0, `root-${idx}`));
+        });
+    }
+    function createMindmapNode(node, level, idPrefix) {
+        const container = document.createElement('div');
+        container.className = `mb-2 ml-${level * 4}`;
+        const header = document.createElement('button');
+        header.className = 'w-full text-left font-semibold py-2 px-3 rounded bg-yellow-100 hover:bg-yellow-200 border border-yellow-300';
+        header.textContent = node.title || 'Untitled';
+        header.setAttribute('aria-expanded', 'false');
+        header.setAttribute('aria-controls', `${idPrefix}-body`);
+        header.onclick = function() {
+            body.classList.toggle('hidden');
+            header.setAttribute('aria-expanded', body.classList.contains('hidden') ? 'false' : 'true');
+        };
+        container.appendChild(header);
+        const body = document.createElement('div');
+        body.className = 'hidden bg-white border border-yellow-200 rounded p-3 mt-1';
+        body.id = `${idPrefix}-body`;
+        if (node.definition) {
+            body.innerHTML += `<div class="mb-2"><strong>Definition:</strong> ${node.definition}</div>`;
+        }
+        if (node.explanation) {
+            body.innerHTML += `<div class="mb-2"><strong>Explanation:</strong> ${node.explanation}</div>`;
+        }
+        if (node.example) {
+            body.innerHTML += `<div class="mb-2"><strong>Example:</strong> ${node.example}</div>`;
+        }
+        if (node.keyPoints && node.keyPoints.length) {
+            body.innerHTML += `<div class="mb-2"><strong>Key Points:</strong><ul class="list-disc ml-6">${node.keyPoints.map(kp => `<li>${kp}</li>`).join('')}</ul></div>`;
+        }
+        if (node.otherInfo) {
+            body.innerHTML += `<div class="mb-2"><strong>Other Info:</strong> ${node.otherInfo}</div>`;
+        }
+        if (node.points && node.points.length) {
+            body.innerHTML += `<div class="mt-2"><strong>Sub-Points:</strong></div>`;
+            node.points.forEach((pt, i) => {
+                body.appendChild(createMindmapNode(pt, level + 1, `${idPrefix}-pt${i}`));
+            });
+        }
+        container.appendChild(body);
+        return container;
+    }
+    // --- Debug/Error Area ---
+    // --- Story Section Logic ---
+    document.addEventListener('DOMContentLoaded', function() {
+      // Accordion logic for Dramatic Story
+      const storyBtn = document.getElementById('storyAccordionBtn');
+      const storyContent = document.getElementById('storyAccordionContent');
+      if (storyBtn && storyContent) {
+        storyBtn.addEventListener('click', () => {
+          const expanded = storyBtn.getAttribute('aria-expanded') === 'true';
+          storyBtn.setAttribute('aria-expanded', !expanded);
+          storyContent.classList.toggle('hidden');
+        });
+      }
+    });
+
+    // --- Render Full Story from chapter1.json ---
+    function renderFullStory(chapterData) {
+      // Use the already declared fullStoryDiv
+      // Use storyParts if available (like chapter1.html)
+      const fullStoryDiv = document.getElementById('fullStoryContent');
+      let html = '';
+      let storyData = null;
+      // Prefer story field, fallback to caseStudy/scenario
+      if (chapterData.story && Array.isArray(chapterData.story) && chapterData.story.length > 0) {
+        storyData = chapterData.story;
+      } else if (chapterData.caseStudy && Array.isArray(chapterData.caseStudy) && chapterData.caseStudy[0]) {
+        // Fallback: synthesize storyParts from scenario
+        storyData = [{
+          title: chapterData.caseStudy[0].title || 'Story',
+          storyParts: [
+            { speaker: 'Narrator', richHtml: chapterData.caseStudy[0].scenario }
+          ]
+        }];
+      }
+      if (!storyData) {
+        fullStoryDiv.innerHTML = '<em>No anecdote available.</em>';
+        return;
+      }
+      storyData.forEach((story, storyIdx) => {
+        if (story.title) {
+          html += `<h3 class="text-xl font-bold mb-2 mt-6 text-blue-900">${story.title}</h3>`;
+        }
+        if (story.storyParts && Array.isArray(story.storyParts)) {
+          story.storyParts.forEach((part, idx) => {
+            let avatar = '';
+            if (part.speaker === 'Neil') {
+              avatar = '<span class="inline-block w-8 h-8 rounded-full bg-blue-200 text-blue-900 text-xl mr-2 align-middle">👦</span>';
+            } else if (part.speaker === 'Kanishq') {
+              avatar = '<span class="inline-block w-8 h-8 rounded-full bg-green-200 text-green-900 text-xl mr-2 align-middle">🧑</span>';
+            } else if (part.speaker === 'Narrator') {
+              avatar = '<span class="inline-block w-8 h-8 rounded-full bg-gray-200 text-gray-900 text-xl mr-2 align-middle">🎤</span>';
+            }
+            if (part.richHtml) {
+              html += `<div class="mb-4 p-3 rounded-lg bg-blue-50 shadow flex items-start">${avatar}<div>${part.richHtml}</div></div>`;
+            } else if (part.text) {
+              html += `<div class="mb-4 p-3 rounded-lg bg-blue-50 shadow flex items-start">${avatar}<div>${part.text}</div></div>`;
+            }
+          });
+        }
+      });
+      fullStoryDiv.innerHTML = html;
+
+      // --- SpeechSynthesis-based TTS for Anecdote ---
+      if (!window.speechSynthesis) {
+        document.getElementById('storyAudioStatus').textContent = 'SpeechSynthesis not available.';
+        return;
+      }
+      // Prepare utterances for all storyParts
+      let utterances = [];
+      storyData.forEach(story => {
+        if (story.storyParts && Array.isArray(story.storyParts)) {
+          story.storyParts.forEach(part => {
+            let text = part.richHtml || part.text || '';
+            if (text) {
+              let utter = new window.SpeechSynthesisUtterance(text.replace(/<[^>]+>/g, ''));
+              utterances.push(utter);
+            }
+          });
+        }
+      });
+      let utterIdx = 0;
+      let isPaused = false;
+      let isPlaying = false;
+      let isStopped = true;
+      document.getElementById('playFullStoryAudio').onclick = function() {
+        if (!isPlaying || isStopped) {
+          isPaused = false;
+          isStopped = false;
+          isPlaying = true;
+          if (utterances.length > 0) {
+            window.speechSynthesis.speak(utterances[utterIdx]);
+            document.getElementById('storyAudioStatus').textContent = 'Playing...';
+          }
+        } else if (isPaused) {
+          isPaused = false;
+          isStopped = false;
+          window.speechSynthesis.resume();
+          document.getElementById('storyAudioStatus').textContent = 'Resumed.';
+        }
+      };
+      document.getElementById('pauseFullStoryAudio').onclick = function() {
+        if (isPlaying && !isPaused && !isStopped) {
+          window.speechSynthesis.pause();
+          isPaused = true;
+          document.getElementById('storyAudioStatus').textContent = 'Paused.';
+        }
+      };
+      document.getElementById('stopFullStoryAudio').onclick = function() {
+        if (isPlaying && !isStopped) {
+          window.speechSynthesis.cancel();
+          isPaused = false;
+          isPlaying = false;
+          isStopped = true;
+          document.getElementById('storyAudioStatus').textContent = 'Stopped.';
+        }
+      };
+    }
+
+    // --- Fetch chapter4.json and render all sections with latest data ---
+    let chapterData = null;
+    document.addEventListener('DOMContentLoaded', function() {
+      fetch('chapter4.json')
+        .then(function(res) { return res.json(); })
+        .then(function(data) {
+          chapterData = data.chapters && data.chapters[0];
+          // Render all interactive sections with the latest data
+          renderFullStory(chapterData);
+          renderMindmap(chapterData);
+          // Flashcards: support both chapterData.flashcards and chapterData.caseStudy[0].flashcards
+          if (chapterData.flashcards && chapterData.flashcards.length > 0) {
+            flashcards = chapterData.flashcards;
+          } else if (chapterData.caseStudy && chapterData.caseStudy[0] && chapterData.caseStudy[0].flashcards) {
+            flashcards = chapterData.caseStudy[0].flashcards;
+          } else {
+            flashcards = [];
+          }
+          renderFlashcard();
+          // Exercises: support both chapterData.exercises and chapterData.caseStudy[0].exercises
+          if (chapterData.exercises) {
+            renderExercises();
+          } else if (chapterData.caseStudy && chapterData.caseStudy[0] && chapterData.caseStudy[0].exercises) {
+            chapterData.exercises = chapterData.caseStudy[0].exercises;
+            renderExercises();
+          } else {
+            document.getElementById('exercises').innerHTML = '<em>No exercises available.</em>';
+          }
+          // Long Answer Questions: support both chapterData.longAnswerQuestions and chapterData.caseStudy[0].longAnswerQuestions
+          if (chapterData.longAnswerQuestions) {
+            renderLongAnswer();
+          } else if (chapterData.caseStudy && chapterData.caseStudy[0] && chapterData.caseStudy[0].longAnswerQuestions) {
+            chapterData.longAnswerQuestions = chapterData.caseStudy[0].longAnswerQuestions;
+            renderLongAnswer();
+          } else {
+            document.getElementById('long-answer-content').innerHTML = '<em>No long answer questions available.</em>';
+          }
+          // Numerical Questions: support both chapterData.numericalQuestions and chapterData.exercises.numericalQuestions
+          if (chapterData.numericalQuestions) {
+            renderNumericalQuestions(chapterData.numericalQuestions);
+          } else if (chapterData.exercises && chapterData.exercises.numericalQuestions) {
+            renderNumericalQuestions(chapterData.exercises.numericalQuestions);
+          } else if (chapterData.caseStudy && chapterData.caseStudy[0] && chapterData.caseStudy[0].numericalQuestions) {
+            renderNumericalQuestions(chapterData.caseStudy[0].numericalQuestions);
+          } else {
+            document.getElementById('numerical-questions-content').innerHTML = '<em>No numerical questions available.</em>';
+          }
+          document.getElementById('prevFlashcardBtn').addEventListener('click', prevFlashcard);
+          document.getElementById('nextFlashcardBtn').addEventListener('click', nextFlashcard);
+        });
+    });
+    function showGlobalDebug(msg, isError) {
+        const area = document.getElementById('global-debug-area');
+        const messagesDiv = document.getElementById('debug-messages');
+        if (area && messagesDiv) {
+            area.style.display = 'block';
+            const p = document.createElement('p');
+            p.textContent = msg;
+            p.style.color = isError ? 'red' : 'black';
+            messagesDiv.appendChild(p);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        }
+    }
+    function clearGlobalDebug() {
+        const messagesDiv = document.getElementById('debug-messages');
+        if (messagesDiv) {
+            messagesDiv.innerHTML = '';
+            document.getElementById('global-debug-area').style.display = 'none';
+        }
+    }
+
+    // --- Numerical Questions Render (chapter1_new.json integration) ---
+    function renderNumericalQuestions(questions) {
+        const numDiv = document.getElementById('numerical-questions-content');
+        if (!questions || !Array.isArray(questions) || questions.length === 0) {
+            numDiv.innerHTML = '<em>No numerical questions available.</em>';
+            return;
+        }
+        // Helper to convert pipe-separated text to table
+        function pipeToTable(text) {
+            if (!text || typeof text !== 'string' || text.indexOf('|') === -1) return text;
+            const rows = text.trim().split(/\r?\n/).filter(r => r.includes('|'));
+            if (rows.length === 0) return text;
+            // Detect numeric columns for right alignment
+            const cellMatrix = rows.map(row => row.split('|').map(cell => cell.trim()));
+            const colCount = cellMatrix[0].length;
+            // For each column, check if all (except header) are numbers
+            const isNumericCol = [];
+            for (let c = 0; c < colCount; c++) {
+                let numeric = true;
+                for (let r = 1; r < cellMatrix.length; r++) {
+                    if (cellMatrix[r][c] && isNaN(cellMatrix[r][c].replace(/,/g, ''))) {
+                        numeric = false;
+                        break;
+                    }
+                }
+                isNumericCol[c] = numeric;
+            }
+            let html = '<table class="numq-table">';
+            cellMatrix.forEach((cells, idx) => {
+                html += '<tr>' + cells.map((cell, ci) => {
+                    if (idx === 0) {
+                        // Header: allow word wrap
+                        return `<th style="text-align:${isNumericCol[ci] ? 'right' : 'left'};white-space:normal;word-break:break-word;">${cell}</th>`;
+                    } else {
+                        return `<td style="text-align:${isNumericCol[ci] ? 'right' : 'left'};">${cell}</td>`;
+                    }
+                }).join('') + '</tr>';
+            });
+            html += '</table>';
+            return html;
+        }
+        let html = questions.map(function(q, i) {
+            let out = `<div class="mb-4 p-3 bg-white rounded shadow-sm">`;
+            // Convert question text if pipe-separated
+            let questionText = q.question ? pipeToTable(q.question) : '<em>No question text provided.</em>';
+            out += `<p class="font-medium mb-2">${i + 1}. ${questionText}</p>`;
+            if (q.tableType && q.tableData) {
+                try {
+                    out += renderTable(q.tableType, q.tableData);
+                } catch (err) {
+                    out += `<div class="text-red-600">Error rendering table: ${err.message}</div>`;
+                }
+            }
+            // Convert steps if pipe-separated
+            if (Array.isArray(q.steps) && q.steps.length > 0) {
+                out += `<div class="mb-2"><strong>Guided Solution:</strong></div>`;
+                out += `<ol class="list-decimal list-inside mb-2">${q.steps.map(function(step, si) {
+                    // If step is pipe-separated, render as table, else as text
+                    if (typeof step === 'string' && step.indexOf('|') !== -1) {
+                        return `<li>${pipeToTable(step)}</li>`;
+                    } else {
+                        return `<li>${step ? step : '<em>Step missing</em>'}</li>`;
+                    }
+                }).join('')}</ol>`;
+            }
+            // Convert explanation if pipe-separated
+            if (q.explanation) {
+                let explanationHtml = (typeof q.explanation === 'string' && q.explanation.indexOf('|') !== -1)
+                    ? pipeToTable(q.explanation)
+                    : q.explanation;
+                out += `<div class="bg-blue-50 border border-blue-200 rounded p-2 mt-1 text-sm"><strong>Explanation:</strong> ${explanationHtml}</div>`;
+            }
+            if (!q.question || (!q.tableType && !q.tableData && !q.steps && !q.explanation)) {
+                out += `<div class="text-yellow-700 text-xs mt-2">Debug: Some fields missing in this question object.</div>`;
+            }
+            out += `</div>`;
+            return out;
+        }).join('');
+        numDiv.innerHTML = html;
+    }
+
+    // Dispatcher function for table rendering
+    function renderTable(tableType, tableData) {
+      switch (tableType) {
+        case "journal":
+          return renderJournalTable(tableData);
+        case "TAccount":
+          return renderTAccountTable(tableData);
+        case "trialBalance":
+          return renderTrialBalanceTable(tableData);
+        case "incomeStatement":
+          return renderIncomeStatementTable(tableData);
+        case "balanceSheet":
+          return renderBalanceSheetTable(tableData);
+        case "cashBook":
+          return renderCashBookTable(tableData);
+        default:
+          return "";
+      }
+    }
+
+    // Journal Table Renderer
+    function renderJournalTable(entries) {
+      let html = `<table>\n    <thead>\n      <tr>\n        <th>Date</th>\n        <th>Account</th>\n        <th>Reference (Ref.)</th>\n        <th>Debit ($)</th>\n        <th>Credit ($)</th>\n      </tr>\n    </thead>\n    <tbody>`;
+      const rows = Array.isArray(entries) ? entries : (entries.rows || []);
+      rows.forEach(e => {
+        html += `<tr>\n      <td>${e.date || ""}</td>\n      <td>${e.account || ""}</td>\n      <td>${e.ref || ""}</td>\n      <td class="debit">${e.debit ? e.debit : ""}</td>\n      <td class="credit">${e.credit ? e.credit : ""}</td>\n    </tr>`;
+        if (e.narration) {
+          html += `<tr><td colspan="5" class="journal-narration"><i>${e.narration}</i></td></tr>`;
+        }
+      });
+      html += `</tbody></table>`;
+      return html;
+    }
+
+    // T Account Table Renderer
+    function renderTAccountTable(tableData) {
+      let html = '<div class="t-account-container">';
+      const accounts = tableData.accounts || tableData;
+      accounts.forEach(acc => {
+        html += `<div class="t-account">\n      <div class="t-account-header">${acc.accountName || ''}</div>\n      <div class="t-account-body">\n        <div class="t-account-column">`;
+        if (Array.isArray(acc.debits)) {
+          acc.debits.forEach(d => {
+            html += `<div class="t-entry"><span class="t-label">${d.label}</span> <span class="t-amount">${d.amount}</span></div>`;
+          });
+        }
+        html += `</div>\n        <div class="t-account-column">`;
+        if (Array.isArray(acc.credits)) {
+          acc.credits.forEach(c => {
+            html += `<div class="t-entry"><span class="t-label">${c.label}</span> <span class="t-amount">${c.amount}</span></div>`;
+          });
+        }
+        html += `</div>\n      </div>\n      <div class="t-balance">Balance: ${acc.balance || ''}</div>\n    </div>`;
+      });
+      html += '</div>';
+      return html;
+    }
+
+    // Trial Balance Table Renderer
+    function renderTrialBalanceTable(rows) {
+      let html = `<table class="financial-statement">\n    <thead>\n      <tr>\n        <th>Account Name</th>\n        <th>Debit ($)</th>\n        <th>Credit ($)</th>\n      </tr>\n    </thead>\n    <tbody>`;
+      const dataRows = Array.isArray(rows) ? rows : (rows.rows || []);
+      dataRows.forEach(r => {
+        html += `<tr>\n      <td>${r.accountName || ""}</td>\n      <td class="amount">${r.debit ? r.debit : ""}</td>\n      <td class="amount">${r.credit ? r.credit : ""}</td>\n    </tr>`;
+      });
+      html += `</tbody></table>`;
+      return html;
+    }
+
+    // Income Statement Table Renderer
+    function renderIncomeStatementTable(data) {
+      let html = `<table class="financial-statement">\n    <thead><tr><th colspan="2"></th></tr></thead>\n    <tbody>`;
+      if (data.revenues) {
+        html += `<tr><td class="section-header" colspan="2">Revenues:</td></tr>`;
+        data.revenues.forEach(r => {
+          html += `<tr><td class="account-name-indent">${r.name}</td><td class="amount">${r.amount}</td></tr>`;
+        });
+        html += `<tr><td></td><td class="subtotal">Total Revenues: ${data.totalRevenues}</td></tr>`;
+      }
+      if (data.expenses) {
+        html += `<tr><td class="section-header" colspan="2">Expenses:</td></tr>`;
+        data.expenses.forEach(e => {
+          html += `<tr><td class="account-name-indent">${e.name}</td><td class="amount">${e.amount}</td></tr>`;
+        });
+        html += `<tr><td></td><td class="subtotal">Total Expenses: ${data.totalExpenses}</td></tr>`;
+      }
+      html += `<tr><td></td><td class="final-total">Net Income: ${data.netIncome}</td></tr>`;
+      html += `</tbody></table>`;
+      return html;
+    }
+    function renderBalanceSheetTable(tableData) {
+      let html = `<table class="financial-statement">\n    <thead><tr><th colspan="2"></th></tr></thead><tbody>`;
+      (tableData.rows || []).forEach(row => {
+        html += `<tr>`;
+        html += `<td>${row.particulars || ''}</td>`;
+        html += `<td>${row.amount != null ? row.amount : ''}</td>`;
+        html += `</tr>`;
+      });
+      html += `</tbody></table>`;
+      return html;
+    }
+    // Cash Book Table Renderer
+    function renderCashBookTable(tableData) {
+      let html = `<table>\n    <thead>\n      <tr>\n        <th colspan="6" class="cashbook-header-section">Receipts (Debit)</th>\n        <th colspan="6" class="cashbook-header-section">Payments (Credit)</th>\n      </tr>\n      <tr>\n        <th class="cashbook-date cashbook-column-header">Date</th>\n        <th class="cashbook-particulars cashbook-column-header">Particulars</th>\n        <th class="cashbook-narrow cashbook-column-header">Vou. No.</th>\n        <th class="cashbook-narrow cashbook-column-header">LF</th>\n        <th class="cashbook-column-header">Cash ($)</th>\n        <th class="cashbook-column-header">Bank ($)</th>\n        <th class="cashbook-date cashbook-column-header">Date</th>\n        <th class="cashbook-particulars cashbook-column-header">Particulars</th>\n        <th class="cashbook-narrow cashbook-column-header">Vou. No.</th>\n        <th class="cashbook-narrow cashbook-column-header">LF</th>\n        <th class="cashbook-column-header">Cash ($)</th>\n        <th class="cashbook-column-header">Bank ($)</th>\n      </tr>\n    </thead>\n    <tbody>`;
+      (tableData.rows || []).forEach(row => {
+        html += `<tr>`;
+        html += `<td>${row.receiptDate || ''}</td>`;
+        html += `<td>${row.receiptParticulars || ''}</td>`;
+        html += `<td>${row.receiptVoucherNo || ''}</td>`;
+        html += `<td>${row.receiptLF || ''}</td>`;
+        html += `<td class="cashbook-amount">${row.receiptCash != null ? row.receiptCash : ''}</td>`;
+        html += `<td class="cashbook-amount">${row.receiptBank != null ? row.receiptBank : ''}</td>`;
+        html += `<td>${row.paymentDate || ''}</td>`;
+        html += `<td>${row.paymentParticulars || ''}</td>`;
+        html += `<td>${row.paymentVoucherNo || ''}</td>`;
+        html += `<td>${row.paymentLF || ''}</td>`;
+        html += `<td class="cashbook-amount">${row.paymentCash != null ? row.paymentCash : ''}</td>`;
+        html += `<td class="cashbook-amount">${row.paymentBank != null ? row.paymentBank : ''}</td>`;
+        html += `</tr>`;
+      });
+      if (tableData.totalRow) {
+        html += `<tr class="cashbook-total-row">`;
+        html += `<td></td><td>Total</td><td></td><td></td><td class="cashbook-amount">${tableData.totalRow.receiptCash != null ? tableData.totalRow.receiptCash : ''}</td><td class="cashbook-amount">${tableData.totalRow.receiptBank != null ? tableData.totalRow.receiptBank : ''}</td>`;
+        html += `<td></td><td>Total</td><td></td><td></td><td class="cashbook-amount">${tableData.totalRow.paymentCash != null ? tableData.totalRow.paymentCash : ''}</td><td class="cashbook-amount">${tableData.totalRow.paymentBank != null ? tableData.totalRow.paymentBank : ''}</td>`;
+        html += `</tr>`;
+      }
+      html += `</tbody></table>`;
+      return html;
+    }
+
+    // --- Render numericalQuestions after chapterData is loaded ---
+    // This will be called after chapterData is set in the main fetch above
+    function renderNumericalSectionFromChapterData() {
+        if (!chapterData) {
+            document.getElementById('numerical-questions-content').innerHTML = '<em>No numerical questions available.</em>';
+            return;
+        }
+        let questions = null;
+        if (chapterData.exercises && chapterData.exercises.numericalQuestions) {
+            questions = chapterData.exercises.numericalQuestions;
+        } else if (chapterData.numericalQuestions) {
+            questions = chapterData.numericalQuestions;
+        }
+        renderNumericalQuestions(questions);
+    }
+    // Patch: Call this after all other renders in the main fetch
+    document.addEventListener('DOMContentLoaded', function() {
+        // Wait for the main fetch to complete, then render numerical section
+        // Use a small delay to ensure chapterData is set
+        setTimeout(renderNumericalSectionFromChapterData, 300);
+    });
+
+    // --- Flashcards Render ---
+    let flashcards = [];
+    let flashIndex = 0;
+    function renderFlashcard() {
+        const fcDiv = document.getElementById('flashcards');
+        fcDiv.innerHTML = '';
+        if (!flashcards || !flashcards.length) return;
+        const cardData = flashcards[flashIndex];
+        const cardContainer = document.createElement('div');
+        cardContainer.className = 'flashcard-container';
+        const cardInner = document.createElement('div');
+        cardInner.className = 'flashcard-inner';
+        const cardFront = document.createElement('div');
+        cardFront.className = 'flashcard-face flashcard-front flex items-center justify-center';
+        cardFront.innerHTML = `<span>${cardData.front}</span>`;
+        const cardBack = document.createElement('div');
+        cardBack.className = 'flashcard-face flashcard-back flex items-center justify-center';
+        cardBack.innerHTML = `<span>${cardData.back}</span>`;
+        cardInner.appendChild(cardFront);
+        cardInner.appendChild(cardBack);
+        cardContainer.appendChild(cardInner);
+        cardContainer.addEventListener('click', function() {
+            this.classList.toggle('is-flipped');
+        });
+        fcDiv.appendChild(cardContainer);
+        document.getElementById('flashcard-count').textContent = `Card ${flashIndex + 1} of ${flashcards.length}`;
+    }
+    function prevFlashcard() {
+        flashIndex = (flashIndex - 1 + flashcards.length) % flashcards.length;
+        renderFlashcard();
+    }
+    function nextFlashcard() {
+        flashIndex = (flashIndex + 1) % flashcards.length;
+        renderFlashcard();
+    }
+
+    // --- Exercises Render (copied from chapter1.html) ---
+    function renderExercises() {
+        const exercisesDiv = document.getElementById('exercises');
+        const ddateDiv = document.getElementById('exercise-ddate');
+        if (ddateDiv) {
+            if (chapterData && chapterData.ddate) {
+                ddateDiv.textContent = `Date: ${chapterData.ddate}`;
+            } else {
+                ddateDiv.textContent = '';
+            }
+        }
+        if (!chapterData || !chapterData.exercises) {
+            exercisesDiv.innerHTML = '<em>No exercises available.</em>';
+            return;
+        }
+        let html = '';
+        // Accordion for MCQ
+        if (chapterData.exercises.mcq && chapterData.exercises.mcq.length > 0) {
+            html += `<div class="accordion-item mb-4">
+                <button id="mcqAccordionBtn" class="accordion-header w-full text-left px-4 py-3 bg-indigo-100 hover:bg-indigo-200 font-semibold rounded-t focus:outline-none">Multiple Choice Questions (Show/Hide)</button>
+                <div id="mcqAccordionContent" class="accordion-content px-4 py-3 bg-white border border-t-0 rounded-b hidden">
+                    ${chapterData.exercises.mcq.map((q, i) => `
+                        <div class="mb-4 p-3 bg-white rounded shadow-sm">
+                            <p class="font-medium mb-2">${i + 1}. ${q.question}</p>
+                            <div class="space-y-1">
+                                ${q.options.map((option, optIdx) => `<label class="block"><input type="radio" name="mcq${i}" value="${optIdx}" class="mr-2">${option}</label>`).join('')}
+                            </div>
+                            <div id="mcq-feedback-${i}" class="mt-2 text-sm font-semibold hidden"></div>
+                        </div>
+                    `).join('')}
+                    <button id="checkMCQBtn" class="mt-2 px-4 py-2 bg-purple-600 text-white rounded hover:bg-purple-700">Check Answers</button>
+                </div>
+            </div>`;
+        }
+        // Accordion for True/False
+        if (chapterData.exercises.trueFalse && chapterData.exercises.trueFalse.length > 0) {
+            html += `<div class="accordion-item mb-4">
+                <button id="tfAccordionBtn" class="accordion-header w-full text-left px-4 py-3 bg-indigo-100 hover:bg-indigo-200 font-semibold rounded-t focus:outline-none">True/False Questions (Show/Hide)</button>
+                <div id="tfAccordionContent" class="accordion-content px-4 py-3 bg-white border border-t-0 rounded-b hidden">
+                    ${chapterData.exercises.trueFalse.map((q, i) => `
+                        <div class="mb-4 p-3 bg-white rounded shadow-sm">
+                            <p class="font-medium mb-2">${i + 1}. ${q.question}</p>
+                            <div class="space-x-4">
+                                <label class="inline-flex items-center"><input type="radio" name="tf${i}" value="true" class="mr-1"> True</label>
+                                <label class="inline-flex items-center"><input type="radio" name="tf${i}" value="false" class="mr-1"> False</label>
+                            </div>
+                            <div id="tf-feedback-${i}" class="mt-2 text-sm font-semibold hidden"></div>
+                        </div>
+                    `).join('')}
+                    <button id="checkTFBtn" class="mt-2 px-4 py-2 bg-purple-600 text-white rounded hover:bg-purple-700">Check Answers</button>
+                </div>
+            </div>`;
+        }
+        // Accordion for One Word
+        if (chapterData.exercises.oneWord && chapterData.exercises.oneWord.length > 0) {
+            html += `<div class="accordion-item mb-4">
+                <button id="oneWordAccordionBtn" class="accordion-header w-full text-left px-4 py-3 bg-indigo-100 hover:bg-indigo-200 font-semibold rounded-t focus:outline-none">One Word Answers (Show/Hide)</button>
+                <div id="oneWordAccordionContent" class="accordion-content px-4 py-3 bg-white border border-t-0 rounded-b hidden">
+                    ${chapterData.exercises.oneWord.map((q, i) => `
+                        <div class="mb-4 p-3 bg-white rounded shadow-sm">
+                            <p class="font-medium mb-2">${i + 1}. ${q.question}</p>
+                            <input type="text" id="oneword${i}" class="border rounded px-3 py-2 w-full focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="Type your answer here">
+                            <div id="oneword-feedback-${i}" class="mt-2 text-sm font-semibold hidden"></div>
+                        </div>
+                    `).join('')}
+                    <button id="checkOneWordBtn" class="mt-2 px-4 py-2 bg-purple-600 text-white rounded hover:bg-purple-700">Check Answers</button>
+                </div>
+            </div>`;
+        }
+        // Accordion for Short Answer 1
+        if (chapterData.exercises.shortAnswer1 && chapterData.exercises.shortAnswer1.length > 0) {
+            html += `<div class="accordion-item mb-4">
+                <button id="short1AccordionBtn" class="accordion-header w-full text-left px-4 py-3 bg-indigo-100 hover:bg-indigo-200 font-semibold rounded-t focus:outline-none">Short Answer Questions (Type 1) (Show/Hide)</button>
+                <div id="short1AccordionContent" class="accordion-content px-4 py-3 bg-white border border-t-0 rounded-b hidden">
+                    ${chapterData.exercises.shortAnswer1.map((q, i) => `
+                        <div class="mb-4 p-3 bg-white rounded shadow-sm">
+                            <p class="font-medium mb-2">${i + 1}. ${q.question}</p>
+                            <div class="bg-gray-50 border rounded px-3 py-2 mt-2"><strong>Answer:</strong> ${q.answer || ''}</div>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>`;
+        }
+        // Accordion for Short Answer 2
+        if (chapterData.exercises.shortAnswer2 && chapterData.exercises.shortAnswer2.length > 0) {
+            html += `<div class="accordion-item mb-4">
+                <button id="short2AccordionBtn" class="accordion-header w-full text-left px-4 py-3 bg-indigo-100 hover:bg-indigo-200 font-semibold rounded-t focus:outline-none">Short Answer Questions (Type 2) (Show/Hide)</button>
+                <div id="short2AccordionContent" class="accordion-content px-4 py-3 bg-white border border-t-0 rounded-b hidden">
+                    ${chapterData.exercises.shortAnswer2.map((q, i) => `
+                        <div class="mb-4 p-3 bg-white rounded shadow-sm">
+                            <p class="font-medium mb-2">${i + 1}. ${q.question}</p>
+                            <div class="bg-gray-50 border rounded px-3 py-2 mt-2"><strong>Answer:</strong> ${q.answer || ''}</div>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>`;
+        }
+        exercisesDiv.innerHTML = html;
+        // Accordion logic
+        const mcqBtn = document.getElementById('mcqAccordionBtn');
+        const mcqContent = document.getElementById('mcqAccordionContent');
+        if (mcqBtn && mcqContent) {
+            mcqBtn.onclick = () => mcqContent.classList.toggle('hidden');
+        }
+        const tfBtn = document.getElementById('tfAccordionBtn');
+        const tfContent = document.getElementById('tfAccordionContent');
+        if (tfBtn && tfContent) {
+            tfBtn.onclick = () => tfContent.classList.toggle('hidden');
+        }
+        const oneWordBtn = document.getElementById('oneWordAccordionBtn');
+        const oneWordContent = document.getElementById('oneWordAccordionContent');
+        if (oneWordBtn && oneWordContent) {
+            oneWordBtn.onclick = () => oneWordContent.classList.toggle('hidden');
+        }
+        const short1Btn = document.getElementById('short1AccordionBtn');
+        const short1Content = document.getElementById('short1AccordionContent');
+        if (short1Btn && short1Content) {
+            short1Btn.onclick = () => short1Content.classList.toggle('hidden');
+        }
+        const short2Btn = document.getElementById('short2AccordionBtn');
+        const short2Content = document.getElementById('short2AccordionContent');
+        if (short2Btn && short2Content) {
+            short2Btn.onclick = () => short2Content.classList.toggle('hidden');
+        }
+        // Check Answers buttons
+        const checkMCQBtn = document.getElementById('checkMCQBtn');
+        if (checkMCQBtn) checkMCQBtn.onclick = function() { checkAnswers('mcq'); };
+        const checkTFBtn = document.getElementById('checkTFBtn');
+        if (checkTFBtn) checkTFBtn.onclick = function() { checkAnswers('trueFalse'); };
+        const checkShort1Btn = document.getElementById('checkShort1Btn');
+        if (checkShort1Btn) checkShort1Btn.onclick = function() { checkAnswers('shortAnswer1'); };
+        const checkShort2Btn = document.getElementById('checkShort2Btn');
+        if (checkShort2Btn) checkShort2Btn.onclick = function() { checkAnswers('shortAnswer2'); };
+        const checkOneWordBtn = document.getElementById('checkOneWordBtn');
+        if (checkOneWordBtn) checkOneWordBtn.onclick = function() { checkAnswers('oneWord'); };
+    }
+
+    // --- Long Answer Questions Render and TTS (copied from chapter1.html) ---
+    function renderLongAnswer() {
+        const laDiv = document.getElementById('long-answer-content');
+        if (!chapterData || !chapterData.longAnswerQuestions) {
+            laDiv.innerHTML = '<em>No long answer questions available.</em>';
+            return;
+        }
+        let html = chapterData.longAnswerQuestions.map((s, idx) => {
+            let answerBtns = '';
+            let answerBlocks = '';
+            const answerTypes = [
+                { key: 'answer50To75Words', label: 'Show 50-75 Words Answer' },
+                { key: 'answer150Words', label: 'Show 150 Words Answer' },
+                { key: 'answer200Words', label: 'Show 200 Words Answer' }
+            ];
+            answerTypes.forEach(type => {
+                if (s[type.key]) {
+                    const btnId = `show-${type.key}-${idx}`;
+                    const ansId = `ans-${type.key}-${idx}`;
+                    answerBtns += `<button id="${btnId}" class="ml-2 mb-2 px-3 py-1 bg-blue-600 text-white rounded hover:bg-blue-700 text-xs" onclick="document.getElementById('${ansId}').classList.toggle('hidden')">${type.label}</button>`;
+                    answerBlocks += `<div id="${ansId}" class="hidden bg-blue-50 border border-blue-200 rounded p-2 mt-1 text-sm">${s[type.key]}</div>`;
+                }
+            });
+            // Audio controls for TTS
+            const audioControls = `
+                <div class="mt-2 flex gap-2 items-center">
+                    <button id="playLongAnsAudio${idx}" class="px-3 py-1 bg-green-200 rounded">Play</button>
+                    <button id="pauseLongAnsAudio${idx}" class="px-3 py-1 bg-yellow-200 rounded">Pause</button>
+                    <button id="stopLongAnsAudio${idx}" class="px-3 py-1 bg-red-200 rounded">Stop</button>
+                    <span id="longAnsAudioStatus${idx}" class="ml-2 text-sm text-gray-700"></span>
+                </div>
+            `;
+            // Add question number before the title and remove 'undefined' if present
+            const title = (s.title && s.title !== 'undefined') ? s.title : '';
+            const text = (s.text && s.text !== 'undefined') ? s.text : '';
+            return `<div class="mb-6"><strong>Q${idx + 1}. ${title}:</strong> ${text}<br>${answerBtns}${answerBlocks}${audioControls}</div>`;
+        }).join('');
+        laDiv.innerHTML = html;
+
+        // Add TTS logic for each question
+        if (!window.speechSynthesis) {
+            chapterData.longAnswerQuestions.forEach((s, idx) => {
+                const status = document.getElementById(`longAnsAudioStatus${idx}`);
+                if (status) status.textContent = 'SpeechSynthesis not available.';
+            });
+            return;
+        }
+        chapterData.longAnswerQuestions.forEach((s, idx) => {
+            const playBtn = document.getElementById(`playLongAnsAudio${idx}`);
+            const pauseBtn = document.getElementById(`pauseLongAnsAudio${idx}`);
+            const stopBtn = document.getElementById(`stopLongAnsAudio${idx}`);
+            const status = document.getElementById(`longAnsAudioStatus${idx}`);
+            // Compose the text to read: question + only visible (open) answers
+            const getVisibleTtsText = () => {
+                let ttsText = '';
+                const title = (s.title && s.title !== 'undefined') ? s.title : '';
+                const text = (s.text && s.text !== 'undefined') ? s.text : '';
+                ttsText += `Question: ${title}. ${text}. `;
+                const answerTypes = [
+                    { key: 'answer50To75Words', label: '50-75 Words Answer' },
+                    { key: 'answer150Words', label: '150 Words Answer' },
+                    { key: 'answer200Words', label: '200 Words Answer' }
+                ];
+                answerTypes.forEach(type => {
+                    if (s[type.key]) {
+                        const ansDiv = document.getElementById(`ans-${type.key}-${idx}`);
+                        if (ansDiv && !ansDiv.classList.contains('hidden')) {
+                            ttsText += `${type.label}: ${s[type.key]}. `;
+                        }
+                    }
+                });
+                return ttsText;
+            };
+            let utter = null;
+            let isPaused = false;
+            let isPlaying = false;
+            let isStopped = true;
+            if (playBtn) playBtn.onclick = function() {
+                if (!isPlaying || isStopped) {
+                    isPaused = false;
+                    isStopped = false;
+                    isPlaying = true;
+                    const ttsText = getVisibleTtsText().replace(/<[^>]+>/g, '');
+                    utter = new window.SpeechSynthesisUtterance(ttsText);
+                    utter.onend = function() {
+                        isPlaying = false;
+                        isStopped = true;
+                        if (status) status.textContent = 'Finished.';
+                    };
+                    window.speechSynthesis.speak(utter);
+                    if (status) status.textContent = 'Playing...';
+                } else if (isPaused) {
+                    isPaused = false;
+                    isStopped = false;
+                    window.speechSynthesis.resume();
+                    if (status) status.textContent = 'Resumed.';
+                }
+            };
+            if (pauseBtn) pauseBtn.onclick = function() {
+                if (isPlaying && !isPaused && !isStopped) {
+                    window.speechSynthesis.pause();
+                    isPaused = true;
+                    if (status) status.textContent = 'Paused.';
+                }
+            };
+            if (stopBtn) stopBtn.onclick = function() {
+                if (isPlaying && !isStopped) {
+                    window.speechSynthesis.cancel();
+                    isPaused = false;
+                    isPlaying = false;
+                    isStopped = true;
+                    if (status) status.textContent = 'Stopped.';
+                }
+            };
+        });
+    }
+
+    // --- Exercise Answer Checking Logic (copied from chapter1.html) ---
+    function checkAnswers(type) {
+        if (type === 'mcq' && chapterData.exercises.mcq) {
+            chapterData.exercises.mcq.forEach((q, i) => {
+                const selected = document.querySelector(`input[name='mcq${i}']:checked`);
+                const feedback = document.getElementById(`mcq-feedback-${i}`);
+                if (!feedback) return;
+                feedback.classList.remove('text-green-700', 'text-red-600', 'text-gray-600');
+                feedback.classList.remove('hidden');
+                feedback.style.display = 'block';
+                if (!selected) {
+                    feedback.textContent = 'Please select an option.';
+                    feedback.classList.add('text-red-600');
+                } else {
+                    const selectedValue = parseInt(selected.value);
+                    if (q.correctAnswerIndex !== undefined && selectedValue === q.correctAnswerIndex) {
+                        feedback.innerHTML = `<span class='text-green-700'>Correct!</span>`;
+                        if (q.explanation) {
+                            feedback.innerHTML += `<br><span class='text-gray-700'><b>Explanation:</b> ${q.explanation}</span>`;
+                        }
+                    } else if (q.correctAnswerIndex !== undefined) {
+                        feedback.innerHTML = `<span class='text-red-600'>Incorrect. The correct answer was: ${q.options[q.correctAnswerIndex]}.</span>`;
+                        if (q.explanation) {
+                            feedback.innerHTML += `<br><span class='text-gray-700'><b>Explanation:</b> ${q.explanation}</span>`;
+                        }
+                    } else {
+                        feedback.textContent = 'Answer submitted (no correctness check available).';
+                        feedback.classList.add('text-gray-600');
+                    }
+                }
+            });
+        }
+        if (type === 'trueFalse' && chapterData.exercises.trueFalse) {
+            chapterData.exercises.trueFalse.forEach((q, i) => {
+                const selected = document.querySelector(`input[name='tf${i}']:checked`);
+                const feedback = document.getElementById(`tf-feedback-${i}`);
+                if (!feedback) return;
+                feedback.classList.remove('text-green-700', 'text-red-600', 'text-gray-600');
+                feedback.classList.remove('hidden');
+                feedback.style.display = 'block';
+                if (!selected) {
+                    feedback.textContent = 'Please select True or False.';
+                    feedback.classList.add('text-red-600');
+                } else {
+                    const selectedValue = selected.value === 'true';
+                    if (q.correctAnswer !== undefined && selectedValue === q.correctAnswer) {
+                        feedback.innerHTML = `<span class='text-green-700'>Correct!</span>`;
+                        if (q.explanation) {
+                            feedback.innerHTML += `<br><span class='text-gray-700'><b>Explanation:</b> ${q.explanation}</span>`;
+                        }
+                    } else if (q.correctAnswer !== undefined) {
+                        feedback.innerHTML = `<span class='text-red-600'>Incorrect. The correct answer was: ${q.correctAnswer}.</span>`;
+                        if (q.explanation) {
+                            feedback.innerHTML += `<br><span class='text-gray-700'><b>Explanation:</b> ${q.explanation}</span>`;
+                        }
+                    } else {
+                        feedback.textContent = 'Answer submitted (no correctness check available).';
+                        feedback.classList.add('text-gray-600');
+                    }
+                }
+            });
+        }
+        if (type === 'oneWord' && chapterData.exercises.oneWord) {
+            chapterData.exercises.oneWord.forEach((q, i) => {
+                const input = document.getElementById(`oneword${i}`);
+                const feedback = document.getElementById(`oneword-feedback-${i}`);
+                if (!feedback) return;
+                feedback.classList.remove('text-green-700', 'text-red-600', 'text-gray-600');
+                feedback.classList.remove('hidden');
+                feedback.style.display = 'block';
+                const userAnswer = input.value.trim();
+                if (!userAnswer) {
+                    feedback.textContent = 'Please enter your answer.';
+                    feedback.classList.add('text-red-600');
+                } else {
+                    if (q.correctAnswer && userAnswer.toLowerCase() === q.correctAnswer.toLowerCase()) {
+                        feedback.innerHTML = `<span class='text-green-700'>Correct!</span>`;
+                        if (q.explanation) {
+                            feedback.innerHTML += `<br><span class='text-gray-700'><b>Explanation:</b> ${q.explanation}</span>`;
+                        }
+                    } else if (q.correctAnswer) {
+                        feedback.innerHTML = `<span class='text-red-600'>Incorrect. The correct answer was: "${q.correctAnswer}".</span>`;
+                        if (q.explanation) {
+                            feedback.innerHTML += `<br><span class='text-gray-700'><b>Explanation:</b> ${q.explanation}</span>`;
+                        }
+                    } else {
+                        feedback.textContent = 'Answer submitted (no correctness check available).';
+                        feedback.classList.add('text-gray-600');
+                    }
+                }
+            });
+        }
+        if (type === 'shortAnswer1' && chapterData.exercises.shortAnswer1) {
+            chapterData.exercises.shortAnswer1.forEach((q, i) => {
+                const input = document.getElementById(`short1${i}`);
+                if (input) {
+                    input.classList.add('border-green-400');
+                }
+            });
+            showGlobalDebug('Short Answer 1: Answers submitted. Manual review required.', false);
+        }
+        if (type === 'shortAnswer2' && chapterData.exercises.shortAnswer2) {
+            chapterData.exercises.shortAnswer2.forEach((q, i) => {
+                const input = document.getElementById(`short2${i}`);
+                if (input) {
+                    input.classList.add('border-green-400');
+                }
+            });
+            showGlobalDebug('Short Answer 2: Answers submitted. Manual review required.', false);
+        }
+    }
+    // --- Set chapter meta heading (chapter # and name) ---
+document.addEventListener('DOMContentLoaded', function() {
+  function setChapterMeta() {
+    if (!chapterData) return;
+    var metaDiv = document.getElementById('chapter-meta');
+    if (!metaDiv) return;
+    var chapNum = chapterData.chapterNumber || chapterData.chapterNo || chapterData.number || '';
+    var chapName = chapterData.chapterName || chapterData.name || chapterData.title || '';
+    let meta = '';
+    if (chapNum) meta += 'Chapter ' + chapNum;
+    if (chapNum && chapName) meta += ': ';
+    if (chapName) meta += chapName;
+    metaDiv.textContent = meta;
+  }
+  // Wait for chapterData to be loaded
+  let tries = 0;
+  function trySetMeta() {
+    setChapterMeta();
+    tries++;
+    if ((!chapterData || !document.getElementById('chapter-meta').textContent) && tries < 10) {
+      setTimeout(trySetMeta, 200);
+    }
+  }
+  trySetMeta();
+});
+    </script>
+</body>
+</html>

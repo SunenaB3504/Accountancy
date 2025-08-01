@@ -1,0 +1,1376 @@
+{
+  "chapters": [
+    {
+      "caseStudy": [
+        {
+          "questions": [
+            {
+              "answer": "As KnowledgeCompass scales, a partnership allows Neil and Kanishq to pool more capital and diverse expertise, distributing risks and responsibilities. This structure supports growth beyond what a sole proprietorship could offer.",
+              "marks": 5,
+              "question": "KnowledgeCompass, founded by Neil, has grown significantly. Kanishq is now a key part of the team. Explain why transitioning from a sole proprietorship to a partnership is a beneficial strategic move for KnowledgeCompass at this stage of its growth.",
+              "type": "explain",
+              "wordLimit": 75
+            },
+            {
+              "answer": "A partnership deed is crucial for KnowledgeCompass to clearly define the rights and responsibilities of Neil and Kanishq, profit-sharing ratios, capital contributions, and terms for critical events like partner retirement or dissolution. This written agreement minimizes future disputes and ensures smooth operations.",
+              "marks": 6,
+              "question": "Neil and Kanishq are discussing the need for a 'Partnership Deed'. What is the significance of having a written Partnership Deed for KnowledgeCompass, especially considering its rapid growth and future complexities?",
+              "type": "explain",
+              "wordLimit": 75
+            },
+            {
+              "answer": "The Indian Partnership Act 1932 provides default rules if KnowledgeCompass's deed is silent. Key provisions include equal profit/loss sharing, no interest on capital, no salary/remuneration to partners, no interest on drawings, and 6% p.a. interest on a partner's loan to the firm.",
+              "marks": 8,
+              "question": "During a board meeting, Kanishq asks, \"What happens if our Partnership Deed is silent on a particular issue?\" Explain the key provisions of the Indian Partnership Act 1932 that would become applicable to KnowledgeCompass's accounting in such scenarios.",
+              "type": "explain",
+              "wordLimit": 100
+            },
+            {
+              "answer": "If KnowledgeCompass opts for the Fixed Capital Method, Neil and Kanishq would each maintain two accounts: a Capital Account (for permanent capital changes) and a Current Account (for all other transactions like profit share, drawings, interest). This provides stability to the main capital figure. Under the Fluctuating Capital Method, only one Capital Account is maintained for each partner, and all transactions directly impact its balance, causing it to fluctuate more frequently.",
+              "marks": 7,
+              "question": "Neil and Kanishq are debating whether to use 'Fixed' or 'Fluctuating' capital methods for KnowledgeCompass. Differentiate between these two methods of maintaining partners' capital accounts and suggest which might be more suitable for a dynamic startup like KnowledgeCompass.",
+              "type": "differentiate",
+              "wordLimit": 100
+            }
+          ],
+          "scenario": "KnowledgeCompass, an innovative EdTech startup, was founded by Neil in a garage a few years ago. Its success has been phenomenal, leading to a significant expansion. Kanishq, a brilliant technologist and close friend of Neil, recently joined as a key partner, contributing substantial capital and expertise. The business is now rapidly scaling into a corporation. As they plan their future, Neil and Kanishq realize the need to formalize their partnership and set clear accounting practices. They are particularly interested in how profits will be shared, how their capital contributions will be managed, and what legal provisions apply.",
+          "title": "Formalizing the KnowledgeCompass Partnership"
+        }
+      ],
+      "exercises": {
+        "mcq": [
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Section 464 of the Companies Act 2013, read with Rule 10 of the Companies (Miscellaneous) Rules 2014, restricts the maximum number of partners in a firm to 50.",
+            "options": [
+              "20",
+              "10",
+              "50",
+              "100"
+            ],
+            "question": "What is the maximum number of partners prescribed by the Central Government for a partnership firm under the Companies Act 2013?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Partnership is formed by an agreement which can be either oral or written. An oral agreement is equally valid, though a written one is preferred to avoid disputes.",
+            "options": [
+              "Only written agreement is valid.",
+              "An oral agreement is equally valid.",
+              "Agreement must be registered to be valid.",
+              "Agreement must be in a stamp paper only."
+            ],
+            "question": "Regarding the agreement in a partnership, which of the following statements is true?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "The mutual agency implies that every partner can participate in the business affairs, and each partner acts as both a principal and an agent for other partners, binding them by their acts.",
+            "options": [
+              "Partners must personally carry on the business.",
+              "Only the active partner can bind others.",
+              "Partners can only bind each other through written consent.",
+              "Each partner is both a principal and an agent for other partners."
+            ],
+            "question": "The 'Mutual Agency' feature of partnership implies that:"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Partners are jointly and severally liable, and their liability is unlimited, meaning private assets can be used to pay firm's debts.",
+            "options": [
+              "Unlimited liability",
+              "Limited liability",
+              "Liability limited to capital contribution",
+              "Liability limited to share of profits"
+            ],
+            "question": "What is the nature of liability of partners in a partnership firm?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "If the partnership deed is silent, partners share profits and losses equally, irrespective of capital contribution.",
+            "options": [
+              "In their capital contribution ratio.",
+              "Equally.",
+              "In a ratio determined by mutual consent at year-end.",
+              "Based on the seniority of partners."
+            ],
+            "question": "If the partnership deed is silent about the profit sharing ratio, how are profits and losses to be shared by partners?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "No partner is entitled to interest on capital as a matter of right unless explicitly agreed in the partnership deed.",
+            "options": [
+              "At 6% p.a.",
+              "At 10% p.a.",
+              "At the bank's lending rate.",
+              "No interest is allowed."
+            ],
+            "question": "If the partnership deed is silent regarding interest on capital, partners are allowed interest at what rate?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "No interest is to be charged on drawings if there is no mention in the Partnership Deed.",
+            "options": [
+              "At 6% p.a.",
+              "At 12% p.a.",
+              "At 5% p.a.",
+              "No interest is charged."
+            ],
+            "question": "In the absence of a partnership deed, what is the rule regarding interest on drawings made by partners?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "If a partner advances a loan to the firm and the deed is silent, they are entitled to interest on the loan at 6% p.a.",
+            "options": [
+              "6% p.a.",
+              "10% p.a.",
+              "Market rate",
+              "No interest is allowed."
+            ],
+            "question": "If a partner has advanced a loan to the firm and the partnership deed is silent, what rate of interest is allowed on the loan amount?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "No partner is entitled to salary or remuneration unless specifically provided for in the Partnership Deed.",
+            "options": [
+              "Rs. 1,000 per month.",
+              "A percentage of profit.",
+              "Based on their work hours.",
+              "No remuneration is allowed."
+            ],
+            "question": "In the absence of any provision in the partnership deed, what is the rule regarding remuneration to a partner for firm's work?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Under the fixed capital method, two accounts (Capital and Current) are maintained for each partner. All adjustments except permanent capital additions/withdrawals go to the current account.",
+            "options": [
+              "Fixed Capital Method",
+              "Fluctuating Capital Method",
+              "Both fixed and fluctuating methods",
+              "Neither method"
+            ],
+            "question": "Which method of maintaining partners' capital accounts involves maintaining a separate 'Partner's Current Account' for recording drawings, interest on capital, and share of profit?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The Profit and Loss Appropriation Account is an extension of the Profit and Loss Account, showing how net profit is distributed among partners after various adjustments.",
+            "options": [
+              "To ascertain the net profit or loss of the business.",
+              "To show how profits are distributed among partners.",
+              "To calculate the firm's financial position.",
+              "To record all cash and bank transactions."
+            ],
+            "question": "What is the primary purpose of preparing a Profit and Loss Appropriation Account?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "If a fixed amount is withdrawn at the beginning of each month, interest on drawings is calculated for an average period of 6.5 months.",
+            "options": [
+              "6 months",
+              "6.5 months",
+              "5.5 months",
+              "7 months"
+            ],
+            "question": "If a partner withdraws a fixed amount at the beginning of every month, for what average period is interest on drawings calculated?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "If a fixed amount is withdrawn at the end of each month, interest on drawings is calculated for an average period of 5.5 months.",
+            "options": [
+              "6 months",
+              "6.5 months",
+              "5.5 months",
+              "5 months"
+            ],
+            "question": "If a partner withdraws a fixed amount at the end of every month, for what average period is interest on drawings calculated?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "The product method is used when varying amounts are withdrawn at different intervals to simplify the calculation of interest on drawings.",
+            "options": [
+              "Product Method",
+              "Average Period Method",
+              "Simple Method",
+              "Weighted Average Method"
+            ],
+            "question": "Which method is used to calculate interest on drawings when varying amounts are withdrawn at different intervals?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "If a firm incurs a loss, no interest on capital, salary, or remuneration is allowed to partners, as these are appropriations of profit.",
+            "options": [
+              "Interest on capital is still allowed.",
+              "No interest on capital, salary, or remuneration is allowed.",
+              "Only interest on partner's loan is allowed.",
+              "All appropriations are still made, increasing the loss."
+            ],
+            "question": "What happens if a partnership firm suffers a net loss regarding the appropriation items like interest on capital or partner's salary?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "If a partner's share of profit is less than the guaranteed amount, the deficiency is borne by the guaranteeing partners in their agreed ratio, or by a single partner if they guaranteed it individually.",
+            "options": [
+              "The deficiency is borne by the guaranteeing partners.",
+              "The deficiency is carried forward to the next year.",
+              "The guaranteed partner receives only their calculated share.",
+              "The deficiency is shared equally by all partners."
+            ],
+            "question": "When a partner is guaranteed a minimum profit and their actual share is less than the guaranteed amount, how is the deficiency handled?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Past errors can be rectified either through a 'Profit and Loss Adjustment Account' or directly in the partners' capital accounts by passing a single adjustment entry.",
+            "options": [
+              "By revising the previous year's financial statements.",
+              "Through Profit and Loss Adjustment Account or directly in capital accounts.",
+              "Only by altering old accounts.",
+              "Through a suspense account."
+            ],
+            "question": "How are omissions or errors in accounting, discovered after final accounts are prepared, typically rectified in a partnership firm?"
+          }
+        ],
+        "numericalQuestions": [
+          {
+            "explanation": "This problem demonstrates the maintenance of partners' capital accounts under both Fixed and Fluctuating Capital Methods. The Fixed Capital Method separates capital and current transactions, while the Fluctuating Capital Method integrates all adjustments into a single capital account.",
+            "question": "Neil and Kanishq are partners in KnowledgeCompass with initial capitals of Rs. 15,00,000 and Rs. 10,00,000 respectively as of April 1, 2019. They share profits in the ratio of 3:2. The books are closed on March 31, every year. Show how the following transactions will be recorded in the capital accounts of the partners in case: (i) the capitals are fixed, and (ii) the capitals are fluctuating.",
+            "steps": [
+              "**Additional Information for the year ending March 31, 2020:**",
+              "Additional capital contributed on October 1, 2019: Neil Rs. 3,00,000, Kanishq Rs. 2,00,000",
+              "Interest on capital: 5% p.a.",
+              "Drawings (during 2019-20): Neil Rs. 30,000, Kanishq Rs. 20,000",
+              "Interest on drawings: Neil Rs. 1,800, Kanishq Rs. 1,200",
+              "Salary: Neil Rs. 20,000",
+              "Commission: Kanishq Rs. 7,000",
+              "Share in Profit for the year 2019-20: Neil Rs. 60,000, Kanishq Rs. 40,000",
+              "",
+              "**Working Notes: Calculation of Interest on Capital:**",
+              "**For Neil:**",
+              "Interest on Rs. 15,00,000 for 1 year = 5% of Rs. 15,00,000 = Rs. 75,000",
+              "Interest on Rs. 3,00,000 for 6 months (Oct 1, 2019 - Mar 31, 2020) = 5% of Rs. 3,00,000 * (6/12) = Rs. 7,500",
+              "Total Interest on Neil's Capital = Rs. 75,000 + Rs. 7,500 = Rs. 82,500",
+              "**For Kanishq:**",
+              "Interest on Rs. 10,00,000 for 1 year = 5% of Rs. 10,00,000 = Rs. 50,000",
+              "Interest on Rs. 2,00,000 for 6 months (Oct 1, 2019 - Mar 31, 2020) = 5% of Rs. 2,00,000 * (6/12) = Rs. 5,000",
+              "Total Interest on Kanishq's Capital = Rs. 50,000 + Rs. 5,000 = Rs. 55,000",
+              "",
+              "**(i) Fixed Capital Method:**",
+              "**Partner's Capital Accounts:**",
+              "Debit side will show permanent withdrawal (none here). Credit side will show opening balance and fresh capital.",
+              "Neil: Balance b/d Rs. 15,00,000; Bank (Additional capital) Rs. 3,00,000. Balance c/d Rs. 18,00,000.",
+              "Kanishq: Balance b/d Rs. 10,00,000; Bank (Additional capital) Rs. 2,00,000. Balance c/d Rs. 12,00,000.",
+              "**Partner's Current Accounts:**",
+              "Debit side: Drawings, Interest on Drawings, Share of Loss (if any).",
+              "Credit side: Opening credit balance (if any), Salary, Commission, Interest on Capital, Share of Profit.",
+              "Neil's Current Account: Debited with Drawings Rs. 30,000, Interest on Drawings Rs. 1,800. Credited with Interest on Capital Rs. 82,500, Salary Rs. 20,000, Share of Profit Rs. 60,000. Balance c/d = (82500+20000+60000) - (30000+1800) = 162500 - 31800 = Rs. 130,700 (Cr.)",
+              "Kanishq's Current Account: Debited with Drawings Rs. 20,000, Interest on Drawings Rs. 1,200. Credited with Interest on Capital Rs. 55,000, Commission Rs. 7,000, Share of Profit Rs. 40,000. Balance c/d = (55000+7000+40000) - (20000+1200) = 102000 - 21200 = Rs. 80,800 (Cr.)",
+              "",
+              "**(ii) Fluctuating Capital Method:**",
+              "**Partner's Capital Accounts:**",
+              "All adjustments (Drawings, Interest on Drawings, Salary, Commission, Interest on Capital, Share of Profit/Loss) are recorded directly in the Capital Account.",
+              "Neil's Capital Account: Balance b/d Rs. 15,00,000. Add Bank (Additional Capital) Rs. 3,00,000, Interest on Capital Rs. 82,500, Salary Rs. 20,000, Share of Profit Rs. 60,000. Less Drawings Rs. 30,000, Interest on Drawings Rs. 1,800. Balance c/d = 1500000+300000+82500+20000+60000 - 30000 - 1800 = Rs. 19,30,700 (Cr.)",
+              "Kanishq's Capital Account: Balance b/d Rs. 10,00,000. Add Bank (Additional Capital) Rs. 2,00,000, Interest on Capital Rs. 55,000, Commission Rs. 7,000, Share of Profit Rs. 40,000. Less Drawings Rs. 20,000, Interest on Drawings Rs. 1,200. Balance c/d = 1000000+200000+55000+7000+40000 - 20000 - 1200 = Rs. 12,80,800 (Cr.)"
+            ],
+            "tableData": {
+              "accounts": [
+                {
+                  "accountName": "Neil's Capital Account (Fixed Capital Method)",
+                  "credits": [
+                    {
+                      "amount": 1500000,
+                      "label": "By Balance b/d"
+                    },
+                    {
+                      "amount": 300000,
+                      "label": "By Bank (Additional Capital)"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 1800000,
+                      "label": "To Balance c/d"
+                    }
+                  ]
+                },
+                {
+                  "accountName": "Kanishq's Capital Account (Fixed Capital Method)",
+                  "credits": [
+                    {
+                      "amount": 1000000,
+                      "label": "By Balance b/d"
+                    },
+                    {
+                      "amount": 200000,
+                      "label": "By Bank (Additional Capital)"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 1200000,
+                      "label": "To Balance c/d"
+                    }
+                  ]
+                },
+                {
+                  "accountName": "Neil's Current Account (Fixed Capital Method)",
+                  "credits": [
+                    {
+                      "amount": 82500,
+                      "label": "By Interest on Capital"
+                    },
+                    {
+                      "amount": 20000,
+                      "label": "By Salary"
+                    },
+                    {
+                      "amount": 60000,
+                      "label": "By Profit & Loss Appropriation (Share of Profit)"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 30000,
+                      "label": "To Drawings"
+                    },
+                    {
+                      "amount": 1800,
+                      "label": "To Interest on Drawings"
+                    },
+                    {
+                      "amount": 130700,
+                      "label": "To Balance c/d"
+                    }
+                  ]
+                },
+                {
+                  "accountName": "Kanishq's Current Account (Fixed Capital Method)",
+                  "credits": [
+                    {
+                      "amount": 55000,
+                      "label": "By Interest on Capital"
+                    },
+                    {
+                      "amount": 7000,
+                      "label": "By Commission"
+                    },
+                    {
+                      "amount": 40000,
+                      "label": "By Profit & Loss Appropriation (Share of Profit)"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 20000,
+                      "label": "To Drawings"
+                    },
+                    {
+                      "amount": 1200,
+                      "label": "To Interest on Drawings"
+                    },
+                    {
+                      "amount": 80800,
+                      "label": "To Balance c/d"
+                    }
+                  ]
+                },
+                {
+                  "accountName": "Neil's Capital Account (Fluctuating Capital Method)",
+                  "credits": [
+                    {
+                      "amount": 1500000,
+                      "label": "By Balance b/d"
+                    },
+                    {
+                      "amount": 300000,
+                      "label": "By Bank (Additional Capital)"
+                    },
+                    {
+                      "amount": 82500,
+                      "label": "By Interest on Capital"
+                    },
+                    {
+                      "amount": 20000,
+                      "label": "By Salary"
+                    },
+                    {
+                      "amount": 60000,
+                      "label": "By Profit & Loss Appropriation (Share of Profit)"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 30000,
+                      "label": "To Drawings"
+                    },
+                    {
+                      "amount": 1800,
+                      "label": "To Interest on Drawings"
+                    },
+                    {
+                      "amount": 1930700,
+                      "label": "To Balance c/d"
+                    }
+                  ]
+                },
+                {
+                  "accountName": "Kanishq's Capital Account (Fluctuating Capital Method)",
+                  "credits": [
+                    {
+                      "amount": 1000000,
+                      "label": "By Balance b/d"
+                    },
+                    {
+                      "amount": 200000,
+                      "label": "By Bank (Additional Capital)"
+                    },
+                    {
+                      "amount": 55000,
+                      "label": "By Interest on Capital"
+                    },
+                    {
+                      "amount": 7000,
+                      "label": "By Commission"
+                    },
+                    {
+                      "amount": 40000,
+                      "label": "By Profit & Loss Appropriation (Share of Profit)"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 20000,
+                      "label": "To Drawings"
+                    },
+                    {
+                      "amount": 1200,
+                      "label": "To Interest on Drawings"
+                    },
+                    {
+                      "amount": 1280800,
+                      "label": "To Balance c/d"
+                    }
+                  ]
+                }
+              ]
+            },
+            "tableType": "TAccount"
+          },
+          {
+            "explanation": "This problem illustrates the preparation of a Profit and Loss Appropriation Account, which is used to distribute the net profit among partners after considering various appropriations like interest on capital, salary, commission, and interest on drawings.",
+            "question": "Neil and Kanishq are partners in KnowledgeCompass, sharing profits and losses in the ratio of 3:2. Their capital and current accounts as on April 1, 2019, were: Neil Capital Rs. 3,00,000, Current Account (Cr.) Rs. 1,00,000; Kanishq Capital Rs. 2,00,000, Current Account (Cr.) Rs. 80,000. The partnership deed provides that Neil is to be paid salary @ Rs. 500 per month, whereas Kanishq is to get a commission of Rs. 40,000 for the year. Interest on capital is to be credited at 6% p.a. The drawings of Neil and Kanishq for the year were Rs. 30,000 and Rs. 10,000 respectively. The net profit of the firm before making these adjustments was Rs. 2,49,000. Interest on Neil’s drawings was Rs. 750 and Kanishq’s drawings, Rs. 250. Prepare Profit and Loss Appropriation Account for the year ending March 31, 2020.",
+            "steps": [
+              "**Working Notes:**",
+              "1.  **Calculate Interest on Capital:**",
+              "    Neil: 6% of Rs. 3,00,000 = Rs. 18,000",
+              "    Kanishq: 6% of Rs. 2,00,000 = Rs. 12,000",
+              "    Total Interest on Capital = Rs. 18,000 + Rs. 12,000 = Rs. 30,000",
+              "2.  **Calculate Partner's Salary and Commission:**",
+              "    Neil's Salary = Rs. 500 per month * 12 months = Rs. 6,000",
+              "    Kanishq's Commission = Rs. 40,000",
+              "3.  **Calculate Total Interest on Drawings:**",
+              "    Neil's Interest on Drawings = Rs. 750",
+              "    Kanishq's Interest on Drawings = Rs. 250",
+              "    Total Interest on Drawings = Rs. 750 + Rs. 250 = Rs. 1,000",
+              "4.  **Calculate Distributable Profit:**",
+              "    Net Profit (as per P&L A/c) = Rs. 2,49,000",
+              "    Add: Interest on Drawings = Rs. 1,000",
+              "    Less: Interest on Capital = Rs. 30,000",
+              "    Less: Neil's Salary = Rs. 6,000",
+              "    Less: Kanishq's Commission = Rs. 40,000",
+              "    Distributable Profit = Rs. 2,49,000 + Rs. 1,000 - Rs. 30,000 - Rs. 6,000 - Rs. 40,000 = Rs. 1,74,000",
+              "5.  **Distribute Profit in 3:2 Ratio:**",
+              "    Neil's Share = Rs. 1,74,000 * (3/5) = Rs. 1,04,400",
+              "    Kanishq's Share = Rs. 1,74,000 * (2/5) = Rs. 69,600",
+              "**Prepare Profit and Loss Appropriation Account:**",
+              "Debit side: Interest on Capital, Partner's Salary, Partner's Commission, Share of Profit transferred to Current Accounts.",
+              "Credit side: Net Profit, Interest on Drawings."
+            ],
+            "tableData": {
+              "accounts": [
+                {
+                  "accountName": "Profit and Loss Appropriation Account for the year ending March 31, 2020",
+                  "credits": [
+                    {
+                      "amount": 249000,
+                      "label": "By Profit and Loss A/c (Net Profit)"
+                    },
+                    {
+                      "amount": 750,
+                      "label": "By Interest on Drawings: Neil"
+                    },
+                    {
+                      "amount": 250,
+                      "label": "By Interest on Drawings: Kanishq"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 18000,
+                      "label": "To Interest on Capitals: Neil"
+                    },
+                    {
+                      "amount": 12000,
+                      "label": "To Interest on Capitals: Kanishq"
+                    },
+                    {
+                      "amount": 6000,
+                      "label": "To Neil's Salary"
+                    },
+                    {
+                      "amount": 40000,
+                      "label": "To Kanishq's Commission"
+                    },
+                    {
+                      "amount": 104400,
+                      "label": "To Partner's Current Accounts (Share of Profit): Neil"
+                    },
+                    {
+                      "amount": 69600,
+                      "label": "To Partner's Current Accounts (Share of Profit): Kanishq"
+                    }
+                  ]
+                }
+              ]
+            },
+            "tableType": "TAccount"
+          },
+          {
+            "explanation": "This problem demonstrates how to calculate opening capital when only closing capital and other adjustments (drawings, share of profit, additional capital) are given. It's crucial for correctly calculating interest on capital from the beginning of the year.",
+            "question": "Neil and Kanishq are partners in KnowledgeCompass sharing profits and losses in the ratio of 3:1. Their capitals at the end of the financial year 2022-2023 were Rs. 1,50,000 and Rs. 75,000 respectively. During the year 2022-2023, Neil’s drawings were Rs. 20,000 and Kanishq’s drawings were Rs. 5,000, which had been duly debited to partners’ capital accounts. Profit before charging interest on capital for the year was Rs. 16,000. The same had also been debited in their profit sharing ratio. Kanishq had brought additional capital of Rs. 16,000 on October 1, 2022. Calculate interest on capital @ 12% p.a. for the year 2022-2023.",
+            "steps": [
+              "**Step 1: Calculate Opening Capital for each partner.**",
+              "We need to reverse the effects of transactions that happened during the year from the closing capital.",
+              "  *   Start with Closing Capital.",
+              "  *   Add back Drawings (since they reduce capital).",
+              "  *   Add back Share of Loss (if any) or Subtract Share of Profit (since they increase capital). In this problem, profit was already debited (distributed as profit sharing) to capital accounts so we subtract it to get opening capital.",
+              "  *   Subtract Additional Capital introduced during the year (since it was added later and we want the capital at the very beginning).",
+              "**Statement Showing Calculation of Capital at the Beginning:**",
+              "For Neil:",
+              "  *   Capital at the end: Rs. 1,50,000",
+              "  *   Add: Drawings during the year: Rs. 20,000",
+              "  *   Subtotal: Rs. 1,70,000",
+              "  *   Less: Share of profit (credited, but debited in context means distributed to capital): Rs. 16,000 * (3/4) = Rs. 12,000",
+              "  *   Neil's Capital in the beginning: Rs. 1,70,000 - Rs. 12,000 = Rs. 1,58,000",
+              "For Kanishq:",
+              "  *   Capital at the end: Rs. 75,000",
+              "  *   Add: Drawings during the year: Rs. 5,000",
+              "  *   Subtotal: Rs. 80,000",
+              "  *   Less: Share of profit (credited): Rs. 16,000 * (1/4) = Rs. 4,000",
+              "  *   Subtotal: Rs. 76,000",
+              "  *   Less: Additional capital (introduced on Oct 1, 2022): Rs. 16,000",
+              "  *   Kanishq's Capital in the beginning: Rs. 76,000 - Rs. 16,000 = Rs. 60,000",
+              "**Step 2: Calculate Interest on Capital @ 12% p.a.**",
+              "**For Neil:**",
+              "  *   Interest on opening capital: 12% of Rs. 1,58,000 for full year = Rs. 18,960",
+              "**For Kanishq:**",
+              "  *   Interest on opening capital: 12% of Rs. 60,000 for 12 months = Rs. 7,200",
+              "  *   Interest on additional capital: 12% of Rs. 16,000 from Oct 1, 2022 to Mar 31, 2023 (6 months) = Rs. 16,000 * (12/100) * (6/12) = Rs. 960",
+              "  *   Total Interest on Kanishq's Capital = Rs. 7,200 + Rs. 960 = Rs. 8,160"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "particulars": "Capital at the end (Neil)",
+                  "receiptCash": 150000
+                },
+                {
+                  "particulars": "Capital at the end (Kanishq)",
+                  "receiptCash": 75000
+                },
+                {
+                  "particulars": "Add: Drawings during the year (Neil)",
+                  "receiptCash": 20000
+                },
+                {
+                  "particulars": "Add: Drawings during the year (Kanishq)",
+                  "receiptCash": 5000
+                },
+                {
+                  "particulars": "Less: Share of profit (Neil)",
+                  "paymentCash": 12000
+                },
+                {
+                  "particulars": "Less: Share of profit (Kanishq)",
+                  "paymentCash": 4000
+                },
+                {
+                  "particulars": "Less: Additional capital (Kanishq)",
+                  "paymentCash": 16000
+                },
+                {
+                  "particulars": "Capital in the beginning (Neil)",
+                  "receiptCash": 158000
+                },
+                {
+                  "particulars": "Capital in the beginning (Kanishq)",
+                  "receiptCash": 60000
+                }
+              ]
+            },
+            "tableType": "general"
+          },
+          {
+            "explanation": "This problem illustrates the calculation of interest on drawings using the Product Method, which is suitable when varying amounts are withdrawn by partners at different intervals throughout the financial year.",
+            "question": "Neil, Kanishq, and an associate partner, Ali, are partners in KnowledgeCompass, sharing profits and losses equally. Kanishq and Ali withdrew the following amounts from the firm for their personal use during 2022-2023. Calculate interest on drawings if the rate of interest to be charged is 10 per cent per annum, and the books are closed on December 31 every year.",
+            "steps": [
+              "**Withdrawals:**",
+              "| Date           | Kanishq (Rs.) | Ali (Rs.) |",
+              "| :------------- | :------------ | :-------- |",
+              "| April 1, 2022  | 5,000         | 7,000     |",
+              "| July 1, 2022   | 8,000         | 4,000     |",
+              "| December 1, 2022 | 5,000         | 5,000     |",
+              "| March 1, 2023  | 4,000         | 9,000     |",
+              "**Note:** Books are closed on December 31, 2022. This means the last withdrawal (March 1, 2023) is outside the year. We only consider withdrawals up to December 31, 2022.",
+              "",
+              "**Calculation of Interest on Drawings using Product Method (for year ending Dec 31, 2022):**",
+              "**For Kanishq:**",
+              "| Date           | Amount (Rs.) | Period (Months) up to Dec 31, 2022 | Product (Amount × Period) |",
+              "| :------------- | :----------- | :--------------------------------- | :------------------------ |",
+              "| April 1, 2022  | 5,000        | 9 (Apr-Dec)                      | 45,000                    |",
+              "| July 1, 2022   | 8,000        | 6 (Jul-Dec)                      | 48,000                    |",
+              "| December 1, 2022 | 5,000        | 1 (Dec)                          | 5,000                     |",
+              "| **Total**    |              |                                    | **98,000**                |",
+              "Interest on Kanishq's Drawings = (Sum of Products × Rate × 1/12) = Rs. 98,000 × (10/100) × (1/12) = Rs. 816.67 ≈ Rs. 817",
+              "**For Ali:**",
+              "| Date           | Amount (Rs.) | Period (Months) up to Dec 31, 2022 | Product (Amount × Period) |",
+              "| :------------- | :----------- | :--------------------------------- | :------------------------ |",
+              "| April 1, 2022  | 7,000        | 9 (Apr-Dec)                      | 63,000                    |",
+              "| July 1, 2022   | 4,000        | 6 (Jul-Dec)                      | 24,000                    |",
+              "| December 1, 2022 | 5,000        | 1 (Dec)                          | 5,000                     |",
+              "| **Total**    |              |                                    | **92,000**                |",
+              "Interest on Ali's Drawings = (Sum of Products × Rate × 1/12) = Rs. 92,000 × (10/100) × (1/12) = Rs. 766.67 ≈ Rs. 767"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "particulars": "Calculation of Interest on Drawings for Kanishq (Year Ending Dec 31, 2022)"
+                },
+                {
+                  "date": "April 1, 2022",
+                  "particulars": "Amount Withdrawn",
+                  "paymentCash": 5000,
+                  "paymentLF": "9 Months",
+                  "paymentParticulars": "Product (Rs.)",
+                  "receiptCash": 45000
+                },
+                {
+                  "date": "July 1, 2022",
+                  "particulars": "Amount Withdrawn",
+                  "paymentCash": 8000,
+                  "paymentLF": "6 Months",
+                  "paymentParticulars": "Product (Rs.)",
+                  "receiptCash": 48000
+                },
+                {
+                  "date": "December 1, 2022",
+                  "particulars": "Amount Withdrawn",
+                  "paymentCash": 5000,
+                  "paymentLF": "1 Month",
+                  "paymentParticulars": "Product (Rs.)",
+                  "receiptCash": 5000
+                },
+                {
+                  "particulars": "Total Products for Kanishq",
+                  "receiptCash": 98000,
+                  "receiptLF": ""
+                },
+                {
+                  "particulars": "Calculation of Interest on Drawings for Ali (Year Ending Dec 31, 2022)"
+                },
+                {
+                  "date": "April 1, 2022",
+                  "particulars": "Amount Withdrawn",
+                  "paymentCash": 7000,
+                  "paymentLF": "9 Months",
+                  "paymentParticulars": "Product (Rs.)",
+                  "receiptCash": 63000
+                },
+                {
+                  "date": "July 1, 2022",
+                  "particulars": "Amount Withdrawn",
+                  "paymentCash": 4000,
+                  "paymentLF": "6 Months",
+                  "paymentParticulars": "Product (Rs.)",
+                  "receiptCash": 24000
+                },
+                {
+                  "date": "December 1, 2022",
+                  "particulars": "Amount Withdrawn",
+                  "paymentCash": 5000,
+                  "paymentLF": "1 Month",
+                  "paymentParticulars": "Product (Rs.)",
+                  "receiptCash": 5000
+                },
+                {
+                  "particulars": "Total Products for Ali",
+                  "receiptCash": 92000,
+                  "receiptLF": ""
+                }
+              ]
+            },
+            "tableType": "general"
+          },
+          {
+            "explanation": "This problem demonstrates how to calculate the distribution of profit when one partner is guaranteed a minimum share of profit. Any deficiency is borne by the guaranteeing partners according to their agreed ratio, or by a specific partner if the guarantee is individual.",
+            "question": "Neil and Kanishq are partners in KnowledgeCompass, sharing profits and losses in the ratio of 2:1. They admit Liam as a new partner with 1/4 share in profits, with a guarantee that his share of profit shall be at least Rs. 50,000. The net profit of the firm for the year ending March 31, 2023, was Rs. 1,60,000. Prepare Profit and Loss Appropriation Account.",
+            "steps": [
+              "**Step 1: Calculate the new profit sharing ratio.**",
+              "Liam's share = 1/4",
+              "Remaining profit = 1 - 1/4 = 3/4",
+              "This remaining profit is shared by Neil and Kanishq in their old ratio of 2:1.",
+              "Neil's new share = (3/4) * (2/3) = 6/12 = 2/4",
+              "Kanishq's new share = (3/4) * (1/3) = 3/12 = 1/4",
+              "New Profit Sharing Ratio (Neil : Kanishq : Liam) = 2/4 : 1/4 : 1/4 or 2 : 1 : 1.",
+              "**Step 2: Calculate each partner's share of profit before guarantee adjustment.**",
+              "Total Net Profit = Rs. 1,60,000",
+              "Neil's share = Rs. 1,60,000 * (2/4) = Rs. 80,000",
+              "Kanishq's share = Rs. 1,60,000 * (1/4) = Rs. 40,000",
+              "Liam's share = Rs. 1,60,000 * (1/4) = Rs. 40,000",
+              "**Step 3: Determine the deficiency for the guaranteed partner.**",
+              "Liam's guaranteed profit = Rs. 50,000",
+              "Liam's actual share = Rs. 40,000",
+              "Deficiency = Rs. 50,000 - Rs. 40,000 = Rs. 10,000",
+              "**Step 4: Distribute the deficiency among the guaranteeing partners.**",
+              "Since no specific ratio is given for bearing the deficiency, it will be borne by Neil and Kanishq in their profit sharing ratio (among themselves), which is 2:1.",
+              "Neil's share in deficiency = Rs. 10,000 * (2/3) = Rs. 6,667 (approx.)",
+              "Kanishq's share in deficiency = Rs. 10,000 * (1/3) = Rs. 3,333 (approx.)",
+              "**Step 5: Calculate the final share of profit for each partner.**",
+              "Neil's final share = Rs. 80,000 - Rs. 6,667 = Rs. 73,333",
+              "Kanishq's final share = Rs. 40,000 - Rs. 3,333 = Rs. 36,667",
+              "Liam's final share = Rs. 40,000 + Rs. 6,667 + Rs. 3,333 = Rs. 50,000",
+              "**Prepare Profit and Loss Appropriation Account:**"
+            ],
+            "tableData": {
+              "accounts": [
+                {
+                  "accountName": "Profit and Loss Appropriation Account for the year ending March 31, 2023",
+                  "credits": [
+                    {
+                      "amount": 160000,
+                      "label": "By Profit and Loss A/c (Net Profit)"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 73333,
+                      "label": "To Neil's Capital Account (Share of Profit)"
+                    },
+                    {
+                      "amount": 36667,
+                      "label": "To Kanishq's Capital Account (Share of Profit)"
+                    },
+                    {
+                      "amount": 50000,
+                      "label": "To Liam's Capital Account (Share of Profit)"
+                    }
+                  ]
+                }
+              ]
+            },
+            "tableType": "TAccount"
+          },
+          {
+            "explanation": "This problem illustrates how to rectify a past omission (interest on drawings not considered) through a single adjustment entry. This approach avoids altering already closed accounts by determining the net effect on partners' capital accounts.",
+            "question": "Neil, Kanishq, and Liam are partners in KnowledgeCompass, sharing profits and losses in the ratio of 5:3:2. The partnership deed provides for charging interest on drawings @ 10% p.a. The drawings of Neil, Kanishq, and Liam during the year ending March 31, 2023, amounted to Rs. 20,000, Rs. 15,000, and Rs. 10,000 respectively. After the final accounts have been prepared, it was discovered that interest on drawings has not been taken into consideration. Assuming drawings were made evenly throughout the year (average 6 months for interest calculation), give the necessary adjusting journal entry.",
+            "steps": [
+              "**Step 1: Calculate the Interest on Drawings for each partner.**",
+              "Interest on Drawings is calculated for an average period of 6 months when dates are not specified and amounts are assumed to be withdrawn evenly.",
+              "  *   Neil: Rs. 20,000 × 10% × (6/12) = Rs. 1,000",
+              "  *   Kanishq: Rs. 15,000 × 10% × (6/12) = Rs. 750",
+              "  *   Liam: Rs. 10,000 × 10% × (6/12) = Rs. 500",
+              "Total Interest on Drawings = Rs. 1,000 + Rs. 750 + Rs. 500 = Rs. 2,250",
+              "**Step 2: Determine the effect of omission on partners' capital accounts.**",
+              "  *   Interest on drawings should have been DEBITED to partners' capital accounts (reducing their share).",
+              "  *   Because it was omitted, the profit distributed was higher than it should have been by Rs. 2,250. This excess profit was CREDITED to partners' capital accounts in their profit sharing ratio (5:3:2).",
+              "  *   Excess profit credited to Neil = Rs. 2,250 × (5/10) = Rs. 1,125",
+              "  *   Excess profit credited to Kanishq = Rs. 2,250 × (3/10) = Rs. 675",
+              "  *   Excess profit credited to Liam = Rs. 2,250 × (2/10) = Rs. 450",
+              "**Step 3: Prepare a statement showing the net effect of the omission.**",
+              "This helps to identify which partner's account needs to be debited or credited.",
+              "**Statement Showing Net Effect of Omitting Interest on Drawings**",
+              "| Particulars                               | Neil (Rs.) | Kanishq (Rs.) | Liam (Rs.) |",
+              "| :---------------------------------------- | :--------- | :------------ | :--------- |",
+              "| Amount that should have been Debited (Interest on Drawings) | 1,000 (Dr.) | 750 (Dr.)     | 500 (Dr.)  |",
+              "| Amount actually Credited (Share of Excess Profit)        | 1,125 (Cr.) | 675 (Cr.)     | 450 (Cr.)  |",
+              "| **Net Effect (Adjustment Required)**      | **125 (Cr.)** | **75 (Dr.)**  | **50 (Dr.)** |",
+              "Explanation of Net Effect:",
+              "  *   Neil's account was credited by Rs. 1,125 (excess profit) but should have been debited by Rs. 1,000 (interest). So, Neil's account needs an additional Rs. 125 Credit.",
+              "  *   Kanishq's account was credited by Rs. 675 (excess profit) but should have been debited by Rs. 750 (interest). So, Kanishq's account needs an additional Rs. 75 Debit (750 - 675).",
+              "  *   Liam's account was credited by Rs. 450 (excess profit) but should have been debited by Rs. 500 (interest). So, Liam's account needs an additional Rs. 50 Debit (500 - 450).",
+              "**Step 4: Pass the adjusting journal entry.**"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "particulars": "Statement showing Net Effect of Omitting Interest on Drawings"
+                },
+                {
+                  "accountName": "Neil",
+                  "debit": 1000,
+                  "particulars": "Amount which should have been debited (Interest on Drawings)"
+                },
+                {
+                  "accountName": "Kanishq",
+                  "debit": 750,
+                  "particulars": "Amount which should have been debited (Interest on Drawings)"
+                },
+                {
+                  "accountName": "Liam",
+                  "debit": 500,
+                  "particulars": "Amount which should have been debited (Interest on Drawings)"
+                },
+                {
+                  "accountName": "Neil",
+                  "credit": 1125,
+                  "particulars": "Amount actually credited (Share of Excess Profit)"
+                },
+                {
+                  "accountName": "Kanishq",
+                  "credit": 675,
+                  "particulars": "Amount actually credited (Share of Excess Profit)"
+                },
+                {
+                  "accountName": "Liam",
+                  "credit": 450,
+                  "particulars": "Amount actually credited (Share of Excess Profit)"
+                },
+                {
+                  "accountName": "Neil",
+                  "credit": 125,
+                  "isTotal": true,
+                  "particulars": "Required Adjustment (Cr.)"
+                },
+                {
+                  "accountName": "Kanishq",
+                  "debit": 75,
+                  "isTotal": true,
+                  "particulars": "Required Adjustment (Dr.)"
+                },
+                {
+                  "accountName": "Liam",
+                  "debit": 50,
+                  "isTotal": true,
+                  "particulars": "Required Adjustment (Dr.)"
+                }
+              ]
+            },
+            "tableType": "general"
+          }
+        ],
+        "oneWord": [
+          {
+            "correctAnswer": "Partnership Deed",
+            "question": "The document that contains the terms of agreement among partners."
+          },
+          {
+            "correctAnswer": "50",
+            "question": "What is the maximum number of partners allowed in a firm as prescribed by the Central Government?"
+          },
+          {
+            "correctAnswer": "Unlimited",
+            "question": "What is the nature of liability of partners in a partnership firm?"
+          },
+          {
+            "correctAnswer": "Mutual Agency",
+            "question": "The relationship where each partner is both a principal and an agent for others is called?"
+          },
+          {
+            "correctAnswer": "6%",
+            "question": "What is the rate of interest allowed on a partner's loan to the firm if the partnership deed is silent?"
+          },
+          {
+            "correctAnswer": "Current Account",
+            "question": "Under the fixed capital method, which separate account is maintained for partner's drawings and interest on capital?"
+          },
+          {
+            "correctAnswer": "Fluctuating Capital Method",
+            "question": "Which method of maintaining capital accounts causes the balance to change with every transaction related to the partner?"
+          },
+          {
+            "correctAnswer": "Profit and Loss Appropriation Account",
+            "question": "What is the name of the account prepared to show the distribution of profits among partners?"
+          },
+          {
+            "correctAnswer": "Product Method",
+            "question": "Which method is used to calculate interest on drawings when varying amounts are withdrawn at different intervals?"
+          },
+          {
+            "correctAnswer": "Past Adjustments",
+            "question": "What are the corrections made for omissions or errors discovered after final accounts have been prepared called?"
+          }
+        ],
+        "shortAnswer1": [
+          {
+            "answer": "A Partnership Deed is a written document containing the terms and conditions agreed upon by the partners, governing the conduct of the partnership business. It includes details like profit-sharing ratio, capital contributions, and rules for various situations.",
+            "question": "Define Partnership Deed."
+          },
+          {
+            "answer": "A written partnership agreement is desirable to avoid future disputes among partners. It provides a clear record of agreed-upon terms, making it easier to resolve disagreements regarding profit sharing, capital contributions, or responsibilities.",
+            "question": "Why is it considered desirable to make the partnership agreement in writing?"
+          },
+          {
+            "answer": "Mutual agency in a partnership means every partner acts as both a principal and an agent for all other partners. They can bind the firm by their actions and are also bound by the actions of other partners regarding the firm's business.",
+            "question": "What is meant by 'Mutual Agency' in a partnership?"
+          },
+          {
+            "answer": "The Profit and Loss Appropriation Account is prepared to show how the net profit (or loss) of the firm, as determined by the Profit and Loss Account, is distributed or appropriated among the partners, after making necessary adjustments like interest on capital, drawings, salary, or commission.",
+            "question": "Why is Profit and Loss Appropriation Account prepared?"
+          },
+          {
+            "answer": "The two primary methods for maintaining partners' capital accounts are the Fixed Capital Method and the Fluctuating Capital Method. In the Fixed Capital Method, two accounts are maintained (Capital and Current), while in the Fluctuating Capital Method, only one (Capital) is maintained.",
+            "question": "Name the two methods by which the capital accounts of partners can be maintained."
+          },
+          {
+            "answer": "Under the Fixed Capital Method, the fixed capitals of partners may change only in two circumstances: when a partner introduces additional capital permanently into the firm, or when a partner makes a permanent withdrawal of capital from the firm.",
+            "question": "Give two circumstances under which the fixed capitals of partners may change."
+          },
+          {
+            "answer": "In the absence of a partnership deed, the profits and losses of the firm are to be shared equally by all the partners, irrespective of their capital contribution or involvement in the business.",
+            "question": "What is the default rule for sharing profits and losses if the partnership deed is silent?"
+          }
+        ],
+        "shortAnswer2": [
+          {
+            "answer": "Partnership is a relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all. Its essential features include: presence of two or more persons, an agreement (oral or written), existence of a business, mutual agency among partners, and sharing of profits and losses. Additionally, partners have unlimited liability.",
+            "question": "What is partnership? Briefly explain its essential features."
+          },
+          {
+            "answer": "If the partnership deed is silent, the Indian Partnership Act 1932 applies. Key provisions include: profits/losses are shared equally; no interest on capital is allowed; no interest on drawings is charged; no salary or remuneration is given to partners for firm's work; and interest on any loan advanced by a partner to the firm is allowed at 6% per annum.",
+            "question": "Discuss the main provisions of the Indian Partnership Act 1932 that are relevant to partnership accounts if there is no partnership deed."
+          },
+          {
+            "answer": "The Fixed Capital Method maintains separate Capital and Current Accounts. Capital remains fixed, adjusted only for permanent additions/withdrawals, while other transactions like drawings, interest, and share of profit/loss are recorded in the Current Account. The Fluctuating Capital Method maintains only one Capital Account, where all transactions directly affect its balance, causing it to fluctuate.",
+            "question": "Briefly differentiate between the fixed capital method and fluctuating capital method for maintaining partners' capital accounts."
+          },
+          {
+            "answer": "Interest on capital is calculated considering both opening balance and any additions or withdrawals during the year. Interest on opening capital is for the full year. For additional capital, interest is from the date of introduction to year-end. For capital withdrawal, interest is calculated on the original capital up to the withdrawal date, and then on the reduced capital for the remaining period.",
+            "question": "How is interest on capital calculated when there are both additions and withdrawals of capital by partners during a financial year?"
+          },
+          {
+            "answer": "Interest on capital is generally not allowed in two situations: (i) if the partnership deed is silent on the matter, as it is not a right; and (ii) if the firm incurs a net loss during the accounting year, as interest on capital is an appropriation of profit, not a charge against it.",
+            "question": "Under what circumstances is interest on capital not allowed to partners?"
+          },
+          {
+            "answer": "Guarantee of profit to a partner means assuring a minimum amount of profit as their share. If the partner's calculated share of profit falls short of the guaranteed amount, the deficiency is covered by the guaranteeing partners (either all old partners in an agreed ratio, or specific partners who gave the individual guarantee).",
+            "question": "Explain the concept of 'Guarantee of Profit to a Partner'."
+          },
+          {
+            "answer": "Past adjustments are rectifications for omissions or errors (e.g., interest on capital/drawings, salary) found after financial statements are prepared and profits distributed. Instead of re-doing old accounts, adjustments are made either through a 'Profit and Loss Adjustment Account' or directly in the concerned partners' capital accounts by a single journal entry reflecting the net effect.",
+            "question": "How are 'Past Adjustments' typically handled in partnership accounts?"
+          }
+        ],
+        "trueFalse": [
+          {
+            "correctAnswer": true,
+            "explanation": "A valid partnership can be formed with an oral agreement, though a written one is highly recommended to avoid disputes.",
+            "question": "Valid partnership can be formulated even without a written agreement between the partners."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "This is the core principle of 'mutual agency', where each partner acts on behalf of and can bind the others.",
+            "question": "Each partner carrying on the business is the principal as well as the agent for all the other partners."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "By virtue of Section 464 of the Companies Act 2013, the Central Government has prescribed the maximum number of partners in a firm to be 50.",
+            "question": "The maximum number of partners in a firm can be 50."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Methods of settlement of disputes among partners are typically and preferably included as a clause in the partnership deed to provide a clear resolution mechanism.",
+            "question": "Methods of settlement of dispute among the partners can't be part of the partnership deed."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "If the partnership deed is silent, no interest is charged on drawings made by the partner.",
+            "question": "If the deed is silent, interest at the rate of 6% p.a. would be charged on the drawings made by the partner."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "If the deed is silent about the rate of interest on a partner's loan, it is given @ 6% p.a., not 12% p.a.",
+            "question": "Interest on partner’s loan is to be given @ 12% p.a., if the deed is silent about the rate."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Under the fixed capital method, partners' capital accounts typically show a credit balance that remains unchanged unless there's an additional introduction or permanent withdrawal of capital.",
+            "question": "Under the fixed capital method, the partners’ capital accounts will always show a credit balance."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Under the fixed capital method, the partners' current account may show a debit balance (if drawings/losses exceed appropriations) or a credit balance (if appropriations exceed drawings/losses).",
+            "question": "Under the fixed capital method, the partners’ current account may show a debit or a credit balance."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "If the firm suffers a loss, no interest on capital, salary, or remuneration is allowed to partners, as these are appropriations of profit, not charges against it.",
+            "question": "If a firm suffers a loss, interest on capital will still be allowed to partners as per the deed."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Profit and Loss Appropriation Account is indeed considered an extension of the Profit and Loss Account, designed to show how profits are distributed among partners.",
+            "question": "Profit and Loss Appropriation Account is merely an extension of the Profit and Loss Account of the firm."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The primary objective of charging interest on drawings is to discourage partners from making excessive withdrawals for personal use.",
+            "question": "Charging interest on drawings discourages excessive amounts of drawings by the partners."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "If the total amount withdrawn is given but dates are not specified, it's assumed the amount was withdrawn evenly throughout the year, and interest is calculated for an average period of 6 months, not 5.5 months.",
+            "question": "When dates of withdrawal are not specified, interest on drawings is calculated for an average period of 5.5 months."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Past errors or omissions can be rectified either through the Profit and Loss Adjustment Account or by directly adjusting the partners' capital accounts.",
+            "question": "Necessary adjustments to rectify past errors can be made directly in the capital accounts of the concerned partners."
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "back": "The 'relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all'.",
+          "front": "Partnership"
+        },
+        {
+          "back": "Persons who have entered into partnership with one another.",
+          "front": "Partners"
+        },
+        {
+          "back": "Collectively, the persons who have entered into partnership.",
+          "front": "Firm"
+        },
+        {
+          "back": "The name under which the business of the partnership is carried on.",
+          "front": "Firm's Name"
+        },
+        {
+          "back": "The document which contains the terms of the agreement among partners, such as objective of business, capital contribution, profit sharing ratio, interest on capital, etc.",
+          "front": "Partnership Deed"
+        },
+        {
+          "back": "A method of maintaining partners' capital accounts where the capital remains fixed, and all other transactions (drawings, interest on capital, salary, share of profit) are recorded in a separate 'Partner's Current Account'.",
+          "front": "Fixed Capital Method"
+        },
+        {
+          "back": "A method of maintaining partners' capital accounts where only one account (capital account) is maintained for each partner, and all adjustments like share of profit/loss, interest on capital, drawings, etc., are recorded directly in this account, causing its balance to fluctuate.",
+          "front": "Fluctuating Capital Method"
+        },
+        {
+          "back": "A separate account maintained for each partner under the fixed capital method, used to record transactions other than permanent additions or withdrawals of capital, such as drawings, interest on capital, and share of profit or loss.",
+          "front": "Partner's Current Account"
+        },
+        {
+          "back": "An extension of the Profit and Loss Account, prepared by a partnership firm to show how the net profit is appropriated or distributed among the partners after accounting for items like interest on capital, drawings, partners' salaries, and commission.",
+          "front": "Profit and Loss Appropriation Account"
+        },
+        {
+          "back": "The allowance paid to partners on the amount of capital they have contributed to the firm, usually specified in the partnership deed.",
+          "front": "Interest on Capital"
+        },
+        {
+          "back": "The charge levied on money withdrawn by partners from the firm for their personal use, typically specified in the partnership deed to discourage excessive drawings.",
+          "front": "Interest on Drawings"
+        },
+        {
+          "back": "A fundamental characteristic of partnership where every partner acts as both an agent and a principal for all other partners, meaning they can bind and be bound by the actions of other partners in relation to the firm's business.",
+          "front": "Mutual Agency"
+        },
+        {
+          "back": "A feature of partnership where the partners' private assets can be used to pay off the firm's debts if the firm's assets are insufficient.",
+          "front": "Unlimited Liability"
+        },
+        {
+          "back": "An account that may be used to rectify omissions or errors discovered after the final accounts have been prepared and profits distributed, without altering the previously closed accounts.",
+          "front": "Profit and Loss Adjustment Account"
+        }
+      ],
+      "id": "chapter1",
+      "longAnswerQuestions": [
+        {
+          "answer150Words": "Partnership is defined by Section 4 of the Indian Partnership Act 1932 as “the relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all”. Its chief characteristics are: (i) Two or More Persons: A minimum of two persons is required, with a maximum of 50. (ii) Agreement: Formed by an agreement (oral or written) to conduct business. (iii) Business: The agreement must be to carry on a legitimate business. (iv) Mutual Agency: Each partner is both a principal and an agent for others, binding the firm by their acts. (v) Sharing of Profit: Agreement to share profits (and impliedly, losses) of the business. (vi) Unlimited Liability: Partners are jointly and severally liable for firm’s debts, even using private assets. These features collectively define the unique legal and operational framework of a partnership, distinguishing it from other forms of business organizations.",
+          "answer200Words": "Partnership, as defined by the Indian Partnership Act 1932, is a contractual relationship between individuals who concur to share the gains of a business venture, which can be operated by all partners or by any one partner acting on behalf of the others. Its fundamental characteristics are crucial for understanding its nature. Firstly, a partnership mandates 'Two or More Persons', with a minimum of two and a current maximum of fifty, ensuring collective effort and broader capital base. Secondly, it is a result of an 'Agreement', which can be verbal or written, laying the foundation of mutual understanding and operational terms. Thirdly, the purpose must be a 'Business' activity, differentiating it from mere co-ownership. Fourthly, 'Mutual Agency' is a pivotal element, signifying that every partner acts both as a principal and an agent for the firm and other partners, thereby binding them by their actions. Fifthly, the core objective is 'Sharing of Profit' (and implicitly, losses), which is the driving force behind their collaboration. Lastly, 'Unlimited Liability' implies that partners are jointly and severally responsible for the firm's debts, even to the extent of their personal assets. These characteristics collectively define partnership as a distinct and flexible organizational structure.",
+          "answer50To75Words": "Partnership is a relation between persons agreeing to share business profits, carried on by all or some acting for all (Indian Partnership Act 1932). Key characteristics include: two or more persons (max 50), agreement (oral/written), a business objective, mutual agency (partners are principal and agent), sharing of profits/losses, and unlimited liability. These define its unique operational and legal framework.",
+          "text": "What is meant by partnership? Explain its chief characteristics?",
+          "title": "Defining Partnership and its Characteristics"
+        },
+        {
+          "answer150Words": "In the absence of a written Partnership Deed, the Indian Partnership Act, 1932 provides default rules to govern the firm's operations and accounting. These provisions are crucial to avoid disputes. Firstly, profits and losses are to be shared equally among partners, regardless of their capital contributions. Secondly, no partner is entitled to claim any interest on the capital contributed by them to the firm. Thirdly, no interest is to be charged on drawings made by the partners for personal use. Fourthly, partners are not entitled to receive any salary or other remuneration for participating in the conduct of the business. However, if any partner has advanced a loan to the firm, they are entitled to receive interest on that loan amount at a rate of 6% per annum. These rules ensure fairness and consistency where specific terms are not explicitly agreed upon.",
+          "answer200Words": "When a partnership firm operates without a written Partnership Deed, or if the deed is silent on specific matters, the provisions of the Indian Partnership Act, 1932 automatically apply, providing a legal framework for accounting and internal relations. These provisions are fundamental: Firstly, the 'Profit Sharing Ratio' defaults to equal distribution; partners will share profits and losses equally, irrespective of their capital contribution or efforts. Secondly, regarding 'Interest on Capital', no partner can claim interest on their capital contribution; it is only allowed if expressly agreed upon. Thirdly, 'Interest on Drawings' is not to be charged on any amounts withdrawn by partners for personal use. Fourthly, 'Remuneration for Firm's Work' such as salary or commission, is not payable to any partner unless there's an explicit provision in the deed. Lastly, a crucial provision concerns 'Interest on Loan': if a partner has advanced a loan to the firm, they are entitled to interest at a rate of 6% per annum, irrespective of the firm's profitability. These statutory rules act as a safety net, guiding the firm's accounting and operational conduct in the absence of a comprehensive agreement.",
+          "answer50To75Words": "If a partnership deed is silent, the Indian Partnership Act 1932 applies default rules. These include: equal profit/loss sharing; no interest on capital; no interest on drawings; no partner salary/remuneration. However, a partner providing a loan to the firm is entitled to 6% p.a. interest. These rules ensure a framework where specific agreements are lacking.",
+          "text": "Discuss the main provisions of the Indian Partnership Act 1932 that are relevant to partnership accounts if there is no partnership deed.",
+          "title": "Provisions of Indian Partnership Act 1932 (in absence of deed)"
+        },
+        {
+          "answer150Words": "While an oral partnership agreement is legally valid, it is highly desirable to have a written partnership agreement, known as the Partnership Deed, for several compelling reasons. Firstly, a written deed provides clear and unambiguous evidence of the terms agreed upon by the partners. This clarity significantly reduces the likelihood of future misunderstandings, conflicts, and disputes regarding critical aspects such as profit-sharing ratios, capital contributions, interest on capital or drawings, partners' salaries, and the duration of the partnership. Secondly, in case a dispute does arise, the written deed serves as a definitive legal document, making it easier to resolve disagreements efficiently and fairly, potentially avoiding lengthy and costly legal battles. Thirdly, a comprehensive deed covers various scenarios like partner admission, retirement, death, or dissolution of the firm, providing a roadmap for smooth transitions and fair settlements. In essence, a written partnership deed acts as a foundational agreement that safeguards the interests of all partners and ensures the harmonious and efficient operation of the business.",
+          "answer200Words": "It is considered significantly better to make a partnership agreement in writing, formalizing it as a Partnership Deed, primarily to mitigate the risk of disputes and ensure smooth operations. While oral agreements are legally valid under the Indian Partnership Act, 1932, their lack of tangible proof often leads to misunderstandings, misinterpretations, and disagreements among partners, especially as the business grows or external circumstances change. A written Partnership Deed clearly outlines crucial aspects such as the names and addresses of the firm and partners, capital contributions, profit and loss sharing ratios, interest rates on capital and drawings, partners' salaries or commissions, rules for operating bank accounts, and procedures for admission, retirement, death, or dissolution of a partner. This explicit documentation serves as a ready reference and legal evidence, preventing ambiguity and providing a predefined mechanism for conflict resolution. In essence, a well-drafted and registered Partnership Deed ensures transparency, provides legal enforceability, and fosters a stable and predictable environment for the partners, contributing significantly to the long-term success and continuity of the firm.",
+          "answer50To75Words": "A written Partnership Deed is preferred over an oral agreement primarily to avoid future disputes and provide clear evidence of agreed terms. It explicitly defines critical aspects like profit sharing, capital, interest on capital/drawings, and rules for partner changes or dissolution, making conflict resolution easier and ensuring smoother business operations for all partners.",
+          "text": "Explain why it is considered better to make a partnership agreement in writing.",
+          "title": "Benefits of a Written Partnership Agreement"
+        },
+        {
+          "answer150Words": "Interest on drawings is typically charged to discourage excessive personal withdrawals by partners. Its calculation depends on the pattern of withdrawals: (i) Fixed amount withdrawn at the beginning of each month: Interest is calculated on the total annual drawings for an average period of 6.5 months (e.g., total drawings x rate x 6.5/12). (ii) Fixed amount withdrawn at the end of each month: Interest is calculated on the total annual drawings for an average period of 5.5 months (e.g., total drawings x rate x 5.5/12). (iii) Fixed amount withdrawn in the middle of each month: Interest is calculated on the total annual drawings for an average period of 6 months (e.g., total drawings x rate x 6/12). (iv) Varying amounts withdrawn at different intervals: The 'Product Method' is used. For each withdrawal, the amount is multiplied by the period it remained outstanding. The sum of these 'products' is then multiplied by the rate and 1/12 (Sum of Products x Rate x 1/12) to get the total interest.",
+          "answer200Words": "Calculating interest on drawings is crucial for fairness among partners and discouraging excessive withdrawals. The method varies based on the withdrawal pattern: Firstly, if a 'fixed amount is withdrawn at the beginning of every month', interest is computed on the total annual drawings for an average period of 6½ months. This average period is derived by (Time left after 1st drawing + Time left after last drawing) / 2, i.e., (12+1)/2 = 6.5 months. Secondly, if the 'fixed amount is withdrawn at the end of every month', the average period for calculation is 5½ months, derived as (11+0)/2 = 5.5 months. Thirdly, if the 'fixed amount is withdrawn in the middle of every month', the average period is consistently 6 months, calculated as (11.5+0.5)/2 = 6 months. Fourthly, for 'varying amounts withdrawn at different intervals', the 'Product Method' is employed. Here, each withdrawal amount is multiplied by the number of months it remained outstanding from the date of withdrawal to the end of the accounting period. The sum of these products is then multiplied by the interest rate and 1/12 (Sum of Products × Rate × 1/12) to arrive at the total interest on drawings. This systematic approach ensures accurate interest calculation based on the actual period funds were utilized.",
+          "answer50To75Words": "Interest on drawings varies based on withdrawal patterns. For fixed monthly withdrawals, it's calculated on total drawings for an average period: 6.5 months (beginning), 5.5 months (end), or 6 months (middle). For varying amounts or irregular intervals, the 'Product Method' is used, where each withdrawal amount is multiplied by its period outstanding, and the total product is then used for calculation.",
+          "text": "Illustrate how interest on drawings will be calculated under various situations.",
+          "title": "Calculation of Interest on Drawings"
+        },
+        {
+          "answer150Words": "The Profit and Loss Appropriation Account is a crucial statement in partnership accounting, serving as an extension of the regular Profit and Loss Account. Its primary purpose is to show how the net profit (or loss) of the firm, as determined by the Profit and Loss Account, is distributed or 'appropriated' among the partners. All adjustments related to partners, which are not expenses against profit but rather divisions of profit, are made through this account. These adjustments typically include: debiting interest on capital (allowed to partners), partners' salaries, and partners' commissions; and crediting interest on partners' drawings (charged from partners). After these adjustments, the residual profit or loss is then distributed among the partners in their agreed profit-sharing ratio and transferred to their respective capital or current accounts. This account is essential for transparently demonstrating the final allocation of the firm's earnings to its owners.",
+          "answer200Words": "The Profit and Loss Appropriation Account is a vital component of partnership final accounts, acting as an extension of the Profit and Loss Account. Its fundamental purpose is to illustrate the manner in which the net profit or loss, as determined by the traditional Profit and Loss Account, is allocated or 'appropriated' among the partners of the firm. This account begins with the net profit (or loss) carried forward from the Profit and Loss Account. Various adjustments specific to the partnership arrangement are then made through this account. These adjustments are typically appropriations of profit, not charges against it. Key items debited to the Profit and Loss Appropriation Account include: interest on partners' capital (if allowed), partners' salaries, and any commission payable to partners. Conversely, interest on partners' drawings (if charged) is credited to this account. After incorporating all these adjustments, the resulting balance represents the final distributable profit or loss. This balance is then allocated to the partners' Capital or Current Accounts according to their agreed profit-sharing ratio. This systematic process ensures a transparent and accurate distribution of the firm's earnings or losses among its partners, reflecting the terms of the partnership deed.",
+          "answer50To75Words": "The Profit and Loss Appropriation Account shows how a firm's net profit is distributed among partners. It accounts for appropriations like interest on capital, partners' salaries, and commissions (debited), and interest on drawings (credited). The residual profit/loss is then allocated to partners' capital/current accounts based on their profit-sharing ratio, ensuring transparent profit distribution.",
+          "text": "Explain the purpose of the Profit and Loss Appropriation Account and the various adjustments made through it.",
+          "title": "Purpose and Adjustments of Profit and Loss Appropriation Account"
+        },
+        {
+          "answer150Words": "Partners' capital accounts can be maintained using two principal methods: Fixed Capital Method and Fluctuating Capital Method. Under the Fixed Capital Method, two separate accounts are maintained for each partner: a Capital Account and a Current Account. The Capital Account generally remains constant, changing only with permanent additions or withdrawals of capital. All other transactions such as interest on capital, drawings, interest on drawings, salary, commission, and share of profit or loss are recorded in the Partner's Current Account. This method provides a stable capital figure. In contrast, under the Fluctuating Capital Method, only one account, the Capital Account, is maintained for each partner. All transactions related to the partner, including capital contributions, drawings, interest on capital, interest on drawings, salary, commission, and share of profit or loss, are directly recorded in this single account. This causes the balance in the capital account to fluctuate frequently, reflecting every transaction. The choice of method depends on the firm's preference for stability in capital figures or simplicity of record-keeping.",
+          "answer200Words": "The maintenance of partners' capital accounts is a fundamental aspect of partnership accounting, with two distinct methods available: the Fixed Capital Method and the Fluctuating Capital Method. The 'Fixed Capital Method' mandates the maintenance of two separate accounts for each partner: the Capital Account and the Current Account. The Capital Account, as its name suggests, remains fixed and undergoes changes only when there is a permanent introduction of additional capital or a permanent withdrawal of capital by the partner. All other routine transactions, such as interest on capital, drawings made during the year, interest charged on drawings, partners' salaries, commissions, and their share of profit or loss for the period, are recorded in the separate 'Partner's Current Account'. The Current Account can show either a debit or credit balance. Conversely, the 'Fluctuating Capital Method' simplifies this by maintaining only a single 'Capital Account' for each partner. Under this method, every transaction relating to the partner, including capital contributions, drawings, interest on capital, interest on drawings, salary, commission, and profit/loss share, is directly posted to this one Capital Account. Consequently, the balance in this account continuously fluctuates from period to period, reflecting the cumulative impact of all these transactions. In the absence of specific instructions, the fluctuating capital method is generally followed.",
+          "answer50To75Words": "Partners' capital accounts can be 'Fixed' or 'Fluctuating'. Fixed capital uses two accounts: a stable Capital Account (for permanent changes) and a Current Account (for drawings, interest, salary, profit share). Fluctuating capital uses only one Capital Account where all partner-related transactions directly impact its balance, causing it to change frequently.",
+          "text": "Discuss the two methods of maintaining partners' capital accounts and their key differences.",
+          "title": "Methods of Maintaining Partners' Capital Accounts"
+        },
+        {
+          "answer150Words": "Past adjustments are necessary rectifications for omissions or errors discovered in partnership accounts after the final financial statements have been prepared and profits already distributed. Common omissions include not accounting for interest on capital, interest on drawings, partners' salaries, or commissions as per the partnership deed. To correct these without altering the already closed books of accounts, two primary methods are employed. Firstly, a 'Profit and Loss Adjustment Account' can be used. Omitted items are debited/credited to this account, and any resulting balance (loss or gain on adjustment) is then transferred to partners' capital accounts in their profit-sharing ratio. Secondly, and more commonly, adjustments can be made 'directly in the partners’ capital accounts' through a single adjusting journal entry. This involves first preparing a 'Statement Showing Net Effect of Omission' to ascertain the overall debit or credit impact on each partner’s capital account. Based on this net effect, a single journal entry is passed to debit the accounts of partners who were over-credited and credit those who were under-credited, thereby rectifying the error efficiently.",
+          "answer200Words": "Past adjustments in partnership accounting refer to the process of correcting errors or omissions that are discovered after the final accounts for a financial year have already been prepared and the profits distributed among the partners. These discrepancies can arise from various reasons, such as neglecting to charge interest on drawings, omitting interest on capital, not crediting partner's salary or commission, or incorrect profit-sharing calculations. Instead of re-opening and altering the previously closed financial statements, which can be cumbersome and complex, these adjustments are typically made in the current accounting period. There are two main approaches: First, through a 'Profit and Loss Adjustment Account'. Omitted appropriations (like interest on capital or salary) are debited to this account, while omitted charges (like interest on drawings) are credited. The resulting balance (profit or loss on adjustment) is then transferred to the partners' capital or current accounts in their profit-sharing ratio. Second, and often more efficiently, 'directly in the partners’ capital accounts'. This involves preparing a 'Statement Showing Net Effect of Omission'. This statement calculates what each partner should have received versus what they actually received. The net difference for each partner is then consolidated, and a single adjusting journal entry is passed. This entry debits the capital/current accounts of partners who received more than they should have, and credits those who received less, effectively rectifying the error with minimal disruption to past records.",
+          "answer50To75Words": "Past adjustments rectify errors or omissions (like interest on capital/drawings, salary) found after accounts are closed. Instead of altering old books, corrections are made either via a 'Profit and Loss Adjustment Account' (transferring adjustment profit/loss) or directly in partners' capital accounts through a single journal entry. This entry debits/credits partners' accounts based on the net over/under credit from the omission.",
+          "text": "Describe how past adjustments are made in partnership accounts.",
+          "title": "Methods of Making Past Adjustments"
+        }
+      ],
+      "mindmap": [
+        {
+          "definition": "Partnership is the relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all (Section 4, Indian Partnership Act 1932).",
+          "explanation": "This is the foundational concept of how individuals come together to form a business, pooling resources and sharing outcomes.",
+          "keyPoints": [
+            "Definition as per Indian Partnership Act 1932.",
+            "Two or more persons.",
+            "Agreement (oral or written).",
+            "To carry on a business.",
+            "Sharing of profits and losses.",
+            "Mutual agency (principal and agent relationship)."
+          ],
+          "title": "Nature of Partnership",
+          "points": [
+            {
+              "explanation": "Minimum two persons required, maximum 50 (as per Companies Act 2013, read with Companies (Miscellaneous) Rules 2014).",
+              "title": "Two or More Persons"
+            },
+            {
+              "explanation": "Partnership is a result of an agreement; it can be oral or written, though written is preferred to avoid disputes.",
+              "title": "Agreement"
+            },
+            {
+              "explanation": "The agreement must be to carry on some business. Mere co-ownership is not partnership.",
+              "title": "Business"
+            },
+            {
+              "explanation": "The business can be carried on by all or any of them acting for all. Each partner is both a principal and an agent for others, binding them by their acts.",
+              "title": "Mutual Agency"
+            },
+            {
+              "explanation": "The agreement must be to share profits and losses of the business. Sharing of loss is implied even if only profits are mentioned.",
+              "title": "Sharing of Profit"
+            },
+            {
+              "explanation": "Each partner is jointly and severally liable to third parties, and their liability is unlimited, meaning private assets can be used for firm’s debts.",
+              "title": "Liability of Partners (Unlimited)"
+            }
+          ]
+        },
+        {
+          "definition": "A written document that contains the terms and conditions agreed upon by the partners, governing their relationship and the conduct of the partnership business.",
+          "explanation": "The Partnership Deed is the blueprint for the firm's operations, crucial for clarity and dispute avoidance.",
+          "keyPoints": [
+            "Can be oral or written (written preferred).",
+            "Contains detailed terms of agreement.",
+            "Should be properly drafted and registered."
+          ],
+          "title": "Partnership Deed",
+          "points": [
+            {
+              "explanation": "Names and Addresses of the firm and partners.",
+              "title": "Firm and Partners' Details"
+            },
+            {
+              "explanation": "Amount of capital contributed by each partner.",
+              "title": "Capital Contribution"
+            },
+            {
+              "explanation": "Ratio in which profits and losses will be shared.",
+              "title": "Profit and Loss Sharing Ratio"
+            },
+            {
+              "explanation": "Rates for interest on capital, loan, drawings, etc.",
+              "title": "Interest Rates"
+            },
+            {
+              "explanation": "Provisions for salary, commission, if payable to any partner.",
+              "title": "Remuneration to Partners"
+            },
+            {
+              "explanation": "The accounting period, bank account rules, rights, duties, and liabilities.",
+              "title": "Operational Rules"
+            },
+            {
+              "explanation": "Rules for admission, retirement, death of a partner, and dissolution of the firm.",
+              "title": "Partner Changes and Dissolution"
+            }
+          ]
+        },
+        {
+          "definition": "Specific rules of the Indian Partnership Act 1932 that apply to partnership accounts when the partnership deed is silent on certain matters.",
+          "explanation": "These are default rules to fall back on in the absence of explicit agreement.",
+          "keyPoints": [
+            "Applicable when deed is silent.",
+            "Ensures fairness and legal compliance."
+          ],
+          "title": "Provisions of Partnership Act Relevant for Accounting",
+          "points": [
+            {
+              "explanation": "Profits and losses are to be shared equally by partners, irrespective of capital contribution.",
+              "title": "Profit Sharing Ratio (Equal)"
+            },
+            {
+              "explanation": "No partner is entitled to interest on capital.",
+              "title": "Interest on Capital (Not Allowed)"
+            },
+            {
+              "explanation": "No interest is to be charged on drawings made by partners.",
+              "title": "Interest on Drawings (Not Charged)"
+            },
+            {
+              "explanation": "If any partner has advanced a loan, they are entitled to 6% p.a. interest on the loan amount.",
+              "title": "Interest on Loan (6% p.a.)"
+            },
+            {
+              "explanation": "No partner is entitled to get salary or other remuneration for taking part in business conduct.",
+              "title": "Remuneration for Firm’s Work (Not Allowed)"
+            }
+          ]
+        },
+        {
+          "definition": "The process of recording all transactions related to partners within the firm's books through their capital accounts.",
+          "explanation": "There are two main methods to manage how partners' capital accounts reflect transactions.",
+          "keyPoints": [
+            "Records all partner-related transactions.",
+            "Two main methods: Fixed and Fluctuating."
+          ],
+          "title": "Maintenance of Capital Accounts of Partners",
+          "points": [
+            {
+              "explanation": "Capitals remain fixed; separate Current Account for drawings, interest, salary, share of profit/loss. Capital Account always credit balance; Current Account can be debit or credit.",
+              "title": "Fixed Capital Method"
+            },
+            {
+              "explanation": "Only one Capital Account is maintained for each partner. All adjustments directly recorded in the capital account, causing its balance to fluctuate.",
+              "title": "Fluctuating Capital Method"
+            },
+            {
+              "explanation": "Number of accounts (two vs. one), items transferred (current vs. capital), balance stability, possibility of debit balance in capital account.",
+              "title": "Distinction (Fixed vs. Fluctuating)"
+            }
+          ]
+        },
+        {
+          "definition": "The process of allocating the firm's net profit or loss among the partners in their agreed profit-sharing ratio, often facilitated by a Profit and Loss Appropriation Account.",
+          "explanation": "This section explains how the firm's earnings are finally shared among its owners.",
+          "keyPoints": [
+            "Done in agreed ratio, or equally if silent.",
+            "Uses Profit and Loss Appropriation Account."
+          ],
+          "title": "Distribution of Profit among Partners",
+          "points": [
+            {
+              "explanation": "An extension of Profit and Loss Account; shows how profits are distributed. Debited with interest on capital, salary, commission; Credited with net profit, interest on drawings. Balance is distributed profit/loss.",
+              "title": "Profit and Loss Appropriation Account"
+            },
+            {
+              "explanation": "Rules for calculating interest on capital, considering additions/withdrawals, and restrictions (not allowed in loss, limited by profit).",
+              "title": "Interest on Capital Calculation"
+            },
+            {
+              "explanation": "Rules for calculating interest on drawings based on fixed amounts withdrawn monthly/quarterly (average period method) or varying amounts (product method).",
+              "title": "Interest on Drawings Calculation"
+            }
+          ]
+        },
+        {
+          "definition": "An assurance given to a partner that they will receive a certain minimum amount as their share of the firm's profits, regardless of the actual calculated share.",
+          "explanation": "This guarantees a baseline income for a new or specific partner.",
+          "keyPoints": [
+            "Minimum profit assured.",
+            "Deficiency borne by guaranteeing partners.",
+            "Can be by all old partners or individually."
+          ],
+          "title": "Guarantee of Profit to a Partner",
+          "points": []
+        },
+        {
+          "definition": "Corrections made for omissions or errors (e.g., in interest on capital, interest on drawings, salary) discovered after final accounts have been prepared and profits distributed.",
+          "explanation": "These adjustments ensure accuracy without re-opening prior period books.",
+          "keyPoints": [
+            "Errors found post-final accounts.",
+            "Rectification methods: P&L Adjustment A/c or direct in Capital A/cs."
+          ],
+          "title": "Past Adjustments",
+          "points": []
+        }
+      ],
+      "story": [
+        {
+          "storyParts": [
+            {
+              "speaker": "Neil",
+              "text": "Kanishq, remember those early days in the garage? Just me, a laptop, and a dream. KnowledgeCompass has come so far, but now, as we're expanding into new markets, a sole proprietorship feels… limiting."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Absolutely, Neil. We need more capital, more hands to manage, and frankly, sharing the risks would be a relief. It sounds like we're naturally moving towards a partnership structure. How will this change our accounting?"
+            },
+            {
+              "speaker": "Neil",
+              "text": "That's exactly what I've been researching. The core accounting remains similar, but there are peculiarities. For instance, distributing profits isn't just a simple transfer to a proprietor’s account anymore. We’ll need a 'Profit and Loss Appropriation Account'."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Ah, yes, for things like interest on our capital contributions, or if we decide on a salary or commission for ourselves. What about drawings?"
+            },
+            {
+              "speaker": "Neil",
+              "text": "Precisely. And we'll also need to decide how to maintain our capital accounts – whether they're 'fixed' or 'fluctuating'. Each has its own implications for how transactions like your drawings or my interest on capital are recorded."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Fixed versus fluctuating… I'll need to understand that better. What if we don't put everything into writing, say, about profit sharing? Does the law step in?"
+            },
+            {
+              "speaker": "Neil",
+              "text": "It does, Kanishq. The Indian Partnership Act 1932 has default provisions. If our 'Partnership Deed' is silent, we’d share profits equally, regardless of capital, and neither of us would get interest on capital or a salary. Though, if one of us gives the firm a loan, the Act says we'd get 6% interest on that loan."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "That's why a comprehensive Partnership Deed is critical. It avoids those default rules and allows us to tailor the terms to KnowledgeCompass’s unique needs. We can specify our profit-sharing ratio, define salaries, and even include a 'guarantee of profit' if we bring in a new partner in the future to ensure they have a minimum share."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Exactly! And speaking of future partners, we'll need clauses for admission, retirement, and even dissolution. It's about building a robust framework for KnowledgeCompass. Oh, and one more thing: 'past adjustments'. What if we realize later we missed something, like interest calculations?"
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "That's a good point. The chapter mentions rectifying those omissions without redoing old accounts, either through a 'Profit and Loss Adjustment Account' or directly in our capital accounts. It sounds like partnership accounting demands a lot more precision and foresight, but it also opens up immense possibilities for KnowledgeCompass's growth."
+            },
+            {
+              "speaker": "Neil",
+              "text": "It certainly does. More capital, shared responsibility, structured growth, and a clear legal footing. It’s the next logical step for our EdTech empire."
+            }
+          ],
+          "title": "The Evolution of KnowledgeCompass: From Solo to Partnership"
+        }
+      ],
+      "title": "Accounting for Partnership: Basic Concepts",
+      "unitName": "Partnership Accounts",
+      "unitNumber": 1
+    }
+  ],
+  "metadata": {
+    "chapterTitle": "Accounting for Partnership: Basic Concepts",
+    "description": "This chapter introduces the fundamental concepts of partnership accounting, covering its nature, the partnership deed, profit distribution, capital account maintenance, and adjustments for past errors and profit guarantees."
+  }
+}

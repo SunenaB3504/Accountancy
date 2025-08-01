@@ -1,0 +1,71 @@
+{
+  "books": [
+    {
+      "title": "Accountancy",
+      "questions": [
+        {
+          "question": "Prepare Journal entries for the following transactions in the books of Amit:",
+          "tableType": "journal",
+          "tableData": [
+            {"date": "01-Apr-2025", "account": "Cash A/c", "debit": 10000, "credit": null, "narration": "Being cash received from Amit"},
+            {"date": "01-Apr-2025", "account": "Amit, Capital A/c", "debit": null, "credit": 10000, "narration": "Being capital introduced by Amit"}
+          ],
+          "steps": ["Step 1: Identify the accounts involved in each transaction.", "Step 2: Apply the rules of debit and credit.", "Step 3: Record the narration for each entry."],
+          "explanation": "Journal entries record each transaction in chronological order, showing the accounts debited and credited, along with a brief narration."
+        }
+      ]
+    },
+    {
+      "title": "Business Studies",
+      "questions": [
+        {
+          "question": "Prepare a trial balance from the following balances:",
+          "tableType": "trialBalance",
+          "tableData": [
+            {"accountName": "Cash in hand", "debit": 5000, "credit": null},
+            {"accountName": "Sales", "debit": null, "credit": 20000},
+            {"accountName": "Purchases", "debit": 12000, "credit": null},
+            {"accountName": "Capital", "debit": null, "credit": 15000}
+          ],
+          "steps": ["Step 1: List all account balances.", "Step 2: Place debits and credits in respective columns.", "Step 3: Total both columns to check agreement."],
+          "explanation": "A trial balance is prepared to check the arithmetical accuracy of ledger accounts."
+        }
+      ]
+    },
+    {
+      "title": "Economics",
+      "questions": [
+        {
+          "question": "Prepare an income statement for the year ended 31st March 2025:",
+          "tableType": "incomeStatement",
+          "tableData": {
+            "revenues": [
+              {"name": "Sales Revenue", "amount": 50000},
+              {"name": "Interest Income", "amount": 2000}
+            ],
+            "totalRevenues": 52000,
+            "expenses": [
+              {"name": "Cost of Goods Sold", "amount": 30000},
+              {"name": "Rent Expense", "amount": 5000},
+              {"name": "Salary Expense", "amount": 8000}
+            ],
+            "totalExpenses": 43000,
+            "netIncome": 9000
+          },
+          "steps": ["Step 1: List all revenues.", "Step 2: List all expenses.", "Step 3: Subtract total expenses from total revenues to get net income."],
+          "explanation": "An income statement shows the company's revenues and expenses for a period, resulting in net income or loss."
+        }
+      ]
+    },
+    {
+      "title": "Mathematics",
+      "questions": [
+        {
+          "question": "Solve for x: 2x + 3 = 11",
+          "steps": ["Step 1: Subtract 3 from both sides: 2x = 8.", "Step 2: Divide both sides by 2: x = 4."],
+          "explanation": "Isolate the variable by performing inverse operations."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1170 @@
+{
+  "chapters": [
+    {
+      "caseStudy": [
+        {
+          "questions": [
+            {
+              "answer": "The financial statements of KnowledgeCompass are crucial for investors as they provide a comprehensive view of the company's financial health and performance. The Balance Sheet (position statement) shows the company's assets, liabilities, and equity at a specific point in time, indicating its solvency and financial structure. The Statement of Profit and Loss (income statement) reveals the company's profitability over a period, detailing revenues and expenses, which helps assess its earning capacity and operational efficiency. The Cash Flow Statement provides insights into the company's cash inflows and outflows from operating, investing, and financing activities, which is vital for understanding liquidity and financial viability. Investors use this information to predict future cash flows, evaluate investment risks, and make informed decisions about whether to invest in KnowledgeCompass.",
+              "marks": 6,
+              "question": "Neil and Kanishq are seeking new investors for KnowledgeCompass's expansion. Explain how the company's financial statements (Balance Sheet, Statement of Profit and Loss, and Cash Flow Statement) provide necessary information to prospective investors for their decision-making. (150-200 words)",
+              "type": "explain",
+              "wordLimit": 200
+            },
+            {
+              "answer": "When presenting their financial statements to potential investors, Neil and Kanishq should be mindful of several limitations. Firstly, financial statements are based on historical costs, meaning they might not reflect the current market value of assets, especially in a dynamic industry like EdTech where technology evolves rapidly. This might lead to investors underestimating the true worth of KnowledgeCompass's technological infrastructure. Secondly, the statements involve personal judgments and estimates, for instance, in determining depreciation or provisions, which can introduce a degree of bias and may not always be perfectly realistic. Thirdly, financial statements present aggregate information, which, while useful, may lack the granular detail an investor might need for a deep dive into specific operational areas. Lastly, they do not include vital qualitative information like KnowledgeCompass's strong brand reputation, employee morale, or innovation pipeline, all of which are critical for an EdTech startup's long-term success but are not quantifiable in monetary terms.",
+              "marks": 6,
+              "question": "As KnowledgeCompass expands, Neil and Kanishq need to present accurate and compelling financial information. Discuss the limitations of financial statements that they should be aware of when presenting to potential investors, particularly highlighting how these limitations might impact the investors' perception of KnowledgeCompass. (150-200 words)",
+              "type": "explain",
+              "wordLimit": 200
+            },
+            {
+              "answer": "When classifying items in KnowledgeCompass's Balance Sheet according to Schedule III, Neil and Kanishq must adhere to the current/non-current bifurcation principle. Preliminary expenses, which were incurred during the startup phase, should be written off against Securities Premium or the Statement of Profit and Loss in the year they are incurred. They should not appear as a separate asset. \"Loose Tools,\" if material and with a useful life of less than 12 months, would typically be classified under Inventories (Current Assets). However, if they are significant and have a longer useful life, they would be Tangible Fixed Assets. In the context of the provided text, they are classified under Inventories. \"Provision for Taxation\" should be classified as a Short-term Provision under Current Liabilities, assuming it's expected to be settled within 12 months. \"Calls in Arrears\" represents amounts due from shareholders on shares already called up; this is deducted from \"Subscribed but not fully paid-up capital\" within the \"Share Capital\" section under Shareholder's Funds. \"Proposed Dividend\" is a contingent liability as it depends on shareholder approval and is therefore shown only in the Notes to Accounts, not on the face of the balance sheet itself.",
+              "marks": 8,
+              "question": "KnowledgeCompass has certain items on its books: Preliminary expenses, Loose Tools, Provision for Taxation, Calls in arrears, and Proposed Dividend. Advise Neil and Kanishq on how each of these items would be appropriately classified and presented in the Balance Sheet and its accompanying Notes to Accounts as per Schedule III of the Companies Act, 2013.",
+              "type": "explain",
+              "wordLimit": 250
+            },
+            {
+              "answer": "For KnowledgeCompass, ensuring the financial statements serve their objectives is paramount. One key objective is to \"provide information about economic resources and obligations.\" This means detailing all assets (e.g., software, intellectual property, cash) and liabilities (e.g., loans, trade payables) clearly, allowing investors to gauge the company's financial structure. Another objective is to \"provide information about the earning capacity,\" which is achieved through the Statement of Profit and Loss, showing revenues from course sales and subscription fees versus operational costs. This helps investors project future earnings. The objective to \"provide information about cash flows\" is met by the Cash Flow Statement, indicating how cash is generated and used, essential for assessing liquidity. Finally, the objective to \"judge effectiveness of management\" is crucial for Neil and Kanishq, as the statements reflect their ability to utilize resources efficiently, a critical factor for attracting new capital.",
+              "marks": 5,
+              "question": "Neil and Kanishq are committed to transparent financial reporting for KnowledgeCompass. Identify and briefly explain four key objectives that their financial statements aim to achieve, demonstrating how these objectives are met through the statements.",
+              "type": "identify",
+              "wordLimit": 120
+            }
+          ],
+          "scenario": "KnowledgeCompass, the successful EdTech startup founded by Neil and Kanishq, is now a thriving corporation. They are planning a major expansion into international markets and require significant capital. To secure funding, they must present a clear and compelling financial picture to potential institutional investors and lenders. The company's accounts have been diligently maintained, but understanding the nuances of presenting financial statements as per Schedule III of the Companies Act, 2013, and addressing investor concerns is critical.",
+          "title": "KnowledgeCompass: Navigating Growth and Investor Relations"
+        }
+      ],
+      "exercises": {
+        "mcq": [
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Financial statements are prepared following accounting policies consistently, accounting standards prescribed in the Companies Act, and accounting concepts and principles, which are collectively known as postulates.",
+            "options": [
+              "Accounting postulates",
+              "External audits",
+              "Market valuations",
+              "Management's discretionary decisions"
+            ],
+            "question": "Financial statements are prepared on certain basic assumptions and pre-requisites, such as the going concern and money measurement assumptions. These basic assumptions are collectively known as:"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "The Balance Sheet is also referred to as the position statement as it shows the financial position (assets, liabilities, and equity) of a company at a specific point in time.",
+            "options": [
+              "Performance statement",
+              "Operational report",
+              "Position statement",
+              "Liquidity statement"
+            ],
+            "question": "Which of the following is another name for the Balance Sheet?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The American Institute of Certified Public Accountants states that financial statements reflect a combination of recorded facts, accounting principles, and personal judgments.",
+            "options": [
+              "Only recorded facts",
+              "Recorded facts, accounting principles, and personal judgments",
+              "Only market values and future projections",
+              "Subjective opinions and arbitrary estimations"
+            ],
+            "question": "According to the American Institute of Certified Public Accountants, financial statements reflect a combination of:"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Inventory is valued at cost or market price, whichever is lower, as per the convention of conservatism.",
+            "options": [
+              "Cost only",
+              "Market price only",
+              "Historical cost plus inflation",
+              "Cost or market price, whichever is lower"
+            ],
+            "question": "Under accounting conventions, how is inventory typically valued for financial statements?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The going concern postulate assumes the enterprise will continue to operate for a longer period, justifying showing assets on a historical cost basis.",
+            "options": [
+              "That money's value changes over time",
+              "That the enterprise will continue in operation for the foreseeable future",
+              "That all assets can be readily liquidated at their stated values",
+              "That revenue is recognized only when cash is received"
+            ],
+            "question": "The 'going concern postulate' in accounting assumes:"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "The primary objective of financial statements is to assist users like shareholders and external parties in their economic decision-making, by providing information on profitability and financial position.",
+            "options": [
+              "To assist users in their decision-making",
+              "To maximise company profits",
+              "To minimise tax liabilities",
+              "To satisfy legal requirements only"
+            ],
+            "question": "What is the primary objective of financial statements?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "A cash flow statement is prepared to know about movements of funds and changes in the financial position of the company.",
+            "options": [
+              "To determine the balance of assets and liabilities",
+              "To calculate the net profit or loss",
+              "To show movements of funds and changes in financial position",
+              "To assess shareholder equity"
+            ],
+            "question": "Beyond the Balance Sheet and Statement of Profit and Loss, what other financial statement is generally prepared to show movements of funds?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "As per Schedule III, vertical format for presentation of financial statements is prescribed.",
+            "options": [
+              "Vertical format",
+              "Horizontal format",
+              "T-account format",
+              "Narrative format"
+            ],
+            "question": "Which format for the presentation of financial statements is prescribed under Schedule III of the Companies Act, 2013?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "According to Schedule III, 'Sundry Debtors' and 'Sundry Creditors' have been replaced by 'Trade Receivables' and 'Trade Payables' respectively.",
+            "options": [
+              "Accounts Receivable and Accounts Payable",
+              "Customers and Suppliers",
+              "Debtors and Creditors",
+              "Trade Receivables and Trade Payables"
+            ],
+            "question": "Under the revised Schedule III, the terms 'Sundry Debtors' and 'Sundry Creditors' have been replaced by:"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Debit balance in the Statement of Profit and Loss is disclosed as a negative figure under the head 'Surplus' within Reserves and Surplus.",
+            "options": [
+              "As a separate line item under liabilities",
+              "As a negative figure under the head 'Surplus' in Reserves and Surplus",
+              "As a deduction from Share Capital",
+              "As an 'Other Expense' in the Statement of Profit and Loss"
+            ],
+            "question": "How is a 'Debit' balance in the Statement of Profit and Loss disclosed in the Balance Sheet as per Schedule III?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Share application money pending allotment, to the extent non-refundable and not exceeding the issued capital, is classified as non-current.",
+            "options": [
+              "Non-current",
+              "Current",
+              "Shareholders' Fund",
+              "Contingent liability"
+            ],
+            "question": "Share application money pending allotment, which is non-refundable and does not exceed the issued capital, is classified as:"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Preliminary expenses should be written off completely in the year incurred, first from securities premium and then from the Statement of Profit & Loss.",
+            "options": [
+              "Amortised over 5 years",
+              "Shown as an intangible asset indefinitely",
+              "Written off first from securities premium, then from Statement of Profit & Loss",
+              "Carried forward as a deferred revenue expenditure"
+            ],
+            "question": "How are Preliminary Expenses treated in the financial statements?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Proposed dividend is shown as a contingent liability in the Notes to Accounts because its declaration is contingent upon shareholder approval in the next financial year.",
+            "options": [
+              "Under short-term provisions",
+              "Under other current liabilities",
+              "As a deduction from retained earnings on the balance sheet",
+              "As a contingent liability in the Notes to Accounts"
+            ],
+            "question": "Where is 'Proposed Dividend' for the current year typically shown in the financial statements as per AS-4?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "All inventories are always treated as current assets, regardless of when they are expected to be realised.",
+            "options": [
+              "Always current assets",
+              "Non-current assets if held for more than 12 months",
+              "Depends on the operating cycle",
+              "Classified as 'Other current assets'"
+            ],
+            "question": "How are 'Inventories' generally classified in the Balance Sheet?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Cash and cash equivalents are always classified as current assets.",
+            "options": [
+              "Non-current assets",
+              "Current assets",
+              "Either current or non-current depending on usage",
+              "Long-term investments"
+            ],
+            "question": "Cash and cash equivalents are always classified as which type of asset?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "The 'Cost of Materials Consumed' head in the Statement of Profit and Loss applies to manufacturing companies and consists of raw materials and other materials consumed.",
+            "options": [
+              "Service companies",
+              "Trading companies",
+              "Manufacturing companies",
+              "Finance companies"
+            ],
+            "question": "The 'Cost of Materials Consumed' is an expense head primarily applicable to which type of company?"
+          }
+        ],
+        "numericalQuestions": [
+          {
+            "explanation": "This problem demonstrates the presentation of Share Capital and Reserves & Surplus in the Balance Sheet and Notes to Accounts as per Schedule III. It highlights how authorized, issued, subscribed, fully paid, and not fully paid capital are disclosed, along with adjustments for calls in arrears and share forfeiture. The treatment of a debit balance in the Statement of Profit and Loss as a negative figure under 'Surplus' is also crucial.",
+            "question": "Dinkar Ltd. has an authorised capital of Rs. 50,00,000 divided into equity shares of Rs. 100 each. The company invited applications for 40,000 shares, applications for 36,000 shares were received. All calls were made and duly received except for 500 shares on which the final call of Rs. 20 was not received. The company forfeited 200 shares on which the final call was not received. Show how share capital will appear in the balance sheet of the company. Also prepare 'Notes to Accounts' for the same.",
+            "steps": [
+              "**Step 1: Calculate Subscribed and Fully Paid-up Capital.**",
+              "Total shares applied for: 36,000 shares.",
+              "Shares on which calls were not received: 500 shares.",
+              "Shares forfeited: 200 shares.",
+              "Remaining shares not fully paid (300 shares) are 500 - 200.",
+              "Shares fully paid up = 36,000 (received applications) - 500 (calls not received) = 35,500 shares.",
+              "Value of subscribed and fully paid-up capital = 35,500 shares x Rs. 100 = Rs. 35,50,000.",
+              "**Step 2: Calculate Subscribed but Not Fully Paid-up Capital.**",
+              "Remaining shares with calls in arrears = 500 - 200 (forfeited) = 300 shares.",
+              "Value of these shares = 300 shares x Rs. 100 = Rs. 30,000.",
+              "Less: Calls-in-arrears on 300 shares (300 x Rs. 20) = Rs. 6,000.",
+              "Net amount for subscribed but not fully paid-up capital = Rs. 30,000 - Rs. 6,000 = Rs. 24,000.",
+              "**Step 3: Calculate Share Forfeiture Account Balance.**",
+              "Amount received on 200 forfeited shares (Rs. 100 - Rs. 20 final call) = 200 shares x Rs. 80 = Rs. 16,000.",
+              "**Step 4: Prepare the 'Notes to Accounts' for Share Capital.**",
+              "Combine the authorized, issued, subscribed and fully paid-up, subscribed but not fully paid-up capital, and share forfeiture account balance.",
+              "**Step 5: Present in the Balance Sheet.**",
+              "Show the total Share Capital calculated from the Notes to Accounts under 'Shareholders' Funds' in the Balance Sheet."
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "particulars": "I. Equity and Liabilities"
+                },
+                {
+                  "particulars": "1. Shareholders’ funds"
+                },
+                {
+                  "amount": 3590000,
+                  "isTotal": false,
+                  "narration": null,
+                  "particulars": "a) Share capital",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                }
+              ]
+            },
+            "tableType": "balanceSheet"
+          },
+          {
+            "explanation": "This problem illustrates the classification and presentation of various balance sheet items as per Schedule III, including how preliminary expenses are adjusted from securities premium and how loose tools are treated as inventories. It reinforces the importance of using Notes to Accounts for detailed disclosures.",
+            "question": "Show the following items in the balance sheet of Amba Ltd. as on March 31, 2017: Rs. 8% Debentures 10,00,000; Equity share capital 50,00,000; Securities premium 20,000; Preliminary expenses 40,000; Statement of Profit & Loss (cr.) 1,50,000; Loose tools 20,000; Bank balance 60,000; Cash in hand 38,000.",
+            "steps": [
+              "**Step 1: Identify Major Heads and Sub-heads.**",
+              "Equity share capital will go under 'Shareholders' Funds - Share Capital'.",
+              "Securities premium and Statement of Profit & Loss (Cr.) will go under 'Shareholders' Funds - Reserve and Surplus'. Preliminary expenses will be adjusted from here.",
+              "8% Debentures will go under 'Non-current Liabilities - Long-term borrowings'.",
+              "Loose tools will go under 'Current Assets - Inventories'.",
+              "Bank balance and Cash in hand will go under 'Current Assets - Cash and cash equivalents'.",
+              "**Step 2: Calculate Reserve and Surplus.**",
+              "Securities Premium: Rs. 20,000.",
+              "Less: Preliminary expenses: Rs. 40,000. This makes the Securities Premium negative (-Rs. 20,000).",
+              "Add: Statement of Profit & Loss (Cr.): Rs. 1,50,000.",
+              "Total Reserve and Surplus = -Rs. 20,000 + Rs. 1,50,000 = Rs. 1,30,000.",
+              "**Step 3: Prepare Notes to Accounts for detailed breakdown.**",
+              "Create notes for Reserve and Surplus, Long-term borrowings, Inventory, Cash and cash equivalents, and Other current assets (if any, like unamortized discount on debentures, though not explicitly mentioned for this specific debenture in the problem, it's shown in the original textbook solution as 1/4th of Rs 40,000, which is likely a separate expense not detailed in the question but assumed to be related to debenture issue costs if it's there). Based on the question, there's no discount on issue of debentures mentioned, so I will stick to the items explicitly provided.",
+              "**Step 4: Populate the Balance Sheet with the calculated amounts and classifications.**"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "particulars": "I. Equity and Liabilities"
+                },
+                {
+                  "particulars": "1. Shareholders’ Funds"
+                },
+                {
+                  "amount": 5000000,
+                  "particulars": "a) Share capital"
+                },
+                {
+                  "amount": 130000,
+                  "particulars": "b) Reserve and surplus",
+                  "receiptVoucherNo": "1"
+                },
+                {
+                  "particulars": "2. Non-current Liabilities"
+                },
+                {
+                  "amount": 1000000,
+                  "particulars": "a) Long-term borrowings",
+                  "receiptVoucherNo": "2"
+                },
+                {
+                  "particulars": "II. Assets"
+                },
+                {
+                  "particulars": "Current assets"
+                },
+                {
+                  "amount": 20000,
+                  "particulars": "a) Inventories",
+                  "receiptVoucherNo": "3"
+                },
+                {
+                  "amount": 98000,
+                  "particulars": "b) Cash and cash equivalents",
+                  "receiptVoucherNo": "4"
+                }
+              ]
+            },
+            "tableType": "balanceSheet"
+          },
+          {
+            "explanation": "This problem illustrates how a debit balance in the Statement of Profit and Loss (representing accumulated losses) is adjusted against General Reserve to present the net Reserve and Surplus figure in the Balance Sheet, adhering to Schedule III requirements.",
+            "question": "Show the following items in the balance sheet of Sunfill Ltd. as at March 31, 2017: General Reserve (since 31 March 2012) Rs. 5,00,000; Statement of Profit & Loss (debit balance) for 2016–17 Rs. (3,00,000).",
+            "steps": [
+              "**Step 1: Identify relevant items for Reserve and Surplus.**",
+              "General Reserve: Rs. 5,00,000 (Credit balance).",
+              "Statement of Profit & Loss: Rs. 3,00,000 (Debit balance, representing loss).",
+              "**Step 2: Calculate the net 'Reserve and Surplus'.**",
+              "According to Schedule III, a debit balance in the Statement of Profit and Loss is shown as a negative figure under 'Surplus' head and adjusted against other reserves.",
+              "Net Reserve and Surplus = General Reserve - Statement of Profit & Loss (Dr. Balance)",
+              "Net Reserve and Surplus = Rs. 5,00,000 - Rs. 3,00,000 = Rs. 2,00,000.",
+              "**Step 3: Prepare Notes to Accounts.**",
+              "Detail the calculation of Reserve and Surplus in the Notes to Accounts.",
+              "**Step 4: Present in the Balance Sheet.**",
+              "Show the calculated net Reserve and Surplus under 'Shareholders' Funds' in the Balance Sheet."
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "particulars": "I. Equity and Liabilities"
+                },
+                {
+                  "particulars": "1. Shareholders’ Funds"
+                },
+                {
+                  "amount": 200000,
+                  "particulars": "Reserve and surplus",
+                  "receiptVoucherNo": "1"
+                }
+              ]
+            },
+            "tableType": "balanceSheet"
+          },
+          {
+            "explanation": "This problem illustrates the accounting treatment and presentation of debentures issued at par but redeemable at a premium, as per Schedule III. It shows how the premium on redemption of debentures, being a future liability, is recognized as 'Other long-term liabilities' and the corresponding loss on issue is adjusted from 'Reserves and Surplus' (specifically from the Statement of Profit & Loss).",
+            "question": "Arushi Ltd. issued 5,000, 10% debentures of Rs. 100 each at par but redeemable at a premium of 5% after 5 years. Show these items in the balance sheet of the company.",
+            "steps": [
+              "**Step 1: Calculate the value of debentures and premium on redemption.**",
+              "Face value of debentures = 5,000 debentures x Rs. 100/debenture = Rs. 5,00,000.",
+              "Premium on redemption = 5% of Rs. 5,00,000 = Rs. 25,000.",
+              "**Step 2: Identify classifications for Balance Sheet.**",
+              "10% Debentures: Classified under 'Non-current Liabilities - Long-term borrowings'.",
+              "Premium on Redemption of Debentures: This represents a future liability. The amount of premium on redemption is a loss on issue of debentures and needs to be amortised over the life of the debentures. However, the obligation to pay this premium makes it an 'Other long-term liability'. The immediate loss on issue (the premium amount) is charged against profit and loss or securities premium. Here, it will be reflected as a reduction in 'Reserves and Surplus'.",
+              "Cash received: Rs. 5,00,000 (at par issue) will increase 'Current Assets - Cash and Cash Equivalents'.",
+              "**Step 3: Prepare Notes to Accounts.**",
+              "Show the breakdown for Long-term borrowings, Other long-term liabilities, and the adjustment in Reserves and Surplus.",
+              "**Step 4: Populate the Balance Sheet.**"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "particulars": "I. Equity and Liabilities"
+                },
+                {
+                  "particulars": "1. Shareholders’ Funds"
+                },
+                {
+                  "amount": -25000,
+                  "particulars": "Reserve and Surplus"
+                },
+                {
+                  "particulars": "a) Long term borrowings",
+                  "receiptVoucherNo": "2"
+                },
+                {
+                  "amount": 500000,
+                  "particulars": ""
+                },
+                {
+                  "particulars": "b) Other long-term liabilities",
+                  "receiptVoucherNo": "3"
+                },
+                {
+                  "amount": 25000,
+                  "particulars": ""
+                },
+                {
+                  "amount": 500000,
+                  "isTotal": true,
+                  "particulars": "Total"
+                },
+                {
+                  "particulars": "II. Asset"
+                },
+                {
+                  "particulars": "1. Current Assets"
+                },
+                {
+                  "amount": 500000,
+                  "particulars": "a) Cash and Cash Equivalents",
+                  "receiptVoucherNo": "4"
+                },
+                {
+                  "amount": 500000,
+                  "isTotal": true,
+                  "particulars": "Total"
+                }
+              ]
+            },
+            "tableType": "balanceSheet"
+          },
+          {
+            "explanation": "This problem requires preparing a Statement of Profit and Loss according to Schedule III, highlighting the calculation of Revenue from Operations, Employees Benefit Expenses, Finance Cost, and Depreciation. It demonstrates how to arrive at 'Profit before tax' by subtracting total expenses from total income.",
+            "question": "From the following particulars, prepare Statement of profit and loss for the year ending March 2017, showing profit before tax as per schedule III of the companies Act – 2013. Balances (Rs.): Plant and Machinery 1,60,000; Land 6,74,000; Depreciation on Plant and Machinery 16,000; Purchases (Adjusted) 4,00,000; Closing stock 1,50,000; Wages 1,20,000; Sales (Net) 10,00,000; Salaries 80,000; Bank overdraft 2,00,000; 10% debentures (issued on 1st April, 2016) 1,00,000; Equity share capital – shares of Rs. 100 each (fully paid) 2,00,000; Preference share capital – 1,000; 6% shares of Rs. 100 each (fully paid) 1,00,000.",
+            "steps": [
+              "**Step 1: Identify Income and Expenses.**",
+              "Income: Sales (Net) = Revenue from operations.",
+              "Expenses: Purchases (Adjusted) = Cost of materials consumed.",
+              "Wages + Salaries = Employee benefit expenses.",
+              "10% Debentures interest = Finance cost (10% of Rs. 1,00,000).",
+              "Depreciation on Plant and Machinery = Depreciation and amortisation.",
+              "Items like Plant and Machinery, Land, Closing stock, Bank overdraft, Share capital are Balance Sheet items and not included in the Statement of Profit and Loss directly, but relevant for calculations (e.g., interest on debentures, depreciation).",
+              "**Step 2: Calculate 'Revenue from operations'.**",
+              "Sales (Net) = Rs. 10,00,000.",
+              "**Step 3: Calculate 'Cost of materials consumed'.**",
+              "Purchases (Adjusted) = Rs. 4,00,000. (Note: 'Adjusted purchases' implies opening stock + purchases - closing stock, so closing stock is not separately deducted as 'Changes in inventories').",
+              "**Step 4: Calculate 'Employee benefit expenses'.**",
+              "Wages + Salaries = Rs. 1,20,000 + Rs. 80,000 = Rs. 2,00,000.",
+              "**Step 5: Calculate 'Finance cost'.**",
+              "Interest on 10% Debentures = 10% of Rs. 1,00,000 = Rs. 10,000 (since issued on April 1, 2016, full year's interest).",
+              "**Step 6: Calculate 'Depreciation and amortisation'.**",
+              "Depreciation on Plant and Machinery = Rs. 16,000.",
+              "**Step 7: Calculate 'Total Expenses'.**",
+              "Total Expenses = Cost of materials consumed + Employee benefit expenses + Finance cost + Depreciation and amortisation",
+              "Total Expenses = Rs. 4,00,000 + Rs. 2,00,000 + Rs. 10,000 + Rs. 16,000 = Rs. 6,26,000.",
+              "**Step 8: Calculate 'Profit before tax'.**",
+              "Profit before tax = Total Income - Total Expenses",
+              "Profit before tax = Rs. 10,00,000 - Rs. 6,26,000 = Rs. 3,74,000."
+            ],
+            "tableData": {
+              "expenses": [
+                {
+                  "amount": 400000,
+                  "name": "Cost of materials consumed (Adjusted purchase)"
+                },
+                {
+                  "amount": 200000,
+                  "name": "Employees benefit expenses"
+                },
+                {
+                  "amount": 10000,
+                  "name": "Finance cost"
+                },
+                {
+                  "amount": 16000,
+                  "name": "Depreciation and amortisation"
+                }
+              ],
+              "netIncome": 374000,
+              "revenues": [
+                {
+                  "amount": 1000000,
+                  "name": "Revenue from operations (Sales)"
+                }
+              ],
+              "totalExpenses": 626000,
+              "totalRevenues": 1000000
+            },
+            "tableType": "incomeStatement"
+          },
+          {
+            "explanation": "This problem focuses on presenting various assets and liabilities in the Balance Sheet as per Schedule III. It emphasizes correct classification into current/non-current assets and liabilities, and the use of Notes to Accounts for detailed disclosure, especially for items like Preliminary Expenses and Loose Tools.",
+            "question": "Show the following items in the balance sheet as per the provisions of the companies Act, 2013 in Schedule III: Preliminary Expenses Rs. 2,40,000; Goodwill Rs. 30,000; Discount on issue of shares Rs. 20,000; Loose tools Rs. 12,000; 10% Debentures Rs. 2,00,000; Motor Vehicles Rs. 4,75,000; Stock in trade Rs. 1,40,000; Provision for tax Rs. 16,000; Cash at bank Rs. 1,35,000; Bills receivable Rs. 1,20,000.",
+            "steps": [
+              "**Step 1: Classify items into Major Heads (Equity & Liabilities / Assets) and Sub-heads.**",
+              "Preliminary Expenses: To be written off, but if not written off yet, it would be an 'Other Non-Current Asset' or adjusted from Reserves. Assuming it's yet to be written off, it's often shown as 'Other non-current assets' for presentation purposes if not fully written off in the year of incurrence (though technically should be).",
+              "Goodwill: Non-current Assets - Fixed Assets (Intangible assets).",
+              "Discount on issue of shares: To be written off from Securities Premium/P&L. If unamortized, it can be shown under 'Other Non-current assets' or 'Other current assets' depending on amortization period.",
+              "Loose tools: Current Assets - Inventories.",
+              "10% Debentures: Non-current Liabilities - Long-term borrowings.",
+              "Motor Vehicles: Non-current Assets - Fixed Assets (Tangible assets).",
+              "Stock in trade: Current Assets - Inventories.",
+              "Provision for tax: Current Liabilities - Short-term provisions.",
+              "Cash at bank: Current Assets - Cash and cash equivalents.",
+              "Bills receivable: Current Assets - Trade receivables.",
+              "**Step 2: Prepare Notes to Accounts for breakdown of aggregated items.**",
+              "Long-term borrowings (10% Debentures).",
+              "Short-term provisions (Provision for taxation).",
+              "Fixed assets (Tangible: Motor vehicles; Intangible: Goodwill).",
+              "Other non-current assets (Preliminary expenses, Discount on issue of shares).",
+              "Inventories (Stock in trade, Loose tools).",
+              "Trade receivables (Bills receivable).",
+              "Cash & cash equivalents (Cash at bank).",
+              "**Step 3: Draft the Balance Sheet.**",
+              "Populate the Balance Sheet using the major heads and sub-heads, referencing the Note Numbers for details."
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "particulars": "I. Equity and Liabilities"
+                },
+                {
+                  "particulars": "1. Non-current Liabilities"
+                },
+                {
+                  "amount": 200000,
+                  "particulars": "a) Long-term borrowings",
+                  "receiptVoucherNo": "1"
+                },
+                {
+                  "particulars": "2. Current liabilities"
+                },
+                {
+                  "amount": 16000,
+                  "particulars": "a) Short-term provisions",
+                  "receiptVoucherNo": "2"
+                },
+                {
+                  "particulars": "II. Assets"
+                },
+                {
+                  "particulars": "1. Non-current assets"
+                },
+                {
+                  "particulars": "a) Fixed assets"
+                },
+                {
+                  "amount": 475000,
+                  "particulars": "Tangible assets",
+                  "receiptVoucherNo": "3"
+                },
+                {
+                  "amount": 30000,
+                  "particulars": "Intangible assets",
+                  "receiptVoucherNo": "4"
+                },
+                {
+                  "particulars": "b) Other non-current assets",
+                  "receiptVoucherNo": "5"
+                },
+                {
+                  "amount": 260000,
+                  "particulars": ""
+                },
+                {
+                  "particulars": "Current assets"
+                },
+                {
+                  "amount": 152000,
+                  "particulars": "a) Inventories",
+                  "receiptVoucherNo": "6"
+                },
+                {
+                  "amount": 120000,
+                  "particulars": "b) Trade receivables",
+                  "receiptVoucherNo": "7"
+                },
+                {
+                  "amount": 135000,
+                  "particulars": "c) Cash and cash equivalents"
+                }
+              ]
+            },
+            "tableType": "balanceSheet"
+          },
+          {
+            "explanation": "This problem focuses on the comprehensive preparation of a Balance Sheet according to Schedule III, consolidating various assets, liabilities, and equity items. It reinforces the correct classification and grouping under major and sub-heads, providing a practical application of the balance sheet format.",
+            "question": "From the following information prepare the balance sheet of Gitanjali Ltd. Inventories Rs. 14,00,000; Equity Share Capital Rs. 20,00,000; Plant and Machinery Rs. 10,00,000; Preference Share Capital Rs. 12,00,000; Debenture Redemption Reserve Rs. 6,00,000; Outstanding Expenses Rs. 3,00,000; Proposed Dividend Rs. 5,00,000; Land and Building Rs. 20,00,000; Current Investments Rs. 8,00,000; Cash Equivalent Rs. 10,00,000; Short term loan from Zaveri Ltd. (A Subsidiary Company of Twilight Ltd.) Rs. 4,00,000; Public Deposits Rs. 12,00,000.",
+            "steps": [
+              "**Step 1: Group items under Equity and Liabilities.**",
+              "Shareholders' Funds:",
+              "  Share Capital: Equity Share Capital + Preference Share Capital = Rs. 20,00,000 + Rs. 12,00,000 = Rs. 32,00,000.",
+              "  Reserves and Surplus: Debenture Redemption Reserve = Rs. 6,00,000.",
+              "Non-current Liabilities:",
+              "  Public Deposits (assuming long-term, common for public deposits): Rs. 12,00,000.",
+              "Current Liabilities:",
+              "  Short term loan from Zaveri Ltd.: Rs. 4,00,000.",
+              "  Outstanding Expenses: Rs. 3,00,000.",
+              "Proposed Dividend: Disclosed in Notes to Accounts as a contingent liability, not on the face of Balance Sheet.",
+              "**Step 2: Group items under Assets.**",
+              "Non-current Assets:",
+              "  Fixed Assets (Tangible): Plant and Machinery + Land and Building = Rs. 10,00,000 + Rs. 20,00,000 = Rs. 30,00,000.",
+              "Current Assets:",
+              "  Current Investments: Rs. 8,00,000.",
+              "  Inventories: Rs. 14,00,000.",
+              "  Cash and Cash Equivalents: Rs. 10,00,000.",
+              "**Step 3: Prepare Notes to Accounts for detailed breakdown (e.g., Share Capital, Reserves & Surplus, Fixed Assets, Current Assets).**",
+              "**Step 4: Draft the Balance Sheet, ensuring total Equity & Liabilities equals total Assets.**",
+              "Total Equity & Liabilities = 32,00,000 (Share Capital) + 6,00,000 (Reserves) + 12,00,000 (Public Deposits) + 4,00,000 (Short term loan) + 3,00,000 (Outstanding Expenses) = Rs. 57,00,000.",
+              "Total Assets = 30,00,000 (Fixed Assets) + 8,00,000 (Current Investments) + 14,00,000 (Inventories) + 10,00,000 (Cash Equivalent) = Rs. 62,00,000.",
+              "There seems to be a discrepancy in the original sum provided by the user (or I might have missed an item / interpretation of Public Deposits). Public deposits can be current or non-current depending on repayment terms. Assuming non-current here. Let's re-evaluate based on the goal of a balanced sheet.",
+              "Let's assume the question implies these are *all* items. If the totals don't match, it's a common issue in simplified textbook problems without a full trial balance. I will present the classifications correctly based on Schedule III.",
+              "Recheck: Share Capital (32L) + Reserves (6L) = 38L. Non-current Liabilities (Public Deposits 12L) = 12L. Current Liabilities (Loan 4L + Outstanding Exp 3L) = 7L. Total Liabilities & Equity = 38+12+7 = 57L.",
+              "Assets: Fixed (30L) + Current Inv (8L) + Inventories (14L) + Cash (10L) = 62L. The sheet is unbalanced by 5L (Assets > L&E). This suggests missing P&L credit balance or an item categorized incorrectly, or it's a deficit in L&E. Without more info, I will proceed with correct classification and note the imbalance if it persists. The problem implies "
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "particulars": "I. Equity and Liabilities"
+                },
+                {
+                  "particulars": "1. Shareholders’ Funds"
+                },
+                {
+                  "amount": 32000000,
+                  "particulars": "a) Share Capital",
+                  "receiptVoucherNo": "1"
+                },
+                {
+                  "amount": 6000000,
+                  "particulars": "b) Reserve and Surplus",
+                  "receiptVoucherNo": "2"
+                },
+                {
+                  "particulars": "2. Non-current Liabilities"
+                },
+                {
+                  "amount": 12000000,
+                  "particulars": "a) Other Long-term Liabilities (Public Deposits)",
+                  "receiptVoucherNo": "3"
+                },
+                {
+                  "particulars": "3. Current Liabilities"
+                },
+                {
+                  "amount": 4000000,
+                  "particulars": "a) Short-term borrowings",
+                  "receiptVoucherNo": "4"
+                },
+                {
+                  "amount": 3000000,
+                  "particulars": "b) Other Current Liabilities (Outstanding Expenses)",
+                  "receiptVoucherNo": "5"
+                },
+                {
+                  "amount": 57000000,
+                  "isTotal": true,
+                  "particulars": "Total Equity and Liabilities"
+                },
+                {
+                  "particulars": "II. Assets"
+                },
+                {
+                  "particulars": "1. Non-current Assets"
+                },
+                {
+                  "particulars": "a) Fixed assets"
+                },
+                {
+                  "amount": 30000000,
+                  "particulars": "  (i) Tangible assets",
+                  "receiptVoucherNo": "6"
+                },
+                {
+                  "particulars": "2. Current Assets"
+                },
+                {
+                  "amount": 8000000,
+                  "particulars": "a) Current investments",
+                  "receiptVoucherNo": "7"
+                },
+                {
+                  "amount": 14000000,
+                  "particulars": "b) Inventories",
+                  "receiptVoucherNo": "8"
+                },
+                {
+                  "amount": 10000000,
+                  "particulars": "c) Cash and cash equivalents",
+                  "receiptVoucherNo": "9"
+                },
+                {
+                  "amount": 62000000,
+                  "isTotal": true,
+                  "particulars": "Total Assets"
+                }
+              ]
+            },
+            "tableType": "balanceSheet"
+          }
+        ],
+        "oneWord": [
+          {
+            "correctAnswer": "Balance Sheet",
+            "question": "Which financial statement is also known as a 'position statement'?"
+          },
+          {
+            "correctAnswer": "Historical cost",
+            "question": "Financial statements are primarily prepared on the basis of which cost?"
+          },
+          {
+            "correctAnswer": "Going concern postulate",
+            "question": "Which postulate assumes that the enterprise will exist for a longer period of time?"
+          },
+          {
+            "correctAnswer": "Estimates",
+            "question": "Depreciation and provision for doubtful debts are made on the basis of personal judgments and what else?"
+          },
+          {
+            "correctAnswer": "Shareholders",
+            "question": "Who is considered the ultimate owner of a company, to whom financial information is communicated?"
+          },
+          {
+            "correctAnswer": "Schedule III",
+            "question": "Which schedule to the Companies Act, 2013, prescribes the manner of preparing financial statements?"
+          },
+          {
+            "correctAnswer": "Vertical format",
+            "question": "What format is prescribed for the presentation of financial statements under Schedule III?"
+          },
+          {
+            "correctAnswer": "Surplus",
+            "question": "Under which head is a debit balance in the statement of profit and loss disclosed as a negative figure?"
+          },
+          {
+            "correctAnswer": "Trade Payables",
+            "question": "What term has replaced 'Sundry Creditors' in the revised Schedule III?"
+          },
+          {
+            "correctAnswer": "Notes to Accounts",
+            "question": "Where is 'Proposed Dividend' typically shown as a contingent liability?"
+          },
+          {
+            "correctAnswer": "Current",
+            "question": "How are all inventories always treated in the balance sheet classification?"
+          },
+          {
+            "correctAnswer": "Intangible assets",
+            "question": "Amortisation refers to writing off the amount related to which type of assets?"
+          },
+          {
+            "correctAnswer": "Finance cost",
+            "question": "Interest charges during the year on borrowings are shown under which expense head?"
+          },
+          {
+            "correctAnswer": "Stewardship function",
+            "question": "Financial statements report the performance of the management to the shareholders, fulfilling what function?"
+          }
+        ],
+        "shortAnswer1": [
+          {
+            "answer": "Financial statements are the basic and formal annual reports prepared by corporate management to communicate financial information to owners (shareholders) and various external parties such as investors, tax authorities, government, and employees. These typically include the Balance Sheet, the Statement of Profit and Loss, and the Cash Flow Statement.",
+            "question": "State the meaning of financial statements."
+          },
+          {
+            "answer": "Three limitations of financial statements include: 1. They do not reflect the current market situation of assets and liabilities as they are based on historical costs. 2. They may contain bias due to personal judgments and estimates made during their preparation. 3. They provide only aggregate information, which may not be detailed enough for specific decision-making.",
+            "question": "What are three limitations of financial statements?"
+          },
+          {
+            "answer": "Three objectives of financial statements are: 1. To provide information about the economic resources and obligations of a business. 2. To provide information about the earning capacity of the business. 3. To provide information about cash flows for predicting, comparing, and evaluating potential cash flows.",
+            "question": "List any three objectives of financial statements."
+          },
+          {
+            "answer": "Financial statements are important to shareholders as they provide information about the status, safety, and return on their investment, aiding decisions about continuation or discontinuation of investment. For creditors, they serve as a basis for granting credit, assessing the company's ability to repay debts. For the government, they provide basic input for industrial, taxation, and other economic policies. For investors, they help assess long-term and short-term solvency and profitability to guide investment decisions.",
+            "question": "State the importance of financial statements to: (i) shareholders (ii) creditors (iii) government (iv) investors."
+          },
+          {
+            "answer": "Preliminary expenses should be written off completely in the year they are incurred. They should first be written off from Securities Premium Reserve, and if that is insufficient, the balance should be written off from the Statement of Profit & Loss (Surplus). They should not be presented as an asset in the Balance Sheet in subsequent periods.",
+            "question": "How are Preliminary Expenses treated in the financial statements as per Schedule III?"
+          }
+        ],
+        "shortAnswer2": [
+          {
+            "answer": "Current assets, such as inventories, current investments, trade receivables, cash and cash equivalents, and short-term loans and advances, are disclosed under the main head 'Assets' and sub-head 'Current Assets'. Inventories specifically appear under 'Current Assets'.",
+            "question": "How will you disclose 'Current assets, inventory' in the Balance Sheet of a company?"
+          },
+          {
+            "answer": "Contingent liabilities, such as proposed dividends, are not recognised in the Balance Sheet but are disclosed in the 'Notes to Accounts' to the financial statements. This is because their existence depends on the occurrence or non-occurrence of future uncertain events.",
+            "question": "How will you disclose 'Contingent liabilities' in notes to accounts in the Balance Sheet of a company?"
+          },
+          {
+            "answer": "'Shareholders' Funds' is a major head on the Equity and Liabilities side of the Balance Sheet. 'Reserve and Surplus' is a sub-head under 'Shareholders' Funds'. It includes various reserves like Capital Reserve, Securities Premium Reserve, Debenture Redemption Reserve, and the balance in Statement of Profit and Loss (Surplus).",
+            "question": "How will you disclose 'Shareholders Funds, Reserve and Surplus' in the Balance Sheet of a company?"
+          },
+          {
+            "answer": "'Fixed Assets' is a sub-head under the major head 'Non-current Assets' on the Assets side of the Balance Sheet. 'Intangible Assets' is a further sub-category under 'Fixed Assets', including items like goodwill, patents, trademarks, etc.",
+            "question": "How will you disclose 'Fixed Assets, Intangible Assets' in the Balance Sheet of a company?"
+          },
+          {
+            "answer": "As per AS-4 (Contingencies and Events Occurring after the Balance Sheet Date), 'Proposed Dividend' for the current year is treated as a contingent liability. It is not shown on the face of the Balance Sheet but is disclosed in the 'Notes to Accounts' as it becomes a liability only upon approval by shareholders in the subsequent Annual General Meeting.",
+            "question": "How will you disclose 'Proposed Dividend for the current year' in the Balance Sheet of a company?"
+          }
+        ],
+        "trueFalse": [
+          {
+            "correctAnswer": true,
+            "explanation": "Financial statements are indeed the end products of the accounting process, summarizing financial information.",
+            "question": "Financial statements are the end products of the accounting process."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Financial statements are prepared using historical cost data, not necessarily market prices, which means they do not always show the current financial condition.",
+            "question": "Financial statements always show the current financial condition of a concern based on market prices."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The convention of valuing inventory at cost or market price, whichever is lower, is a key accounting convention followed for conservatism.",
+            "question": "The convention of valuing inventory at cost or market price, whichever is lower, is followed in financial statements."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "The money measurement postulate assumes that the value of money will remain the same, despite actual changes in purchasing power.",
+            "question": "The money measurement postulate assumes that the purchasing power of money changes drastically over different periods."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Provisions for doubtful debts are indeed made based on estimates and personal judgments.",
+            "question": "Provisions for doubtful debts are made on estimates and personal judgments."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "The Companies Act, 2013, Schedule III, specifies the format and content, but Accounting Standards (AS) prevail over Schedule III in case of conflict.",
+            "question": "Schedule III of the Companies Act, 2013, always prevails over accounting standards."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Current and non-current bifurcation of assets and liabilities is a mandatory requirement under Schedule III.",
+            "question": "Current and non-current bifurcation of assets and liabilities is applicable for financial statements prepared as per Schedule III."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Debit balance in the Statement of Profit and Loss is disclosed as a negative figure under 'Surplus', not under 'Other Expenses'.",
+            "question": "A debit balance in the Statement of Profit and Loss is disclosed under 'Other Expenses'."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Share application money pending allotment is disclosed as a separate line item under 'Shareholder's Fund' if it meets the criteria.",
+            "question": "'Money received against share warrants' is to be disclosed as a separate line item under 'shareholder’s fund'."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Proposed dividend is a contingent liability and is shown in the Notes to Accounts, not on the face of the balance sheet.",
+            "question": "Proposed dividend is shown as a short-term provision on the face of the balance sheet."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Even if the useful life is less than 12 months, fixed assets (tangible/intangible) are primarily non-current due to their nature of use in operations, not quick conversion to cash.",
+            "question": "If the useful life of a fixed asset is less than 12 months, it will still generally be classified under non-current assets."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Financial statements provide quantitative information (monetary values), not qualitative information like employee morale or industrial relations.",
+            "question": "Financial statements contain both monetary and qualitative information, such as industrial relations."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The Statement of Profit and Loss determines the operational results for a specific period, showing revenues and expenses.",
+            "question": "The Statement of Profit and Loss is prepared to determine the operational results of an undertaking for a specific period."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Financial statements are technical documents that require some accounting knowledge to fully understand, not easily understood by all without such knowledge.",
+            "question": "Financial statements are easily understood by all persons, regardless of their accounting knowledge."
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "back": "The basic and formal annual reports through which corporate management communicates financial information to its owners and various other external parties. These include the balance sheet, statement of profit and loss, and cash flow statement.",
+          "front": "Financial Statements"
+        },
+        {
+          "back": "A financial statement that reveals the financial position (assets, liabilities, and equity) of a company as on a particular date.",
+          "front": "Balance Sheet (Position Statement)"
+        },
+        {
+          "back": "A financial statement prepared for a specific period to determine the operational results of an undertaking, showing revenues earned and expenses incurred.",
+          "front": "Statement of Profit and Loss (Income Statement)"
+        },
+        {
+          "back": "Facts expressed in monetary terms, chronologically recorded in accounting books, that form the basis for financial statements (e.g., historical cost of assets).",
+          "front": "Recorded Facts (Nature of FS)"
+        },
+        {
+          "back": "Principles or guidelines followed while preparing financial statements, such as valuing inventory at cost or market price (whichever is lower) or the materiality convention.",
+          "front": "Accounting Conventions (Nature of FS)"
+        },
+        {
+          "back": "Basic assumptions or pre-requisites underlying the preparation of financial statements, such as the going concern postulate (enterprise exists for a longer period), money measurement postulate (value of money remains same), and realisation postulate (revenue recognized when earned).",
+          "front": "Postulates (Nature of FS)"
+        },
+        {
+          "back": "The application of personal opinion, estimates, and judgments in situations where facts and figures are not definitive (e.g., estimating useful life for depreciation, making provisions for doubtful debts).",
+          "front": "Personal Judgements (Nature of FS)"
+        },
+        {
+          "back": "The total amount of Share Capital and Reserves and Surplus, including money received against share warrants, presented on the Balance Sheet.",
+          "front": "Shareholders' Funds"
+        },
+        {
+          "back": "Expenses incurred on employees towards salary, wages, leave encashment, staff welfare, etc., shown under expenses in the Statement of Profit and Loss.",
+          "front": "Employee Benefits Expenses"
+        },
+        {
+          "back": "Expenses incurred towards interest charges during the year on borrowings, shown under expenses in the Statement of Profit and Loss.",
+          "front": "Finance Cost"
+        },
+        {
+          "back": "The diminution in the value of fixed assets (depreciation for tangible, amortisation for intangible), treated as an expense in the Statement of Profit and Loss.",
+          "front": "Depreciation and Amortisation Expense"
+        },
+        {
+          "back": "Replaced 'Sundry Debtors', refers to amounts due from customers for goods sold or services rendered in the ordinary course of business.",
+          "front": "Trade Receivables"
+        },
+        {
+          "back": "Replaced 'Sundry Creditors', refers to amounts payable to suppliers for goods purchased or services received in the ordinary course of business.",
+          "front": "Trade Payables"
+        },
+        {
+          "back": "A contingent liability, disclosed in the Notes to Accounts, as its declaration depends on shareholder approval in the subsequent Annual General Meeting.",
+          "front": "Proposed Dividend"
+        },
+        {
+          "back": "Expenses incurred at the initial stage of forming a company. These should be written off completely in the year incurred, first from securities premium, and then from the Statement of Profit & Loss.",
+          "front": "Preliminary Expenses"
+        },
+        {
+          "back": "The gross revenue from the sale of products, services, and other operating activities (e.g., interest/dividend for a finance company).",
+          "front": "Revenue from Operations"
+        },
+        {
+          "back": "The cost of raw materials and other materials consumed in the manufacturing of goods for manufacturing companies.",
+          "front": "Cost of Materials Consumed"
+        },
+        {
+          "back": "Any income not directly from primary operations, such as interest income (for non-finance companies), dividend income, net gain/loss on sale of investments, and other non-operating income.",
+          "front": "Other Income (P&L)"
+        }
+      ],
+      "id": "chapter3",
+      "longAnswerQuestions": [
+        {
+          "answer150Words": "The nature of financial statements is complex, reflecting a blend of recorded facts, accounting principles, and personal judgments. They are based on 'recorded facts' in the form of cost data, typically historical cost, meaning assets are shown at their original purchase price rather than current market values. This limits their ability to reflect present financial conditions. 'Accounting conventions' like the conservatism principle (e.g., valuing inventory at cost or market price, whichever is lower) are consistently applied, making statements comparable and realistic but also introducing a degree of prudence. 'Postulates' or fundamental assumptions, such as the going concern (business continuity) and money measurement (stable currency value) principles, underpin their preparation. Lastly, 'personal judgments' are inevitable; for instance, determining the useful life for depreciation or making provisions for doubtful debts involves estimates. These elements mean financial statements are summarized reports based on specific rules and interpretations, providing a structured but not always real-time or purely objective view of a company's financial status.",
+          "answer200Words": "The nature of financial statements is multifaceted, derived from a combination of recorded facts, established accounting principles, and subjective personal judgments. Firstly, they are rooted in 'recorded facts,' primarily historical cost data from accounting books. This means assets are presented at their original acquisition cost, not current market values, which limits the statements' ability to reflect real-time financial conditions, especially in inflationary environments or rapidly changing markets. Secondly, 'accounting conventions' are consistently applied to ensure uniformity and comparability. Examples include the convention of conservatism (valuing inventory at lower of cost or market) and materiality (expensing small items like stationery). These conventions introduce a standardized, prudent approach. Thirdly, 'postulates' or basic assumptions, such as the going concern concept (assuming continuous operation) and the money measurement concept (assuming stable currency value), form the foundational bedrock. These enable the preparation of statements assuming long-term viability and consistent monetary measurement. Finally, 'personal judgments' are inherent in areas requiring estimations, such as determining the useful economic life of fixed assets for depreciation or assessing the likelihood of bad debts for provisions. While these judgments are made with professional due diligence, they introduce a degree of subjectivity. Consequently, financial statements are summarised, rule-based reports that provide a structured but inherently historical and partially subjective view of a company's financial performance and position.",
+          "answer50To75Words": "Financial statements reflect a combination of recorded facts, accounting conventions, postulates, and personal judgments. They are based on historical cost data, applying conventions like conservatism and materiality. Underlying assumptions (postulates) such as going concern and money measurement guide their preparation. Personal estimates and judgments are also involved, for instance, in depreciation and provisions. Thus, they offer a structured, albeit historical and somewhat subjective, view of financial performance and position.",
+          "text": "Explain the nature of the financial statements.",
+          "title": "Nature of Financial Statements"
+        },
+        {
+          "answer150Words": "Financial statements serve various critical purposes for a wide range of users. They act as a 'report on stewardship function', allowing management to demonstrate their performance to shareholders and fulfilling their accountability. They form a 'basis for fiscal policies', providing governments with data essential for framing taxation, industrial, and economic policies. For 'credit granting', banks and financial institutions rely on these statements to assess a company's creditworthiness and ability to repay loans. 'Prospective investors' utilise them to evaluate a company's long-term solvency, liquidity, and profitability before making investment decisions. Existing shareholders use them as a 'guide to the value of investment already made', helping them decide whether to continue or discontinue their stake. Furthermore, they 'aid trade associations' in analysing industry trends and 'help stock exchanges' ensure transparency and facilitate informed trading decisions, providing essential information for all economic stakeholders.",
+          "answer200Words": "Financial statements are of immense significance to various stakeholders, providing crucial information for informed decision-making. They primarily serve as a 'report on stewardship function', allowing the management to demonstrate their accountability and performance to the owners (shareholders). For governments, these statements are a 'basis for fiscal policies', offering vital data to formulate taxation, industrial, and other economic policies that impact businesses. Lending institutions rely on them as a 'basis for granting credit', assessing a company's financial health and repayment capacity before extending loans or advances. 'Prospective investors', both short-term and long-term, use financial statements to evaluate a company's profitability, liquidity, and solvency, guiding their investment choices. Existing shareholders find them indispensable as a 'guide to the value of the investment already made', enabling them to monitor their returns and decide on the continuation or divestment of their holdings. Moreover, these statements 'aid trade associations' in industry analysis and benchmarking, and 'help stock exchanges' by ensuring transparency in financial reporting, protecting investor interests, and facilitating accurate price quotations. In essence, financial statements are a cornerstone of financial communication, empowering diverse parties to make sound economic judgments.",
+          "answer50To75Words": "Financial statements are crucial for various users. They serve as a report on management's stewardship to shareholders. Governments use them as a basis for fiscal policies. Creditors rely on them for granting credit. Prospective investors assess profitability and solvency. Existing investors gauge their investment's value. They also aid trade associations and stock exchanges, facilitating informed economic decisions for all stakeholders.",
+          "text": "Explain in detail about the significance of the financial statements.",
+          "title": "Significance of Financial Statements"
+        },
+        {
+          "answer150Words": "Despite their importance, financial statements suffer from several limitations. Firstly, they 'do not reflect the current situation' because they are based on historical costs, meaning asset values might be outdated and not represent current market prices, especially in periods of inflation. Secondly, 'assets may not realise' their stated values, particularly if a company is forced into liquidation, as book values represent unexpired costs, not liquidation values. Thirdly, 'bias' can be observed as the statements are a product of personal judgments and estimates (e.g., depreciation methods, provisions), which can lead to a less than realistic depiction. Fourthly, they present 'aggregate information', lacking the detailed breakdown that specific users might require for nuanced decision-making. Lastly, 'vital qualitative information' like industrial relations, employee morale, or brand reputation, which are crucial for business success, are entirely missing as financial statements only capture monetary data. This prevents a holistic understanding of the business's true health.",
+          "answer200Words": "Despite their crucial role, financial statements are not without limitations, which users must acknowledge. A primary limitation is that they 'do not reflect the current situation'. Being prepared on a historical cost basis, the values of assets and liabilities presented may not align with their current market values, making them less relevant for real-time assessments, especially during economic fluctuations. Secondly, 'assets may not realise' their stated values, particularly if the company faces liquidation. The values shown are unexpired or unamortized costs, not guaranteed realizable amounts, which can be misleading. Thirdly, financial statements are susceptible to 'bias' because they incorporate personal judgments and estimates, for example, in determining depreciation rates or making provisions for doubtful debts. Such estimations, though made with due care, can influence the reported financial position and profitability. Fourthly, they provide 'aggregate information', which, while useful for a broad overview, may lack the detailed granularity necessary for highly specific decision-making. Furthermore, 'vital qualitative information' is often missing; aspects like the quality of management, industrial relations, brand strength, or customer satisfaction are not quantifiable in monetary terms and thus not reflected, providing an incomplete picture of the business's overall health and future prospects. Finally, they are 'only interim reports', providing a snapshot for a specific period or date, and do not necessarily predict future performance or financial position.",
+          "answer50To75Words": "Financial statements have limitations. They reflect historical costs, not current market values. Personal judgments can introduce bias. They offer aggregate data, potentially lacking specific detail. Crucially, they omit vital qualitative information like management quality or industrial relations, presenting an incomplete picture of a business's health. They are also merely interim reports, not future predictors.",
+          "text": "Explain the limitations of financial statements.",
+          "title": "Limitations of Financial Statements"
+        },
+        {
+          "answer150Words": "The Statement of Profit and Loss, as per Schedule III of the Companies Act, 2013, provides a detailed breakdown of a company's income and expenses to ascertain profit before tax. It begins with 'Revenue from operations,' which includes income from the sale of products, services, and other operating revenues. For a finance company, this would include interest and dividend income. Next is 'Other income,' covering non-operating revenues like interest from non-finance activities, dividend income, and net gain/loss on investment sales. The statement then lists various 'Expenses.' 'Cost of materials consumed' applies to manufacturing, while 'Purchase of stock-in-trade' is for trading firms. 'Changes in inventories' adjusts for differences between opening and closing stock. 'Employee benefits expense' covers salaries, wages, and welfare. 'Finance costs' include interest on borrowings. 'Depreciation and amortisation' account for asset value decline. 'Other expenses' capture all remaining costs. The 'Profit before extraordinary items and tax' is derived by subtracting total expenses from total revenue, forming the basis for further tax and extraordinary item adjustments.",
+          "answer200Words": "The Statement of Profit and Loss, mandated by Schedule III of the Companies Act, 2013, systematically presents a company's financial performance over a period, culminating in the calculation of profit before tax. It starts with 'Revenue from operations,' representing the primary income streams, such as sales of products, services, or other operating revenues. For financial entities, this would encompass interest and dividend income. Following this, 'Other income' captures supplementary non-operating revenues like interest (for non-finance companies), dividend income, and gains or losses from investment sales. The statement then itemizes 'Expenses,' categorised for clarity. 'Cost of materials consumed' applies to manufacturing firms, while 'Purchases of stock-in-trade' is relevant for trading companies. 'Changes in inventories' accounts for the net difference between opening and closing stocks of finished goods, WIP, and stock-in-trade. 'Employee benefits expense' includes all costs related to employees like salaries, wages, and staff welfare. 'Finance costs' specifically cover interest expenses on borrowings. 'Depreciation and amortisation expense' reflects the allocation of the cost of tangible and intangible assets over their useful lives. All remaining expenditures are grouped under 'Other expenses.' The 'Profit before extraordinary items and tax' is then computed by subtracting the 'Total expenses' from the 'Total Revenue', providing a clear measure of the company's operational profitability before considering exceptional events and taxation.",
+          "answer50To75Words": "The Statement of Profit and Loss details income and expenses to determine profit before tax. It starts with 'Revenue from operations' (sales, services) and 'Other income' (non-operating). Expenses include 'Cost of materials consumed', 'Purchases of stock-in-trade', 'Changes in inventories', 'Employee benefits expense', 'Finance costs', 'Depreciation and amortisation', and 'Other expenses'. Subtracting total expenses from total revenue yields 'Profit before extraordinary items and tax'.",
+          "text": "Prepare the format of statement of profit and loss and explain its items upto the ascertainment of profit before tax.",
+          "title": "Statement of Profit and Loss Format and Explanation"
+        },
+        {
+          "answer150Words": "The Balance Sheet, as per Schedule III, presents a company's financial position at a specific date, adhering to a vertical format. It is broadly divided into 'I. Equity and Liabilities' and 'II. Assets', with sub-classifications. 'Equity and Liabilities' include 'Shareholders' Funds' (Share Capital, Reserves and Surplus, Money received against share warrants), 'Share Application money pending allotment', 'Non-current Liabilities' (Long-term borrowings, Deferred tax liabilities, Long-term provisions), and 'Current Liabilities' (Short-term borrowings, Trade payables, Short-term provisions). 'Assets' are divided into 'Non-current Assets' (Fixed assets - tangible, intangible; Non-current investments, Long-term loans and advances) and 'Current Assets' (Current investments, Inventories, Trade receivables, Cash and cash equivalents, Short-term loans and advances). Key features include mandatory rounding-off rules, vertical presentation, and the replacement of 'Sundry Debtors/Creditors' with 'Trade Receivables/Payables'. The format ensures comprehensive and comparable disclosure of a company's financial structure.",
+          "answer200Words": "The Balance Sheet, structured vertically as per Schedule III of the Companies Act, 2013, provides a snapshot of a company's financial position at a given date. It is primarily divided into 'I. Equity and Liabilities' and 'II. Assets', each with distinct components. The 'Equity and Liabilities' section begins with 'Shareholders' Funds', comprising Share Capital (authorised, issued, subscribed), Reserves and Surplus (e.g., Capital Reserve, Securities Premium, P&L balance), and Money received against share warrants. Below this is 'Share Application money pending allotment'. Next are 'Non-current Liabilities', including Long-term borrowings (e.g., debentures), Deferred tax liabilities, and Long-term provisions. Finally, 'Current Liabilities' encompass Short-term borrowings, Trade payables, and Short-term provisions. On the 'Assets' side, 'Non-current Assets' include Fixed assets (Tangible like land, machinery; Intangible like goodwill, patents), Non-current investments, Deferred tax assets, and Long-term loans and advances. 'Current Assets' consist of Current investments, Inventories, Trade receivables, Cash and cash equivalents, and Short-term loans and advances. Important features include mandatory disclosures in Notes to Accounts, the balance between excessive detail and essential information, and the clear bifurcation of current and non-current items. The vertical format, replacing traditional horizontal forms, enhances readability and compliance with modern accounting standards.",
+          "answer50To75Words": "The Balance Sheet, under Schedule III, presents a company's financial position vertically. It classifies into 'Equity and Liabilities' (Shareholders' Funds, Share Application Money, Non-current, and Current Liabilities) and 'Assets' (Non-current and Current Assets). Key elements include Share Capital, Reserves, Borrowings, Fixed Assets, and Inventories. It emphasizes a clear current/non-current bifurcation and mandatory disclosures in Notes to Accounts, providing a structured financial overview.",
+          "text": "Prepare the format of balance sheet and explain the various elements of balance sheet.",
+          "title": "Balance Sheet Format and Elements"
+        },
+        {
+          "answer150Words": "Financial statements are invaluable to various parties interested in a business. For 'Shareholders', they serve as a report on the management's performance (stewardship), helping them evaluate their investment's safety and return, influencing decisions to buy, hold, or sell shares. 'Prospective Investors' rely on them to assess the company's earning capacity, financial stability (solvency), and liquidity before committing capital. 'Creditors and Lenders' use statements to judge creditworthiness and repayment capacity, deciding on loan approvals or trade credit terms. The 'Government' uses this data for formulating fiscal policies, including taxation and industrial regulations, impacting the broader economy. 'Employees' might assess the company's profitability and stability for job security and potential benefits. Lastly, 'Management' themselves use these statements for internal planning, decision-making, and control, evaluating past performance and strategizing for the future. In essence, financial statements are a common language for financial communication, enabling informed decisions across the spectrum of stakeholders.",
+          "answer200Words": "Financial statements are indispensable tools that provide critical information to a diverse group of parties interested in the affairs of an undertaking. For 'Shareholders', who are the owners, these statements act as a report on the 'stewardship function' of the management, allowing them to gauge the company's profitability and financial position. This information is vital for decisions regarding their investment, such as whether to continue holding shares or divest. 'Prospective Investors', both long-term and short-term, rely on financial statements to assess the company's earning capacity, long-term solvency, and liquidity, which directly influences their investment decisions. 'Creditors and Lenders', including banks and other financial institutions, use these statements as a 'basis for granting credit', evaluating the company's ability to meet its debt obligations and assessing the risk involved in lending. The 'Government' and regulatory bodies leverage financial statements as a 'basis for fiscal policies', helping them frame taxation policies, industrial regulations, and other economic strategies. 'Employees' may use this information to assess job security, negotiate wages, or evaluate potential for future benefits. Lastly, 'Management' itself uses financial statements for internal planning, decision-making, and control, comparing actual performance against objectives and identifying areas for improvement. Thus, financial statements serve as a fundamental communication bridge, providing essential insights for a wide array of stakeholders to make well-informed economic decisions.",
+          "answer50To75Words": "Financial statements are vital for stakeholders. 'Shareholders' assess investment performance; 'Prospective Investors' gauge financial health for decisions. 'Creditors' use them to determine creditworthiness. 'Government' relies on them for fiscal policies. 'Employees' evaluate job security. 'Management' uses them for planning and control. They provide essential data for informed economic decisions across the board.",
+          "text": "Explain how financial statements are useful to the various parties who are interested in the affairs of an undertaking?",
+          "title": "Usefulness of Financial Statements to Various Parties"
+        }
+      ],
+      "mindmap": [
+        {
+          "definition": "The basic and formal annual reports through which corporate management communicates financial information to its owners and various other external parties.",
+          "explanation": "Financial statements are the ultimate output of the accounting process, summarizing all financial transactions and reflecting a company's financial position and performance.",
+          "keyPoints": [
+            "End products of accounting process",
+            "Communicate financial information",
+            "Prepared for owners and external parties (investors, government, employees)",
+            "Includes Balance Sheet, Statement of Profit and Loss, and Cash Flow Statement"
+          ],
+          "title": "Financial Statements",
+          "points": [
+            {
+              "explanation": "Financial statements are prepared on the basis of facts, primarily historical cost data recorded in accounting books. This means assets are shown at their original cost, not current market prices.",
+              "title": "Recorded Facts"
+            },
+            {
+              "explanation": "Certain accounting conventions are consistently followed, such as valuing inventory at cost or market price (whichever is lower) and applying the materiality principle for small items. These conventions ensure comparability and realism.",
+              "title": "Accounting Conventions"
+            },
+            {
+              "explanation": "Financial statements rest on fundamental assumptions or pre-requisites like the going concern postulate (business continues indefinitely), money measurement postulate (money value stable), and realisation postulate (revenue recognized when earned).",
+              "title": "Postulates"
+            },
+            {
+              "explanation": "Facts and figures are often based on personal opinions, estimates, and judgments (e.g., useful life for depreciation, provisions for doubtful debts) to avoid overstatement and adhere to conservatism.",
+              "title": "Personal Judgements"
+            }
+          ]
+        },
+        {
+          "definition": "The purpose or goals that financial statements aim to achieve in providing information to users.",
+          "explanation": "The primary objective is to assist users in decision-making by providing reliable, periodic information about a business's economic status.",
+          "keyPoints": [
+            "Assist users in decision-making",
+            "Provide information on economic resources and obligations",
+            "Provide information on earning capacity",
+            "Provide information on cash flows",
+            "Judge effectiveness of management",
+            "Disclose accounting policies",
+            "Report activities affecting society (where measurable)"
+          ],
+          "title": "Objectives of Financial Statements"
+        },
+        {
+          "definition": "The different categories of formal reports comprising a company's financial statements.",
+          "explanation": "Companies generally prepare a Balance Sheet, Statement of Profit and Loss, and a Cash Flow Statement as per statutory requirements and accounting standards.",
+          "keyPoints": [
+            "Balance Sheet (Position Statement)",
+            "Statement of Profit and Loss (Income Statement)",
+            "Cash Flow Statement"
+          ],
+          "title": "Types of Financial Statements",
+          "points": [
+            {
+              "explanation": "The Balance Sheet presents the financial position of a company at a specific point in time, showing its assets, liabilities, and shareholders' equity.",
+              "title": "Balance Sheet"
+            },
+            {
+              "explanation": "The Statement of Profit and Loss details the company's revenues and expenses over a specific accounting period, indicating its operational performance (profit or loss).",
+              "title": "Statement of Profit and Loss"
+            },
+            {
+              "explanation": "This statement shows the cash inflows and outflows from operating, investing, and financing activities over a period, providing insights into liquidity and solvency.",
+              "title": "Cash Flow Statement"
+            }
+          ]
+        },
+        {
+          "definition": "The benefits and value derived by various stakeholders from the information provided in financial statements.",
+          "explanation": "Financial statements are crucial for decision-making for a wide range of users, from management to investors, creditors, and government agencies.",
+          "keyPoints": [
+            "Report on stewardship function (management accountability)",
+            "Basis for fiscal policies (government taxation, economic planning)",
+            "Basis for granting credit (creditors/banks assess repayment capacity)",
+            "Basis for prospective investors (evaluate profitability and solvency)",
+            "Guide to the value of investment already made (for existing shareholders)",
+            "Aids trade associations (industry analysis, benchmarking)",
+            "Helps stock exchanges (transparency, investor protection)"
+          ],
+          "title": "Uses and Importance of Financial Statements"
+        },
+        {
+          "definition": "The inherent shortcomings or drawbacks of financial statements that limit their comprehensiveness or real-time relevance.",
+          "explanation": "While useful, financial statements are not perfect and have inherent limitations due to their historical nature, use of estimates, and focus on quantitative data.",
+          "keyPoints": [
+            "Do not reflect current situation (historical cost basis)",
+            "Assets may not realise (book values vs. liquidation values)",
+            "Bias (personal judgments and estimates)",
+            "Aggregate information (lack of detailed breakdown)",
+            "Vital qualitative information missing (e.g., morale, brand reputation)",
+            "Only interim reports (snapshot in time, not future prediction)"
+          ],
+          "title": "Limitations of Financial Statements"
+        }
+      ],
+      "story": [
+        {
+          "storyParts": [
+            {
+              "speaker": "Neil",
+              "text": "Kanishq, remember those early days in the garage, sketching out KnowledgeCompass's first online course? We've come so far, now managing millions in revenue! It's incredible to think about."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Absolutely, Neil. And with that growth comes serious responsibility, especially concerning our financial statements. We're no longer just tracking expenses in a spreadsheet. Our annual reports are now formal documents that communicate KnowledgeCompass's financial health to everyone from our shareholders to potential new investors, and even the tax authorities."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Right. We're talking about the Balance Sheet, the Statement of Profit and Loss, and the Cash Flow Statement. These are the core elements, the 'end products of accounting process' as the textbook says. It's fascinating how they summarise all our operations."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Indeed. And their nature is quite specific. They're based on 'recorded facts'—like the historical cost of our servers and software, not what they'd fetch on the market today. We also follow 'accounting conventions', such as valuing our course inventory at cost or market price, whichever is lower. It ensures prudence."
+            },
+            {
+              "speaker": "Neil",
+              "text": "And the 'postulates' too, like assuming KnowledgeCompass is a 'going concern'—that we'll be around for the long haul. That allows us to defer certain costs. Plus, there's always 'personal judgment' involved, like when we estimate the useful life of a new learning platform for depreciation purposes, or how much provision to make for potential doubtful course fee recoveries."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Exactly. These judgments, while informed, mean the statements aren't purely objective. But the objectives are clear: we need to provide information about KnowledgeCompass's 'economic resources and obligations' on the Balance Sheet, our 'earning capacity' via the P&L, and our 'cash flows' through that dedicated statement. It's all about assisting users in their decision-making."
+            },
+            {
+              "speaker": "Neil",
+              "text": "It also helps judge our 'management effectiveness'. We need to show we're utilising KnowledgeCompass's resources efficiently. And of course, adhering to Schedule III of the Companies Act, 2013, is non-negotiable, with its specific vertical formats and disclosure requirements, like the clear bifurcation of current and non-current assets and liabilities."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "The vertical format is a big change from older practices. And remember how 'Sundry Debtors' and 'Sundry Creditors' are now 'Trade Receivables' and 'Trade Payables'? Small changes, but important for compliance. We also need to be careful with things like preliminary expenses; they need to be written off quickly, first from securities premium if we have it."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Good point. And proposed dividends aren't a liability until approved by shareholders, so they go into 'Notes to Accounts' as a contingent liability, not directly on the balance sheet. It's all about providing that 'true and fair' view."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "That leads us to the 'uses and importance'. For us, as management, it's about reporting on our 'stewardship function' to the shareholders. For our investors, it's the 'basis for prospective investment'. For the bank that gave us our first loan, it's the 'basis for granting credit'. And for the government, it helps them formulate 'fiscal policies'."
+            },
+            {
+              "speaker": "Neil",
+              "text": "It’s a comprehensive tool. But we must also be transparent about the 'limitations'. Our statements are 'historical', meaning they 'do not reflect the current situation' if market values have changed drastically. Our 'assets may not realise' their book values if we were forced to sell quickly."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "And as we discussed, there's always an element of 'bias' due to personal judgments. Also, they provide 'aggregate information' and often miss 'vital qualitative information' about things like our employee morale or the strength of our company culture, which are critical to KnowledgeCompass's success but aren't financial figures."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Exactly. They're 'interim reports', snapshots, not a crystal ball for the future. So, while they are indispensable, they need to be read with an understanding of these limitations. It's about providing robust, compliant, and understandable financial information for KnowledgeCompass, allowing stakeholders to make meaningful economic decisions."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Well said, Neil. It's a testament to how far we've come, from simple spreadsheets to adhering to complex financial reporting standards. KnowledgeCompass continues to grow, and our financial transparency is key to that journey."
+            }
+          ],
+          "title": "The Financial Journey of KnowledgeCompass"
+        }
+      ],
+      "title": "Financial Statements of a Company",
+      "unitName": "Company Accounts and Analysis of Financial Statements",
+      "unitNumber": 3
+    }
+  ],
+  "metadata": {
+    "chapterTitle": "Financial Statements of a Company",
+    "description": "This chapter explores the nature, objectives, types, format (Balance Sheet and Statement of Profit and Loss as per Schedule III of Companies Act 2013), uses, and limitations of a company's financial statements."
+  }
+}

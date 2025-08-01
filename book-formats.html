@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accounting Book and Report Formats</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+  }
+  h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 40px;
+  }
+  h2 {
+    color: #0056b3;
+    border-bottom: 2px solid #0056b3;
+    padding-bottom: 10px;
+    margin-top: 40px;
+  }
+  h3 {
+    color: #007bff;
+    margin-top: 20px;
+  }
+  hr {
+    border: 0;
+    height: 1px;
+    background-color: #ccc;
+    margin: 50px 0;
+  }
+
+  /* --- General Table Styles --- */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    background-color: #fff;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  th {
+    background-color: #e6f7ff; /* Light blue header */
+    font-weight: bold;
+    color: #333;
+  }
+  .amount, .debit, .credit {
+    text-align: right;
+  }
+
+  /* --- General Journal Specific Styles --- */
+  .journal-narration {
+    font-style: italic;
+    color: #555;
+  }
+
+  /* --- General Ledger (T-Account) Specific Styles --- */
+  .t-account-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .t-account {
+    border: 2px solid #a0a0a0;
+    border-radius: 8px;
+    padding: 15px;
+    width: 350px; /* Increased width for better readability */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    background-color: #fff;
+  }
+  .t-account-header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #a0a0a0;
+    padding-bottom: 5px;
+    color: #333;
+  }
+  .t-account-body {
+    display: flex;
+  }
+  .t-account-column {
+    flex: 1;
+    padding: 5px;
+  }
+  .t-account-column:first-child {
+    border-right: 1px solid #ddd;
+  }
+  .t-entry {
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 0;
+  }
+  .t-label {
+    font-style: italic;
+    color: #666;
+  }
+  .t-amount {
+    font-weight: bold;
+  }
+  .t-balance {
+    border-top: 2px solid #000;
+    margin-top: 15px;
+    padding-top: 8px;
+    font-weight: bold;
+    text-align: right;
+    color: #0056b3;
+  }
+
+  /* --- Financial Statements Specific Styles (Income Statement, Balance Sheet) --- */
+  .financial-statement table {
+    width: 65%; /* Wider for statements */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .section-header {
+    font-weight: bold;
+    background-color: #f0f8ff; /* Lighter blue */
+    border-bottom: 2px solid #6699ff;
+    color: #333;
+  }
+  .account-name-indent {
+    padding-left: 30px; /* More indent for accounts */
+  }
+  .subtotal {
+    font-weight: bold;
+    text-align: right;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #e6ffe6; /* Light green for subtotals */
+    color: #006400;
+  }
+  .final-total {
+    font-weight: bold;
+    text-align: right;
+    border-top: 3px double #000; /* Double border for final totals */
+    padding-top: 15px;
+    font-size: 1.1em;
+    color: #b30000;
+  }
+
+  /* --- Two-Column Cash Book Specific Styles --- */
+  .cashbook-header-section {
+    background-color: #d1efff; /* Slightly darker blue for main sections */
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid #a0a0a0;
+  }
+  .cashbook-column-header {
+    background-color: #e6f7ff;
+    text-align: center;
+  }
+  .cashbook-particulars {
+    width: 20%; /* Adjust width for particulars column */
+  }
+  .cashbook-date {
+    width: 10%;
+  }
+  .cashbook-narrow {
+    width: 7%; /* For Voucher No. and LF */
+    text-align: center;
+  }
+  .cashbook-amount {
+    text-align: right;
+  }
+  .cashbook-total-row {
+    font-weight: bold;
+    background-color: #cceeff; /* Light blue for total row */
+    font-size: 1.1em;
+  }
+</style>
+</head>
+<body>
+
+  <h1>Accounting Book and Report Formats</h1>
+
+  <hr>
+
+  <h2>1. General Journal</h2>
+  <p>The initial book of entry where all financial transactions are first recorded in chronological order.</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Account</th>
+        <th>Reference (Ref.)</th>
+        <th>Debit ($)</th>
+        <th>Credit ($)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2025-07-01</td>
+        <td>Cash</td>
+        <td></td>
+        <td class="debit">50,000</td>
+        <td class="credit"></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Share Capital</td>
+        <td></td>
+        <td class="debit"></td>
+        <td class="credit">50,000</td>
+      </tr>
+      <tr>
+        <td colspan="5" class="journal-narration"><i>To record initial investment by owner.</i></td>
+      </tr>
+      <tr>
+        <td>2025-07-05</td>
+        <td>Office Supplies</td>
+        <td></td>
+        <td class="debit">500</td>
+        <td class="credit"></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Cash</td>
+        <td></td>
+        <td class="debit"></td>
+        <td class="credit">500</td>
+      </tr>
+      <tr>
+        <td colspan="5" class="journal-narration"><i>To record purchase of office supplies for cash.</i></td>
+      </tr>
+      <tr>
+        <td>2025-07-10</td>
+        <td>Accounts Receivable</td>
+        <td></td>
+        <td class="debit">2,500</td>
+        <td class="credit"></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Service Revenue</td>
+        <td></td>
+        <td class="debit"></td>
+        <td class="credit">2,500</td>
+      </tr>
+      <tr>
+        <td colspan="5" class="journal-narration"><i>To record services rendered on credit.</i></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr>
+
+  <h2>2. General Ledger (T-Accounts)</h2>
+  <p>Groups transactions by account, often represented as a "T-account" with debits on one side and credits on the other.</p>
+
+  <div class="t-account-container">
+
+    <div class="t-account">
+      <div class="t-account-header">Cash</div>
+      <div class="t-account-body">
+        <div class="t-account-column">
+          <div class="t-entry"><span class="t-label">Initial Investment</span> <span class="t-amount">50,000</span></div>
+        </div>
+        <div class="t-account-column">
+          <div class="t-entry"><span class="t-label">Office Supplies</span> <span class="t-amount">500</span></div>
+        </div>
+      </div>
+      <div class="t-balance">Balance: 49,500 Dr.</div>
+    </div>
+
+    <div class="t-account">
+      <div class="t-account-header">Share Capital</div>
+      <div class="t-account-body">
+        <div class="t-account-column">
+        </div>
+        <div class="t-account-column">
+          <div class="t-entry"><span class="t-label">Cash</span> <span class="t-amount">50,000</span></div>
+        </div>
+      </div>
+      <div class="t-balance">Balance: 50,000 Cr.</div>
+    </div>
+
+    <div class="t-account">
+      <div class="t-account-header">Office Supplies</div>
+      <div class="t-account-body">
+        <div class="t-account-column">
+          <div class="t-entry"><span class="t-label">Cash</span> <span class="t-amount">500</span></div>
+        </div>
+        <div class="t-account-column">
+        </div>
+      </div>
+      <div class="t-balance">Balance: 500 Dr.</div>
+    </div>
+
+    <div class="t-account">
+      <div class="t-account-header">Accounts Receivable</div>
+      <div class="t-account-body">
+        <div class="t-account-column">
+          <div class="t-entry"><span class="t-label">Service Revenue</span> <span class="t-amount">2,500</span></div>
+        </div>
+        <div class="t-account-column">
+        </div>
+      </div>
+      <div class="t-balance">Balance: 2,500 Dr.</div>
+    </div>
+
+    <div class="t-account">
+      <div class="t-account-header">Service Revenue</div>
+      <div class="t-account-body">
+        <div class="t-account-column">
+        </div>
+        <div class="t-account-column">
+          <div class="t-entry"><span class="t-label">Accounts Receivable</span> <span class="t-amount">2,500</span></div>
+        </div>
+      </div>
+      <div class="t-balance">Balance: 2,500 Cr.</div>
+    </div>
+
+  </div>
+
+  <hr>
+
+  <h2>3. Trial Balance</h2>
+  <h3>As of July 31, 2025</h3>
+  <p>Lists all accounts from the General Ledger with their debit or credit balances; total debits must equal total credits.</p>
+
+  <table class="financial-statement">
+    <thead>
+      <tr>
+        <th>Account Name</th>
+        <th>Debit ($)</th>
+        <th>Credit ($)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Cash</td>
+        <td class="amount">49,500</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Accounts Receivable</td>
+        <td class="amount">2,500</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Office Supplies</td>
+        <td class="amount">500</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Share Capital</td>
+        <td></td>
+        <td class="amount">50,000</td>
+      </tr>
+      <tr>
+        <td>Service Revenue</td>
+        <td></td>
+        <td class="amount">2,500</td>
+      </tr>
+      <tr class="final-total">
+        <td>Total</td>
+        <td class="amount">52,500</td>
+        <td class="amount">52,500</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr>
+
+  <h2>4. Income Statement</h2>
+  <h3>For the Month Ended July 31, 2025</h3>
+  <p>Reports a company's financial performance over a specific period, summarizing revenues, expenses, and net income.</p>
+
+  <table class="financial-statement">
+    <thead>
+      <tr>
+        <th colspan="2"></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="section-header" colspan="2">Revenues:</td>
+      </tr>
+      <tr>
+        <td class="account-name-indent">Service Revenue</td>
+        <td class="amount">2,500</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td class="subtotal">Total Revenues: 2,500</td>
+      </tr>
+      <tr>
+        <td class="section-header" colspan="2">Expenses:</td>
+      </tr>
+      <tr>
+        <td class="account-name-indent">Rent Expense</td>
+        <td class="amount">1,000</td>
+      </tr>
+      <tr>
+        <td class="account-name-indent">Utilities Expense</td>
+        <td class="amount">200</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td class="subtotal">Total Expenses: 1,200</td>
+      </tr>
+      <tr>
+        <td colspan="1"></td>
+        <td class="final-total">Net Income: 1,300</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr>
+
+  <h2>5. Balance Sheet</h2>
+  <h3>As of July 31, 2025</h3>
+  <p>Provides a snapshot of a company's financial position at a specific point in time (Assets = Liabilities + Equity).</p>
+
+  <table class="financial-statement">
+    <thead>
+      <tr>
+        <th colspan="2"></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="section-header" colspan="2">Assets:</td>
+      </tr>
+      <tr>
+        <td class="account-name-indent">Cash</td>
+        <td class="amount">49,500</td>
+      </tr>
+      <tr>
+        <td class="account-name-indent">Accounts Receivable</td>
+        <td class="amount">2,500</td>
+      </tr>
+      <tr>
+        <td class="account-name-indent">Office Supplies</td>
+        <td class="amount">500</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td class="subtotal">Total Assets: 52,500</td>
+      </tr>
+
+      <tr>
+        <td class="section-header" colspan="2">Liabilities:</td>
+      </tr>
+      <tr>
+        <td class="account-name-indent">Accounts Payable</td>
+        <td class="amount">1,000</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td class="subtotal">Total Liabilities: 1,000</td>
+      </tr>
+
+      <tr>
+        <td class="section-header" colspan="2">Equity:</td>
+      </tr>
+      <tr>
+        <td class="account-name-indent">Share Capital</td>
+        <td class="amount">50,000</td>
+      </tr>
+      <tr>
+        <td class="account-name-indent">Retained Earnings</td>
+        <td class="amount">1,500</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td class="subtotal">Total Equity: 51,500</td>
+      </tr>
+
+      <tr>
+        <td colspan="1"></td>
+        <td class="final-total">Total Liabilities & Equity: 52,500</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr>
+
+  <h2>6. Two-Column Cash Book</h2>
+  <h3>For the Month of July 2025</h3>
+  <p>Records all cash and bank transactions, with separate columns for Cash and Bank on both the debit (receipts) and credit (payments) sides.</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="6" class="cashbook-header-section">Receipts (Debit)</th>
+        <th colspan="6" class="cashbook-header-section">Payments (Credit)</th>
+      </tr>
+      <tr>
+        <th class="cashbook-date cashbook-column-header">Date</th>
+        <th class="cashbook-particulars cashbook-column-header">Particulars</th>
+        <th class="cashbook-narrow cashbook-column-header">Vou. No.</th>
+        <th class="cashbook-narrow cashbook-column-header">LF</th>
+        <th class="cashbook-column-header">Cash ($)</th>
+        <th class="cashbook-column-header">Bank ($)</th>
+        <th class="cashbook-date cashbook-column-header">Date</th>
+        <th class="cashbook-particulars cashbook-column-header">Particulars</th>
+        <th class="cashbook-narrow cashbook-column-header">Vou. No.</th>
+        <th class="cashbook-narrow cashbook-column-header">LF</th>
+        <th class="cashbook-column-header">Cash ($)</th>
+        <th class="cashbook-column-header">Bank ($)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2025-07-01</td>
+        <td>To Balance b/d</td>
+        <td></td>
+        <td></td>
+        <td class="cashbook-amount">10,000</td>
+        <td class="cashbook-amount">25,000</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2025-07-05</td>
+        <td>To Sales (Cash)</td>
+        <td>R001</td>
+        <td>S1</td>
+        <td class="cashbook-amount">5,000</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2025-07-10</td>
+        <td>To Capital Introduced (Bank)</td>
+        <td>R002</td>
+        <td>C1</td>
+        <td></td>
+        <td class="cashbook-amount">100,000</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2025-07-15</td>
+        <td>To Interest Received (Bank)</td>
+        <td>R003</td>
+        <td>I1</td>
+        <td></td>
+        <td class="cashbook-amount">500</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>2025-07-03</td>
+        <td>By Rent Paid (Cash)</td>
+        <td>P001</td>
+        <td>RE1</td>
+        <td class="cashbook-amount">2,000</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>2025-07-08</td>
+        <td>By Purchases (Bank)</td>
+        <td>P002</td>
+        <td>PU1</td>
+        <td></td>
+        <td class="cashbook-amount">15,000</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>2025-07-20</td>
+        <td>By Salaries (Bank)</td>
+        <td>P003</td>
+        <td>SE1</td>
+        <td></td>
+        <td class="cashbook-amount">8,000</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>2025-07-25</td>
+        <td>By Stationery (Cash)</td>
+        <td>P004</td>
+        <td>ST1</td>
+        <td class="cashbook-amount">500</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>2025-07-31</td>
+        <td>By Balance c/d</td>
+        <td></td>
+        <td></td>
+        <td class="cashbook-amount">12,500</td>
+        <td class="cashbook-amount">102,500</td>
+      </tr>
+      <tr class="cashbook-total-row">
+        <td></td>
+        <td>Total</td>
+        <td></td>
+        <td></td>
+        <td class="cashbook-amount">15,000</td>
+        <td class="cashbook-amount">125,500</td>
+        <td></td>
+        <td>Total</td>
+        <td></td>
+        <td></td>
+        <td class="cashbook-amount">15,000</td>
+        <td class="cashbook-amount">125,500</td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>

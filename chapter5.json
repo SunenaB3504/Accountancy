@@ -1,0 +1,1766 @@
+{
+  "chapters": [
+    {
+      "caseStudy": [
+        {
+          "questions": [
+            {
+              "answer": "KnowledgeCompass's success attracted significant public interest, leading to oversubscription. To manage this, the company could employ three main strategies: first, accept some applications in full and reject others, refunding the excess application money. Second, they could opt for a pro-rata allotment, distributing shares proportionally to all applicants and adjusting excess application money towards allotment or subsequent calls. The third and most common approach is a combination of both, rejecting some applications outright and making pro-rata allotments to the rest. KnowledgeCompass would choose the strategy that best aligns with its capital structure goals and investor relations.",
+              "marks": 8,
+              "question": "KnowledgeCompass's IPO was met with overwhelming demand, resulting in significant oversubscription. Explain the three alternatives available to the company's Board of Directors to deal with this situation, and discuss how KnowledgeCompass would decide on the best approach for its capital structure and investor relations.",
+              "type": "explain",
+              "wordLimit": 150
+            },
+            {
+              "answer": "The limited liability feature of a company means that the personal assets of Neil and Kanishq, as shareholders, are protected. Their liability is restricted to the unpaid amount of shares they hold. If KnowledgeCompass faces financial difficulties or goes into liquidation, their personal wealth (e.g., homes, savings) would not be at risk to pay off company debts. This provides significant protection to the founders and other investors, making investment in KnowledgeCompass less risky and encouraging capital contribution without fear of losing everything.",
+              "marks": 6,
+              "question": "One of the fundamental features of the company form of organization is 'Limited Liability.' Explain how this feature specifically protects Neil and Kanishq, the founders of KnowledgeCompass, in the event of the company facing financial difficulties.",
+              "type": "explain",
+              "wordLimit": 100
+            },
+            {
+              "answer": "If an early investor like Mr. Sharma failed to pay his final call money, KnowledgeCompass would account for this as 'Calls in Arrears.' This is an amount due but not yet received. The company would typically debit a 'Calls in Arrears Account' and credit the respective 'Share Call Account.' According to Table F of the Companies Act, if the Articles of Association are silent, KnowledgeCompass could charge interest on these arrears at a rate not exceeding 10% per annum from the due date until payment. This is important for maintaining financial discipline and ensuring timely receipt of funds from shareholders.",
+              "marks": 5,
+              "question": "Suppose Mr. Sharma, an early investor in KnowledgeCompass, failed to pay the final call money on his shares. Explain how KnowledgeCompass would account for this unpaid amount and what financial implications, including interest, might arise for Mr. Sharma as per the Companies Act.",
+              "type": "explain",
+              "wordLimit": 80
+            },
+            {
+              "answer": "Forfeiture is the cancellation of shares due to non-payment of calls. It allows KnowledgeCompass to reclaim shares from defaulting shareholders and reallocate them, ensuring the full capital is raised. Reissue allows the company to sell these forfeited shares to new investors, often at a discount, but importantly, the discount cannot exceed the amount originally received on those shares. Any profit made on reissue (amount received on forfeiture + reissue price - face value) is a capital profit transferred to the Capital Reserve, strengthening the company's financial position. This process helps KnowledgeCompass recover lost capital and maintain its shareholder base.",
+              "marks": 7,
+              "question": "After several reminders, KnowledgeCompass decides to forfeit Mr. Sharma's shares. Explain the accounting implications of 'Forfeiture of Shares' and their 'Reissue' for KnowledgeCompass, particularly focusing on how this impacts the company's capital and financial statements. What is the benefit of this process?",
+              "type": "explain",
+              "wordLimit": 120
+            },
+            {
+              "answer": "Issuing shares at a premium means KnowledgeCompass sells its shares for more than their nominal value, demonstrating strong market confidence and investor perception of its brand and future profitability. The excess amount, the 'premium,' is credited to the 'Securities Premium Account.' This amount is not distributable as normal dividends but can be used for specific purposes, such as issuing fully paid bonus shares, writing off preliminary expenses, writing off share issue expenses/commission, or paying premium on redemption of preference shares/debentures, or buyback of shares. This strengthens KnowledgeCompass's reserves and financial stability.",
+              "marks": 7,
+              "question": "KnowledgeCompass's strong market position allows it to issue shares at a premium. Discuss the advantages of issuing shares at a premium for KnowledgeCompass and explain how the 'Securities Premium Account' is utilized, outlining at least three specific purposes as per the Companies Act.",
+              "type": "explain",
+              "wordLimit": 120
+            }
+          ],
+          "scenario": "Neil and Kanishq, the visionary founders of KnowledgeCompass, transformed their small EdTech startup into a burgeoning corporation. Their initial success, built on a groundbreaking learning platform, necessitated expansion, requiring significant capital. To fund their ambitious growth plans, they decided to transition from a private limited company to a public limited company, launching their much-anticipated Initial Public Offering (IPO). The market, recognizing KnowledgeCompass's potential, responded enthusiastically, leading to immense oversubscription. However, the journey wasn't without its challenges. Some early investors, despite their initial commitment, struggled to meet subsequent call payments. This presented a critical test for KnowledgeCompass's financial management team, who had to navigate the intricacies of share capital accounting, from managing oversubscription to dealing with calls in arrears, and even the forfeiture and reissue of shares, all while upholding their reputation and maintaining investor confidence. The company's ability to handle these situations effectively would be crucial for its continued success and growth in the competitive EdTech landscape.",
+          "title": "KnowledgeCompass: Navigating the Waters of Share Capital Management"
+        }
+      ],
+      "exercises": {
+        "mcq": [
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Equity shareholders are the true owners of the company, bearing the ultimate risk and sharing in the profits after other claims are met.",
+            "options": [
+              "creditors",
+              "owners",
+              "customers of the company",
+              "none of the above"
+            ],
+            "question": "Equity shareholders are:"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Nominal or Authorised capital is the maximum capital a company is legally permitted to issue, as stated in its Memorandum of Association.",
+            "options": [
+              "that part of the authorised capital which is issued by the company.",
+              "the amount of capital which is actually applied for by the prospective shareholders.",
+              "the maximum amount of share capital which a company is authorised to issue.",
+              "the amount actually paid by the shareholders."
+            ],
+            "question": "Nominal share capital is :"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "According to Table F of the Companies Act, if Articles are silent, interest on calls in arrears can be charged at a rate not exceeding 10% p.a.",
+            "options": [
+              "10%",
+              "6%",
+              "8%",
+              "11%"
+            ],
+            "question": "Interest on calls in arrears is charged according to “Table F” at :"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Money received in advance from shareholders before it is actually called-up represents a liability to the company and is credited to the Calls in Advance account.",
+            "options": [
+              "debited to calls in advance account",
+              "credited to calls in advance account",
+              "debited to calls account",
+              "none of the above"
+            ],
+            "question": "Money received in advance from shareholders before it is actually called-up by the directors is :"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Shares are forfeited typically for the non-payment of call money or allotment money, representing a breach of contract by the shareholder.",
+            "options": [
+              "for non-payment of call money",
+              "for failure to attend meetings",
+              "for failure to repay the loan to the bank",
+              "for which shares are pledged as a security"
+            ],
+            "question": "Shares can be forfeited :"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Profit on reissue of forfeited shares is a capital profit and is transferred to Capital Reserve account.",
+            "options": [
+              "general reserve",
+              "capital redemption reserve",
+              "capital reserve",
+              "revenue reserve"
+            ],
+            "question": "The Profit on reissue of forfeited shares is transferred to :"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "The balance of the share forfeiture account is added to the paid-up capital under the 'Share Capital' head in the balance sheet until the shares are reissued.",
+            "options": [
+              "current liabilities and provisions",
+              "reserves and surpluses",
+              "share capital",
+              "unsecured loans"
+            ],
+            "question": "Balance of share forfeiture account is shown in the balance sheet under the item :"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "A company is an artificial legal entity created by law, distinct from its members.",
+            "options": [
+              "Artificial person",
+              "Natural person",
+              "Legal firm",
+              "Sole proprietorship"
+            ],
+            "question": "A company is considered a(n) ___________ having a corporate legal entity distinct from its members."
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "The Articles of Association prescribe the classes of shares and their rights, while the Memorandum states the authorized capital.",
+            "options": [
+              "Memorandum of Association",
+              "Companies Act, 2013",
+              "SEBI Guidelines",
+              "Articles of Association"
+            ],
+            "question": "The classes of shares a company's capital is divided into, along with their respective rights and obligations, are prescribed by the:"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Preference shares carry preferential rights to dividend payment and repayment of capital upon winding up.",
+            "options": [
+              "Equity shares",
+              "Preference shares",
+              "Ordinary shares",
+              "Bonus shares"
+            ],
+            "question": "Which type of shares carries a preferential right to dividend payment before any dividend is paid to equity shareholders?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "The minimum application money required is 5% of the face value of the share as per the Companies Act.",
+            "options": [
+              "10%",
+              "2%",
+              "5%",
+              "25%"
+            ],
+            "question": "As per the Companies Act, the application money should be at least ____ of the face value of the share."
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "A public company is defined as a company that is not a private company and is not a subsidiary of a private company.",
+            "options": [
+              "Is not a private company",
+              "Restricts the right to transfer its shares",
+              "Limits the number of its members to 200",
+              "Can have only one person as a member"
+            ],
+            "question": "Which of the following is a characteristic of a public company?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Reserve capital is a portion of uncalled capital reserved specifically to be called only in the event of the company's winding up, providing security for creditors.",
+            "options": [
+              "Authorised capital",
+              "Issued capital",
+              "Subscribed capital",
+              "Reserve capital"
+            ],
+            "question": "Which portion of the uncalled capital can only be called in the event of the company being wound up?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The amount of discount allowed on reissue of forfeited shares cannot exceed the amount that was originally received on those shares.",
+            "options": [
+              "The face value of the shares",
+              "The amount originally received on forfeited shares",
+              "10% of the issue price",
+              "Any amount decided by the directors"
+            ],
+            "question": "When reissuing forfeited shares, the maximum amount of discount that can be allowed is limited to:"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "SEBI guidelines state that minimum subscription cannot be less than 90% of the issued amount.",
+            "options": [
+              "75%",
+              "90%",
+              "60%",
+              "100%"
+            ],
+            "question": "According to SEBI guidelines, minimum subscription of capital cannot be less than _______ of the issued amount."
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "The excess amount received above the nominal value when shares are issued is called premium and is credited to Securities Premium Account.",
+            "options": [
+              "Securities Premium Account",
+              "Share Capital Account",
+              "General Reserve Account",
+              "Profit and Loss Account"
+            ],
+            "question": "When shares are issued at a premium, the excess amount is credited to which account?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Sweat equity shares are an exception where shares can be issued at a discount to employees for their valuable contributions.",
+            "options": [
+              "Equity shares issued to the public",
+              "Preference shares",
+              "Sweat equity shares",
+              "Shares issued for consideration other than cash"
+            ],
+            "question": "Under which circumstances can shares of a company ordinarily be issued at a discount as per the Companies Act, 2013?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "ASBA stands for Applications Supported by Blocked Amount, a SEBI process for IPO applications.",
+            "options": [
+              "Applications Supported by Blocked Amount",
+              "Account Statement for Bank Accounts",
+              "Asset Settlement by Blocked Advance",
+              "Allotment Scheme for Banked Assets"
+            ],
+            "question": "What does ASBA stand for in the context of share applications?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "A Private Company by its articles restricts the right to transfer its shares.",
+            "options": [
+              "Restricts the right to transfer its shares",
+              "Must have at least 7 persons",
+              "Has no limit on the number of members",
+              "Can carry out non-banking financial investment activities"
+            ],
+            "question": "Which of the following is a key characteristic of a Private Company?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The amount contributed by shareholders is called Share Capital, and individual accounts are not opened for each shareholder due to their large number.",
+            "options": [
+              "Personal Capital Account",
+              "Share Capital Account",
+              "Shareholders' Fund Account",
+              "Investor Contribution Account"
+            ],
+            "question": "Since the number of shareholders is very large, their capital contributions merge into a common account called:"
+          }
+        ],
+        "numericalQuestions": [
+          {
+            "explanation": "This problem illustrates the basic journal entries for issuing shares at par, including application, allotment, and call stages, while also accounting for calls in arrears.",
+            "question": "KnowledgeCompass Ltd. offered 25,000 equity shares of Rs. 10 each at par, payable as: Rs. 3 on application, Rs. 4 on allotment, and the balance on first and final call. The issue was fully subscribed. All money was duly received, except for the first and final call on 200 shares. Pass journal entries in the books of KnowledgeCompass Ltd.",
+            "steps": [
+              "Bank A/c Dr. 75,000 to Equity Share Application A/c 75,000 (Being application money received on 25,000 shares @ Rs. 3 per share)",
+              "Equity Share Application A/c Dr. 75,000 to Equity Share Capital A/c 75,000 (Being application money on 25,000 shares transferred to Share Capital Account)",
+              "Equity Share Allotment A/c Dr. 100,000 to Equity Share Capital A/c 100,000 (Being allotment money due on 25,000 shares @ Rs. 4 per share)",
+              "Bank A/c Dr. 100,000 to Equity Share Allotment A/c 100,000 (Being allotment money received)",
+              "Equity Share First & Final Call A/c Dr. 75,000 to Equity Share Capital A/c 75,000 (Being first and final call money due on 25,000 shares @ Rs. 3 per share)",
+              "Bank A/c Dr. 74,400 to Equity Share First & Final Call A/c 74,400 (Being first and final call money received on 24,800 shares (25,000 - 200))",
+              "Calls in Arrears A/c Dr. 600 to Equity Share First & Final Call A/c 600 (Being calls in arrears on 200 shares @ Rs. 3 per share)"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "account": "Bank A/c",
+                  "debit": 75000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Application A/c",
+                  "credit": 75000,
+                  "narration": "(Being application money received on 25,000 shares @ Rs. 3 per share)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Equity Share Application A/c",
+                  "debit": 75000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 75000,
+                  "narration": "(Being application money on 25,000 shares transferred to Share Capital Account)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Equity Share Allotment A/c",
+                  "debit": 100000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 100000,
+                  "narration": "(Being allotment money due on 25,000 shares @ Rs. 4 per share)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Bank A/c",
+                  "debit": 100000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Allotment A/c",
+                  "credit": 100000,
+                  "narration": "(Being allotment money received)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Equity Share First & Final Call A/c",
+                  "debit": 75000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 75000,
+                  "narration": "(Being first and final call money due on 25,000 shares @ Rs. 3 per share)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Bank A/c",
+                  "debit": 74400,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share First & Final Call A/c",
+                  "credit": 74400,
+                  "narration": "(Being first and final call money received on 24,800 shares (25,000 - 200))",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Calls in Arrears A/c",
+                  "debit": 600,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share First & Final Call A/c",
+                  "credit": 600,
+                  "narration": "(Being calls in arrears on 200 shares @ Rs. 3 per share)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                }
+              ]
+            },
+            "tableType": "journal"
+          },
+          {
+            "explanation": "This problem demonstrates accounting for oversubscription with pro-rata allotment and how excess application money is adjusted towards allotment, potentially leading to calls in advance if the excess is significant.",
+            "question": "KnowledgeCompass Ltd. invited applications for 50,000 equity shares of Rs. 10 each at a premium of Rs. 2 per share, payable as: Rs. 4 on application (including Rs. 1 premium), Rs. 5 on allotment (including Rs. 1 premium), and the balance on first and final call. Applications were received for 75,000 shares. The directors decided to allot shares on a pro-rata basis to all applicants. Excess application money was adjusted towards allotment and then to calls in advance if any. All money due was received. Pass journal entries.",
+            "steps": [
+              "Bank A/c Dr. 300,000 to Equity Share Application A/c 300,000 (Being application money received on 75,000 shares @ Rs. 4 per share)",
+              "Equity Share Application A/c Dr. 300,000 to Equity Share Capital A/c 200,000 to Securities Premium Reserve A/c 50,000 to Equity Share Allotment A/c 37,500 to Calls in Advance A/c 12,500 (Being application money transferred to Share Capital, Securities Premium, excess adjusted to Allotment and Calls in Advance for 50,000 shares allotted pro-rata)",
+              "Equity Share Allotment A/c Dr. 250,000 to Equity Share Capital A/c 200,000 to Securities Premium Reserve A/c 50,000 (Being allotment money due on 50,000 shares @ Rs. 5 per share including premium)",
+              "Bank A/c Dr. 212,500 to Equity Share Allotment A/c 212,500 (Being balance allotment money received (250,000 - 37,500 previously adjusted))",
+              "Equity Share First & Final Call A/c Dr. 150,000 to Equity Share Capital A/c 100,000 to Securities Premium Reserve A/c 50,000 (Being first & final call money due on 50,000 shares @ Rs. 3 per share (10 face value - 4 application - 5 allotment = 1. Premium on call is also included as per question (Rs. 1 face value + Rs. 2 premium - Rs. 1 premium adjusted earlier). Let's re-calculate call amount based on Rs. 10 FV and Rs. 2 premium total.) FV: Rs. 10. Application (3+1)=4. Allotment (4+1)=5. Balance (1) for call. Total Premium Rs. 2. So Rs. 1 is due on call for FV. This is the understanding. The question states Rs. 4 app (inc Rs. 1 prem), Rs. 5 allot (inc Rs. 1 prem). Total premium collected is Rs. 2. Face Value collected: App: Rs. 3, Allot: Rs. 4. Total Face Value collected Rs. 7. Balance Face Value is Rs. 3. So first and final call is Rs. 3. Therefore, 50,000 shares * Rs. 3 = Rs. 150,000.  No further premium is stated for call. Assuming balance as FV. So, To Equity Share Capital A/c 150,000. No Securities Premium Reserve on call.) Corrected: Equity Share First & Final Call A/c Dr. 150,000 To Equity Share Capital A/c 150,000 (Being first & final call money due on 50,000 shares @ Rs. 3 per share)",
+              "Calls in Advance A/c Dr. 12,500 to Equity Share First & Final Call A/c 12,500 (Being calls in advance adjusted against first and final call)",
+              "Bank A/c Dr. 137,500 to Equity Share First & Final Call A/c 137,500 (Being balance first and final call money received (150,000 - 12,500 adjusted))"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "account": "Bank A/c",
+                  "debit": 300000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Application A/c",
+                  "credit": 300000,
+                  "narration": "(Being application money received on 75,000 shares @ Rs. 4 per share)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Equity Share Application A/c",
+                  "debit": 300000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 200000,
+                  "narration": null,
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Securities Premium Reserve A/c",
+                  "credit": 50000,
+                  "narration": null,
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Allotment A/c",
+                  "credit": 37500,
+                  "narration": null,
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Calls in Advance A/c",
+                  "credit": 12500,
+                  "narration": "(Being application money transferred to Share Capital, Securities Premium, excess adjusted to Allotment and Calls in Advance for 50,000 shares allotted pro-rata)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Equity Share Allotment A/c",
+                  "debit": 250000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 200000,
+                  "narration": null,
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Securities Premium Reserve A/c",
+                  "credit": 50000,
+                  "narration": "(Being allotment money due on 50,000 shares @ Rs. 5 per share including premium)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Bank A/c",
+                  "debit": 212500,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Allotment A/c",
+                  "credit": 212500,
+                  "narration": "(Being balance allotment money received (250,000 - 37,500 previously adjusted))",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Equity Share First & Final Call A/c",
+                  "debit": 150000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 150000,
+                  "narration": "(Being first & final call money due on 50,000 shares @ Rs. 3 per share)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Calls in Advance A/c",
+                  "debit": 12500,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share First & Final Call A/c",
+                  "credit": 12500,
+                  "narration": "(Being calls in advance adjusted against first and final call)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Bank A/c",
+                  "debit": 137500,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share First & Final Call A/c",
+                  "credit": 137500,
+                  "narration": "(Being balance first and final call money received (150,000 - 12,500 adjusted))",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                }
+              ]
+            },
+            "tableType": "journal"
+          },
+          {
+            "explanation": "This problem illustrates the accounting for forfeiture of shares issued at a premium when the premium has been received, and the subsequent reissue of these shares at a discount, leading to a transfer to Capital Reserve.",
+            "question": "KnowledgeCompass Ltd. issued 10,000 equity shares of Rs. 100 each at a premium of Rs. 10, payable as: Rs. 30 on application, Rs. 40 on allotment (including premium), and the balance Rs. 40 on first and final call. All shares were fully subscribed and all money was received, except for the first and final call on 200 shares held by Mr. Anand. His shares were forfeited. Later, 150 of these forfeited shares were reissued at Rs. 90 per share as fully paid-up. Pass necessary journal entries for forfeiture and reissue.",
+            "steps": [
+              "Equity Share First & Final Call A/c Dr. 80,000 to Equity Share Capital A/c 80,000 (Being first and final call money due on 10,000 shares @ Rs. 40 per share)",
+              "Bank A/c Dr. 72,000 to Equity Share First & Final Call A/c 72,000 (Being first and final call money received on 9,800 shares (10,000 - 200))",
+              "Calls in Arrears A/c Dr. 8,000 to Equity Share First & Final Call A/c 8,000 (Being calls in arrears on 200 shares @ Rs. 40 per share)",
+              "Equity Share Capital A/c Dr. 20,000 to Calls in Arrears A/c 8,000 to Share Forfeiture A/c 12,000 (Being forfeiture of 200 shares @ Rs. 100 called up, for non-payment of final call. Premium already received is not debited.)",
+              "Bank A/c Dr. 13,500 to Share Forfeiture A/c 1,500 to Equity Share Capital A/c 15,000 (Being reissue of 150 forfeited shares at Rs. 90 per share as fully paid)",
+              "Share Forfeiture A/c Dr. 7,500 to Capital Reserve A/c 7,500 (Being profit on reissue of forfeited shares transferred to Capital Reserve)  Working for Capital Reserve: Amount forfeited on 150 shares = (12,000 / 200) * 150 = Rs. 9,000.  Loss on reissue per share = Rs. 100 (Face Value) - Rs. 90 (Reissue Price) = Rs. 10. Total loss on 150 shares = 150 * 10 = Rs. 1,500. Capital Reserve = Amount forfeited on reissued shares - Loss on reissue = 9,000 - 1,500 = Rs. 7,500."
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "account": "Equity Share First & Final Call A/c",
+                  "debit": 80000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 80000,
+                  "narration": "(Being first and final call money due on 10,000 shares @ Rs. 40 per share)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Bank A/c",
+                  "debit": 72000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share First & Final Call A/c",
+                  "credit": 72000,
+                  "narration": "(Being first and final call money received on 9,800 shares (10,000 - 200))",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Calls in Arrears A/c",
+                  "debit": 8000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share First & Final Call A/c",
+                  "credit": 8000,
+                  "narration": "(Being calls in arrears on 200 shares @ Rs. 40 per share)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Equity Share Capital A/c",
+                  "debit": 20000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Calls in Arrears A/c",
+                  "credit": 8000,
+                  "narration": null,
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Share Forfeiture A/c",
+                  "credit": 12000,
+                  "narration": "(Being forfeiture of 200 shares @ Rs. 100 called up, for non-payment of final call. Premium already received is not debited.)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Bank A/c",
+                  "debit": 13500,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Share Forfeiture A/c",
+                  "debit": 1500,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 15000,
+                  "narration": "(Being reissue of 150 forfeited shares at Rs. 90 per share as fully paid)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Share Forfeiture A/c",
+                  "debit": 7500,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Capital Reserve A/c",
+                  "credit": 7500,
+                  "narration": "(Being profit on reissue of forfeited shares transferred to Capital Reserve)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                }
+              ]
+            },
+            "tableType": "journal"
+          },
+          {
+            "explanation": "This problem covers the issuance of shares for consideration other than cash, specifically for the purchase of an asset. It demonstrates how the number of shares issued changes based on whether they are issued at par or at a premium.",
+            "question": "KnowledgeCompass Ltd. purchased a new server system from TechPro Solutions for Rs. 6,60,000. The payment was to be made by issuing equity shares of Rs. 100 each. Pass journal entries if the shares are issued: (a) at par, and (b) at a premium of 10%.",
+            "steps": [
+              "Server System A/c Dr. 660,000 to TechPro Solutions 660,000 (Being purchase of server system from TechPro Solutions)",
+              "(a) When shares are issued at par:",
+              "TechPro Solutions Dr. 660,000 to Equity Share Capital A/c 660,000 (Being 6,600 shares (Rs. 6,60,000 / Rs. 100) issued at par to TechPro Solutions for server system)",
+              "(b) When shares are issued at a premium of 10%:",
+              "TechPro Solutions Dr. 660,000 to Equity Share Capital A/c 600,000 to Securities Premium Reserve A/c 60,000 (Being 6,000 shares (Rs. 6,60,000 / Rs. 110) issued at a premium of 10% (Rs. 10 per share) to TechPro Solutions for server system)"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "account": "Server System A/c",
+                  "debit": 660000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To TechPro Solutions",
+                  "credit": 660000,
+                  "narration": "(Being purchase of server system from TechPro Solutions)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "TechPro Solutions",
+                  "debit": 660000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 660000,
+                  "narration": "(Being 6,600 shares (Rs. 6,60,000 / Rs. 100) issued at par to TechPro Solutions for server system)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "TechPro Solutions",
+                  "debit": 660000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 600000,
+                  "narration": null,
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Securities Premium Reserve A/c",
+                  "credit": 60000,
+                  "narration": "(Being 6,000 shares (Rs. 6,60,000 / Rs. 110) issued at a premium of 10% (Rs. 10 per share) to TechPro Solutions for server system)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                }
+              ]
+            },
+            "tableType": "journal"
+          },
+          {
+            "explanation": "This problem illustrates the entries for calls in advance and calls in arrears simultaneously, which often occur during call collection, showing how the company accounts for both situations.",
+            "question": "KnowledgeCompass Ltd. made its first call of Rs. 2 per share on its 40,000 equity shares of Rs. 10 each, fully called up except for the final call of Rs. 1. Mr. Alok, holding 500 shares, failed to pay the first call. Mr. Bimal, holding 300 shares, paid the entire balance (including the final call) with the first call. Pass journal entries for the first call and subsequent receipts.",
+            "steps": [
+              "Equity Share First Call A/c Dr. 80,000 to Equity Share Capital A/c 80,000 (Being first call money due on 40,000 shares @ Rs. 2 per share)",
+              "Bank A/c Dr. 79,400 to Calls in Arrears A/c 1,000 to Calls in Advance A/c 300 to Equity Share First Call A/c 80,000 (Being first call money received on 39,500 shares, calls in arrears on 500 shares @ Rs. 2, and calls in advance on 300 shares for final call @ Rs. 1) (Adjusted entry: Bank A/c Dr. 79,400 (40000*2 - 500*2 + 300*1) ; Calls in Arrears A/c Dr. 1000 ; To Share First Call A/c 80000 ; To Calls in Advance A/c 300)",
+              "Corrected Journal Entry: Bank A/c Dr. 79,400 (39500*2 + 300*1 = 79000 + 300 = 79300. The previous Bank entry had 79400. Let's verify. Total due on first call = 40,000 * 2 = 80,000. Less Alok's arrears = 500 * 2 = 1,000. So, 79,000 expected. Plus Bimal's advance = 300 * 1 = 300. So, Bank receives 79,000 + 300 = 79,300.)",
+              "Bank A/c Dr. 79,300",
+              "Calls in Arrears A/c Dr. 1,000",
+              "To Equity Share First Call A/c 80,000",
+              "To Calls in Advance A/c 300 (Being first call money received except on 500 shares and advance received for final call on 300 shares)"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "account": "Equity Share First Call A/c",
+                  "debit": 80000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 80000,
+                  "narration": "(Being first call money due on 40,000 shares @ Rs. 2 per share)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Bank A/c",
+                  "debit": 79300,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Calls in Arrears A/c",
+                  "debit": 1000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share First Call A/c",
+                  "credit": 80000,
+                  "narration": null,
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Calls in Advance A/c",
+                  "credit": 300,
+                  "narration": "(Being first call money received except on 500 shares and advance received for final call on 300 shares)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                }
+              ]
+            },
+            "tableType": "journal"
+          },
+          {
+            "explanation": "This problem illustrates the complete cycle of share issue at a premium, including application, allotment with premium, and the final call. It shows how the premium is incorporated into the different installment payments.",
+            "question": "KnowledgeCompass Edu-Services Ltd. issued 30,000 equity shares of Rs. 10 each at a premium of Rs. 3 per share, payable as follows: Rs. 4 on application (including Re. 1 premium), Rs. 5 on allotment (including Rs. 2 premium), and the balance on first and final call. The issue was fully subscribed and all money was received. Pass journal entries.",
+            "steps": [
+              "Bank A/c Dr. 120,000 to Equity Share Application A/c 120,000 (Being application money received on 30,000 shares @ Rs. 4 per share)",
+              "Equity Share Application A/c Dr. 120,000 to Equity Share Capital A/c 90,000 to Securities Premium Reserve A/c 30,000 (Being application money transferred to Share Capital and Securities Premium Reserve)",
+              "Equity Share Allotment A/c Dr. 150,000 to Equity Share Capital A/c 90,000 to Securities Premium Reserve A/c 60,000 (Being allotment money due on 30,000 shares @ Rs. 5 per share including premium)",
+              "Bank A/c Dr. 150,000 to Equity Share Allotment A/c 150,000 (Being allotment money received)",
+              "Equity Share First & Final Call A/c Dr. 120,000 to Equity Share Capital A/c 120,000 (Being first and final call money due on 30,000 shares @ Rs. 4 per share (Rs. 10 FV - Rs. 3 App FV - Rs. 3 Allot FV = Rs. 4 balance FV))",
+              "Bank A/c Dr. 120,000 to Equity Share First & Final Call A/c 120,000 (Being first and final call money received)"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "account": "Bank A/c",
+                  "debit": 120000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Application A/c",
+                  "credit": 120000,
+                  "narration": "(Being application money received on 30,000 shares @ Rs. 4 per share)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Equity Share Application A/c",
+                  "debit": 120000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 90000,
+                  "narration": null,
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Securities Premium Reserve A/c",
+                  "credit": 30000,
+                  "narration": "(Being application money transferred to Share Capital and Securities Premium Reserve)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Equity Share Allotment A/c",
+                  "debit": 150000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 90000,
+                  "narration": null,
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Securities Premium Reserve A/c",
+                  "credit": 60000,
+                  "narration": "(Being allotment money due on 30,000 shares @ Rs. 5 per share including premium)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Bank A/c",
+                  "debit": 150000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Allotment A/c",
+                  "credit": 150000,
+                  "narration": "(Being allotment money received)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Equity Share First & Final Call A/c",
+                  "debit": 120000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share Capital A/c",
+                  "credit": 120000,
+                  "narration": "(Being first and final call money due on 30,000 shares @ Rs. 4 per share)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "Bank A/c",
+                  "debit": 120000,
+                  "narration": null,
+                  "particulars": "Dr.",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                },
+                {
+                  "account": "To Equity Share First & Final Call A/c",
+                  "credit": 120000,
+                  "narration": "(Being first and final call money received)",
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "receiptBank": null,
+                  "receiptCash": null
+                }
+              ]
+            },
+            "tableType": "journal"
+          }
+        ],
+        "oneWord": [
+          {
+            "correctAnswer": "Artificial Person",
+            "question": "What is the legal nature of a company?"
+          },
+          {
+            "correctAnswer": "Perpetual Succession",
+            "question": "What feature ensures a company's continued existence irrespective of changes in its membership?"
+          },
+          {
+            "correctAnswer": "Common Seal",
+            "question": "What acts as the official signature of a company?"
+          },
+          {
+            "correctAnswer": "Memorandum of Association",
+            "question": "The amount of share capital a company is authorized to issue is specified in which document?"
+          },
+          {
+            "correctAnswer": "Subscribed Capital",
+            "question": "What is the part of issued capital actually subscribed by the public?"
+          },
+          {
+            "correctAnswer": "Calls in Arrears",
+            "question": "What is the term for unpaid amounts on allotment or calls?"
+          },
+          {
+            "correctAnswer": "Calls in Advance",
+            "question": "What is the term for money received from shareholders for calls not yet made?"
+          },
+          {
+            "correctAnswer": "90%",
+            "question": "What is the minimum subscription percentage of the issued amount according to SEBI guidelines?"
+          },
+          {
+            "correctAnswer": "Securities Premium Account",
+            "question": "To which account is the excess amount credited when shares are issued at a premium?"
+          },
+          {
+            "correctAnswer": "Capital Reserve",
+            "question": "To which account is the profit on reissue of forfeited shares transferred?"
+          },
+          {
+            "correctAnswer": "Sweat Equity Shares",
+            "question": "What is the specific type of shares that can be issued at a discount according to the Companies Act, 2013?"
+          },
+          {
+            "correctAnswer": "Forfeiture",
+            "question": "What is the cancellation of shares for non-payment of call money called?"
+          },
+          {
+            "correctAnswer": "Equity Shares",
+            "question": "Shares that do not enjoy preferential rights regarding dividend or capital repayment are called?"
+          },
+          {
+            "correctAnswer": "Board of Directors",
+            "question": "Who is elected by shareholders to manage the affairs of the company?"
+          },
+          {
+            "correctAnswer": "Prospectus",
+            "question": "What document is an invitation to the public to subscribe to a company's shares?"
+          }
+        ],
+        "shortAnswer1": [
+          {
+            "answer": "A company is an artificial person, meaning it has a legal existence separate from its members, capable of owning property, entering into contracts, and suing or being sued in its own name.",
+            "question": "Define a 'Company' as a form of organization."
+          },
+          {
+            "answer": "Perpetual succession means that the company continues to exist indefinitely, irrespective of changes in its membership (e.g., death, insolvency of shareholders). Its existence is terminated only by law.",
+            "question": "What is 'Perpetual Succession' in the context of a company?"
+          },
+          {
+            "answer": "Issued capital is that part of the authorised capital which is actually offered to the public for subscription, including shares allotted to vendors and signatories to the memorandum.",
+            "question": "Briefly explain 'Issued Capital'."
+          },
+          {
+            "answer": "Minimum subscription is the minimum amount, typically 90% of the issued amount as per SEBI, that must be raised to meet initial business needs. If not received, the company cannot proceed with allotment and must refund application money.",
+            "question": "What is 'Minimum Subscription'?"
+          },
+          {
+            "answer": "Calls in Arrears refer to the amount that a shareholder has failed to pay on allotment or any subsequent calls, even after the due date.",
+            "question": "What do you mean by 'Calls in Arrears'?"
+          },
+          {
+            "answer": "Calls in Advance refer to the amount received from shareholders who pay a part or the whole of the amount of calls not yet made or due.",
+            "question": "What is meant by 'Calls in Advance'?"
+          },
+          {
+            "answer": "Two purposes for which Securities Premium Account can be used are: to issue fully paid bonus shares and to write-off preliminary expenses of the company.",
+            "question": "State any two purposes for which a company can use the amount of Securities Premium."
+          }
+        ],
+        "shortAnswer2": [
+          {
+            "answer": "A Public Company is not a private company and is not a subsidiary of a private company. It can invite the public to subscribe to its shares and debentures. A Private Company, by its articles, restricts the right to transfer its shares, limits the number of its members to 200 (excluding employees), and generally prohibits public invitation for subscription. The distinction primarily lies in the transferability of shares and public solicitation of funds.",
+            "question": "Differentiate between a Public Company and a Private Company, highlighting their key distinguishing features."
+          },
+          {
+            "answer": "Limited liability means that the financial responsibility of the company's members (shareholders) is limited to the extent of the unpaid amount on the shares they hold. If a shareholder has paid the full nominal value of shares, they are not liable for any further debts of the company, even if the company faces financial difficulties. This protects the personal assets of the shareholders, making investment less risky.",
+            "question": "Explain the concept of 'Limited Liability' for members of a company and its significance."
+          },
+          {
+            "answer": "When a shareholder fails to pay the amount due on allotment or any call, such an amount is termed 'Calls in Arrears'. If the company maintains a separate Calls in Arrears Account, it is debited. The company's Articles of Association, or Table F, may allow charging interest (e.g., up to 10% p.a.) on these unpaid amounts from the due date until actual payment. This helps the company recover dues and ensures financial discipline.",
+            "question": "Describe the accounting treatment for 'Calls in Arrears' and the provisions related to it."
+          },
+          {
+            "answer": "In a pro-rata allotment, shares are allotted proportionately to all applicants, especially in cases of oversubscription. The excess application money received from applicants is not refunded but is adjusted first towards the amount due on allotment. If any excess still remains after adjusting for allotment, it can then be adjusted towards future calls (Calls in Advance) or refunded, depending on the company's policy and Articles of Association. This reduces the immediate cash outflow for the company.",
+            "question": "How is excess application money dealt with in the case of a pro-rata allotment when there is oversubscription?"
+          },
+          {
+            "answer": "Share Forfeiture is the cancellation of shares by a company due to the non-payment of allotment or call money by a shareholder. It involves rescinding the contract of allotment and treating the amount already received on those shares as forfeited to the company. This action is taken in accordance with the provisions in the company's Articles of Association. The forfeited shares can then be reissued to new shareholders.",
+            "question": "Explain the term 'Forfeiture of Shares' and its purpose for a company."
+          },
+          {
+            "answer": "Authorised Capital is the maximum amount of share capital that a company is legally permitted to issue, as stated in its Memorandum of Association. Issued Capital is that part of the authorised capital which the company actually offers to the public for subscription. Subscribed Capital is the portion of the issued capital that has been actually subscribed or applied for by the public. These categories define the company's capital capacity and how much of it has been taken up by investors.",
+            "question": "Explain the key differences among Authorised Capital, Issued Capital, and Subscribed Capital."
+          },
+          {
+            "answer": "A Preference Share carries preferential rights regarding dividend payment (fixed amount or rate before equity shareholders) and repayment of capital (before equity shareholders) upon the company's winding up. An Equity Share is any share that is not a preference share; it does not have preferential rights to dividend or capital repayment. Equity shareholders are residual claimants, bearing higher risk but also having the potential for higher returns and voting rights.",
+            "question": "Differentiate between Preference Shares and Equity Shares based on their rights and characteristics."
+          }
+        ],
+        "trueFalse": [
+          {
+            "correctAnswer": true,
+            "explanation": "A company is indeed an artificial person, created by law, with a separate legal identity.",
+            "question": "A company is an artificial person."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Shareholders' liability is limited to the unpaid amount of shares held; they are not personally liable for the company's acts beyond this.",
+            "question": "Shareholders of a company are liable for the acts of the company."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Only the Board of Directors, elected by shareholders, manages the company; it's not feasible or desirable for all members to participate directly.",
+            "question": "Every member of a company is entitled to take part in its management."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Shares of a public limited company are generally freely transferable, enhancing liquidity for investors.",
+            "question": "Company's shares are generally transferable."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Share application account is a personal account because it deals with transactions related to applicants/prospective shareholders, who are persons.",
+            "question": "Share application account is a personal account."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Paid-up capital cannot exceed called-up capital; it is the portion of called-up capital actually received.",
+            "question": "Paid up capital can exceed called up capital."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Capital reserves are indeed created from capital profits, such as profit on reissue of forfeited shares.",
+            "question": "Capital reserves are created from capital profits."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "There is no maximum rate specified for securities premium; it depends on market demand and company reputation.",
+            "question": "At the time of issue of shares, the maximum rate of securities premium is 10%."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Reserve capital is a specific portion of uncalled capital that can only be called upon the winding up of the company.",
+            "question": "The part of capital which is called up only on winding up is called reserve capital."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Shares of a company cannot ordinarily be issued at a discount, except for specific cases like reissue of forfeited shares or sweat equity shares.",
+            "question": "Shares of a company can be issued at a discount as a general rule."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The minimum application money should be at least 5% of the face value of the share as per the Companies Act.",
+            "question": "The application money for shares must be at least 5% of the face value."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Calls in Advance is a liability for the company because it represents money received for services (future calls) not yet provided.",
+            "question": "Calls in Advance represents a liability for the company."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Interest on Calls in Advance as per Table F is at a rate not exceeding 12% p.a., not 10%.",
+            "question": "Interest on Calls in Advance is paid at a rate not exceeding 10% p.a. as per Table F."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "If minimum subscription is not received within 120 days from prospectus issue, the company must refund application money within 130 days.",
+            "question": "If minimum subscription is not received, the company must refund all application money."
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "back": "An organisation consisting of individuals called 'shareholders' by virtue of their holding the shares of a company, who can act as legal person as regards its business through board of directors.",
+          "front": "Company"
+        },
+        {
+          "back": "Units into which the total share capital of a company is divided, forming the basis of ownership interest.",
+          "front": "Shares"
+        },
+        {
+          "back": "The total capital structure of a company, contributed by shareholders.",
+          "front": "Share Capital"
+        },
+        {
+          "back": "The maximum amount of share capital which a company is authorised to issue by its Memorandum of Association. Also called Nominal or Registered capital.",
+          "front": "Authorised Capital"
+        },
+        {
+          "back": "That part of the authorised capital which is actually offered to the public for subscription, including shares allotted to vendors and signatories to the company’s memorandum.",
+          "front": "Issued Capital"
+        },
+        {
+          "back": "The portion of authorised capital not yet offered for public subscription.",
+          "front": "Unissued Capital"
+        },
+        {
+          "back": "That part of the issued capital which has been actually subscribed by the public.",
+          "front": "Subscribed Capital"
+        },
+        {
+          "back": "The portion of subscribed capital where shareholders have paid the full face value of shares.",
+          "front": "Subscribed and Fully Paid-up Capital"
+        },
+        {
+          "back": "The portion of subscribed capital where shareholders have not yet paid the full face value, or there are calls in arrears.",
+          "front": "Subscribed but not Fully Paid-up Capital"
+        },
+        {
+          "back": "That portion of the called up capital which has been actually received from the shareholders.",
+          "front": "Paid-up Capital"
+        },
+        {
+          "back": "A portion of its uncalled capital that a company may reserve to be called only in the event of winding up of the company.",
+          "front": "Reserve Capital"
+        },
+        {
+          "back": "A share which carries a preferential right to dividend and to repayment of capital on winding up of the company.",
+          "front": "Preference Shares"
+        },
+        {
+          "back": "A preference share that does not offer the right to redeem or get back the capital invested during the company's lifetime.",
+          "front": "Non-redeemable Preference Shares"
+        },
+        {
+          "back": "A share which is not a preference share; shareholders do not enjoy any preferential right in the payment of dividend or repayment of capital.",
+          "front": "Equity Shares"
+        },
+        {
+          "back": "The process of a company collecting its capital by issuing shares to the public or a select group.",
+          "front": "Issue of Shares"
+        },
+        {
+          "back": "The issue of shares where the payment for the shares is received in the form of assets or business, rather than cash.",
+          "front": "Issue of Shares for Consideration Other than Cash"
+        },
+        {
+          "back": "The amount received in excess of the nominal or par value of shares when they are issued.",
+          "front": "Premium on Shares"
+        },
+        {
+          "back": "The first instalment collected along with the application for shares.",
+          "front": "Application Money"
+        },
+        {
+          "back": "The minimum amount of capital that, in the opinion of directors, must be raised to meet the needs of business operations, generally not less than 90% of the issued amount.",
+          "front": "Minimum Subscription"
+        },
+        {
+          "back": "Demands made by the company to shareholders for payment of unpaid portion of shares after application and allotment stages.",
+          "front": "Calls on Shares"
+        },
+        {
+          "back": "The amount due on allotment or on any of the calls that a shareholder fails to pay on the due date.",
+          "front": "Calls in Arrears"
+        },
+        {
+          "back": "The amount received from shareholders for calls not yet made or due.",
+          "front": "Calls in Advance"
+        },
+        {
+          "back": "A situation where applications for more shares are received than the number offered to the public for subscription.",
+          "front": "Over Subscription"
+        },
+        {
+          "back": "A situation where the number of shares applied for is less than the number for which applications have been invited for subscription.",
+          "front": "Under Subscription"
+        },
+        {
+          "back": "The cancellation of allotment of shares and treating the amount already received thereon as forfeited to the company, due to non-payment of calls.",
+          "front": "Forfeiture of Shares"
+        },
+        {
+          "back": "The process of selling forfeited shares again to new or existing shareholders, which can be at par, premium, or discount.",
+          "front": "Reissue of Forfeited Shares"
+        },
+        {
+          "back": "When a company purchases its own shares.",
+          "front": "Buy-back of Shares"
+        }
+      ],
+      "id": "chapter1",
+      "longAnswerQuestions": [
+        {
+          "answer150Words": "A company is an artificial person, distinct from its members, created by law, with perpetual succession and a common seal. Its capital is contributed by shareholders who are the real owners but delegate management to a Board of Directors. It has a separate legal entity, meaning it can own property, enter contracts, and sue or be sued in its own name. A crucial feature is limited liability, where shareholders' liability is limited to the unpaid amount of their shares, protecting their personal assets. Shares are generally transferable in public companies, enhancing liquidity. These characteristics provide a robust legal framework, facilitate capital raising from a large number of investors, and ensure business continuity independent of changes in ownership, making it suitable for large-scale operations and sustained growth like KnowledgeCompass.",
+          "answer200Words": "A company is a unique form of business organization, legally defined as an 'artificial person' separate from its human owners (shareholders). This 'separate legal entity' means it can enter into contracts, own assets, incur liabilities, and sue or be sued in its own name, much like a natural person. A cornerstone feature is 'limited liability,' where shareholders' financial exposure is restricted to the face value of shares held or the amount guaranteed, safeguarding their personal assets from company debts. The company enjoys 'perpetual succession,' implying its continued existence despite the death, insolvency, or exit of members, ensuring business continuity. It operates through a 'common seal' acting as its official signature. While shareholders are owners, they elect a 'Board of Directors' for management. Shares of public companies are 'freely transferable,' offering liquidity to investors. This structure facilitates large-scale capital accumulation by attracting numerous investors due to limited risk, making it an ideal choice for ventures like KnowledgeCompass aiming for significant expansion and long-term sustainability.",
+          "answer50To75Words": "A company is an artificial person, a legal entity separate from its owners (shareholders). Key features include limited liability, perpetual succession, and a common seal. Shareholders own the company but elect a Board of Directors to manage it. This structure allows for large-scale capital raising and ensures continuity, protecting personal assets and facilitating growth like KnowledgeCompass's expansion.",
+          "text": "What is meant by the word 'Company'? Describe its characteristics.",
+          "title": "Understanding the Company Form"
+        },
+        {
+          "answer150Words": "Share capital is broadly classified into several categories. 'Authorised Capital' is the maximum amount of capital a company is legally permitted to issue, as stated in its Memorandum of Association. 'Issued Capital' is the portion of authorised capital that the company actually offers to the public or others for subscription. 'Subscribed Capital' refers to the part of the issued capital that has been applied for and agreed to be purchased by the public. 'Called-up Capital' is the amount that the company has formally requested from its shareholders out of the subscribed capital. Finally, 'Paid-up Capital' is the portion of the called-up capital that has been actually received from the shareholders. 'Uncalled Capital' is the part of subscribed capital not yet called, and 'Reserve Capital' is a specific portion of uncalled capital callable only during winding up. These classifications provide clarity on the company's capital structure and its financial status at different stages.",
+          "answer200Words": "The share capital of a company is categorized to reflect its legal and financial status. Firstly, 'Authorised Capital' (or Nominal/Registered Capital) is the maximum share capital a company is permitted to issue, as defined in its Memorandum. It sets an upper limit for fundraising. 'Issued Capital' is the portion of authorised capital that the company offers for public subscription. Any part not offered is 'Unissued Capital'. 'Subscribed Capital' is the segment of issued capital actually taken up by investors. If the subscribed shares are fully paid, it's 'Subscribed and Fully Paid-up Capital'; otherwise, it's 'Subscribed but not Fully Paid-up'. 'Called-up Capital' is the amount the company demands from shareholders on subscribed shares, while 'Paid-up Capital' is the actual cash received from shareholders for the called-up amount; any shortfall is 'Calls in Arrears'. Lastly, 'Uncalled Capital' is the balance of subscribed capital not yet called. A company may designate a part of its uncalled capital as 'Reserve Capital', which can only be called upon winding up. These categories are crucial for financial reporting and understanding a company's financial health and fundraising capacity.",
+          "answer50To75Words": "Share capital is broadly categorized: Authorised (max allowed), Issued (offered to public), Subscribed (applied for by public), Called-up (demanded by company), and Paid-up (actually received). Uncalled capital is not yet demanded, and Reserve Capital is a special portion called only during winding up. These classifications define a company's financial structure.",
+          "text": "Explain in brief the main categories in which the share capital of a company is divided.",
+          "title": "Categories of Share Capital"
+        },
+        {
+          "answer150Words": "A 'share' is a fractional unit into which the total share capital of a company is divided, representing a part of ownership interest. According to the Companies Act, 2013, a company can primarily issue two types of shares: Preference Shares and Equity Shares. Preference Shares carry preferential rights over equity shares regarding dividend payment (fixed amount or rate) and repayment of capital upon the company's winding up. They can be cumulative, non-cumulative, participating, non-participating, redeemable, or irredeemable. Equity Shares are all shares that are not preference shares. They do not have preferential rights but are entitled to the residual profits after preference dividends. Equity shareholders bear higher risk but also have the potential for higher returns and generally possess voting rights, giving them control over the company's management. Both types serve different investor needs and capital-raising objectives.",
+          "answer200Words": "A 'share' represents the smallest unit into which the total share capital of a company is divided. It signifies a fractional ownership interest in the company, entitling the holder (shareholder) to certain rights and obligations. As per the Companies Act, 2013, two primary types of shares can be issued:\n\n1.  **Preference Shares:** These shares carry preferential rights. Firstly, they have a preferential right to receive dividends at a fixed amount or rate before any dividend is paid to equity shareholders. Secondly, in the event of the company's winding up, they have a preferential right to the repayment of capital before equity shareholders. Preference shares can be further classified as cumulative (unpaid dividends accumulate), non-cumulative, participating (share in surplus profits), non-participating, redeemable (repayable by the company), or irredeemable (not repayable during the company's lifetime).\n\n2.  **Equity Shares (or Ordinary Shares):** These are shares that do not possess any preferential rights regarding dividend payment or capital repayment. Equity shareholders are entitled to the distributable profits after preference shareholders have been paid. Dividends on equity shares are not fixed and vary with available profits. Equity shares typically carry voting rights, giving their holders control over the company's management, although shares with differential voting rights can also be issued.",
+          "answer50To75Words": "A 'share' is a unit of a company's capital, representing ownership. The Companies Act, 2013, allows two types: Preference Shares, which have preferential rights for dividend and capital repayment, and Equity Shares, which have no such preference but offer potential for higher returns and usually come with voting rights, making them true owners.",
+          "text": "What do you mean by the term 'share'? Discuss the type of shares, which can be issued under the Companies Act, 2013 as amended to date.",
+          "title": "Nature and Classes of Shares"
+        },
+        {
+          "answer150Words": "In case of oversubscription, where applications exceed shares offered, companies have three main strategies for allotment. Firstly, the directors can 'fully accept some applications and totally reject others,' refunding application money for rejected applications. Secondly, they can make a 'pro-rata allotment' to all applicants, proportionally distributing shares. Here, excess application money is adjusted towards the allotment money due, and any remaining balance might be adjusted against future calls or refunded. Thirdly, a 'combination of the above two' is commonly adopted: rejecting some applications outright while making a pro-rata allotment to the remaining applicants. From an accounting perspective, these situations involve careful transfer of application money to share capital, adjustment to allotment accounts, and refunds to ensure accurate reflection of capital and liabilities.",
+          "answer200Words": "The process for the allotment of shares in case of oversubscription requires careful management, as more applications are received than shares offered. Companies typically adopt one of three methods:\n\n1.  **Full Acceptance and Outright Rejection:** The directors may choose to accept some applications entirely and completely reject the remaining applications. The application money received for the rejected applications is fully refunded to the applicants.\n\n2.  **Pro-Rata Allotment:** In this method, shares are allotted proportionately to all applicants. For instance, if applicants applied for 2 shares but only 1 could be allotted, it's a 1:2 ratio. The excess application money received from these applicants is usually adjusted first towards the amount due on allotment. If the excess application money is more than the allotment due, the remaining surplus can either be adjusted towards subsequent calls (treated as 'Calls in Advance') or refunded.\n\n3.  **Combination Method:** This is the most common approach. Directors may reject some applications outright (and refund their money) and make a pro-rata allotment to the remaining applicants. The excess application money from the pro-rata allottees is then adjusted towards allotment and potentially future calls. This method balances equity among applicants with practical capital requirements.\n\nFrom an accounting point of view, these situations primarily involve adjusting the Share Application Account, transferring appropriate amounts to Share Capital, Share Allotment, Calls in Advance, and Bank (for refunds). The objective is to accurately reflect the subscribed capital and manage cash flows during the issuance process.",
+          "answer50To75Words": "When oversubscription occurs, companies typically choose from three allotment methods: outright rejection of some applications, pro-rata allotment to all applicants (adjusting excess application money towards allotment/calls), or a combination of both. Accounting involves transferring application money to share capital, adjusting for excess, and processing refunds, ensuring compliance and capital structure accuracy.",
+          "text": "Discuss the process for the allotment of shares of a company in case of over subscription.",
+          "title": "Allotment in Oversubscription"
+        },
+        {
+          "answer150Words": "A 'Preference Share' is a type of share that carries preferential rights over equity shares. These rights typically include a priority in receiving a fixed amount or rate of dividend before any dividend is paid to equity shareholders, and a priority in the repayment of capital during the winding up of the company. Different types of preference shares exist:\n\n*   **Cumulative Preference Shares:** Unpaid dividends accumulate and must be paid before any dividend to equity shareholders.\n*   **Non-Cumulative Preference Shares:** Unpaid dividends do not accumulate; the right to dividend for a year is lost if not paid in that year.\n*   **Participating Preference Shares:** Entitle holders to a share in surplus profits after paying fixed preference dividend and equity dividend.\n*   **Non-Participating Preference Shares:** Entitle holders only to the fixed preference dividend.\n*   **Redeemable Preference Shares:** Can be bought back by the company after a certain period or event.\n*   **Irredeemable Preference Shares:** Cannot be redeemed during the company's lifetime, only on winding up (though largely restricted by law now).\n\nThese different types allow companies to tailor their capital structure to specific financing needs and investor preferences.",
+          "answer200Words": "A 'Preference Share' is a class of share capital that holds specific advantages over ordinary (equity) shares. Its two primary preferential rights are:\n1.  **Preferential right to Dividend:** Preference shareholders receive a dividend at a fixed rate or amount before any dividend is distributed to equity shareholders.\n2.  **Preferential right to Repayment of Capital:** In the event of the company's winding up, preference shareholders are repaid their capital before equity shareholders.\n\nBased on these rights, preference shares can be categorized into various types:\n*   **Cumulative Preference Shares:** If dividends are not paid in a year due to insufficient profits, they accumulate and are paid in subsequent years before any equity dividend.\n*   **Non-Cumulative Preference Shares:** Unpaid dividends do not accumulate; the right to receive dividends for a particular year is lost if not declared in that year.\n*   **Participating Preference Shares:** These shares entitle the holder to a fixed preference dividend and also a share in the surplus profits of the company after equity shareholders have received a certain rate of dividend.\n*   **Non-Participating Preference Shares:** Holders are only entitled to the fixed preference dividend and no share in surplus profits.\n*   **Redeemable Preference Shares:** The company has the option to buy back or redeem these shares after a specified period or at a specific event.\n*   **Irredeemable Preference Shares:** These shares cannot be redeemed during the company's lifetime (though the Companies Act, 2013, generally prohibits the issue of irredeemable preference shares, allowing only those redeemable within 20 years).\n\nThis variety enables companies to attract different types of investors with varying risk-return profiles.",
+          "answer50To75Words": "A 'Preference Share' provides preferential rights over equity shares regarding fixed dividends and capital repayment on winding up. Types include Cumulative (dividends accumulate) vs. Non-Cumulative, Participating (share surplus profits) vs. Non-Participating, and Redeemable (can be bought back) vs. Irredeemable. These variations allow companies to meet diverse capital needs.",
+          "text": "What is a 'Preference Share'? Describe the different types of preference shares.",
+          "title": "Types of Preference Shares"
+        },
+        {
+          "answer150Words": "Provisions for 'Calls in Arrears' and 'Calls in Advance' are crucial for managing share capital. 'Calls in Arrears' occur when shareholders fail to pay due amounts on allotment or calls. The Companies Act and Table F of its Schedule I allow companies to charge interest, typically up to 10% per annum, on these unpaid amounts from the due date until payment. This incentivizes timely payments and compensates the company for delayed funds. Conversely, 'Calls in Advance' occur when shareholders voluntarily pay amounts not yet called up. As per Table F, companies are obligated to pay interest on these advance payments, typically up to 12% per annum, from the date of receipt until the call becomes due. This compensates shareholders for providing funds early and is treated as a current liability until adjusted against calls.",
+          "answer200Words": "The Companies Act, 2013, provides specific regulations concerning 'Calls in Arrears' and 'Calls in Advance', which are crucial for the efficient management of a company's share capital.\n\n**Calls in Arrears:** This refers to the unpaid amounts on shares that have been duly called by the company but have not been received from the shareholders by the due date. The Articles of Association of a company usually contain provisions for dealing with such defaults, including the power to charge interest. If the Articles are silent, Table F of Schedule I to the Companies Act, 2013, stipulates that the company can charge interest on calls in arrears at a rate not exceeding 10% per annum. This interest is calculated for the period between the day fixed for payment and the date of actual payment. Accounting for calls in arrears involves debiting a 'Calls in Arrears Account' to reflect the unpaid balance.\n\n**Calls in Advance:** This arises when shareholders voluntarily pay a part or the whole of the amount on shares that has not yet been called up by the company. The amount so received is treated as a liability for the company. As per Table F, if the Articles permit, the company is obligated to pay interest on calls in advance at a rate not exceeding 12% per annum. This interest is typically paid from the date of receipt of the advance until the date when the respective call money becomes due. The amount of calls in advance is credited to a 'Calls in Advance Account' and shown as 'Other Current Liabilities' in the balance sheet, not as part of paid-up capital. These provisions ensure fairness to both the company and its shareholders regarding timely payments and early contributions.",
+          "answer50To75Words": "'Calls in Arrears' are unpaid amounts on shares after a call is made; companies can charge interest (up to 10% p.a. as per Table F). 'Calls in Advance' are amounts paid by shareholders before a call is made; companies may pay interest (up to 12% p.a. as per Table F). These provisions ensure financial discipline and compensate parties for early/late payments, respectively.",
+          "text": "Describe the provisions of law relating to 'Calls in Arrears' and 'Calls in Advance'.",
+          "title": "Legal Provisions for Calls"
+        },
+        {
+          "answer150Words": "'Over subscription' occurs when applications for shares exceed the number offered for public subscription. This often indicates strong market confidence in the company. To handle this, directors can: 1) Reject some applications outright and refund money; 2) Make a 'pro-rata' allotment to all applicants, adjusting excess application money against allotment or future calls; or 3) Use a combination of rejection and pro-rata. Accounting involves transferring allotted application money to share capital, adjusting excesses to allotment/calls in advance, and refunding rejected amounts. 'Under subscription' happens when applications received are less than shares offered. If the subscription falls below the minimum subscription (90% of issued amount), the issue must be cancelled, and all application money refunded. Otherwise, shares are allotted for the subscribed quantity, and entries are made only for that number. Both situations require specific accounting adjustments to reflect the actual capital subscribed.",
+          "answer200Words": "'Over subscription' refers to a situation where the number of applications received from the public for a company's shares is more than the number of shares actually offered for subscription. This is generally a positive sign, reflecting strong investor demand. Accounting treatment for oversubscription involves several approaches:\n1.  **Outright Rejection:** Applications for excess shares are completely rejected, and the entire application money received for these shares is refunded.\n2.  **Pro-Rata Allotment:** Shares are allotted proportionately to all applicants. The excess application money received is adjusted towards the amount due on allotment, and if a balance remains, it can be adjusted against future calls (Calls in Advance) or refunded.\n3.  **Combination:** A mix of outright rejection and pro-rata allotment is often used.\n\nJournal entries will reflect the transfer of application money to share capital for allotted shares, adjustment to share allotment and calls in advance, and refunding amounts for rejected applications.\n\n'Under subscription' occurs when the number of shares applied for is less than the number offered for subscription. In this scenario, the company can only allot shares up to the number subscribed. A critical condition here is the 'minimum subscription' requirement, which states that at least 90% of the issued amount must be subscribed for the allotment to be valid. If the minimum subscription is not achieved within a specified period (120 days from prospectus issue), the company cannot proceed with allotment and must refund the entire application money received, often with interest if delayed. If the minimum subscription is met, accounting entries are simply passed for the actual number of shares subscribed and allotted.",
+          "answer50To75Words": "'Over subscription' is when applications exceed shares offered; handled by rejecting some, pro-rata allotment, or a combination. Excess application money is adjusted or refunded. 'Under subscription' is when applications are less than offered. If below minimum subscription (90%), the issue fails, and money is refunded. Otherwise, only subscribed shares are allotted. Accounting reflects actual subscriptions and adjustments.",
+          "text": "Explain the terms 'Over subscription' and 'Under subscription'. How are they dealt with in accounting records?",
+          "title": "Subscription Scenarios and Accounting"
+        },
+        {
+          "answer150Words": "The amount received as 'Securities Premium' when shares are issued above their nominal value is not a profit available for distribution as dividends. Its usage is strictly regulated by Section 52 of the Companies Act, 2013. A company can utilize the amount in the Securities Premium Account for specific purposes:\n1.  **Issuing fully paid bonus shares:** Converting accumulated profits into share capital without requiring new cash from shareholders.\n2.  **Writing off preliminary expenses:** Covering expenses incurred during the company's formation.\n3.  **Writing off expenses, commission, or discount on issue of securities:** Absorbing costs related to issuing shares or debentures.\n4.  **Paying premium on the redemption of preference shares or debentures:** Covering the additional amount paid when buying back or redeeming these securities.\n5.  **Purchasing its own shares (buy-back):** Funding the repurchase of its own shares from the market. These uses are intended to strengthen the company's financial structure rather than fund daily operations or distribute profits.",
+          "answer200Words": "The 'Securities Premium Account' holds the premium amount collected when shares are issued at a price higher than their nominal (face) value. This amount is not considered a revenue profit and cannot be used for distributing dividends. Its utilization is governed by strict provisions under Section 52 of the Companies Act, 2013, to ensure capital protection and financial stability. The specific purposes for which a company can use the amount standing to the credit of the Securities Premium Account are:\n\n1.  **For issuing fully paid bonus shares:** Companies can use this fund to convert their accumulated profits into bonus shares, distributed to existing shareholders without any cash payment from them.\n2.  **For writing off preliminary expenses of the company:** These are expenses incurred during the formation and registration of the company.\n3.  **For writing off the expenses of, or commission paid, or discount allowed on any issue of shares or debentures of the company:** This covers the costs associated with raising capital through the issuance of various securities.\n4.  **For providing for the premium payable on the redemption of any redeemable preference shares or debentures of the company:** When redeemable preference shares or debentures are redeemed at a premium, the premium amount can be paid out of the Securities Premium Account.\n5.  **For the purchase of its own shares (buy-back):** Companies can use the premium to finance the buy-back of their own shares, which can improve shareholder value and capital structure.\n\nThese restrictions ensure that the premium acts as a capital reserve, reinforcing the company's financial position rather than being used for operational expenses or profit distribution.",
+          "answer50To75Words": "Securities Premium, collected when shares are issued above par, is a capital receipt, not revenue profit. Its use is restricted by law for specific purposes: issuing bonus shares, writing off preliminary expenses, writing off share issue expenses/commission, paying premium on redemption of preference shares/debentures, or buy-back of shares. It strengthens the company's financial reserves.",
+          "text": "Describe the purposes for which a company can use the amount of Securities Premium.",
+          "title": "Utilization of Securities Premium"
+        },
+        {
+          "answer150Words": "Ordinarily, a company cannot issue shares at a discount (i.e., at a price less than their nominal value). However, the Companies Act, 2013, permits issue of shares at a discount in specific, limited circumstances:\n\n1.  **Reissue of Forfeited Shares:** When shares are forfeited due to non-payment of calls, they can be reissued at a discount. However, the amount of discount allowed on reissue cannot exceed the amount that was originally received on the forfeited shares. This ensures that the company does not incur a capital loss on the reissued shares.\n2.  **Sweat Equity Shares:** These are shares issued by a company to its directors or employees at a discount or for consideration other than cash, for providing know-how, making available intellectual property rights, or for value additions. This is an exception to the general rule against issuing shares at a discount, recognizing employees' valuable non-cash contributions. Strict conditions regarding resolution, market price, and class of employees apply to sweat equity issues.",
+          "answer200Words": "As a general rule, a company cannot ordinarily issue shares at a discount (i.e., at a price less than their nominal or par value). The Companies Act, 2013, aims to protect creditors by ensuring that shares are issued at least at their face value. However, there are specific, legally permissible conditions under which shares can be issued at a discount:\n\n1.  **Reissue of Forfeited Shares:** When a company forfeits shares from shareholders who failed to pay calls, these forfeited shares can be reissued to new shareholders. While reissuing, the company is allowed to offer these shares at a discount. Crucially, the amount of discount allowed on the reissue of forfeited shares cannot exceed the amount that was originally received by the company on those specific forfeited shares. This ensures that the company recovers at least the full nominal value of the shares over their lifetime (original receipt + reissue price).\n\n2.  **Issue of Sweat Equity Shares:** The Companies Act, 2013 (Section 54), allows a company to issue 'sweat equity shares' to its directors or employees at a discount or for consideration other than cash. This is permitted for providing know-how or making available rights in the nature of intellectual property rights or value additions. Stringent conditions apply for issuing sweat equity, including authorization by a special resolution, specifying the number of shares, current market price, consideration, and the class of employees. This provision acknowledges non-financial contributions from key personnel.\n\nApart from these two specific situations, issuing shares at a discount is generally prohibited.",
+          "answer50To75Words": "Generally, companies cannot issue shares at a discount. Exceptions include: 1) Reissue of forfeited shares, where the discount cannot exceed the amount originally received on those shares. 2) Issue of 'Sweat Equity Shares' to directors or employees for their valuable non-cash contributions, subject to specific conditions. These exceptions are tightly regulated to protect investor interests.",
+          "text": "State clearly the conditions under which a company can issue shares at a discount.",
+          "title": "Conditions for Discount Issue"
+        },
+        {
+          "answer150Words": "'Forfeiture of Shares' is the cancellation of shares by a company, authorized by its Articles of Association, when a shareholder fails to pay allotment or call money by the due date. It entails rescinding the contract of allotment and treating the amount already received on such shares as forfeited to the company. The accounting treatment involves reversing the original entries relating to the forfeited shares. The 'Share Capital Account' is debited with the called-up amount on forfeited shares. The respective unpaid call accounts (or 'Calls in Arrears Account') are credited with the unpaid amounts. The amount already received from the defaulter is credited to a 'Share Forfeiture Account'. If shares were issued at a premium and the premium was received, the Securities Premium Account is not affected. If premium was not received, it is debited during forfeiture. The balance in the Share Forfeiture Account is then added to Share Capital until reissue.",
+          "answer200Words": "The term 'Forfeiture of Shares' refers to the compulsory termination of membership and cancellation of shares by a company due to a shareholder's failure to pay calls or allotment money when due. This action is typically authorized by the company's Articles of Association, which usually follow the provisions of Table F of the Companies Act, 2013. Upon forfeiture, the amount already paid by the defaulting shareholder on those shares is retained by the company.\n\n**Accounting Treatment on Forfeiture:**\nWhen shares are forfeited, the accounting entries essentially reverse the original entries for the shares, except for any premium received. The objective is to remove the defaulted shares from the company's books and record the amount received on them as a capital receipt:\n\n1.  **Debit Share Capital Account:** The Share Capital Account is debited with the 'called-up amount' per share on the forfeited shares, as this portion of capital is being cancelled.\n2.  **Credit Unpaid Calls Accounts/Calls in Arrears Account:** The specific Share Allotment Account and/or Share Call Accounts (or a combined 'Calls in Arrears Account' if maintained) are credited with the respective unpaid amounts.\n3.  **Credit Share Forfeiture Account:** The amount already paid by the defaulting shareholder on the forfeited shares (excluding any premium received, which remains untouched) is credited to a 'Share Forfeiture Account'. This account represents the capital gain from the forfeiture.\n\n**Special Case - Shares Issued at Premium:**\n*   If shares were issued at a premium and the premium amount has already been received, the Securities Premium Account is not debited at the time of forfeiture. The premium, once received, is considered earned.\n*   If the premium amount was due but not received (e.g., unpaid with allotment money), then the Securities Premium Reserve Account is also debited with the unreceived premium amount during forfeiture.\n\nThe balance in the Share Forfeiture Account is shown as an addition to the 'Share Capital' in the balance sheet until these shares are reissued.",
+          "answer50To75Words": "'Forfeiture of Shares' means canceling shares for non-payment of calls, allowing the company to retain amounts already paid. Accounting involves debiting Share Capital (with called-up amount), crediting unpaid calls (or Calls in Arrears), and crediting the 'Share Forfeiture Account' with the amount received. If premium was unreceived, Securities Premium is also debited. This process reclaims defaulting shares for potential reissue.",
+          "text": "Explain the term 'Forfeiture of Shares' and give the accounting treatment on forfeiture.",
+          "title": "Forfeiture and Accounting"
+        }
+      ],
+      "mindmap": [
+        {
+          "definition": "According to Chief Justice Marshall, \"a company is a person, artificial, invisible, intangible and existing only in the eyes of law. Being a mere creation of law, it possesses only those properties which the charter of its creation confers upon it, either expressly or as incidental to its very existence\".",
+          "explanation": "A company is an association of persons contributing money or money's worth to a common inventory for a common purpose, recognized as a separate legal entity.",
+          "keyPoints": [
+            "Artificial person",
+            "Corporate legal entity distinct from its members",
+            "Common seal for signature"
+          ],
+          "title": "Company Form of Organisation",
+          "points": [
+            {
+              "explanation": "A company is formed and registered under specific laws, such as the Companies Act, 2013 in India, except for banking and insurance which have separate laws.",
+              "title": "Body Corporate"
+            },
+            {
+              "explanation": "A company has an identity separate from its members, allowing it to own property, enter contracts, and operate bank accounts in its own name.",
+              "title": "Separate Legal Entity"
+            },
+            {
+              "explanation": "The financial responsibility of members is limited to the unpaid amount of shares they hold or the guarantee they've given, protecting their private assets.",
+              "title": "Limited Liability"
+            },
+            {
+              "explanation": "A company's existence is not affected by changes in its membership; members may come and go, but the company continues until legally terminated.",
+              "title": "Perpetual Succession"
+            },
+            {
+              "explanation": "As an artificial person, a company requires an official seal to act as its signature on legal documents, making them binding.",
+              "title": "Common Seal"
+            },
+            {
+              "explanation": "Shares of a public limited company can be freely bought and sold without the company's or other members' consent, though Articles may prescribe the manner.",
+              "title": "Transferability of Shares"
+            },
+            {
+              "explanation": "Being a legal person, a company can enforce its contractual rights and can be legally challenged in its own name for breach of contract.",
+              "title": "May Sue or be Sued"
+            },
+            {
+              "explanation": "Liability of members is limited to the nominal value of shares held; if fully paid, no further liability.",
+              "title": "Companies Limited by Shares"
+            },
+            {
+              "explanation": "Liability of members is limited to the amount they undertake to contribute in case of company winding up; liability arises only then.",
+              "title": "Companies Limited by Guarantee"
+            },
+            {
+              "explanation": "No limit on members' liability; private property can be used to pay company debts if company assets are insufficient. Rarely found in India.",
+              "title": "Unlimited Companies"
+            },
+            {
+              "explanation": "A company which is not a private company and not a subsidiary of a private company.",
+              "title": "Public Company"
+            },
+            {
+              "explanation": "A company that restricts share transfer rights, has a minimum of 2 members (except OPC), and limits members to 200 (excluding employees).",
+              "title": "Private Company"
+            },
+            {
+              "explanation": "A company with only one person as a member, subject to specific conditions like being a natural Indian citizen and resident, and limits on capital and turnover.",
+              "title": "One Person Company (OPC)"
+            },
+            {
+              "explanation": "The amount contributed by shareholders to the company's capital.",
+              "title": "Share Capital Definition"
+            },
+            {
+              "explanation": "The maximum share capital a company is authorized to issue as per its Memorandum of Association (also Nominal or Registered Capital).",
+              "title": "Authorised Capital"
+            },
+            {
+              "explanation": "That part of the authorized capital which is actually issued to the public for subscription.",
+              "title": "Issued Capital"
+            },
+            {
+              "explanation": "The part of issued capital that has been actually subscribed by the public.",
+              "title": "Subscribed Capital"
+            },
+            {
+              "explanation": "The part of the subscribed capital that the company has formally demanded from shareholders.",
+              "title": "Called-up Capital"
+            },
+            {
+              "explanation": "The portion of the called-up capital that has been actually received from the shareholders.",
+              "title": "Paid-up Capital"
+            },
+            {
+              "explanation": "The portion of the subscribed capital which has not yet been called up by the company.",
+              "title": "Uncalled Capital"
+            },
+            {
+              "explanation": "A portion of uncalled capital reserved to be called only in the event of winding up of the company, available only for creditors.",
+              "title": "Reserve Capital"
+            },
+            {
+              "explanation": "Units into which the total share capital of a company is divided, representing fractional ownership.",
+              "title": "Shares Definition"
+            },
+            {
+              "explanation": "Shares that carry preferential rights regarding dividend payment and repayment of capital on winding up.",
+              "title": "Preference Shares"
+            },
+            {
+              "explanation": "Shares that do not enjoy preferential rights regarding dividend payment or capital repayment; entitled to residual profits and typically carry voting rights.",
+              "title": "Equity Shares"
+            },
+            {
+              "explanation": "The amount on shares can be collected in installments: application, allotment, and calls.",
+              "title": "Instalment Collection"
+            },
+            {
+              "explanation": "The company first issues a prospectus to invite the public to subscribe to its shares.",
+              "title": "Issue of Prospectus"
+            },
+            {
+              "explanation": "Prospective investors apply for shares along with application money, which must meet minimum subscription requirements (90% of issued amount).",
+              "title": "Receipt of Applications"
+            },
+            {
+              "explanation": "If minimum subscription is met and legal formalities are complete, the company proceeds to allot shares, sending allotment letters to successful applicants.",
+              "title": "Allotment of Shares"
+            },
+            {
+              "explanation": "Shares are issued at their nominal (face) value.",
+              "title": "Issue at Par"
+            },
+            {
+              "explanation": "Shares are issued at an amount more than their nominal value; the excess is premium, credited to Securities Premium Account.",
+              "title": "Issue at Premium"
+            },
+            {
+              "explanation": "Shares are issued at an amount less than their nominal value; generally prohibited except for reissued forfeited shares or sweat equity shares.",
+              "title": "Issue at Discount"
+            },
+            {
+              "explanation": "Initial journal entry for money received with application.",
+              "title": "On Application"
+            },
+            {
+              "explanation": "Entries for transferring application money to capital, refunding rejected applications, adjusting excess application money, and receiving allotment money.",
+              "title": "On Allotment"
+            },
+            {
+              "explanation": "Entries for call amount due and receipt of call amount, with specific naming conventions for calls.",
+              "title": "On Calls"
+            },
+            {
+              "explanation": "Unpaid amounts on allotment or calls. If maintained, 'Calls in Arrears Account' is debited. Interest not exceeding 10% p.a. may be charged as per Table F.",
+              "title": "Calls in Arrears"
+            },
+            {
+              "explanation": "Amounts received from shareholders for calls not yet made. Credited to 'Calls in Advance Account'. Interest not exceeding 12% p.a. may be paid as per Table F.",
+              "title": "Calls in Advance"
+            },
+            {
+              "explanation": "When applications for shares exceed the number offered. Directors can reject, make pro-rata allotment, or combine both. Excess application money is adjusted or refunded.",
+              "title": "Over Subscription Accounting"
+            },
+            {
+              "explanation": "When applications are less than shares offered. Allotment is confirmed only for subscribed shares. If minimum subscription (90%) is not met, the issue is cancelled and money refunded.",
+              "title": "Under Subscription Accounting"
+            },
+            {
+              "explanation": "Amount of premium is credited to Securities Premium Account, used for specific purposes: bonus shares, preliminary expenses write-off, share issue expenses write-off, premium on redemption, buy-back of shares.",
+              "title": "Securities Premium Account Use"
+            },
+            {
+              "explanation": "Company purchases assets from vendors and pays by issuing fully paid shares instead of cash. Number of shares depends on asset value and issue price (par/premium/discount).",
+              "title": "Issue for Consideration other than Cash"
+            },
+            {
+              "explanation": "Cancellation of shares for non-payment of allotment/call money. Share Capital is debited with called-up amount; unpaid calls/calls in arrears are credited; amount paid is credited to Share Forfeiture Account. Premium received is not reversed.",
+              "title": "Forfeiture of Shares Accounting"
+            },
+            {
+              "explanation": "Selling forfeited shares, which can be at a discount (not exceeding the forfeited amount). Discount is debited to Share Forfeiture Account. Balance in Share Forfeiture Account (profit on reissue) is transferred to Capital Reserve.",
+              "title": "Reissue of Forfeited Shares Accounting"
+            },
+            {
+              "explanation": "When a company purchases its own shares from existing shareholders, open market, etc. Financed by free reserves, securities premium, or proceeds of other issues. Requires special resolution and adherence to Companies Act conditions.",
+              "title": "Buy-back of Shares"
+            },
+            {
+              "explanation": "Company offers options to employees/directors to subscribe shares at lower than market value. Involves Grant, Vesting, Exercise, Vesting Period, Exercise Period, Exercise Price, Value of Option.",
+              "title": "Employees Stock Option Plan (ESOP)"
+            }
+          ]
+        }
+      ],
+      "story": [
+        {
+          "storyParts": [
+            {
+              "speaker": "Neil",
+              "text": "Kanishq, remember those early days in the garage, brainstorming ideas for KnowledgeCompass? We've come so far, now a successful EdTech corporation! It's incredible how much we've grown, especially our shareholder base."
+            }
+          ],
+          "title": "The Genesis of KnowledgeCompass"
+        },
+        {
+          "storyParts": [
+            {
+              "speaker": "Kanishq",
+              "text": "Absolutely, Neil! Our journey perfectly illustrates the evolution of a business. We started small, but transitioning to a company form was crucial for our expansion. It's like building a solid foundation before reaching for the skies. The company's separate legal entity allowed us to operate independently of our personal identities, protecting us with limited liability, which was a huge draw for investors."
+            }
+          ],
+          "title": "The Strategic Shift to a Company Form"
+        },
+        {
+          "storyParts": [
+            {
+              "speaker": "Neil",
+              "text": "Exactly. And the 'perpetual succession' aspect gives investors confidence that KnowledgeCompass will continue, regardless of who's on the Board or if a founder decides to step back. It's not just us anymore; it's an entity that exists in the eyes of the law. Speaking of which, our recent public issue of shares was a monumental task. The capital structure, from 'authorised' to 'paid-up capital', seemed so complex initially."
+            }
+          ],
+          "title": "Foundational Pillars: Perpetual Succession and Capital Structure"
+        },
+        {
+          "storyParts": [
+            {
+              "speaker": "Kanishq",
+              "text": "It was, but our finance team nailed it. Understanding the difference between 'equity' and 'preference shares' was key to attracting diverse investors. Remember the overwhelming response we got? Applications poured in for far more shares than we offered – 'oversubscription' in action!"
+            }
+          ],
+          "title": "Navigating Share Types and Oversubscription"
+        },
+        {
+          "storyParts": [
+            {
+              "speaker": "Neil",
+              "text": "Yes, a fantastic problem to have! We had to decide between outright rejection, pro-rata allotment, or a mix. I recall the discussions on how to adjust that 'excess application money' towards allotment and even 'calls in advance' for some enthusiastic investors. The accounting for all those 'application', 'allotment', and 'call' stages felt like a complex dance."
+            }
+          ],
+          "title": "Handling Oversubscription: The Allotment Dance"
+        },
+        {
+          "storyParts": [
+            {
+              "speaker": "Kanishq",
+              "text": "And the meticulous record-keeping for 'calls in arrears'! Some shareholders, despite their best intentions, couldn't make timely payments. Our Articles of Association, thankfully, allowed us to charge interest on those arrears, ensuring financial discipline."
+            }
+          ],
+          "title": "Managing Arrears and Advances"
+        },
+        {
+          "storyParts": [
+            {
+              "speaker": "Neil",
+              "text": "Indeed. And when some continued to default, we had to resort to 'forfeiture of shares' – a tough but necessary step to maintain capital integrity. It’s essentially cancelling their ownership due to non-payment. But then, we smartly 'reissued' those forfeited shares. The 'profit on reissue' went directly to 'Capital Reserve', strengthening our balance sheet."
+            }
+          ],
+          "title": "The Challenge of Forfeiture and Reissue"
+        },
+        {
+          "storyParts": [
+            {
+              "speaker": "Kanishq",
+              "text": "It all ties back to the legal framework. Every step, from issuing shares at a 'premium' (which boosted our 'Securities Premium Account' for strategic uses like bonus shares or writing off expenses) to handling 'buy-back of shares' if we choose that route someday, is governed by the Companies Act. It’s fascinating how accounting translates legal requirements into financial reality."
+            }
+          ],
+          "title": "Strategic Uses of Share Premium and Legal Framework"
+        },
+        {
+          "storyParts": [
+            {
+              "speaker": "Neil",
+              "text": "It truly is. From a small idea to managing complex share capital, understanding these accounting principles has been fundamental to KnowledgeCompass's growth into a robust corporation. It's not just about raising money; it's about building trust and ensuring long-term financial health for everyone involved."
+            }
+          ],
+          "title": "Conclusion: Accounting as a Growth Catalyst"
+        }
+      ],
+      "title": "Accounting for Share Capital",
+      "unitName": "Company Accounts",
+      "unitNumber": 1
+    }
+  ],
+  "metadata": {
+    "chapterTitle": "Accounting for Share Capital",
+    "description": "This chapter introduces the concept of a company, its features, types, and the detailed accounting treatment for share capital, including issue, calls in arrears/advance, over/under subscription, forfeiture, and reissue of shares."
+  }
+}

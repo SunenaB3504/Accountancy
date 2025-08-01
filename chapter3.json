@@ -1,0 +1,850 @@
+{
+  "chapters": [
+    {
+      "caseStudy": [
+        {
+          "questions": [
+            {
+              "answer": "Old Ratio (Neil, Kanishq, Rajesh) = 3:2:1. Rajesh's share = 1/6. New Ratio (Neil, Kanishq) = 2:1. Neil's Old Share = 3/6, New Share = 2/3. Kanishq's Old Share = 2/6, New Share = 1/3. Neil's Gain = 2/3 - 3/6 = 4/6 - 3/6 = 1/6. Kanishq's Gain = 1/3 - 2/6 = 2/6 - 2/6 = 0. The gaining ratio between Neil and Kanishq is 1:0 (only Neil gains).",
+              "marks": 5,
+              "question": "Calculate the new profit sharing ratio and gaining ratio between Neil and Kanishq.",
+              "type": "differentiate",
+              "wordLimit": 50
+            },
+            {
+              "answer": "Rajesh's share of goodwill = 1/6 of Rs. 1,80,000 = Rs. 30,000. Since only Neil gained, Neil's Capital Account will be debited with Rs. 30,000, and Rajesh's Capital Account will be credited with Rs. 30,000. The entry would be: Neil's Capital A/c Dr. 30,000; To Rajesh's Capital A/c Cr. 30,000. This compensates Rajesh for his share of the firm's goodwill.",
+              "marks": 8,
+              "question": "Explain the accounting treatment for goodwill on Rajesh's retirement.",
+              "type": "explain",
+              "wordLimit": 100
+            },
+            {
+              "answer": "Rajesh's share in General Reserve = 1/6 of Rs. 60,000 = Rs. 10,000 (credit to Capital). Rajesh's share in P&L Dr. balance = 1/6 of Rs. 30,000 = Rs. 5,000 (debit to Capital). Revaluation: Machine decreased by Rs. 10,000 (Loss), Unrecorded investment of Rs. 20,000 (Gain). Net Revaluation Gain = Rs. 20,000 - Rs. 10,000 = Rs. 10,000. Rajesh's share in Revaluation Gain = 1/6 of Rs. 10,000 = Rs. 1,667 (approx). Net effect on Rajesh's Capital from these items = +Rs. 10,000 (Reserve) - Rs. 5,000 (P&L Loss) + Rs. 1,667 (Revaluation Gain) = Rs. 6,667 (Net Credit).",
+              "marks": 10,
+              "question": "Determine Rajesh's share in accumulated profits/losses and revaluation adjustments.",
+              "type": "identify",
+              "wordLimit": 150
+            },
+            {
+              "answer": "Rajesh's initial Capital: Rs. 2,50,000. Add: Share of Goodwill Rs. 30,000. Add: Share of General Reserve Rs. 10,000. Less: Share of P&L Dr. balance Rs. 5,000. Add: Share of Revaluation Gain Rs. 1,667. Total amount due to Rajesh = Rs. 2,50,000 + Rs. 30,000 + Rs. 10,000 - Rs. 5,000 + Rs. 1,667 = Rs. 2,86,667. Settlement: 50% paid immediately = 0.50 * Rs. 2,86,667 = Rs. 1,43,333.50. Remaining balance transferred to Loan A/c = Rs. 1,43,333.50. Journal entries would reflect cash payment and transfer to Loan A/c.",
+              "marks": 12,
+              "question": "Calculate the total amount due to Rajesh and show how it will be settled.",
+              "type": "other",
+              "wordLimit": 180
+            },
+            {
+              "answer": "General Reserve represents accumulated profits and is credited to all partners' capital accounts in their old profit-sharing ratio, increasing their capital. A debit balance in the Profit & Loss Account represents accumulated losses and is debited to all partners' capital accounts in their old profit-sharing ratio, decreasing their capital. Both are distributed among all partners, including the retiring one, as they pertain to profits/losses earned/incurred during the period they were partners.",
+              "marks": 7,
+              "question": "Differentiate between the treatment of a General Reserve and a debit balance of the Profit & Loss Account on a partner's retirement.",
+              "type": "differentiate",
+              "wordLimit": 80
+            }
+          ],
+          "scenario": "KnowledgeCompass, the successful EdTech startup, was founded by Neil, Kanishq, and a third partner, Rajesh. They shared profits and losses in the ratio of 3:2:1. After years of dedicated service, Rajesh decided to retire from the firm on March 31, 2023. On the date of retirement, the firm's books showed the following: Rajesh's Capital Account balance was Rs. 2,50,000. There was a General Reserve of Rs. 60,000 and a debit balance in the Profit & Loss Account of Rs. 30,000. Goodwill of the firm was valued at Rs. 1,80,000. Additionally, a machine, originally purchased for Rs. 50,000, was revalued at Rs. 40,000, and an unrecorded investment of Rs. 20,000 was discovered. Neil and Kanishq decided to share future profits in the ratio of 2:1. The firm decided to pay Rajesh 50% of his dues immediately and transfer the remaining balance to his loan account.",
+          "title": "KnowledgeCompass Navigates a Partner's Retirement"
+        }
+      ],
+      "exercises": {
+        "mcq": [
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Temporary absence of a partner does not alter the fundamental structure of the partnership firm or its deed, hence it does not lead to reconstitution.",
+            "options": [
+              "Admission of a partner",
+              "Retirement of a partner",
+              "Change in profit sharing ratio",
+              "Temporary absence of a partner"
+            ],
+            "question": "Which of the following does NOT lead to the reconstitution of a partnership firm?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Upon retirement or death of a partner, the existing partnership deed comes to an end, and a new one needs to be framed among the remaining partners.",
+            "options": [
+              "Continues as before",
+              "Comes to an end",
+              "Is automatically renewed",
+              "Is partially amended"
+            ],
+            "question": "On the retirement of a partner, the existing partnership deed:"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "New profit sharing ratio is determined when there's a change in partnership, such as retirement or death, affecting the future profit distribution among remaining partners.",
+            "options": [
+              "A partner draws salary",
+              "A partner retires or dies",
+              "A firm takes a loan",
+              "Assets are revalued"
+            ],
+            "question": "New Profit Sharing Ratio is calculated when:"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Gaining ratio signifies the increase in a continuing partner's share, calculated by deducting their old share from their new share.",
+            "options": [
+              "Old share - New share",
+              "New share - Old share",
+              "New share + Old share",
+              "Old share / New share"
+            ],
+            "question": "Gaining ratio is calculated by:"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "By default, if no specific agreement is mentioned, it's assumed that continuing partners acquire the share of the outgoing partner in their old profit sharing ratio.",
+            "options": [
+              "Equal ratio",
+              "New profit sharing ratio",
+              "Old profit sharing ratio",
+              "Capital ratio"
+            ],
+            "question": "In the absence of any information, the continuing partners acquire the share of the retiring/deceased partner in:"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Accumulated profits or losses belong to all partners and are distributed to their capital accounts in their old profit sharing ratio, including the retiring/deceased partner.",
+            "options": [
+              "Transferred to Revaluation Account",
+              "Carried forward to next year's balance sheet",
+              "Distributed to all partners' capital accounts in old ratio",
+              "Distributed only to continuing partners' capital accounts"
+            ],
+            "question": "What happens to accumulated profits (reserves) on retirement/death of a partner?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "The gaining partners compensate the sacrificing partner (the retiring/deceased partner) for their share of goodwill by debiting their capital accounts in their gaining ratio.",
+            "options": [
+              "Debited to all partners' capital accounts",
+              "Credited to Revaluation Account",
+              "Debited to gaining partners' capital accounts",
+              "Credited to Cash/Bank Account"
+            ],
+            "question": "When goodwill does not appear in the books, how is the retiring partner's share of goodwill adjusted?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Profit & Loss Suspense Account is used to record the share of profit or loss for the period from the last balance sheet date to the date of retirement/death.",
+            "options": [
+              "General Reserve Account",
+              "Profit & Loss Appropriation Account",
+              "Profit & Loss Suspense Account",
+              "Revaluation Account"
+            ],
+            "question": "If a partner retires in the middle of the year, his share of profit for the intervening period is usually transferred to:"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "In the absence of any specific agreement, Section 37 specifies interest at 6% per annum on the outstanding amount.",
+            "options": [
+              "8% p.a.",
+              "6% p.a.",
+              "10% p.a.",
+              "5% p.a."
+            ],
+            "question": "Section 37 of the Indian Partnership Act, 1932, states that if no agreement exists, an outgoing partner can receive interest on their due amount at what rate?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Share of accumulated losses would be deducted from the sum due, not added to it.",
+            "options": [
+              "Share of accumulated losses",
+              "Credit balance of capital account",
+              "Share of goodwill",
+              "Share of gain on revaluation"
+            ],
+            "question": "Which of the following would NOT be included in the sum due to a retiring partner?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The excess amount paid beyond the adjusted capital is considered the retiring partner's share of hidden goodwill.",
+            "options": [
+              "Capital gain",
+              "Hidden goodwill",
+              "Profit on revaluation",
+              "Reserve fund"
+            ],
+            "question": "If the firm pays a lump sum to a retiring partner in excess of their adjusted capital balance, this excess is treated as:"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "When an asset's value increases, the asset account is debited, and the Revaluation Account is credited, as it represents a gain.",
+            "options": [
+              "Revaluation A/c Dr. to Asset A/c",
+              "Asset A/c Dr. to Revaluation A/c",
+              "Asset A/c Dr. to Capital A/c",
+              "Capital A/c Dr. to Asset A/c"
+            ],
+            "question": "Journal entry for an increase in the value of an asset during revaluation is:"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Accumulated losses reduce partners' capital, so their capital accounts are debited. The Profit and Loss Account (which holds the debit balance) is credited to close it.",
+            "options": [
+              "Profit and Loss Account",
+              "Revaluation Account",
+              "All Partners' Capital Accounts (individually)",
+              "General Reserve Account"
+            ],
+            "question": "When accumulated losses are transferred, which account is debited?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The primary difference is that death can occur anytime, requiring calculation of profit/loss for an intervening period, unlike retirement which often happens at year-end.",
+            "options": [
+              "Goodwill adjustment method",
+              "Calculation of share of profit for intervening period",
+              "Revaluation of assets and liabilities",
+              "Distribution of reserves"
+            ],
+            "question": "What is the primary difference in accounting treatment between retirement and death of a partner?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "A retiring partner's loan account represents a liability for the firm, hence it is shown on the liabilities side of the Balance Sheet until fully paid.",
+            "options": [
+              "Asset side",
+              "Liabilities side",
+              "Debit side of Capital Account",
+              "Credit side of Profit & Loss Account"
+            ],
+            "question": "The balance of the retiring partner’s loan account is shown on which side of the Balance Sheet?"
+          }
+        ],
+        "numericalQuestions": [
+          {
+            "explanation": "This problem illustrates how to calculate the new profit sharing ratio and gaining ratio when the continuing partners acquire the retiring partner's share in a specified proportion. The gaining ratio is directly derived from the acquisition ratio.",
+            "question": "Neil, Kanishq, and Rajesh are partners in KnowledgeCompass sharing profits in the ratio of 4:3:2. Kanishq retires, and his share is taken up by Neil and Rajesh in the ratio of 2:1. Calculate the new profit sharing ratio and the gaining ratio.",
+            "steps": [
+              "Old Profit Sharing Ratio of Neil, Kanishq, Rajesh = 4:3:2, which means Neil = 4/9, Kanishq = 3/9, Rajesh = 2/9.",
+              "Kanishq retires, his share = 3/9.",
+              "Share acquired by Neil from Kanishq = (2/3) of (3/9) = 6/27 = 2/9.",
+              "Share acquired by Rajesh from Kanishq = (1/3) of (3/9) = 3/27 = 1/9.",
+              "New Share of Neil = Old Share + Acquired Share = 4/9 + 2/9 = 6/9.",
+              "New Share of Rajesh = Old Share + Acquired Share = 2/9 + 1/9 = 3/9.",
+              "New Profit Sharing Ratio of Neil and Rajesh = 6/9 : 3/9 = 6:3 = 2:1.",
+              "Gaining Ratio of Neil and Rajesh = Share acquired from Kanishq = 2/9 : 1/9 = 2:1."
+            ],
+            "tableData": null,
+            "tableType": null
+          },
+          {
+            "explanation": "This problem demonstrates the accounting treatment of goodwill on retirement when it doesn't appear in the books. The retiring partner's share of goodwill is compensated by the gaining partners in their gaining ratio.",
+            "question": "Neil, Kanishq, and Rajesh are partners in KnowledgeCompass sharing profits in the ratio of 5:3:2. Rajesh retires. The goodwill of the firm is valued at Rs. 90,000. Neil and Kanishq decide to share future profits in the ratio of 3:2. Record the necessary journal entry for the treatment of goodwill.",
+            "steps": [
+              "Old Profit Sharing Ratio (Neil:Kanishq:Rajesh) = 5:3:2.",
+              "New Profit Sharing Ratio (Neil:Kanishq) = 3:2.",
+              "Goodwill of the firm = Rs. 90,000.",
+              "Rajesh's Share of Goodwill = (2/10) * Rs. 90,000 = Rs. 18,000.",
+              "Calculate Gaining Ratio:",
+              "Neil's Old Share = 5/10, New Share = 3/5.",
+              "Neil's Gain = New Share - Old Share = 3/5 - 5/10 = 6/10 - 5/10 = 1/10 (Gain).",
+              "Kanishq's Old Share = 3/10, New Share = 2/5.",
+              "Kanishq's Gain = New Share - Old Share = 2/5 - 3/10 = 4/10 - 3/10 = 1/10 (Gain).",
+              "Gaining Ratio (Neil:Kanishq) = 1/10 : 1/10 = 1:1.",
+              "Amount of goodwill to be debited to Neil's Capital A/c = (1/2) * Rs. 18,000 = Rs. 9,000.",
+              "Amount of goodwill to be debited to Kanishq's Capital A/c = (1/2) * Rs. 18,000 = Rs. 9,000.",
+              "Journal Entry:"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "credit": null,
+                  "date": "20XX Mar 31",
+                  "debit": 9000,
+                  "narration": null,
+                  "particulars": "Neil's Capital A/c"
+                },
+                {
+                  "credit": null,
+                  "date": null,
+                  "debit": 9000,
+                  "narration": null,
+                  "particulars": "Kanishq's Capital A/c"
+                },
+                {
+                  "credit": 18000,
+                  "date": null,
+                  "debit": null,
+                  "narration": "(Rajesh's share of goodwill adjusted to gaining partners' capital accounts)",
+                  "particulars": "To Rajesh's Capital A/c"
+                }
+              ]
+            },
+            "tableType": "journal"
+          },
+          {
+            "explanation": "This problem illustrates the preparation of a Revaluation Account, which is crucial for identifying and recording changes in asset and liability values at the time of partnership reconstitution.",
+            "question": "The Balance Sheet of KnowledgeCompass on March 31, 2023, showed Land & Building at Rs. 2,00,000, Machinery at Rs. 1,50,000, and Stock at Rs. 80,000. On the retirement of a partner, it was agreed that Land & Building be appreciated by 10%, Machinery be depreciated by 15%, and Stock be valued at Rs. 75,000. Also, an unrecorded liability for outstanding expenses of Rs. 5,000 was to be brought into books. Prepare the Revaluation Account.",
+            "steps": [
+              "Record increases in assets and decreases in liabilities on the Credit side of Revaluation Account.",
+              "Land & Building: Appreciation = 10% of Rs. 2,00,000 = Rs. 20,000 (Credit Revaluation A/c).",
+              "Record decreases in assets and increases in liabilities on the Debit side of Revaluation Account.",
+              "Machinery: Depreciation = 15% of Rs. 1,50,000 = Rs. 22,500 (Debit Revaluation A/c).",
+              "Stock: Decrease in value = Rs. 80,000 - Rs. 75,000 = Rs. 5,000 (Debit Revaluation A/c).",
+              "Unrecorded Liability: Outstanding Expenses = Rs. 5,000 (Debit Revaluation A/c).",
+              "Calculate the net profit or loss on revaluation.",
+              "Total Debits = Rs. 22,500 + Rs. 5,000 + Rs. 5,000 = Rs. 32,500.",
+              "Total Credits = Rs. 20,000.",
+              "Net Loss on Revaluation = Rs. 32,500 - Rs. 20,000 = Rs. 12,500.",
+              "Assume old profit sharing ratio of Neil, Kanishq, Rajesh as 5:3:2 (for distribution of loss).",
+              "Neil's share of loss = (5/10) * Rs. 12,500 = Rs. 6,250.",
+              "Kanishq's share of loss = (3/10) * Rs. 12,500 = Rs. 3,750.",
+              "Rajesh's share of loss = (2/10) * Rs. 12,500 = Rs. 2,500."
+            ],
+            "tableData": {
+              "accounts": [
+                {
+                  "accountName": "Revaluation Account",
+                  "credits": [
+                    {
+                      "amount": 20000,
+                      "label": "By Land & Building A/c"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 22500,
+                      "label": "To Machinery A/c"
+                    },
+                    {
+                      "amount": 5000,
+                      "label": "To Stock A/c"
+                    },
+                    {
+                      "amount": 5000,
+                      "label": "To Outstanding Expenses A/c"
+                    },
+                    {
+                      "amount": 12500,
+                      "label": "To Partners' Capital A/cs (Loss)"
+                    }
+                  ]
+                }
+              ]
+            },
+            "tableType": "TAccount"
+          },
+          {
+            "explanation": "This problem illustrates the distribution of accumulated profits (General Reserve) and losses (P&L Debit Balance) among all partners, including the retiring one, in their old profit-sharing ratio to ensure a fair settlement.",
+            "question": "On March 31, 2023, the Balance Sheet of KnowledgeCompass showed a General Reserve of Rs. 45,000 and a debit balance in the Profit & Loss Account of Rs. 20,000. Neil, Kanishq, and Rajesh are partners sharing profits in the ratio of 2:2:1. Record the necessary journal entries to distribute these accumulated profits and losses upon Rajesh's retirement.",
+            "steps": [
+              "General Reserve is an accumulated profit, to be credited to partners' capital accounts in their old profit-sharing ratio.",
+              "Rajesh's share of General Reserve = (1/5) * Rs. 45,000 = Rs. 9,000.",
+              "Neil's share of General Reserve = (2/5) * Rs. 45,000 = Rs. 18,000.",
+              "Kanishq's share of General Reserve = (2/5) * Rs. 45,000 = Rs. 18,000.",
+              "Profit & Loss A/c (Debit Balance) is an accumulated loss, to be debited to partners' capital accounts in their old profit-sharing ratio.",
+              "Rajesh's share of P&L Loss = (1/5) * Rs. 20,000 = Rs. 4,000.",
+              "Neil's share of P&L Loss = (2/5) * Rs. 20,000 = Rs. 8,000.",
+              "Kanishq's share of P&L Loss = (2/5) * Rs. 20,000 = Rs. 8,000."
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "credit": null,
+                  "date": "2023 Mar 31",
+                  "debit": 45000,
+                  "narration": null,
+                  "particulars": "General Reserve A/c"
+                },
+                {
+                  "credit": 18000,
+                  "date": null,
+                  "debit": null,
+                  "narration": null,
+                  "particulars": "To Neil's Capital A/c"
+                },
+                {
+                  "credit": 18000,
+                  "date": null,
+                  "debit": null,
+                  "narration": null,
+                  "particulars": "To Kanishq's Capital A/c"
+                },
+                {
+                  "credit": 9000,
+                  "date": null,
+                  "debit": null,
+                  "narration": "(General Reserve distributed to partners' capital accounts)",
+                  "particulars": "To Rajesh's Capital A/c"
+                },
+                {
+                  "credit": null,
+                  "date": "2023 Mar 31",
+                  "debit": 8000,
+                  "narration": null,
+                  "particulars": "Neil's Capital A/c"
+                },
+                {
+                  "credit": null,
+                  "date": null,
+                  "debit": 8000,
+                  "narration": null,
+                  "particulars": "Kanishq's Capital A/c"
+                },
+                {
+                  "credit": null,
+                  "date": null,
+                  "debit": 4000,
+                  "narration": null,
+                  "particulars": "Rajesh's Capital A/c"
+                },
+                {
+                  "credit": 20000,
+                  "date": null,
+                  "debit": null,
+                  "narration": "(Accumulated loss distributed to partners' capital accounts)",
+                  "particulars": "To Profit & Loss A/c"
+                }
+              ]
+            },
+            "tableType": "journal"
+          },
+          {
+            "explanation": "This problem demonstrates the preparation of a retiring partner's loan account, showing how principal and interest payments are recorded over time until the loan is fully settled. It's important for understanding the firm's liability towards the outgoing partner.",
+            "question": "Rajesh, a partner in KnowledgeCompass, retired on March 31, 2023. The total amount due to him after all adjustments was Rs. 1,20,000. The firm decided to pay him in three equal annual installments starting March 31, 2024, along with interest at 10% per annum on the outstanding balance. Prepare Rajesh's Loan Account for the first two years.",
+            "steps": [
+              "Initial loan amount = Rs. 1,20,000.",
+              "Number of installments = 3.",
+              "Principal per installment = Rs. 1,20,000 / 3 = Rs. 40,000.",
+              "Year 1 (March 31, 2024):",
+              "Interest for Year 1 = 10% of Rs. 1,20,000 = Rs. 12,000.",
+              "Total payment for Year 1 = Principal (Rs. 40,000) + Interest (Rs. 12,000) = Rs. 52,000.",
+              "Balance outstanding after Year 1 payment = Rs. 1,20,000 - Rs. 40,000 = Rs. 80,000.",
+              "Year 2 (March 31, 2025):",
+              "Interest for Year 2 = 10% of Rs. 80,000 = Rs. 8,000.",
+              "Total payment for Year 2 = Principal (Rs. 40,000) + Interest (Rs. 8,000) = Rs. 48,000.",
+              "Balance outstanding after Year 2 payment = Rs. 80,000 - Rs. 40,000 = Rs. 40,000."
+            ],
+            "tableData": {
+              "accounts": [
+                {
+                  "accountName": "Rajesh's Loan Account",
+                  "credits": [
+                    {
+                      "amount": 120000,
+                      "label": "2023 Mar 31 By Rajesh's Capital A/c"
+                    },
+                    {
+                      "amount": 12000,
+                      "label": "2024 Mar 31 By Interest A/c"
+                    },
+                    {
+                      "amount": 80000,
+                      "label": "2024 Mar 31 By Balance b/d"
+                    },
+                    {
+                      "amount": 8000,
+                      "label": "2025 Mar 31 By Interest A/c"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 52000,
+                      "label": "2024 Mar 31 To Bank A/c"
+                    },
+                    {
+                      "amount": 80000,
+                      "label": "2024 Mar 31 To Balance c/d"
+                    },
+                    {
+                      "amount": 48000,
+                      "label": "2025 Mar 31 To Bank A/c"
+                    },
+                    {
+                      "amount": 40000,
+                      "label": "2025 Mar 31 To Balance c/d"
+                    }
+                  ]
+                }
+              ]
+            },
+            "tableType": "TAccount"
+          },
+          {
+            "explanation": "This problem demonstrates how to calculate the deceased partner's share of profit for the intervening period when death occurs mid-year, based on the previous year's profit. This amount is transferred to the Profit & Loss Suspense Account.",
+            "question": "Neil, Kanishq, and Rohan are partners in KnowledgeCompass sharing profits in the ratio of 3:2:1. Rohan died on September 30, 2023. The firm's profit for the year ending March 31, 2023, was Rs. 1,20,000. Calculate Rohan's share of profit up to the date of his death and pass the journal entry.",
+            "steps": [
+              "Financial year ends March 31, 2023. Rohan died on September 30, 2023.",
+              "Period from April 1, 2023, to September 30, 2023 = 6 months.",
+              "Profit for the last full year (2022-23) = Rs. 1,20,000.",
+              "Proportionate profit for 6 months = Rs. 1,20,000 * (6/12) = Rs. 60,000.",
+              "Rohan's share in profits = (1/6) of proportionate profit = (1/6) * Rs. 60,000 = Rs. 10,000."
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "credit": null,
+                  "date": "2023 Sep 30",
+                  "debit": 10000,
+                  "narration": null,
+                  "particulars": "Profit & Loss Suspense A/c"
+                },
+                {
+                  "credit": 10000,
+                  "date": null,
+                  "debit": null,
+                  "narration": "(Rohan's share of profit up to date of death transferred)",
+                  "particulars": "To Rohan's Capital A/c"
+                }
+              ]
+            },
+            "tableType": "journal"
+          }
+        ],
+        "oneWord": [
+          {
+            "correctAnswer": "Gaining Ratio",
+            "question": "What is the ratio in which continuing partners acquire the share from the retiring/deceased partner?"
+          },
+          {
+            "correctAnswer": "Revaluation Account",
+            "question": "What account is prepared to ascertain net gain or loss on revaluation of assets and liabilities?"
+          },
+          {
+            "correctAnswer": "Hidden Goodwill",
+            "question": "What kind of goodwill is implied when an excess amount is paid to a retiring partner over their adjusted capital?"
+          },
+          {
+            "correctAnswer": "Loan Account",
+            "question": "To which account is the amount due to a retiring partner transferred if not paid immediately?"
+          },
+          {
+            "correctAnswer": "Section 37",
+            "question": "Which section of the Indian Partnership Act, 1932, is applicable if no agreement on settling the outgoing partner's dues exists?"
+          },
+          {
+            "correctAnswer": "New Profit Sharing Ratio",
+            "question": "What is the ratio of sharing future profits among remaining partners after a partner's retirement or death?"
+          },
+          {
+            "correctAnswer": "Profit & Loss Suspense Account",
+            "question": "What type of account is used to record a deceased partner's share of profit for the intervening period?"
+          },
+          {
+            "correctAnswer": "Old Profit Sharing Ratio",
+            "question": "In which ratio are accumulated profits transferred to all partners' capital accounts?"
+          },
+          {
+            "correctAnswer": "Debited",
+            "question": "When the value of an asset decreases during revaluation, is Revaluation Account debited or credited?"
+          },
+          {
+            "correctAnswer": "Executor",
+            "question": "What is the term for the legal representative of a deceased partner?"
+          }
+        ],
+        "shortAnswer1": [
+          {
+            "answer": "Four items that typically add to the amount due to a retiring or deceased partner are: 1. Credit balance of their capital account, 2. Their share of goodwill, 3. Their share of accumulated profits (reserves), and 4. Their share in the gain on revaluation of assets and liabilities.",
+            "question": "List four items that typically add to the amount due to a retiring or deceased partner."
+          },
+          {
+            "answer": "The Gaining Ratio is the ratio in which the continuing partners acquire the share of the retiring or deceased partner. It is calculated by deducting the old share from the new share of each continuing partner. Its importance lies in determining the proportion in which the continuing partners will compensate the outgoing partner for their share of the firm's goodwill.",
+            "question": "Briefly explain the concept of 'Gaining Ratio' and its importance."
+          },
+          {
+            "answer": "The common methods used to calculate a deceased partner's share of profit for the intervening period (from the last balance sheet to the date of death) include: 1. Based on the previous year's profit, 2. Based on the average profits of the last few years, or 3. Based on sales up to the date of death.",
+            "question": "What are the common methods used to calculate a deceased partner's share of profit for the intervening period?"
+          },
+          {
+            "answer": "The journal entry for transferring accumulated profits (reserves) on a partner's retirement is: Reserves Account Dr. (with the total amount of reserves) To All Partners' Capital Accounts (Individually) Cr. (with their respective shares in the old profit-sharing ratio). This ensures that the retiring partner receives their share of past accumulated profits.",
+            "question": "Outline the journal entry for transferring accumulated profits (reserves) on a partner's retirement."
+          },
+          {
+            "answer": "There is no need to compute the gaining ratio in two situations: 1. When the continuing partners acquire the share of the retiring or deceased partner in their old profit sharing ratio, as the gaining ratio will be the same as their old ratio among themselves. 2. When the proportion in which they acquire the share of the retiring/deceased partner is duly specified in the agreement itself.",
+            "question": "State two situations where there is no need to compute the gaining ratio."
+          }
+        ],
+        "shortAnswer2": [
+          {
+            "answer": "When goodwill already appears in the books of the firm, it is first written off before any new adjustments. This is done by debiting all partners' capital accounts (including the retiring partner's) in their old profit sharing ratio and crediting the Goodwill Account, effectively eliminating the existing goodwill from the books.",
+            "question": "Describe how the goodwill is treated when it is already appearing in the books of the firm upon retirement of a partner."
+          },
+          {
+            "answer": "Key accounting adjustments at the time of retirement or death of a partner include: (1) Ascertainment of new profit sharing ratio and gaining ratio; (2) Treatment of goodwill; (3) Revaluation of assets and liabilities; (4) Adjustment for unrecorded assets and liabilities; (5) Distribution of accumulated profits and losses; (6) Ascertainment of share of profit or loss up to the date of retirement/death; (7) Adjustment of capital (if required); and (8) Settlement of amounts due to the retired/deceased partner.",
+            "question": "What are the key accounting adjustments required at the time of retirement or death of a partner?"
+          },
+          {
+            "answer": "The amount due to a retiring partner can be settled in several ways: (1) Lump sum payment immediately in cash. (2) The entire amount may be transferred to the retiring partner's Loan Account, to be repaid in various installments with or without interest as agreed. (3) A combination of both, where a part is paid immediately in cash, and the remaining balance is transferred to the Loan Account for installment payments. If no agreement exists, Section 37 of the Indian Partnership Act, 1932, applies, allowing 6% p.a. interest or a share of profits earned with their money.",
+            "question": "Explain the options for disposal of the amount due to a retiring partner."
+          },
+          {
+            "answer": "When the total capital of the new firm is not specified upon retirement, it is typically determined by summing the adjusted capital balances of the continuing partners. This total capital is then divided among them according to their new profit-sharing ratio. Any excess capital with a partner is withdrawn, and any deficiency is brought in by the partner, ensuring their capital accounts are proportionate to their new ratio.",
+            "question": "How does the adjustment of partners' capitals occur upon retirement, especially when the total capital of the new firm is not specified?"
+          },
+          {
+            "answer": "The Revaluation Account is significant because it reflects the true and fair value of the firm's assets and liabilities at the time of reconstitution. Any increase or decrease in the value of assets and liabilities, along with unrecorded items, is routed through this account. The net profit or loss from revaluation is then distributed among all partners (including the retiring/deceased partner) in their old profit-sharing ratio. This ensures that the outgoing partner gets their rightful share of profits/losses arising from revaluation before their departure.",
+            "question": "Discuss the significance of the Revaluation Account in partnership reconstitution."
+          }
+        ],
+        "trueFalse": [
+          {
+            "correctAnswer": false,
+            "explanation": "False. Retirement or death of a partner leads to the reconstitution of a partnership firm, as the old partnership deed comes to an end and a new one is framed.",
+            "question": "Retirement of a partner does not lead to reconstitution of a partnership firm."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "False. There is not much difference in the accounting treatment at the time of retirement or death, except for the calculation of profit/loss for the intervening period in case of death.",
+            "question": "There is a significant difference in accounting treatment between retirement and death of a partner."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "True. Gaining partners compensate the sacrificing partner (including the retiring/deceased partner) for their share of goodwill in their gaining ratio.",
+            "question": "The gaining ratio is used to compensate the sacrificing partner for their share of goodwill."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "False. If goodwill already appears in the books, it is written off by debiting ALL partners' capital accounts (including the retiring one) in their OLD profit sharing ratio.",
+            "question": "If goodwill already appears in the books, it is written off by debiting continuing partners' capital accounts in their new profit sharing ratio."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "True. The Revaluation Account is specifically prepared to record the effects of changes in asset and liability values.",
+            "question": "A Revaluation Account is prepared to ascertain the net gain or loss on revaluation of assets and liabilities."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "False. Profit or loss on revaluation is transferred to the capital accounts of ALL partners (including the retiring/deceased one) in their old profit sharing ratio.",
+            "question": "Profit or loss on revaluation is transferred only to the continuing partners' capital accounts."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "False. Accumulated losses are debited to partners' capital accounts, as they reduce the capital balances.",
+            "question": "Accumulated losses are credited to partners' capital accounts in their old profit-sharing ratio."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "False. Interest on capital (if involved) is added to the amount due to a retiring partner, as it's an earning up to the date of retirement.",
+            "question": "Interest on capital is always a deduction from the amount due to a retiring partner."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "True. The amount due to a deceased partner is transferred to their Executor's Account for settlement.",
+            "question": "A deceased partner's claim is transferred to his Executor's Account."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "True. In the absence of a specified new capital, the total capital of the continuing partners after all adjustments becomes the new firm's capital.",
+            "question": "If the new firm's capital is not specified, it is typically taken as the sum of the capital balances of the continuing partners after all adjustments."
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "back": "It is a change in the existing agreement among partners, leading to the framing of a new partnership deed, while the firm continues its business.",
+          "front": "What is reconstitution of a partnership firm?"
+        },
+        {
+          "back": "The ratio in which the continuing partners have acquired the share from the retiring or deceased partner. It is calculated as New Share - Old Share.",
+          "front": "Define Gaining Ratio."
+        },
+        {
+          "back": "The revised ratio in which the remaining partners of a firm agree to share future profits and losses after the retirement or death of a partner.",
+          "front": "What is New Profit Sharing Ratio?"
+        },
+        {
+          "back": "The retiring/deceased partner is entitled to their share of goodwill because it was earned by the firm with the efforts of all existing partners. Gaining partners compensate the sacrificing partner for their share.",
+          "front": "Why is goodwill adjusted upon retirement/death of a partner?"
+        },
+        {
+          "back": "It is the amount paid to a retiring or deceased partner in excess of what is due to them, based on their adjusted capital account balance. This excess is treated as their share of goodwill.",
+          "front": "What is 'Hidden Goodwill'?"
+        },
+        {
+          "back": "To ascertain the net gain or loss on revaluation of assets and liabilities and bringing unrecorded items into the firm's books at the time of reconstitution.",
+          "front": "What is the purpose of a Revaluation Account?"
+        },
+        {
+          "back": "They are distributed to the capital accounts of all partners (including the retiring/deceased one) in their old profit-sharing ratio.",
+          "front": "How are accumulated profits and losses treated on retirement/death?"
+        },
+        {
+          "back": "The outgoing partner has an option to receive either interest @ 6% p.a. till the date of payment or such share of profits which has been earned with his/her money.",
+          "front": "According to Section 37 of the Indian Partnership Act, 1932, what is due to an outgoing partner if no agreement on settlement exists?"
+        },
+        {
+          "back": "An account to which the amount due to a retiring partner is transferred if the firm is unable to make immediate payment. The amount is then paid in installments with interest.",
+          "front": "What is a Retiring Partner's Loan Account?"
+        },
+        {
+          "back": "It is used to record the deceased partner's share of profit or loss for the intervening period from the last balance sheet date to the date of death.",
+          "front": "What is a Profit & Loss Suspense Account used for in case of a partner's death?"
+        },
+        {
+          "back": "It can be calculated based on the previous year's profit, average profits of past few years, or on the basis of sales.",
+          "front": "How is the profit share for an intervening period calculated for a deceased partner?"
+        },
+        {
+          "back": "Gaining partners' capital accounts are debited (individually) in their gaining ratio, and the retiring partner's capital account is credited.",
+          "front": "When goodwill does not appear in the books, how is the retiring partner's share adjusted?"
+        },
+        {
+          "back": "Debit balance of current account, share of goodwill written off, accumulated losses, loss on revaluation, loss up to date, drawings, and interest on drawings.",
+          "front": "What deductions might be made from a retiring partner's share?"
+        },
+        {
+          "back": "The gaining ratio will be the same as their old profit sharing ratio among them.",
+          "front": "If continuing partners acquire the retiring partner's share in their old profit sharing ratio, what is the gaining ratio?"
+        },
+        {
+          "back": "Assets A/c is debited, and Revaluation A/c is credited.",
+          "front": "How are unrecorded assets brought into the books during revaluation?"
+        }
+      ],
+      "id": "chapter3",
+      "longAnswerQuestions": [
+        {
+          "answer150Words": "The partnership firm has several options for settling the amount due to a retiring partner. Firstly, the full amount can be paid immediately in cash, which is straightforward but requires significant liquidity. Secondly, if the firm lacks immediate funds, the entire outstanding balance can be transferred to a 'Retiring Partner's Loan Account'. This loan is then repaid over an agreed period in installments, which may include interest (commonly 6% p.a. if no rate is specified, as per Section 37 of the Indian Partnership Act, 1932). Thirdly, a hybrid approach can be adopted where a portion of the amount is paid in cash immediately, and the remaining balance is treated as a loan, transferred to the loan account, and settled in installments. The specific method is typically outlined in the partnership deed.",
+          "answer200Words": "The settlement of dues to a retiring partner is a critical aspect of partnership reconstitution, and firms have different modes of payment. The most direct method is a 'lump sum payment' where the entire ascertained amount due to the retiring partner is paid immediately in cash. This is preferable for both parties if the firm has sufficient liquidity. However, often firms may not have enough cash reserves. In such cases, the full amount due is transferred to the 'Retiring Partner's Loan Account'. This loan is then repaid over a period through a series of agreed-upon installments. These installments can include interest on the outstanding balance, with the rate specified in the partnership deed or, by default, 6% per annum as per Section 37 of the Indian Partnership Act, 1932. A combination approach is also common, where a certain portion of the amount due is paid upfront in cash, and the residual balance is transferred to the loan account for subsequent installment payments. This allows for immediate partial relief for the retiring partner while managing the firm's cash flow. The choice of payment mode is generally predetermined by the partnership agreement.",
+          "answer50To75Words": "A retiring partner's dues can be settled immediately in a lump sum cash payment. Alternatively, the entire amount can be transferred to a 'Retiring Partner's Loan Account' and paid in installments, with or without interest. A third option is a partial immediate cash payment with the remaining balance transferred to the loan account for installment payments. The mode of payment is usually decided as per the partnership deed.",
+          "text": "Explain in detail the various modes of payment available to a partnership firm for settling the dues of a retiring partner.",
+          "title": "Modes of Payment to a Retiring Partner"
+        },
+        {
+          "answer150Words": "The total amount payable to a deceased partner is computed by consolidating various financial components from the firm's books. It starts with the credit balance of their capital account and, if any, their current account. To this, their share of the firm's goodwill, accumulated profits (reserves), and any gain on the revaluation of assets and liabilities are added. A unique aspect for a deceased partner is the inclusion of their share of profit (or deduction of loss), interest on capital, and salary/commission (if applicable) for the intervening period from the last balance sheet date until the date of their death. Conversely, any debit balance in their current account, share of accumulated losses, loss on revaluation, drawings, and interest on drawings up to the date of death are deducted. The final net amount represents the deceased partner's claim, which is then transferred to their Executor's Account for settlement.",
+          "answer200Words": "Calculating the amount payable to a deceased partner requires a comprehensive assessment of their financial standing with the firm. The starting point is the credit balance of their capital account and, if applicable, their current account. Several additions are then made: their proportionate share of the firm's goodwill, accumulated undistributed profits or reserves, and any profit arising from the revaluation of assets and liabilities. Since death can occur at any point in the accounting period, a critical addition for a deceased partner is their share of profit or loss for the intervening period from the last balance sheet date to the date of death, often calculated based on past profits or sales. Additionally, interest on capital and any due salary or commission up to the date of death are added. From this total, deductions are made for any debit balance in their current account, their share of accumulated losses, any loss from revaluation, their drawings, and interest on drawings up to the date of death. The resulting net sum represents the full claim of the deceased partner, which is then transferred to their Executor's Account for final settlement with their legal representatives.",
+          "answer50To75Words": "The amount payable to a deceased partner includes their capital and current account balances, share of goodwill, accumulated profits/reserves, and gain on revaluation. Deductions are made for accumulated losses, loss on revaluation, drawings, and interest on drawings. A crucial component for a deceased partner is their share of profit or loss, and interest on capital/drawings, calculated from the last balance sheet date up to the date of death.",
+          "text": "Discuss how the total amount payable to a deceased partner is computed, highlighting the various components and key adjustments.",
+          "title": "Computation of Amount Payable to a Deceased Partner"
+        },
+        {
+          "answer150Words": "At the time of a partner's retirement or death, goodwill is valued, and the outgoing partner is entitled to their share as it represents their contribution to the firm's earning capacity. The accounting treatment varies based on whether goodwill already appears in the firm's books. If goodwill does not appear in the books, the general rule is to debit the Capital Accounts of the gaining partners (those whose profit share has increased) in their gaining ratio and credit the Retiring/Deceased Partner's Capital Account with their share of goodwill. This effectively shifts the burden of compensation to those who benefit. If goodwill already appears in the books, it is first written off by debiting all partners' (including the retiring/deceased) capital accounts in their old profit sharing ratio and crediting the Goodwill Account. After this, the adjustment for the retiring partner's share of goodwill is made using the gaining ratio method as if goodwill did not appear in the books.",
+          "answer200Words": "The accounting treatment of goodwill during the retirement or death of a partner is crucial because the outgoing partner has contributed to building the firm's reputation and earning capacity, and thus deserves compensation for their share. The specific treatment depends on whether goodwill already exists in the firm's balance sheet. When goodwill does not appear in the books, the retiring or deceased partner's share of goodwill is calculated, and this amount is adjusted through the capital accounts of the continuing partners. Specifically, the gaining partners' capital accounts (those who acquire a larger share of future profits) are debited in their gaining ratio, and the retiring/deceased partner's capital account is credited with their share of goodwill. This mechanism ensures that the partners who benefit from the increased profit share bear the cost of compensating the outgoing partner. Conversely, if goodwill already appears in the firm's books, the common practice is to first write off this existing goodwill. This is done by debiting the capital accounts of all partners (including the retiring/deceased partner) in their old profit-sharing ratio and crediting the Goodwill Account. Once the existing goodwill is eliminated, the retiring or deceased partner's share of the newly valued goodwill is then adjusted using the gaining ratio method, similar to when goodwill does not appear in the books.",
+          "answer50To75Words": "Upon retirement/death, the outgoing partner is compensated for their goodwill share. If goodwill doesn't appear in books, gaining partners' capital accounts are debited (in their gaining ratio) and the retiring partner's capital is credited. If goodwill already appears, it is first written off by debiting all partners' capital accounts (in old ratio) and crediting the Goodwill Account, before the gaining partner adjustment is made.",
+          "text": "Explain the accounting treatment of goodwill at the time of retirement or on the event of death of a partner?",
+          "title": "Treatment of Goodwill at Retirement/Death"
+        },
+        {
+          "answer150Words": "When a partner dies during an accounting period, their legal representatives are entitled to their share of profit up to the date of death. Since it's often impractical to close books mid-year, common methods for computing this intervening period profit share are: 1. **Based on Previous Year's Profit:** The firm's profit from the last completed financial year is used as a basis, and the deceased partner's share is calculated proportionally for the period they were alive. 2. **Based on Average Profits:** An average of the firm's profits over a specified number of past years is calculated, and then the deceased partner's share is determined proportionally for the period. 3. **Based on Sales:** If sales data is reliable, the profit percentage on sales from the previous year is applied to the sales achieved during the intervening period, and the deceased partner's share is calculated from this estimated profit. The calculated profit share is usually debited to 'Profit & Loss Suspense Account' and credited to the deceased partner's Capital Account.",
+          "answer200Words": "The death of a partner often occurs in the middle of an accounting period, necessitating the computation of their share of profit or loss for the 'intervening period' – from the last balance sheet date to the date of death. This is essential to ensure that the deceased partner's estate receives their due share of earnings generated during their active participation in the current financial year. Since a full financial closing is cumbersome for this short period, several estimation methods are commonly employed. Firstly, the 'Previous Year's Profit Method' assumes that the current year's profit will accrue at the same rate as the last full financial year. The deceased partner's share is then calculated by applying their profit-sharing ratio to the proportionate profit for the intervening period. Secondly, the 'Average Profits Method' utilizes the average of the firm's profits over a specified number of preceding years. This average profit is then annualized, and the deceased partner's share is determined proportionally for the relevant period. Thirdly, the 'Sales Basis Method' is used when sales figures are reliable. Here, the profit ratio to sales from the previous year is applied to the total sales achieved from the beginning of the current accounting period up to the date of death. This estimated profit is then used to calculate the deceased partner's share. In all these methods, the deceased partner's share of profit is typically debited to a 'Profit & Loss Suspense Account' and credited to their Capital Account, to be subsequently transferred to their Executor's Account.",
+          "answer50To75Words": "A deceased partner's profit share for the intervening period (last balance sheet to death) can be calculated using three main methods: based on the previous year's profit, based on the average profits of the past few years, or based on sales up to the date of death. A Profit & Loss Suspense Account is typically used to record this share before transferring it to the deceased partner's capital account.",
+          "text": "Discuss the various methods used for computing the share in profits for a deceased partner for the intervening period.",
+          "title": "Methods of Computing Share in Profits for Deceased Partner"
+        },
+        {
+          "answer150Words": "When a partner retires, the continuing partners often decide to adjust their capital contributions to align with their new profit-sharing ratio. This adjustment can occur in a few ways. If the total capital of the new firm is explicitly specified, this total capital is distributed among the continuing partners in their new profit-sharing ratio. Their existing adjusted capital balances are then compared with these new target capitals. Any partner whose existing capital is less than their new target capital will bring in the deficit in cash. Conversely, any partner whose existing capital exceeds their new target capital will withdraw the surplus cash. This ensures that their capital accounts reflect their agreed-upon proportionate share in the reconstituted firm, facilitating a balanced financial structure going forward.",
+          "answer200Words": "The adjustment of capital contributions by continuing partners upon a partner's retirement is a crucial step to ensure their capital balances are proportionate to their new profit-sharing ratio. This process typically unfolds in two main scenarios. Firstly, if the total capital of the new, reconstituted firm is explicitly specified by the partners, this predetermined total capital is then divided among the continuing partners according to their newly agreed profit-sharing ratio. Each continuing partner's existing capital balance (after all other adjustments like revaluation, goodwill, and reserves) is compared with their calculated new proportionate capital. If a partner's existing capital is less than their new target capital, they are required to bring in the deficit in cash. Conversely, if a partner's existing capital exceeds their new proportionate capital, they are allowed to withdraw the surplus cash. Secondly, if the total capital of the new firm is not specified, it is implicitly determined by the sum of the continuing partners' adjusted capital balances (after all adjustments). This aggregate sum then serves as the total capital of the new firm and is re-distributed among them in their new profit-sharing ratio, with subsequent cash adjustments for any excess or deficiency in individual capital accounts. This realignment ensures equity and proper financial structuring for the ongoing partnership.",
+          "answer50To75Words": "Upon retirement, continuing partners may adjust their capital to their new profit-sharing ratio. If new firm capital is specified, individual capitals are adjusted by bringing in/withdrawing cash to match their new proportionate capital. If not specified, the sum of their adjusted capitals forms the new firm's total capital, which is then re-distributed according to their new ratio, with cash adjustments for excess/deficiency.",
+          "text": "How do remaining partners adjust their capital contributions upon a partner's retirement, especially when they decide to keep their capitals in their new profit sharing ratio?",
+          "title": "Adjustments for Capital Contributions on Retirement"
+        }
+      ],
+      "mindmap": [
+        {
+          "definition": "The process by which an existing partnership firm undergoes a change in its constitution, such as the retirement or death of a partner, leading to the framing of a new partnership deed.",
+          "explanation": "Reconstitution occurs when the existing partnership agreement ends due to a partner's retirement or death, necessitating a new agreement among remaining partners to continue business.",
+          "keyPoints": [
+            "Existing partnership deed comes to an end.",
+            "New partnership deed is framed.",
+            "Remaining partners continue business on changed terms.",
+            "Accounting treatment is largely similar for retirement and death."
+          ],
+          "title": "Reconstitution of a Partnership Firm: Retirement/Death of a Partner",
+          "points": [
+            {
+              "explanation": "Determining the final sum payable to the outgoing partner or their legal representatives after various adjustments.",
+              "title": "Ascertaining the Amount Due to Retiring/Deceased Partner"
+            },
+            {
+              "explanation": "The ratio in which the continuing partners will share future profits after an old partner's departure.",
+              "title": "New Profit Sharing Ratio"
+            },
+            {
+              "explanation": "The ratio in which the continuing partners acquire the share of the retiring/deceased partner.",
+              "title": "Gaining Ratio"
+            },
+            {
+              "explanation": "Adjusting for the retiring/deceased partner's share of goodwill, reflecting their contribution to the firm's earning capacity.",
+              "title": "Treatment of Goodwill"
+            },
+            {
+              "explanation": "Revising the book values of assets and liabilities to their current market values or fair values.",
+              "title": "Adjustment for Revaluation of Assets and Liabilities"
+            },
+            {
+              "explanation": "Distributing past accumulated profits (reserves) and losses to all partners, including the retiring/deceased one, in their old profit sharing ratio.",
+              "title": "Adjustment of Accumulated Profits and Losses"
+            },
+            {
+              "explanation": "Calculating the outgoing partner's share of profit or loss for the period from the last balance sheet date to the date of retirement/death.",
+              "title": "Ascertainment of Share of Profit or Loss up to the Date of Retirement/Death"
+            },
+            {
+              "explanation": "The method by which the firm settles the final claim of the retiring partner.",
+              "title": "Disposal of Amount Due to Retiring Partner"
+            },
+            {
+              "explanation": "Similar accounting treatment to retirement, but often occurs mid-year, requiring calculation of profit/loss for the intervening period.",
+              "title": "Death of a Partner"
+            },
+            {
+              "explanation": "Realigning the capital contributions of continuing partners to their new profit sharing ratio.",
+              "title": "Adjustment of Partners' Capitals"
+            }
+          ]
+        }
+      ],
+      "story": [
+        {
+          "storyParts": [
+            {
+              "speaker": "Neil",
+              "text": "Kanishq, remember when we started KnowledgeCompass in that small garage? It feels like ages ago, but our partnership deed from back then still holds a special place."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Absolutely, Neil! From a garage to a leading EdTech corporation, it's been an incredible journey. Speaking of our partnership deed, with the scale we've achieved, we need to be prepared for any eventuality, like a partner retiring or, unfortunately, passing away. It's a key aspect of 'Reconstitution of a Partnership Firm', isn't it?"
+            },
+            {
+              "speaker": "Neil",
+              "text": "Precisely. The moment a partner retires or dies, the old partnership deed is dissolved, and a new one has to be framed among the continuing partners. The accounting treatment isn't vastly different between retirement and death, primarily focusing on what's due to the outgoing partner or their legal heirs."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Right. We'd need to consider their capital balance, current account, share of goodwill, accumulated profits, gains on revaluation of assets, and even their share of profit up to the date of retirement or death. And, of course, deduct any drawings or losses."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Exactly. That's 'Ascertaining the Amount Due'. Post-retirement, the remaining partners, say just you and me, would have a 'New Profit Sharing Ratio'. If no specific agreement is made, we'd continue sharing profits in our old ratio. But if we decide to acquire a specific share, or agree on a new ratio, that would change things."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "And that leads us to the 'Gaining Ratio', which is crucial for goodwill adjustments. If I retired, you'd gain my share of profit, and that gain would determine how you compensate me for my share of KnowledgeCompass's goodwill, especially if it's not already on the books."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Yes, 'Treatment of Goodwill' is vital. Even if goodwill is 'hidden' within a lump-sum settlement, it needs to be accounted for. We'd also have to revalue all our assets, like our AI algorithms and extensive content library, and liabilities to reflect their current values, transferring any gain or loss to all partners in their old ratio."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "And the accumulated profits or losses, like our General Reserve or any past P&L debit balances, would also be distributed among all partners, including the one leaving. It ensures fairness for all contributions made over time."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Finally, the 'Disposal of Amount Due'. We could pay the retiring partner immediately in cash, or transfer the amount to a 'Loan Account' to be paid in instalments with interest. The same applies to a deceased partner's 'Executor's Account'."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "It's complex, but vital for a firm of our size to manage transitions smoothly. And for our students, understanding these intricacies is key to mastering partnership accounting. Our course content should reflect these details, ensuring they're exam-ready!"
+            },
+            {
+              "speaker": "Neil",
+              "text": "Absolutely. Just like KnowledgeCompass adapts and grows, our students must learn to navigate these changes in partnership firms. Let's make sure our study materials cover every single one of these accounting aspects in depth."
+            }
+          ],
+          "title": "The Evolution of KnowledgeCompass: Adapting to Change"
+        }
+      ],
+      "title": "Reconstitution of a Partnership Firm – Retirement/Death of a Partner",
+      "unitName": "Partnership Accounts",
+      "unitNumber": 3
+    }
+  ],
+  "metadata": {
+    "chapterTitle": "Reconstitution of a Partnership Firm – Retirement/Death of a Partner",
+    "description": "This chapter details the accounting implications and adjustments required when a partner retires or dies, including changes in profit sharing ratios, goodwill treatment, revaluation of assets and liabilities, distribution of accumulated profits and losses, and settlement of the outgoing partner's dues."
+  }
+}

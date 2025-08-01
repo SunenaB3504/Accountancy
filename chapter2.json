@@ -1,0 +1,1364 @@
+{
+  "chapters": [
+    {
+      "caseStudy": [
+        {
+          "questions": [
+            {
+              "answer": "The reconstitution of a partnership firm refers to any change in the existing agreement among partners, which leads to the termination of the old agreement and the creation of a new one, though the business itself continues. For KnowledgeCompass, this is relevant due to two main modes: admission of a new partner (bringing in a new expert like Maya) and potential changes in the profit sharing ratio among existing partners (if Neil and Kanishq decide to alter their shares based on new responsibilities or contributions). Both scenarios necessitate a fresh agreement reflecting the changed relationships and composition of the firm.",
+              "marks": 5,
+              "question": "Identify and explain the modes of partnership firm reconstitution that are most relevant to KnowledgeCompass's situation, as described in the scenario. Provide examples of how these might manifest for Neil and Kanishq.",
+              "type": "explain",
+              "wordLimit": 75
+            },
+            {
+              "answer": "When Maya is admitted to KnowledgeCompass, the existing partners (Neil and Kanishq) will be sacrificing a portion of their future profits to accommodate her share. The sacrificing ratio determines how this loss of profit share is allocated between Neil and Kanishq. It is crucial for determining how the premium for goodwill (additional amount brought by Maya) will be distributed among the sacrificing partners. Goodwill adjustment is necessary because Maya is entering an established firm that has built a reputation and is earning super profits. Her contribution towards goodwill compensates Neil and Kanishq for the share of super profits they are giving up, ensuring fairness and recognizing the value created before her admission.",
+              "marks": 5,
+              "question": "KnowledgeCompass is a successful EdTech startup. Explain why it is necessary for Neil and Kanishq to calculate the sacrificing ratio and make adjustments for goodwill when admitting Maya as a new partner. Relate your answer to the concept of 'super profits'.",
+              "type": "explain",
+              "wordLimit": 75
+            },
+            {
+              "answer": "The Average Profits Method values goodwill based on the agreed number of 'years' purchase of the average profits of past years. It assumes a new business won't earn profits immediately, so the buyer pays for anticipated future profits. For KnowledgeCompass, if their average past profit was X, and goodwill is 3 years' purchase, goodwill would be 3X. The Super Profits Method, conversely, values goodwill based on the excess of actual average profits over the normal rate of return on capital employed in a similar business. It focuses on the firm's ability to earn 'super profits'. If KnowledgeCompass's average profit is Y and normal profit is Z, super profit is Y-Z, and goodwill is (Y-Z) multiplied by years' purchase. The key difference is that average profits method considers total profits, while super profits method focuses only on the abnormal earning capacity, which is generally a more precise measure of the firm's true intangible value.",
+              "marks": 8,
+              "question": "Differentiate between the Average Profits Method and the Super Profits Method of goodwill valuation. Discuss which method might be more appropriate for KnowledgeCompass, considering its status as a 'successful EdTech startup' with 'super profits'.",
+              "type": "differentiate",
+              "wordLimit": 100
+            }
+          ],
+          "scenario": "KnowledgeCompass, a successful EdTech startup founded by Neil and Kanishq, has experienced rapid growth, expanding from a garage operation to a prominent corporation. To further accelerate its global expansion and enhance its curriculum development, Neil and Kanishq have decided to admit Maya, a renowned educational content strategist, as a new partner. This admission will bring in not only significant capital but also invaluable managerial expertise. The existing profit-sharing ratio between Neil and Kanishq is 3:2. Maya is expected to bring in substantial capital and her share of goodwill. The partners anticipate changes in their profit-sharing arrangements and understand the necessity of adjusting assets and liabilities to their current market values. They also need to ensure that all existing reserves and accumulated profits or losses are properly accounted for before Maya's entry.",
+          "title": "KnowledgeCompass Expansion: The Challenge of Partnership Reconstitution"
+        }
+      ],
+      "exercises": {
+        "mcq": [
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "If Sumit's share is 1/5, the remaining share is 4/5 (1 - 1/5). Anil's new share is 3/5 of 4/5 = 12/25. Vishal's new share is 2/5 of 4/5 = 8/25. Sumit's share (1/5) can be written as 5/25. So the new ratio is 12:8:5.",
+            "options": [
+              "12:8:5",
+              "3:2:1",
+              "4:1:1",
+              "6:4:1"
+            ],
+            "question": "Anil and Vishal are partners sharing profits in the ratio of 3:2. They admitted Sumit as a new partner for 1/5 share in the future profits of the firm. What will be the new profit sharing ratio of Anil, Vishal and Sumit?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Dinesh's share is 1/5. He gets it equally from Akshay and Bharati, so 1/10 from each. Akshay's new share = 3/5 - 1/10 = 6/10 - 1/10 = 5/10. Bharati's new share = 2/5 - 1/10 = 4/10 - 1/10 = 3/10. Dinesh's share = 1/5 = 2/10. New ratio is 5:3:2.",
+            "options": [
+              "5:3:2",
+              "3:2:1",
+              "6:4:2",
+              "2:1:1"
+            ],
+            "question": "Akshay and Bharati are partners sharing profits in the ratio of 3:2. They admit Dinesh as a new partner for 1/5th share in the future profits of the firm which he gets equally from Akshay and Bharati. Calculate new profit sharing ratio of Akshay, Bharati and Dinesh."
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Jyoti's share is 3/10 (2/10 from Anshu and 1/10 from Nitu). Anshu's new share = 3/5 - 2/10 = 6/10 - 2/10 = 4/10. Nitu's new share = 2/5 - 1/10 = 4/10 - 1/10 = 3/10. Jyoti's share is 3/10. New ratio is 4:3:3.",
+            "options": [
+              "3:2:3",
+              "5:4:3",
+              "4:3:3",
+              "6:4:3"
+            ],
+            "question": "Anshu and Nitu are partners sharing profits in the ratio of 3:2. They admitted Jyoti as a new partner for 3/10 share which she acquired 2/10 from Anshu and 1/10 from Nitu. Calculate the new profit sharing ratio of Anshu, Nitu and Jyoti."
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Ram's sacrifice = 1/4 of 3/5 = 3/20. Ram's new share = 3/5 - 3/20 = 12/20 - 3/20 = 9/20. Shyam's sacrifice = 1/3 of 2/5 = 2/15. Shyam's new share = 2/5 - 2/15 = 6/15 - 2/15 = 4/15. Ghanshyam's share = 3/20 + 2/15 = (9+8)/60 = 17/60. New ratio: Ram (9/20 = 27/60), Shyam (4/15 = 16/60), Ghanshyam (17/60). So, 27:16:17.",
+            "options": [
+              "3:2:1",
+              "1:1:1",
+              "2:3:1",
+              "27:16:17"
+            ],
+            "question": "Ram and Shyam are partners in a firm sharing profits in the ratio of 3:2. They admit Ghanshyam as a new partner. Ram sacrificed 1/4 of his share and Shyam 1/3 of his share in favour of Ghanshyam. Calculate new profit sharing ratio of Ram, Shyam and Ghanshyam."
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Pal's share is 1/4, acquired wholly from Das. Das's new share = 4/5 - 1/4 = 16/20 - 5/20 = 11/20. Sinha's share remains 1/5 = 4/20. Pal's share = 1/4 = 5/20. New ratio is 11:4:5.",
+            "options": [
+              "11:4:5",
+              "4:1:1",
+              "3:1:1",
+              "8:2:5"
+            ],
+            "question": "Das and Sinha are partners in a firm sharing profits in 4:1 ratio. They admitted Pal as a new partner for 1/4 share in the profits, which he acquired wholly from Das. Determine the new profit sharing ratio of the partners."
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Rohit's sacrifice = Old share - New share = 5/8 - 4/7 = (35-32)/56 = 3/56. Mohit's sacrifice = Old share - New share = 3/8 - 2/7 = (21-16)/56 = 5/56. Sacrificing ratio is 3:5.",
+            "options": [
+              "5:3",
+              "1:1",
+              "3:5",
+              "2:1"
+            ],
+            "question": "Rohit and Mohit are partners in a firm sharing profits in the ratio of 5:3. They admit Bijoy as a new partner for 1/7 share in the profit. The new profit sharing ratio will be 4:2:1. Calculate the sacrificing ratio of Rohit and Mohit."
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Mary's share = 1/4. Remaining share = 3/4. Amar's new share = 2/3 of 3/4 = 6/12 = 1/2. Bahadur's new share = 1/3 of 3/4 = 3/12 = 1/4. New ratio Amar:Bahadur:Mary = 1/2:1/4:1/4 = 2:1:1. Amar's sacrifice = 3/5 - 1/2 = (6-5)/10 = 1/10. Bahadur's sacrifice = 2/5 - 1/4 = (8-5)/20 = 3/20. Sacrificing ratio Amar:Bahadur = (1/10):(3/20) = 2:3.",
+            "options": [
+              "3:2",
+              "1:1",
+              "1:3",
+              "2:3"
+            ],
+            "question": "Amar and Bahadur are partners in a firm sharing profits in the ratio of 3:2. They admitted Mary as a new partner for 1/4 share. The new profit sharing ratio between Amar and Bahadur will be 2:1. Calculate their sacrificing ratio."
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Ramesh's sacrifice = Old share - New share = 4/7 - 2/6 = (24-14)/42 = 10/42. Suresh's old share = 3/7. Suresh's new share = 3/6. Suresh's gain = New share - Old share = 3/6 - 3/7 = (21-18)/42 = 3/42. Mohan's share = 1/6 = 7/42. Ramesh sacrifices 10/42, Suresh gains 3/42, Mohan gains 7/42. Ramesh's sacrifice (10/42) = Suresh's gain (3/42) + Mohan's gain (7/42). So Ramesh is the only sacrificing partner.",
+            "options": [
+              "Ramesh sacrifices, Suresh gains",
+              "Ramesh gains, Suresh sacrifices",
+              "Both sacrifice",
+              "Both gain"
+            ],
+            "question": "Ramesh and Suresh are partners in a firm sharing profits in the ratio of 4:3. They admitted Mohan as a new partner. The profit sharing ratio of Ramesh, Suresh and Mohan will be 2:3:1. Calculate the gain or sacrifice of old partner."
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Goodwill is an intangible asset that represents the value of a firm's reputation and ability to earn super profits. It is not a fictitious asset or a current asset.",
+            "options": [
+              "Fictitious asset",
+              "Current asset",
+              "Intangible asset",
+              "Tangible asset"
+            ],
+            "question": "Goodwill is considered a/an:"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Revaluation of assets and reassessment of liabilities, adjustment of goodwill, and distribution of accumulated profits and losses are all important adjustments at the time of admission of a new partner. Payment of creditors is a routine business transaction, not a special adjustment for admission.",
+            "options": [
+              "Revaluation of assets and reassessment of liabilities",
+              "Adjustment of goodwill",
+              "Distribution of accumulated profits and losses",
+              "Payment of sundry creditors"
+            ],
+            "question": "Which of the following is NOT an adjustment required at the time of admission of a new partner?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "The premium for goodwill brought by the new partner is distributed among the old partners in their sacrificing ratio to compensate them for the share of profits they are giving up.",
+            "options": [
+              "Sacrificing ratio",
+              "Old profit sharing ratio",
+              "New profit sharing ratio",
+              "Equal ratio"
+            ],
+            "question": "The amount of premium for goodwill brought in by the new partner is shared by the old partners in their:"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "When a new partner is admitted, the general reserve, which represents accumulated past profits, is transferred to the old partners' capital accounts in their old profit sharing ratio because the new partner has no claim on profits earned before their admission.",
+            "options": [
+              "old partners' capital accounts in old profit sharing ratio",
+              "all partners' capital accounts in new profit sharing ratio",
+              "new partner's capital account",
+              "Profit and Loss Adjustment account"
+            ],
+            "question": "At the time of admission of a new partner, general reserve appearing in the old balance sheet is transferred to:"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "When the value of assets increases during revaluation, the asset account is debited (increased) and the Revaluation Account is credited, as it represents a gain to the firm.",
+            "options": [
+              "Profit and Loss Adjustment account",
+              "Assets account",
+              "Old partner's capital account",
+              "None of the above"
+            ],
+            "question": "On the admission of a new partner, increase in the value of assets is debited to:"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "The admission of a new partner leads to a change in the existing partnership agreement, which signifies a reconstitution of the old partnership. The firm itself continues, but the partnership relationship is altered.",
+            "options": [
+              "old firm is dissolved",
+              "old firm and old partnership is dissolved",
+              "old partnership is reconstituted",
+              "None of the above"
+            ],
+            "question": "A, B and C are partners in a firm. If D is admitted as a new partner:"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Undistributed profits represent earnings from the period before the new partner's admission. These profits belong to the old partners, and therefore, they are transferred to their capital accounts in their old profit sharing ratio.",
+            "options": [
+              "old partners in old profit sharing ratio",
+              "old partners in new profit sharing ratio",
+              "all the partners in the new profit sharing ratio",
+              "new partner's capital account only"
+            ],
+            "question": "At the time of admission of a partner, undistributed profits appearing in the balance sheet of the old firm is transferred to the capital account of:"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "If goodwill already exists in the books, it should be written off among the old partners in their old profit-sharing ratio to avoid showing internally generated goodwill as an asset, as per AS 26. Then, the new partner's share of goodwill is treated.",
+            "options": [
+              "Written off in the old profit sharing ratio",
+              "Written off in the new profit sharing ratio",
+              "Retained in the books as it is",
+              "Distributed among all partners including the new partner"
+            ],
+            "question": "When goodwill already exists in the books of the firm at the time of a new partner's admission, it is typically:"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Hidden goodwill is inferred when the total capital of the firm, based on the new partner's capital and share, exceeds the actual combined capital of all partners. The difference represents the implied value of goodwill.",
+            "options": [
+              "It is always specified in the partnership deed.",
+              "It is inferred from the total capital of the firm based on the new partner's capital and the actual combined capital.",
+              "It is the amount explicitly brought in by the new partner as premium.",
+              "It is the excess of actual profits over normal profits."
+            ],
+            "question": "How is 'hidden goodwill' determined?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "According to the Partnership Act 1932, a new partner can only be admitted with the consent of all existing partners, unless the partnership deed specifies otherwise. This ensures unanimous agreement for changes in the firm's composition.",
+            "options": [
+              "Consent of majority of existing partners",
+              "Consent of 75% of existing partners",
+              "Consent of at least one existing partner",
+              "Consent of all existing partners (unless otherwise agreed in deed)"
+            ],
+            "question": "As per the Indian Partnership Act, 1932, a new partner can be admitted into a firm only with the:"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The Revaluation Account is a nominal account prepared to ascertain the net gain or loss from revaluing assets and reassessing liabilities. Its balance (profit or loss) is then transferred to the partners' capital accounts.",
+            "options": [
+              "Real Account",
+              "Nominal Account",
+              "Personal Account",
+              "Suspense Account"
+            ],
+            "question": "Revaluation Account is a kind of:"
+          }
+        ],
+        "numericalQuestions": [
+          {
+            "explanation": "This problem demonstrates the basic calculation of a new profit-sharing ratio when a new partner is admitted, assuming the new partner acquires their share from the old partners in their old profit-sharing ratio.",
+            "question": "Anil and Vishal are partners sharing profits in the ratio of 3:2. They admitted Sumit as a new partner for 1/5 share in the future profits of the firm. Calculate new profit sharing ratio of Anil, Vishal and Sumit.",
+            "steps": [
+              "Step 1: Determine the new partner's share.",
+              "Sumit's share = 1/5",
+              "Step 2: Calculate the remaining share of profits for the old partners.",
+              "Remaining share = Total Share - Sumit's Share = 1 - 1/5 = 4/5",
+              "Step 3: Distribute the remaining share among the old partners in their old profit-sharing ratio.",
+              "Anil's new share = Old Share of remaining profits = 3/5 of 4/5 = 12/25",
+              "Vishal's new share = Old Share of remaining profits = 2/5 of 4/5 = 8/25",
+              "Step 4: Express all partners' shares with a common denominator to find the new profit-sharing ratio.",
+              "Sumit's share = 1/5 = 5/25",
+              "New profit sharing ratio of Anil, Vishal and Sumit will be 12:8:5."
+            ],
+            "tableType": null
+          },
+          {
+            "explanation": "This problem illustrates how to calculate the sacrificing ratio when the new profit-sharing ratio is given. The sacrificing ratio is crucial for distributing the premium for goodwill among the old partners.",
+            "question": "Rohit and Mohit are partners in a firm sharing profits in the ratio of 5:3. They admit Bijoy as a new partner for 1/7 share in the profit. The new profit sharing ratio will be 4:2:1. Calculate the sacrificing ratio of Rohit and Mohit.",
+            "steps": [
+              "Step 1: Identify the old share and new share for each existing partner.",
+              "Rohit's old share = 5/8",
+              "Rohit's new share = 4/7",
+              "Mohit's old share = 3/8",
+              "Mohit's new share = 2/7",
+              "Step 2: Calculate each partner's sacrifice using the formula: Sacrifice = Old Share of Profit - New Share of Profit.",
+              "Rohit's sacrifice = 5/8 - 4/7 = (35 - 32) / 56 = 3/56",
+              "Mohit's sacrifice = 3/8 - 2/7 = (21 - 16) / 56 = 5/56",
+              "Step 3: State the sacrificing ratio.",
+              "Sacrificing ratio among Rohit and Mohit will be 3:5."
+            ],
+            "tableType": null
+          },
+          {
+            "explanation": "This problem demonstrates the Average Profits Method for valuing goodwill. This method assumes that future profits will be similar to past average profits, and goodwill is a multiple of these average profits.",
+            "question": "The profit for the five years of a firm are as follows – year 2013 Rs. 4,00,000; year 2014 Rs. 3,98,000; year 2015 Rs. 4,50,000; year 2016 Rs. 4,45,000 and year 2017 Rs. 5,00,000. Calculate goodwill of the firm on the basis of 4 years purchase of 5 years average profits.",
+            "steps": [
+              "Step 1: Calculate the total profits for the given years.",
+              "Total Profits = Rs. 4,00,000 (2013) + Rs. 3,98,000 (2014) + Rs. 4,50,000 (2015) + Rs. 4,45,000 (2016) + Rs. 5,00,000 (2017) = Rs. 21,93,000",
+              "Step 2: Calculate the Average Profit.",
+              "Average Profit = Total Profit of Last 5 Years / No. of years = Rs. 21,93,000 / 5 = Rs. 4,38,600",
+              "Step 3: Calculate Goodwill using the formula: Goodwill = Average Profits × No. of years purchased.",
+              "Goodwill = Rs. 4,38,600 × 4 = Rs. 17,54,400"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "particulars": "Year 2013",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": "Profit",
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 400000,
+                  "particulars": "Year 2014",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": "Profit",
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 398000,
+                  "particulars": "Year 2015",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": "Profit",
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 450000,
+                  "particulars": "Year 2016",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": "Profit",
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 445000,
+                  "particulars": "Year 2017",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": "Profit",
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 500000,
+                  "isTotal": true,
+                  "particulars": "Total Profit",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 2193000,
+                  "isTotal": null,
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                }
+              ]
+            },
+            "tableType": "general"
+          },
+          {
+            "explanation": "This problem illustrates the Super Profits Method of goodwill valuation. This method focuses on the firm's ability to earn profits above the normal rate of return, which is the true basis of goodwill.",
+            "question": "The books of a business showed that the firm’s capital employed on December 31, 2015, Rs. 5,00,000 and the profits for the last five years were: 2011–Rs. 40,000: 2012-Rs. 50,000; 2013-Rs. 55,000; 2014-Rs.70,000 and 2015-Rs. 85,000. You are required to find out the value of goodwill based on 3 years purchase of the super profits of the business, given that the normal rate of return is 10%.",
+            "steps": [
+              "Step 1: Calculate the Normal Profits.",
+              "Normal Profits = Firm's Capital × Normal Rate of Return / 100",
+              "Normal Profits = Rs. 5,00,000 × 10/100 = Rs. 50,000",
+              "Step 2: Calculate the Average Profits for the last five years.",
+              "Total Profits = Rs. 40,000 + Rs. 50,000 + Rs. 55,000 + Rs. 70,000 + Rs. 85,000 = Rs. 3,00,000",
+              "Average Profits = Total Profits / Number of Years = Rs. 3,00,000 / 5 = Rs. 60,000",
+              "Step 3: Calculate the Super Profits.",
+              "Super Profit = Average Profit – Normal Profit = Rs. 60,000 – Rs. 50,000 = Rs. 10,000",
+              "Step 4: Calculate Goodwill using the formula: Goodwill = Super Profit × No of years’ purchase.",
+              "Goodwill = Rs. 10,000 × 3 = Rs. 30,000"
+            ],
+            "tableData": {
+              "rows": [
+                {
+                  "particulars": "Year 2011",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": "Profit",
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 40000,
+                  "particulars": "Year 2012",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": "Profit",
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 50000,
+                  "particulars": "Year 2013",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": "Profit",
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 55000,
+                  "particulars": "Year 2014",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": "Profit",
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 70000,
+                  "particulars": "Year 2015",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": "Profit",
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 85000,
+                  "isTotal": true,
+                  "particulars": "Total Profit",
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                },
+                {
+                  "amount": 300000,
+                  "isTotal": null,
+                  "particulars": null,
+                  "paymentBank": null,
+                  "paymentCash": null,
+                  "paymentDate": null,
+                  "paymentLF": null,
+                  "paymentParticulars": null,
+                  "paymentVoucherNo": null,
+                  "receiptBank": null,
+                  "receiptCash": null,
+                  "receiptDate": null,
+                  "receiptLF": null,
+                  "receiptParticulars": null,
+                  "receiptVoucherNo": null
+                }
+              ]
+            },
+            "tableType": "general"
+          },
+          {
+            "explanation": "This problem illustrates the Capitalisation of Average Profits method for goodwill valuation. It involves calculating the capitalised value of average profits and then subtracting the firm's actual net assets to find goodwill.",
+            "question": "A business has earned average profits of Rs. 1,00,000 during the last few years and the normal rate of return in a similar business is 10%. Ascertain the value of goodwill by capitalisation average profits method, given that the value of net assets of the business is Rs. 8,20,000.",
+            "steps": [
+              "Step 1: Ascertain the Capitalised Value of Average Profits.",
+              "Capitalised Value of Average Profits = Average Profits × 100 / Normal Rate of Return",
+              "Capitalised Value = Rs. 1,00,000 × 100 / 10 = Rs. 10,00,000",
+              "Step 2: Compute the value of goodwill.",
+              "Goodwill = Capitalised Value – Net Assets = Rs. 10,00,000 – Rs. 8,20,000 = Rs. 1,80,000"
+            ],
+            "tableType": null
+          },
+          {
+            "explanation": "This comprehensive problem demonstrates the full accounting treatment upon the admission of a new partner, including journal entries for capital, goodwill, revaluation of assets and liabilities, and the preparation of the Revaluation Account, Partners' Capital Accounts, and the new Balance Sheet. It highlights the importance of fair adjustments to reflect current values and profit-sharing changes.",
+            "question": "Following is Balance Sheet of A and B who share profits in the ratio of 3:2. Balance Sheet of A and B as on April 1, 2015 Liabilities Amount (Rs.) Assets Amount (Rs.) Sundry creditors 20,000 Cash in hand 3,000 Capitals Debtors 12,000 A 30,000 Stock 15,000 B 20,000 50,000 Furniture 10,000 Plant and Machinery 30,000 70,000 70,000 On that date C is admitted into the partnership on the following terms: 1. C is to bring in Rs. 15,000 as capital and Rs. 5,000 as premium for goodwill for 1/6 share. 2. The value of stock is reduced by 10% while plant and machinery is appreciated by 10%. 3. Furniture is revalued at Rs. 9,000. 4. A provision for doubtful debts is to be created on sundry debtors at 5% and Rs. 200 is to be provided for an electricity bill. 5. Investment worth Rs. 1,000 (not mentioned in the balance sheet) is to be taken into account. 6. A creditor of Rs. 100 is not likely to claim his money and is to be written off. Record journal entries and prepare revaluation account and capital account of partners.",
+            "steps": [
+              "Step 1: Pass Journal Entries for the admission of C, goodwill, revaluation of assets and liabilities, and transfer of revaluation profit.",
+              "Journal Entries:",
+              "1. Bank A/c Dr. 20,000 (15,000 Capital + 5,000 Goodwill)",
+              "   To C’s Capital A/c 15,000",
+              "   To Premium for Goodwill A/c 5,000",
+              "   (Being cash brought in by C as capital and premium for goodwill)",
+              "2. Premium for Goodwill A/c Dr. 5,000",
+              "   To A’s Capital A/c 3,000 (5,000 x 3/5)",
+              "   To B’s Capital A/c 2,000 (5,000 x 2/5)",
+              "   (Being premium distributed between A and B in sacrificing ratio 3:2)",
+              "3. Revaluation A/c Dr. 3,100",
+              "   To Stock A/c 1,500 (10% of 15,000)",
+              "   To Furniture A/c 1,000 (10,000 - 9,000)",
+              "   To Provision for Doubtful Debts A/c 600 (5% of 12,000)",
+              "   (Being decrease in value of assets and creation of provision)",
+              "4. Plant and Machinery A/c Dr. 3,000 (10% of 30,000)",
+              "   Investment A/c Dr. 1,000",
+              "   To Revaluation A/c 4,000",
+              "   (Being increase in value of assets and unrecorded investment brought into account)",
+              "5. Revaluation A/c Dr. 200",
+              "   To Outstanding Electricity A/c 200",
+              "   (Being provision for outstanding electricity bill)",
+              "6. Sundry Creditors A/c Dr. 100",
+              "   To Revaluation A/c 100",
+              "   (Being unlikley claim by creditors written off)",
+              "7. Revaluation A/c Dr. 800 (Net Profit)",
+              "   To A’s Capital A/c 480 (800 x 3/5)",
+              "   To B’s Capital A/c 320 (800 x 2/5)",
+              "   (Being profit on revaluation transferred to A and B in old profit sharing ratio)",
+              "Step 2: Prepare the Revaluation Account.",
+              "Step 3: Prepare the Partners' Capital Accounts.",
+              "Step 4: Prepare the Balance Sheet of the new firm (not explicitly asked but implied by the typical full problem scenario and useful for verification, though I will only include what was specifically asked in this problem: journal, revaluation, capital accounts)."
+            ],
+            "tableData": {
+              "accounts": [
+                {
+                  "accountName": "Revaluation Account",
+                  "credits": [
+                    {
+                      "amount": 3000,
+                      "label": "By Plant and Machinery"
+                    },
+                    {
+                      "amount": 1000,
+                      "label": "By Investments"
+                    },
+                    {
+                      "amount": 100,
+                      "label": "By Sundry Creditors"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 1500,
+                      "label": "To Stock"
+                    },
+                    {
+                      "amount": 1000,
+                      "label": "To Furniture"
+                    },
+                    {
+                      "amount": 600,
+                      "label": "To Provision for Doubtful Debts"
+                    },
+                    {
+                      "amount": 200,
+                      "label": "To Outstanding Electricity"
+                    },
+                    {
+                      "amount": 480,
+                      "label": "To A’s Capital"
+                    },
+                    {
+                      "amount": 320,
+                      "label": "To B’s Capital"
+                    }
+                  ]
+                },
+                {
+                  "accountName": "Partners’ Capital Accounts",
+                  "credits": [
+                    {
+                      "amount": 30000,
+                      "label": "By Balance b/d (A)"
+                    },
+                    {
+                      "amount": 20000,
+                      "label": "By Balance b/d (B)"
+                    },
+                    {
+                      "amount": 15000,
+                      "label": "By Bank (C)"
+                    },
+                    {
+                      "amount": 3000,
+                      "label": "By Goodwill (A)"
+                    },
+                    {
+                      "amount": 2000,
+                      "label": "By Goodwill (B)"
+                    },
+                    {
+                      "amount": 480,
+                      "label": "By Revaluation (Profit) (A)"
+                    },
+                    {
+                      "amount": 320,
+                      "label": "By Revaluation (Profit) (B)"
+                    }
+                  ],
+                  "debits": [
+                    {
+                      "amount": 33480,
+                      "label": "To Balance c/d (A)"
+                    },
+                    {
+                      "amount": 22320,
+                      "label": "To Balance c/d (B)"
+                    },
+                    {
+                      "amount": 15000,
+                      "label": "To Balance c/d (C)"
+                    }
+                  ]
+                }
+              ],
+              "rows": [
+                {
+                  "account": "Bank A/c",
+                  "credit": 0,
+                  "date": "April 01",
+                  "debit": 20000,
+                  "narration": "(The amount brought in by C as Capital and Goodwill)",
+                  "particulars": null
+                },
+                {
+                  "account": "To C’s capital account",
+                  "credit": 15000,
+                  "date": null,
+                  "debit": 0,
+                  "narration": null,
+                  "particulars": null
+                },
+                {
+                  "account": "To Premium for Goodwill A/c",
+                  "credit": 5000,
+                  "date": null,
+                  "debit": 0,
+                  "narration": null,
+                  "particulars": null
+                },
+                {
+                  "account": "Goodwill A/c",
+                  "credit": 0,
+                  "date": "April 02",
+                  "debit": 5000,
+                  "narration": "(Premium divided between A and B in sacrificing ratio 3:2)",
+                  "particulars": null
+                },
+                {
+                  "account": "To A’s Capital A/c",
+                  "credit": 3000,
+                  "date": null,
+                  "debit": 0,
+                  "narration": null,
+                  "particulars": null
+                },
+                {
+                  "account": "To B’s Capital A/c",
+                  "credit": 2000,
+                  "date": null,
+                  "debit": 0,
+                  "narration": null,
+                  "particulars": null
+                },
+                {
+                  "account": "Revaluation A/c",
+                  "credit": 0,
+                  "date": "April 03",
+                  "debit": 3100,
+                  "narration": "(Revaluation in the value of assets)",
+                  "particulars": null
+                },
+                {
+                  "account": "To Stock A/c",
+                  "credit": 1500,
+                  "date": null,
+                  "debit": 0,
+                  "narration": null,
+                  "particulars": null
+                },
+                {
+                  "account": "To Furniture A/c",
+                  "credit": 1000,
+                  "date": null,
+                  "debit": 0,
+                  "narration": null,
+                  "particulars": null
+                },
+                {
+                  "account": "To Provision for Doubtful Debt A/c",
+                  "credit": 600,
+                  "date": null,
+                  "debit": 0,
+                  "narration": null,
+                  "particulars": null
+                },
+                {
+                  "account": "Plant and Machinery A/c",
+                  "credit": 0,
+                  "date": "April 04",
+                  "debit": 3000,
+                  "narration": null,
+                  "particulars": null
+                },
+                {
+                  "account": "Investment A/c",
+                  "credit": 0,
+                  "date": null,
+                  "debit": 1000,
+                  "narration": "(Increase in the value of assets on revaluation)",
+                  "particulars": null
+                },
+                {
+                  "account": "To Revaluation A/c",
+                  "credit": 4000,
+                  "date": null,
+                  "debit": 0,
+                  "narration": null,
+                  "particulars": null
+                },
+                {
+                  "account": "Revaluation A/c",
+                  "credit": 0,
+                  "date": "April 05",
+                  "debit": 200,
+                  "narration": "(Amount provided for outstanding electricity bill)",
+                  "particulars": null
+                },
+                {
+                  "account": "To Outstanding Electricity A/c",
+                  "credit": 200,
+                  "date": null,
+                  "debit": 0,
+                  "narration": null,
+                  "particulars": null
+                },
+                {
+                  "account": "Sundry Creditors A/c",
+                  "credit": 0,
+                  "date": "April 06",
+                  "debit": 100,
+                  "narration": "(Amount not likely to be claimed by the creditors written off)",
+                  "particulars": null
+                },
+                {
+                  "account": "To Revaluation A/c",
+                  "credit": 100,
+                  "date": null,
+                  "debit": 0,
+                  "narration": null,
+                  "particulars": null
+                },
+                {
+                  "account": "Revaluation A/c",
+                  "credit": 0,
+                  "date": "April 07",
+                  "debit": 800,
+                  "narration": "(Profit on revaluation of assets and re-assessment of liabilities transferred to A and B in old profit sharing ratio)",
+                  "particulars": null
+                },
+                {
+                  "account": "To A’s Capital A/c",
+                  "credit": 480,
+                  "date": null,
+                  "debit": 0,
+                  "narration": null,
+                  "particulars": null
+                },
+                {
+                  "account": "To B’s Capital A/c",
+                  "credit": 320,
+                  "date": null,
+                  "debit": 0,
+                  "narration": null,
+                  "particulars": null
+                }
+              ]
+            },
+            "tableType": "journal"
+          },
+          {
+            "explanation": "This problem illustrates the adjustment of partners' capital accounts to be proportionate to their new profit-sharing ratio after a new partner's admission. It highlights the mechanism for partners to bring in or withdraw cash to achieve the desired capital structure.",
+            "question": "A and B are partners sharing profits in the ratio of 2:1. C is admitted into the firm for 1/4 share of profits. C brings in Rs. 20,000 in respect of his capital. The capitals of old partners A and B, after all adjustments relating to goodwill, revaluation of assets and liabilities, etc., are Rs. 45,000 and Rs. 15,000 respectively. It is agreed that partners’ capitals should be according to the new profit sharing ratio. Determine the new capitals of A and B and record the necessary journal entries assuming that the partner whose capital falls short, brings in the amount of deficiency and the partner who has an excess, withdraws the excess amount.",
+            "steps": [
+              "Step 1: Calculate the new profit sharing ratio.",
+              "Assuming C acquires his share from A and B in their old profit sharing ratio (2:1).",
+              "C’s Share = 1/4",
+              "Remaining Share = 1 - 1/4 = 3/4",
+              "A’s New Share = 2/3 of 3/4 = 6/12 = 2/4",
+              "B’s New Share = 1/3 of 3/4 = 3/12 = 1/4",
+              "Thus, new profit sharing ratio between A, B and C is 2:1:1.",
+              "Step 2: Determine the total capital of the firm based on the new partner's capital.",
+              "C’s capital (for 1/4 share) is Rs. 20,000.",
+              "Total capital of the firm = Rs. 20,000 × (4/1) = Rs. 80,000",
+              "Step 3: Calculate the required capital for A and B based on the new profit sharing ratio.",
+              "A’s required capital = 2/4 of Rs. 80,000 = Rs. 40,000",
+              "B’s required capital = 1/4 of Rs. 80,000 = Rs. 20,000",
+              "Step 4: Compare required capital with existing capital (after adjustments) and determine cash to be brought in or withdrawn.",
+              "A’s existing capital = Rs. 45,000. Required capital = Rs. 40,000.",
+              "A will withdraw = Rs. 45,000 - Rs. 40,000 = Rs. 5,000",
+              "B’s existing capital = Rs. 15,000. Required capital = Rs. 20,000.",
+              "B will bring in = Rs. 20,000 - Rs. 15,000 = Rs. 5,000",
+              "Step 5: Pass the necessary journal entries.",
+              "Journal Entry for A's withdrawal:",
+              "A’s Capital A/c Dr. 5,000",
+              "   To Cash A/c 5,000",
+              "   (Being excess capital withdrawn by A)",
+              "Journal Entry for B's contribution:",
+              "Cash A/c Dr. 5,000",
+              "   To B’s Capital A/c 5,000",
+              "   (Being deficiency made good by additional amount brought in by B)"
+            ],
+            "tableType": null
+          }
+        ],
+        "oneWord": [
+          {
+            "correctAnswer": "Reconstitution",
+            "question": "What is the term for any change in the existing partnership agreement?"
+          },
+          {
+            "correctAnswer": "Capital",
+            "question": "What does a newly admitted partner bring to acquire share in assets and profits?"
+          },
+          {
+            "correctAnswer": "Goodwill",
+            "question": "What is the additional amount contributed by a new partner in an established firm, compensating for loss of super profits?"
+          },
+          {
+            "correctAnswer": "Sacrificing Ratio",
+            "question": "What is the ratio in which old partners agree to give up their profit share in favor of an incoming partner?"
+          },
+          {
+            "correctAnswer": "Intangible Asset",
+            "question": "Goodwill is classified as what type of asset?"
+          },
+          {
+            "correctAnswer": "Super Profits",
+            "question": "What is the term for profits that are in excess of the normal return on capital employed?"
+          },
+          {
+            "correctAnswer": "Revaluation Account",
+            "question": "Which account is prepared to adjust the values of assets and liabilities at the time of partner admission?"
+          },
+          {
+            "correctAnswer": "Old Ratio",
+            "question": "Accumulated profits are distributed among old partners in which ratio?"
+          },
+          {
+            "correctAnswer": "AS 26",
+            "question": "Which Accounting Standard deals with the treatment of Intangible Assets, including goodwill?"
+          },
+          {
+            "correctAnswer": "Hidden Goodwill",
+            "question": "What is the term for goodwill whose value is not explicitly stated but inferred from capital and profit-sharing arrangements?"
+          },
+          {
+            "correctAnswer": "Cash Book",
+            "question": "Which financial record summarizes all cash and bank transactions?"
+          },
+          {
+            "correctAnswer": "Balance Sheet",
+            "question": "Which statement shows the financial position of a firm at a specific point in time?"
+          }
+        ],
+        "shortAnswer1": [
+          {
+            "answer": "The need for revaluation of assets and liabilities arises on the admission of a partner to present the true and fair view of the firm's financial position. Overstated or understated assets/liabilities are brought to their current values, and unrecorded items are accounted for. This ensures that the newly admitted partner neither benefits from undisclosed profits (due to undervalued assets or overvalued liabilities) nor suffers from undisclosed losses (due to overvalued assets or undervalued liabilities) that occurred before their admission. The gain or loss on revaluation is distributed among old partners in their old profit-sharing ratio.",
+            "question": "Why is there a need for the revaluation of assets and liabilities on the admission of a partner?"
+          },
+          {
+            "answer": "Goodwill is the monetary value of a firm's good name, reputation, and wide business connections. It is an intangible asset that helps a business earn more profits (super profits) compared to a newly set up business. Factors affecting goodwill include: nature of business (stable demand, high-value products), location (central, high customer traffic), efficiency of management (high productivity, cost efficiency), market situation (monopoly, limited competition), and special advantages (licenses, long-term contracts, patents, trademarks).",
+            "question": "What is goodwill? What factors affect goodwill?"
+          },
+          {
+            "answer": "The sacrificing ratio is the ratio in which the old partners agree to sacrifice their share of profit in favour of the incoming partner. It is calculated to determine how the premium for goodwill brought by the new partner will be distributed among the old partners. This compensation is given to the sacrificing partners for the reduction in their future profit share due to the admission of the new partner.",
+            "question": "What is sacrificing ratio? Why is it calculated?"
+          },
+          {
+            "answer": "When a new partner is admitted, they acquire a share in future profits. This share must come from the old partners, meaning their individual profit shares will change. Ascertaining the new profit-sharing ratio for all partners, including the old ones, is necessary because it forms the basis for future profit distribution, adjustment of capital, and calculation of the sacrificing ratio, ensuring clarity and fairness in the reconstituted partnership.",
+            "question": "Why is it necessary to ascertain new profit sharing ratio even for old partners when a new partner is admitted?"
+          },
+          {
+            "answer": "On the admission of a new partner, any goodwill already existing in the books of the firm is typically written off. This is done by debiting the old partners' capital accounts in their old profit-sharing ratio and crediting the goodwill account. This ensures that only the new partner's share of goodwill (premium) is accounted for or adjusted for, aligning with Accounting Standard 26 which generally discourages internally generated goodwill from being shown as an asset.",
+            "question": "If some goodwill already exists in the books and the new partner brings in his share of goodwill in cash, how will you deal with existing amount of goodwill?"
+          }
+        ],
+        "shortAnswer2": [
+          {
+            "answer": "When a new partner is unable to bring their share of goodwill in cash, their Current Account is debited with the amount of goodwill not brought in. Simultaneously, the Sacrificing Partners' Capital Accounts are credited in their sacrificing ratio. This method records the new partner's obligation towards goodwill and ensures that the sacrificing partners are compensated, without the actual cash inflow for goodwill. The new partner's current account will show a debit balance representing the amount due from them.",
+            "question": "Explain how you will deal with goodwill when a new partner is not in a position to bring his share of goodwill in cash."
+          },
+          {
+            "answer": "Accumulated profits and losses represent undistributed balances from prior periods. On admission of a new partner, these balances (e.g., General Reserve, P&L Account credit balance) belong to the old partners. They are distributed by crediting the old partners’ capital/current accounts in their old profit-sharing ratio. Conversely, accumulated losses (e.g., P&L Account debit balance, deferred revenue expenditure) are transferred by debiting the old partners’ capital/current accounts in their old profit-sharing ratio. This ensures that the new partner neither shares in past profits nor bears past losses.",
+            "question": "How will you deal with the accumulated profits and losses and reserves on the admission of a new partner?"
+          },
+          {
+            "answer": "If partners agree to adjust capitals proportionate to their new profit sharing ratio, the new partner's capital and share are used as a base to calculate the total capital of the firm. Then, each partner's required capital is determined by applying their new profit sharing ratio to this total capital. The difference between their existing (adjusted) capital and required capital determines if they need to bring in more cash or withdraw excess. This adjustment can be done through cash or by transferring the difference to their respective current accounts, ensuring capital structure aligns with profit-sharing.",
+            "question": "If it is agreed that the capital of all the partners should be proportionate to the new profit sharing ratio, how will you work out the new capital of each partner? State how necessary adjustments will be made."
+          },
+          {
+            "answer": "Accounting Standard 26 (AS 26) on Intangible Assets affects goodwill treatment significantly. It mandates that internally generated goodwill should NOT be recognized as an asset in the books of accounts. Only purchased goodwill can be recorded, and even then, it should be amortized (written off) over its estimated useful life, not exceeding 10 years. This implies that at the time of reconstitution, if goodwill is valued but not purchased (i.e., self-generated), it is typically adjusted through partners' capital accounts (debiting gaining partners, crediting sacrificing partners) without opening a Goodwill Account in the balance sheet.",
+            "question": "Discuss the applicability of Accounting Standard 26 regarding the treatment of goodwill at the time of admission of a new partner."
+          },
+          {
+            "answer": "The sacrificing ratio is primarily used in two main situations: 1. Distribution of Premium for Goodwill: When a new partner brings in a premium for goodwill, this amount is distributed among the old partners in their sacrificing ratio to compensate them for giving up a share of future profits. 2. Adjustment of Goodwill (when not brought in cash): If the new partner cannot bring goodwill in cash, their current account is debited, and the sacrificing partners' capital accounts are credited in the sacrificing ratio.",
+            "question": "On what occasions is sacrificing ratio used?"
+          }
+        ],
+        "trueFalse": [
+          {
+            "correctAnswer": true,
+            "explanation": "Any change in the existing partnership agreement, whether it's admission, retirement, death, or change in profit sharing, leads to the reconstitution of the firm.",
+            "question": "Any change in the existing agreement amounts to reconstitution of the partnership firm."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "A new partner can only be admitted with the unanimous consent of all existing partners, unless the partnership deed explicitly states otherwise.",
+            "question": "A new partner can be admitted even if only a majority of existing partners agree."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "A newly admitted partner gains the right to share both the assets and the future profits of the partnership firm.",
+            "question": "A newly admitted partner acquires the right to share the assets and profits of the partnership firm."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The sacrificing ratio measures how much old partners' profit shares are reduced to accommodate the new partner.",
+            "question": "The sacrifice by a partner is equal to their old share of profit minus their new share of profit."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Goodwill exists only when a firm earns super profits (profits above normal return). A firm earning normal profits or incurring losses has no goodwill in accounting terms.",
+            "question": "A firm that earns normal profits always has goodwill."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Monopoly conditions or limited competition can lead to higher profits and thus a higher value of goodwill due to reduced market pressure.",
+            "question": "Monopoly market conditions can lead to a higher value of goodwill."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Internally generated goodwill, according to AS 26, should not be recognized as an asset in the books of accounts. Only purchased goodwill can be recognized.",
+            "question": "Internally generated goodwill should be recognised as an asset in the books of accounts."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "If the premium for goodwill is paid directly and privately by the new partner to the old partners, it does not involve the firm's books, so no entry is passed.",
+            "question": "If the amount of premium for goodwill is paid privately by the new partner to the old partners, no entry is passed in the firm's books."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Accumulated profits and losses existing at the time of admission belong to the old partners and are distributed among them in their old profit sharing ratio before the new partner joins.",
+            "question": "Accumulated profits and losses appearing in the balance sheet are distributed among old partners in their old profit sharing ratio."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "When assets are revalued and their value decreases, it results in a loss for the firm, and the Revaluation Account is debited (to decrease its balance or reflect loss) and the Asset Account is credited.",
+            "question": "Increase in the value of an asset is debited to the Revaluation Account."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Unrecorded assets, when brought into the books, increase the firm's assets and are considered a gain, thus they are debited to the Asset A/c and credited to the Revaluation A/c.",
+            "question": "An unrecorded asset, when brought into the books, is credited to the Revaluation Account."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "The profit or loss on revaluation is always transferred to the capital accounts of the old partners only, in their old profit sharing ratio, because it relates to the period before the new partner's admission.",
+            "question": "The gain or loss on revaluation of assets and reassessment of liabilities is transferred to the capital accounts of all partners in the new profit sharing ratio."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "If capital accounts are adjusted to be proportionate to the new profit sharing ratio, the new partner's capital is often used as a base to determine the required capital for old partners.",
+            "question": "If the new partner's capital is given, it can be used as a base for calculating the new capitals of the old partners proportionate to the new profit sharing ratio."
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "back": "Any change in the existing agreement among partners which results in an end of the existing agreement and a new agreement comes into being with a changed relationship among the members of the partnership firm and/or their composition, while the firm continues.",
+          "front": "Reconstitution of a Partnership Firm"
+        },
+        {
+          "back": "A situation where a new person is admitted into an existing partnership, usually when the firm needs additional capital or managerial help. Requires unanimous consent of existing partners unless otherwise provided in the partnership deed.",
+          "front": "Admission of a New Partner"
+        },
+        {
+          "back": "The ratio in which all partners (old and new) will share future profits after the admission of a new partner or change in existing profit sharing ratio.",
+          "front": "New Profit Sharing Ratio"
+        },
+        {
+          "back": "The ratio in which the old partners agree to sacrifice their share of profit in favour of the incoming partner.",
+          "front": "Sacrificing Ratio"
+        },
+        {
+          "back": "The monetary value of the reputation of a firm in respect of the profits expected in future over and above the normal profits. It is an intangible asset.",
+          "front": "Goodwill"
+        },
+        {
+          "back": "The excess of actual (or average) profits over the normal profits that a firm earns. Goodwill exists only when a firm earns super profits.",
+          "front": "Super Profits"
+        },
+        {
+          "back": "A method of goodwill valuation where goodwill is valued at an agreed number of 'years' purchase of the average profits of the past few years.",
+          "front": "Average Profits Method (Goodwill)"
+        },
+        {
+          "back": "A method of goodwill valuation where goodwill is ascertained by multiplying the super profits by a certain number of years' purchase.",
+          "front": "Super Profits Method (Goodwill)"
+        },
+        {
+          "back": "A method where goodwill is ascertained by deducting the actual firm’s capital (net assets) from the capitalized value of the average profits on the basis of the normal rate of return.",
+          "front": "Capitalisation of Average Profits Method"
+        },
+        {
+          "back": "A method where goodwill is ascertained by capitalizing the super profit directly, using the formula: Super Profits × 100 / Normal Rate of Return.",
+          "front": "Capitalisation of Super Profits Method"
+        },
+        {
+          "back": "The additional amount brought in by the new partner to compensate the sacrificing partners for the loss of their share in super profits, also referred to as share of goodwill.",
+          "front": "Premium for Goodwill"
+        },
+        {
+          "back": "Goodwill whose value is not explicitly given but has to be inferred from the arrangement of the capital and profit sharing ratio of the partners.",
+          "front": "Hidden Goodwill"
+        },
+        {
+          "back": "A nominal account prepared at the time of reconstitution of a firm to record the increase or decrease in the value of assets and liabilities, and any unrecorded assets or liabilities. Its balance (profit or loss) is transferred to old partners' capital accounts.",
+          "front": "Revaluation Account"
+        },
+        {
+          "back": "Profits of previous years that have not yet been transferred to the capital accounts of the partners and are typically in the form of general reserve or Profit and Loss Account credit balance.",
+          "front": "Accumulated Profits"
+        },
+        {
+          "back": "Losses incurred in previous years that have not yet been transferred to the capital accounts of the partners, usually appearing as a debit balance of Profit and Loss Account or deferred revenue expenditure.",
+          "front": "Accumulated Losses"
+        },
+        {
+          "back": "The process of bringing the capital accounts of partners to be proportionate to their new profit-sharing ratio, often requiring partners to bring in or withdraw cash.",
+          "front": "Adjustment of Capitals"
+        },
+        {
+          "back": "A mode of partnership reconstitution where existing partners decide to alter their shares in profits without admission or retirement of a partner, leading to gain for some and loss for others.",
+          "front": "Change in Profit Sharing Ratio among Existing Partners"
+        },
+        {
+          "back": "According to AS 26, this type of goodwill should not be recognized as an asset in the books of accounts.",
+          "front": "Internally Generated Goodwill"
+        }
+      ],
+      "id": "chapter2",
+      "longAnswerQuestions": [
+        {
+          "answer150Words": "Yes, it is advisable that assets and liabilities must be revalued at the time of admission of a partner. This is crucial because the historical values of assets and liabilities shown in the old balance sheet may not reflect their true current market values. Revaluation ensures fairness to both old and new partners. If assets are undervalued or liabilities overvalued, the new partner would implicitly benefit from profits earned before their admission without contributing to them. Conversely, if assets are overvalued or liabilities undervalued, the new partner would bear losses incurred before their entry. By revaluing, all existing hidden profits or losses up to the date of admission are ascertained and adjusted. In the books, a 'Revaluation Account' (or Profit and Loss Adjustment Account) is prepared. Increases in asset values and decreases in liabilities are credited to this account. Decreases in asset values and increases in liabilities are debited. Unrecorded assets are credited, and unrecorded liabilities are debited. The net balance (profit or loss) of the Revaluation Account is then transferred to the Old Partners' Capital Accounts in their Old Profit Sharing Ratio. The new balance sheet reflects the revalued figures.",
+          "answer200Words": "Yes, it is highly advisable and indeed necessary that assets and liabilities must be revalued at the time of admission of a new partner. The primary reason is to reflect the true and fair financial position of the firm at the point of the new partner's entry. Over time, the book values of assets and liabilities may deviate significantly from their current market values. If assets are undervalued or liabilities are overvalued in the books, it means there are 'hidden profits' that belong to the existing partners. If assets are overvalued or liabilities undervalued, there are 'hidden losses'. Failing to revalue would lead to an unfair sharing of these past profits or losses with the incoming partner, who was not a part of the firm when these values changed. For instance, if land purchased years ago is now worth significantly more, this increase in value should benefit only the old partners. The revaluation process brings all assets and liabilities to their current realizable values, including accounting for any unrecorded assets or liabilities. This ensures that the capital accounts of the old partners accurately reflect their true financial standing just before the new partner's admission. In the books of account, a 'Revaluation Account' (also known as 'Profit and Loss Adjustment Account') is opened. All increases in asset values and decreases in liabilities are credited to this account, as they represent gains. Conversely, all decreases in asset values and increases in liabilities are debited to this account, as they represent losses. Any unrecorded assets discovered are debited to the asset account and credited to the revaluation account, while unrecorded liabilities are debited to revaluation and credited to the liability account. The final balance of the Revaluation Account (profit or loss) is then transferred to the Old Partners' Capital Accounts in their Old Profit Sharing Ratio. After these adjustments, the new balance sheet will show the assets and liabilities at their revalued figures, providing a clear starting point for the new partnership.",
+          "answer50To75Words": "Yes, revaluation of assets and liabilities is necessary upon a new partner's admission. This ensures that the true current values are reflected, preventing the new partner from gaining or losing from unrecorded profits or losses accumulated before their entry. Any gain or loss from revaluation is transferred to the old partners' capital accounts in their old profit-sharing ratio, ensuring fairness and accurate capital representation for all.",
+          "text": "Do you advise that assets and liabilities must be revalued at the time of admission of a partner? If so, why? Also describe how is this treated in the book of account?",
+          "title": "Necessity and Treatment of Revaluation"
+        },
+        {
+          "answer150Words": "Goodwill is an intangible asset representing the monetary value of a firm's reputation, brand name, and business connections, which enables it to earn super profits (profits above normal returns) compared to average firms. It reflects customer loyalty, efficient management, and market position. Factors affecting goodwill include: 1. Nature of Business: Stable demand, high-value products lead to higher goodwill. 2. Location: Prime locations with high customer traffic increase goodwill. 3. Efficiency of Management: Well-managed firms with high productivity and cost efficiency tend to have higher profits and thus more goodwill. 4. Market Situation: Monopoly or limited competition allows for higher profits, enhancing goodwill. 5. Special Advantages: Possession of import licenses, assured supply contracts, patents, or trademarks can give a firm an edge, contributing to higher goodwill.",
+          "answer200Words": "Goodwill is defined as the value of the reputation of a firm in respect of the profits expected in the future over and above the normal profits. It is an intangible asset that embodies the cumulative benefits derived from a business's good name, brand recognition, customer loyalty, and strategic relationships. Essentially, when a person pays for goodwill, they are paying for the firm's ability to generate 'super profits' – earnings that exceed the normal rate of return on capital employed in a similar industry. Goodwill exists only if the firm earns super profits; a firm earning normal profits or incurring losses has no goodwill in accounting terms. Several factors significantly affect the value of goodwill: 1. Nature of Business: Businesses dealing in high-value-added products or those with stable, consistent demand tend to have higher goodwill due to more reliable future profits. 2. Location: A strategically or centrally located business, or one in an area with high customer traffic, typically enjoys higher goodwill because of increased accessibility and customer base. 3. Efficiency of Management: A highly efficient and competent management team leads to better productivity, cost control, and overall profitability, thereby increasing the firm’s goodwill. 4. Market Situation: A firm operating in a monopolistic market or facing limited competition has a greater ability to dictate prices and earn higher profits, which contributes positively to goodwill. 5. Special Advantages: Unique benefits such as exclusive import licenses, long-term favorable supply contracts, assured electricity supply, well-known collaborations, patented products, or registered trademarks provide a competitive edge and enhance the value of goodwill.",
+          "answer50To75Words": "Goodwill is an intangible asset representing a firm's reputation and its ability to earn super profits. Factors affecting its value include: nature of business (e.g., stable demand), location (e.g., central), efficiency of management, market situation (e.g., monopoly), and special advantages (e.g., patents). It essentially quantifies the present value of anticipated excess earnings due to these factors.",
+          "text": "What is goodwill? What factors affect goodwill?",
+          "title": "Goodwill: Meaning and Affecting Factors"
+        },
+        {
+          "answer150Words": "There are three important methods for the valuation of goodwill: 1. Average Profits Method: Goodwill is calculated as an agreed number of years’ purchase of the average profits of the past few years. It assumes that a new business would take some years to earn similar profits, so the buyer pays for those initial years' anticipated profits. 2. Super Profits Method: Goodwill is valued by multiplying the 'super profits' (excess of average actual profits over normal profits) by a certain number of years’ purchase. This method considers only the firm's ability to earn abnormal profits, which is a more accurate reflection of goodwill. 3. Capitalisation Method: This has two approaches: a) Capitalisation of Average Profits: Goodwill is found by deducting the actual capital employed (net assets) from the capitalized value of the average profits (Average Profits × 100/Normal Rate of Return). b) Capitalisation of Super Profits: Goodwill is calculated by directly capitalizing super profits (Super Profits × 100/Normal Rate of Return). Both capitalisation methods yield the same goodwill value.",
+          "answer200Words": "There are three important methods widely advocated for the valuation of goodwill of a partnership firm, each offering a different perspective on valuing the firm's intangible earning capacity: 1. Average Profits Method: Under this method, goodwill is valued at an agreed number of 'years' purchase' of the average profits earned by the firm over the past few years. The underlying assumption is that a new business starting from scratch would not be able to earn any profits during its initial years. Therefore, the purchaser of a running business pays an amount equivalent to the profits they are likely to receive for those initial years, typically calculated by multiplying the past average profits by the 'number of years' purchase'. This method is simple but may not fully capture the firm's unique earning capacity. 2. Super Profits Method: This method is considered more scientific as it focuses on the firm's ability to earn profits above the normal rate of return on capital employed in a similar business. 'Super profits' are calculated as the excess of the firm's average actual profits over its normal profits. Goodwill is then ascertained by multiplying these super profits by a certain number of 'years' purchase'. This method values the 'extra' earning capacity that differentiates a successful firm. 3. Capitalisation Method: This method attempts to find the capital needed to earn the average or super profits at the normal rate of return. It has two variations: a) Capitalisation of Average Profits: This involves calculating the capitalized value of the average profits (Average Profits × 100 / Normal Rate of Return). From this capitalized value, the firm's actual capital employed (Net Assets) is deducted. The difference represents goodwill, as it is the extra capital required to generate the firm's average profits given the normal rate. b) Capitalisation of Super Profits: This method directly capitalizes the super profits. Goodwill is calculated by multiplying the super profits by 100 and dividing by the Normal Rate of Return (Super Profits × 100 / Normal Rate of Return). Both capitalisation approaches theoretically yield the same value of goodwill, as they are based on the same economic principle of valuing excess earning capacity.",
+          "answer50To75Words": "Goodwill can be valued using three primary methods: 1. Average Profits Method: Based on multiplying past average profits by 'years' purchase'. 2. Super Profits Method: Based on multiplying 'super profits' (excess over normal profits) by 'years' purchase'. 3. Capitalisation Method: Either by capitalizing average profits and deducting net assets, or by directly capitalizing super profits. Each method aims to quantify the firm's earning capacity.",
+          "text": "Explain various methods of valuation of goodwill.",
+          "title": "Methods of Goodwill Valuation"
+        },
+        {
+          "answer150Words": "When a new partner is admitted and is unable to bring their share of goodwill (premium) in cash, the accounting treatment ensures that the sacrificing partners are still compensated. According to accounting practices, the new partner's Current Account is debited with the full amount of their share of goodwill that they could not bring in cash. Simultaneously, the Capital Accounts of the sacrificing partners are credited in their sacrificing ratio. This treatment creates a debit balance in the new partner's current account, indicating the amount due from them to the firm for their share of goodwill. This approach avoids showing self-generated goodwill as an asset in the balance sheet, aligning with Accounting Standard 26. If the new partner brings part of the premium in cash, the cash portion is debited to Bank/Cash and credited to Premium for Goodwill Account, while the unbrought portion is debited to the new partner's Current Account, with the total premium then distributed to sacrificing partners' capital accounts.",
+          "answer200Words": "When a new partner is admitted but is not in a position to bring their share of goodwill (also known as premium for goodwill) in cash, either partly or fully, specific accounting treatment is required to ensure fairness to the existing partners who are sacrificing their share of profits. The general principle remains that the sacrificing partners must be compensated for their loss of share in super profits. In such a scenario, the following journal entries are passed:\n\n1.  **If goodwill does not exist in the books:** The Incoming (New) Partner's Current Account is debited with the amount of goodwill that the new partner has failed to bring in cash. Simultaneously, the Sacrificing Partners' Capital Accounts are credited with their respective shares in the sacrificing ratio. This entry recognizes the claim of the sacrificing partners against the new partner for goodwill.\n    *   *Journal Entry:* Incoming Partner's Current A/c Dr. / To Sacrificing Partners' Capital A/c's (individually)\n\n2.  **If goodwill already exists in the books:** First, the existing goodwill appearing in the balance sheet is written off by debiting the Old Partners' Capital Accounts (in their old profit-sharing ratio) and crediting the Goodwill Account. This ensures that only the new valuation of goodwill is considered. After writing off the old goodwill, the new valuation of goodwill (or the new partner's share of it) is given effect as described in point 1: the Incoming Partner's Current Account is debited for their share of goodwill not brought in cash, and the Sacrificing Partners' Capital Accounts are credited in their sacrificing ratio. This method effectively adjusts the capital accounts without the actual cash inflow for goodwill from the new partner, creating a debit balance in the new partner's current account until it is settled.",
+          "answer50To75Words": "If a new partner cannot bring goodwill in cash, their Current Account is debited with the outstanding amount. The Sacrificing Partners' Capital Accounts are credited in their sacrificing ratio. This compensates old partners without cash flow and ensures the new partner's liability for goodwill is recorded. If existing goodwill is present, it's first written off among old partners.",
+          "text": "Explain how will you deal with goodwill when new partner is not in a position to bring his share of goodwill in cash.",
+          "title": "Treatment of Goodwill When Not Brought in Cash"
+        },
+        {
+          "answer150Words": "The treatment of goodwill on the admission of a new partner varies based on whether the new partner brings their share of goodwill in cash and if goodwill already exists in the books:\n\n1.  **When New Partner brings goodwill in cash:**\n    *   **Premium is retained in business:** Cash/Bank A/c is debited, and New Partner's Capital A/c (for capital) and Premium for Goodwill A/c (for goodwill) are credited. Then, Premium for Goodwill A/c is debited, and Sacrificing Partners' Capital A/cs are credited in their sacrificing ratio.\n    *   **Premium is fully/partially withdrawn:** In addition to the above, Sacrificing Partners' Capital A/cs are debited, and Cash/Bank A/c is credited for the withdrawn amount.\n\n2.  **When New Partner does NOT bring goodwill in cash (partly or fully):**\n    *   New Partner's Current Account is debited with the amount not brought in. Sacrificing Partners' Capital A/cs are credited in their sacrificing ratio. If partially brought, Cash/Bank A/c is also debited for the cash amount, and Premium for Goodwill A/c is credited, then this premium and the current account debit are offset by credits to sacrificing partners' capital accounts.\n\n3.  **When Goodwill already exists in books:** Regardless of the new partner bringing cash for goodwill, any existing goodwill in the balance sheet is written off by debiting Old Partners' Capital A/cs (in old ratio) and crediting Goodwill A/c, before the above treatments are applied.",
+          "answer200Words": "The treatment of goodwill on the admission of a new partner is a critical accounting adjustment, with variations depending on specific circumstances:\n\n1.  **When the new partner brings goodwill in cash:** This is the most common scenario. The amount brought in by the new partner as premium for goodwill is meant to compensate the existing partners for the share of super profits they are sacrificing. The journal entries involve:\n    *   Debiting Cash/Bank Account and crediting the new partner's Capital Account (for capital) and Premium for Goodwill Account (for goodwill).\n    *   Then, the Premium for Goodwill Account is debited, and the Sacrificing Partners' Capital Accounts are credited in their sacrificing ratio. This distributes the premium among those who bore the burden of the new admission.\n    *   If the existing partners decide to withdraw this amount (fully or partially), their respective Capital Accounts are debited, and Cash/Bank Account is credited.\n\n2.  **When the new partner does not bring goodwill in cash (fully or partly):** If the new partner is unable to bring their share of goodwill in cash, their Current Account is debited with the amount of goodwill they should have brought. The Sacrificing Partners' Capital Accounts are still credited in their sacrificing ratio. This creates a debit balance in the new partner's current account, indicating an amount due from them. If only a part is brought in cash, then Cash/Bank Account is debited for the cash portion, the new partner's Current Account is debited for the remaining portion, and the total goodwill is credited to the sacrificing partners' capital accounts.\n\n3.  **When goodwill already exists in books:** If goodwill is already appearing in the firm's balance sheet at the time of the new partner's admission, it must be written off. This is done by debiting the Old Partners' Capital Accounts in their old profit-sharing ratio and crediting the existing Goodwill Account. This ensures compliance with Accounting Standard 26, which discourages showing internally generated goodwill as an asset, and prevents the new partner from implicitly gaining a share in already existing goodwill without contribution. After writing off the old goodwill, the new partner's share of goodwill is treated as per points 1 or 2 above, based on whether it's brought in cash or not.",
+          "answer50To75Words": "Goodwill treatment depends on cash payment and existing goodwill. If the new partner brings cash, it's credited to 'Premium for Goodwill' and distributed to sacrificing partners. If not, the new partner's Current Account is debited, and sacrificing partners are credited. Any goodwill already in books must be written off among old partners in their old ratio before these adjustments.",
+          "text": "Explain various methods for the treatment of goodwill on the admission of a new partner?",
+          "title": "Methods for Treatment of Goodwill"
+        }
+      ],
+      "mindmap": [
+        {
+          "definition": "Any change in the existing partnership agreement, resulting in a new agreement and altered relationships among partners or their composition, while the firm continues.",
+          "explanation": "Partnership reconstitution is a significant event that changes the legal structure and relationships within a firm without necessarily dissolving the business. It leads to a new partnership deed.",
+          "keyPoints": [
+            "Existing agreement terminates, new agreement commences.",
+            "Firm's business continues.",
+            "Affects relationships and/or composition of partners."
+          ],
+          "title": "Reconstitution of a Partnership Firm",
+          "points": [
+            {
+              "explanation": "A new partner is admitted for additional capital or managerial help, requiring unanimous consent of existing partners (unless stated otherwise in deed).",
+              "title": "Admission of a New Partner"
+            },
+            {
+              "explanation": "Existing partners decide to change their profit sharing ratio, often due to changes in their roles or contributions.",
+              "title": "Change in Profit Sharing Ratio among Existing Partners"
+            },
+            {
+              "explanation": "A partner withdraws from the firm's business due to reasons like health, age, or changed interests.",
+              "title": "Retirement of an Existing Partner"
+            },
+            {
+              "explanation": "Partnership reconstitutes upon the death of a partner if the remaining partners decide to continue the business.",
+              "title": "Death of a Partner"
+            }
+          ]
+        },
+        {
+          "definition": "The monetary value of a firm's reputation and its ability to earn super profits (profits above normal returns).",
+          "explanation": "Goodwill is an intangible asset reflecting the firm's established market position, customer loyalty, and efficient operations, which allows it to generate earnings beyond what a typical business with similar capital would earn.",
+          "keyPoints": [
+            "Intangible asset.",
+            "Value of reputation.",
+            "Enables earning 'super profits'.",
+            "Exists only if firm earns super profits."
+          ],
+          "title": "Goodwill",
+          "points": [
+            {
+              "explanation": "A firm producing high-value-added products or having stable demand tends to have more goodwill due to higher, consistent profits.",
+              "title": "Nature of Business"
+            },
+            {
+              "explanation": "Businesses in central locations or with heavy customer traffic attract more customers, leading to higher goodwill.",
+              "title": "Location"
+            },
+            {
+              "explanation": "Efficient management leads to high productivity and cost efficiency, resulting in higher profits and thus higher goodwill.",
+              "title": "Efficiency of Management"
+            },
+            {
+              "explanation": "Monopoly conditions or limited competition enable firms to earn high profits, increasing goodwill.",
+              "title": "Market Situation"
+            },
+            {
+              "explanation": "Firms with advantages like import licenses, assured supply, patents, or trademarks enjoy higher goodwill due to their unique competitive edge.",
+              "title": "Special Advantages"
+            },
+            {
+              "explanation": "Goodwill is valued upon change in profit sharing ratio, admission/retirement/death of a partner, dissolution involving business sale, or amalgamation.",
+              "title": "Need for Valuation"
+            },
+            {
+              "explanation": "Goodwill = Agreed number of 'years' purchase × Average Profits of past few years.",
+              "title": "Average Profits Method"
+            },
+            {
+              "explanation": "Goodwill = Super Profits × Number of years’ purchase (Super Profit = Average Profit - Normal Profit).",
+              "title": "Super Profits Method"
+            },
+            {
+              "explanation": "a) Capitalisation of Average Profits: Goodwill = Capitalised Value of Average Profits (Avg. Profits × 100/NRR) - Net Assets. b) Capitalisation of Super Profits: Goodwill = Super Profits × 100/Normal Rate of Return.",
+              "title": "Capitalisation Method"
+            },
+            {
+              "explanation": "Amount brought by new partner as goodwill is distributed to sacrificing partners in their sacrificing ratio.",
+              "title": "Goodwill brought in cash"
+            },
+            {
+              "explanation": "If new partner cannot bring cash, their current account is debited, and sacrificing partners' capital accounts are credited. Existing goodwill (if any) is written off in old ratio.",
+              "title": "Goodwill not brought in cash"
+            },
+            {
+              "explanation": "Value of goodwill is inferred from the arrangement of capital and profit sharing ratio when not explicitly given.",
+              "title": "Hidden Goodwill"
+            },
+            {
+              "explanation": "AS 26 mandates that internally generated goodwill should not be recognised as an asset. Purchased goodwill should be written off over its estimated life, not exceeding 10 years.",
+              "title": "Accounting Standard 26 (AS 26)"
+            }
+          ]
+        },
+        {
+          "definition": "The process of adjusting assets and liabilities to their current market values or reassessing their amounts, and accounting for unrecorded items.",
+          "explanation": "This adjustment is crucial to ensure that the actual financial position of the firm is reflected before a new partner's admission, preventing unfair advantage or disadvantage to any partner from past accumulated gains or losses.",
+          "keyPoints": [
+            "Assets and liabilities brought to current values.",
+            "Unrecorded assets/liabilities accounted for.",
+            "Ensures fairness to old and new partners.",
+            "Gain/loss transferred to old partners' capital accounts."
+          ],
+          "title": "Revaluation of Assets and Reassessment of Liabilities",
+          "points": [
+            {
+              "explanation": "A nominal account where gains (increase in asset value, decrease in liability value, unrecorded assets) are credited and losses (decrease in asset value, increase in liability value, unrecorded liabilities) are debited.",
+              "title": "Revaluation Account"
+            },
+            {
+              "explanation": "If Revaluation Account has a credit balance, it's a gain; if a debit balance, it's a loss. This balance is transferred to old partners' capital accounts in their old profit sharing ratio.",
+              "title": "Transfer of Gain/Loss"
+            }
+          ]
+        },
+        {
+          "definition": "Profits or losses from previous periods that have not yet been transferred to the partners' capital accounts.",
+          "explanation": "These balances, such as General Reserve, P&L Account (Cr/Dr), or Deferred Revenue Expenditure, belong to the existing partners before the new partner's admission, and thus must be distributed or adjusted accordingly.",
+          "keyPoints": [
+            "Represents undistributed past earnings/losses.",
+            "Belongs to old partners.",
+            "Distributed in old profit sharing ratio.",
+            "New partner has no claim on these."
+          ],
+          "title": "Adjustment for Accumulated Profits and Losses",
+          "points": [
+            {
+              "explanation": "Transferred to Old Partners' Capital/Current Accounts by crediting them in their old profit sharing ratio (e.g., General Reserve A/c Dr. To Partners' Capital A/cs).",
+              "title": "Accumulated Profits (Reserves)"
+            },
+            {
+              "explanation": "Transferred to Old Partners' Capital/Current Accounts by debiting them in their old profit sharing ratio (e.g., Partners' Capital A/cs Dr. To Profit and Loss A/c (Debit balance)).",
+              "title": "Accumulated Losses"
+            }
+          ]
+        },
+        {
+          "definition": "The process of modifying partners' capital balances to be proportionate to their new profit-sharing ratio.",
+          "explanation": "Partners may agree that their capital contributions should align with their new profit-sharing proportions. This often involves existing partners bringing in additional cash or withdrawing surplus capital.",
+          "keyPoints": [
+            "Capital adjusted based on new profit sharing ratio.",
+            "New partner's capital often used as a base.",
+            "Adjustments made through cash or current accounts.",
+            "Ensures capital structure aligns with profit-sharing."
+          ],
+          "title": "Adjustment of Capitals"
+        }
+      ],
+      "story": [
+        {
+          "storyParts": [
+            {
+              "speaker": "Neil",
+              "text": "Kanishq, remember those days in the garage? Now, KnowledgeCompass is a leading EdTech firm! But to truly scale and conquer new markets, I think we need a fresh perspective, maybe a new partner."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Absolutely, Neil! Growth brings new challenges. Admitting a new partner, especially someone with a strong background in global marketing like Maya, feels like the right move. It's a reconstitution of our partnership, isn't it? A new chapter for KnowledgeCompass."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Precisely. And with reconstitution comes a lot of accounting implications. First, we need to determine the new profit sharing ratio. Currently, it's just you and me at 3:2. Maya will take a share, and our individual shares will naturally adjust."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Right. We'll have to figure out how much we're 'sacrificing' to accommodate her share. That's our sacrificing ratio, which will dictate how any premium she brings for goodwill is distributed. Speaking of goodwill, our brand 'KnowledgeCompass' has built immense value. That needs to be accounted for, to compensate us for the super profits we've generated over the years."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Indeed. We'll need a proper valuation of goodwill. Should we use the Average Profits method, Super Profits, or Capitalisation? Given our consistent high growth and 'super profits', the Super Profits or Capitalisation method might be more appropriate to truly reflect our intangible value."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "I agree. And then, there's the revaluation of our assets and liabilities. Our office building, tech infrastructure, and even some old debts might need reassessment to their current market values. We wouldn't want Maya to benefit from understated assets or bear hidden liabilities from before her time."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Exactly. Any gain or loss from revaluation will be ours, in our old profit sharing ratio. Similarly, we have some accumulated profits in our General Reserve. Those need to be distributed between us before Maya comes in. She shouldn't have a claim on earnings made before her admission."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "And finally, our capitals. Should we adjust them to be proportionate to the new profit sharing ratio? If Maya brings, say, Rs. 50 lakhs for her 1/4th share, our capitals should then reflect our new respective shares in the total capital. That might mean one of us brings in more cash, or withdraws some."
+            },
+            {
+              "speaker": "Neil",
+              "text": "That's the plan. We'll compare our adjusted capitals with the new required capitals and make the necessary cash adjustments or transfer to current accounts. It's a comprehensive process, but essential for a smooth and fair transition for KnowledgeCompass into this next phase of expansion with Maya."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Agreed. This reconstitution will solidify our foundation for future growth. Let's get the finance team to work on these adjustments. KnowledgeCompass is about to reach new heights!"
+            }
+          ],
+          "title": "KnowledgeCompass: Charting a New Course with a New Partner"
+        }
+      ],
+      "title": "Reconstitution of a Partnership Firm – Admission of a Partner",
+      "unitName": "Partnership Accounts",
+      "unitNumber": 2
+    }
+  ],
+  "metadata": {
+    "chapterTitle": "Reconstitution of a Partnership Firm – Admission of a Partner",
+    "description": "This chapter explains the concept of partnership firm reconstitution, focusing on the admission of a new partner, including adjustments for profit sharing ratio, goodwill, revaluation of assets and liabilities, and capital adjustments."
+  }
+}

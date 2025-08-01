@@ -1,0 +1,83 @@
+Instructions for tableType and tableData usage in numerical questions:
+
+1. If a table is required, set tableType to one of the following values and provide tableData in the specified format:
+
+---
+
+tableType: "journal"
+tableData: [
+  { "date": "...", "account": "...", "debit": ..., "credit": ..., "narration": "..." },
+  // ...more entries
+]
+
+---
+
+tableType: "trialBalance"
+tableData: [
+  { "accountName": "...", "debit": ..., "credit": ... },
+  // ...more accounts
+]
+
+---
+
+tableType: "incomeStatement"
+tableData: {
+  "revenues": [ { "name": "...", "amount": ... }, ... ],
+  "totalRevenues": ...,
+  "expenses": [ { "name": "...", "amount": ... }, ... ],
+  "totalExpenses": ...,
+  "netIncome": ...
+}
+
+---
+
+tableType: "TAccount"
+tableData: [
+  {
+    "accountName": "...",
+    "credits": [ { "amount": ..., "label": "..." }, ... ],
+    "debits": [ { "amount": ..., "label": "..." }, ... ]
+  },
+  // ...more accounts
+]
+
+---
+
+tableType: "cashBook"
+tableData: {
+  "rows": [
+    {
+      "receiptDate": "...",
+      "receiptParticulars": "...",
+      "receiptVoucherNo": "...",
+      "receiptLF": "...",
+      "receiptCash": ...,
+      "receiptBank": ...,
+      "paymentDate": "...",
+      "paymentParticulars": "...",
+      "paymentVoucherNo": "...",
+      "paymentLF": "...",
+      "paymentCash": ...,
+      "paymentBank": ...
+    }
+    // ...more rows
+  ],
+  "totalRow": {
+    "receiptCash": ...,
+    "receiptBank": ...,
+    "paymentCash": ...,
+    "paymentBank": ...
+  }
+}
+
+---
+
+2. If no table is required for a question, either omit tableType and tableData, or set tableType to null and do not provide tableData.
+
+Example (no table):
+{
+  "question": "Solve for x: 2x + 3 = 11",
+  "tableType": null,
+  "steps": ["Step 1: Subtract 3 from both sides: 2x = 8.", "Step 2: Divide both sides by 2: x = 4."],
+  "explanation": "Isolate the variable by performing inverse operations."
+}
